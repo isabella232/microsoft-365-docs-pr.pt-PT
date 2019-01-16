@@ -11,10 +11,10 @@ ms.prod: microsoft-365-business
 title: Recursos empresariais do Microsoft 365
 description: Obter informações sobre como planear, implementar e utilizar Microsoft Office 365, Windows 10 e mobilidade empresa + segurança em conjunto na empresa para uma infra-estrutura de integradas e segura que permite que o trabalho em equipa e desbloqueia a criatividade.
 ms.openlocfilehash: 386c829a6b635b1b23301e838f05b0b84bbfb3b4
-ms.sourcegitcommit: eb1a77e4cc4e8f564a1c78d2ef53d7245fe4517a
+ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/28/2018
+ms.lasthandoff: 01/16/2019
 ms.locfileid: "26982508"
 ---
 <div id="main" class="v2">
