@@ -22,10 +22,10 @@ search.appverid:
 ms.assetid: 018a2a96-3811-4b5d-b751-3b6330b34256
 description: Obter informações sobre como repor ou limpar um dispositivo que é gerido através de políticas de protecção.
 ms.openlocfilehash: 7a20627f50ca2c01ffd8cb77cebf89456ec972ba
-ms.sourcegitcommit: eb1a77e4cc4e8f564a1c78d2ef53d7245fe4517a
+ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/28/2018
+ms.lasthandoff: 01/16/2019
 ms.locfileid: "26983168"
 ---
 # <a name="manage-protected-devices-with-microsoft-365-business"></a>Gerir dispositivos protegidos com o Microsoft 365 Business
