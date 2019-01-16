@@ -16,11 +16,11 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Obter informações sobre as funcionalidades de segurança fornecidas com o Microsoft 365 Business.
-ms.openlocfilehash: bfddb419dbe5db441741a73ecb49e3d52649e382
-ms.sourcegitcommit: eb1a77e4cc4e8f564a1c78d2ef53d7245fe4517a
+ms.openlocfilehash: 17bcc57d57e837f18b05f66cfd54185324f3cad8
+ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/28/2018
+ms.lasthandoff: 01/16/2019
 ms.locfileid: "26983178"
 ---
 # <a name="microsoft-365-business-security-features"></a>Funcionalidades de segurança do Microsoft 365 Business
@@ -130,11 +130,9 @@ A capacidade de aplicar as seguintes restrições ao enviar mensagens de correio
 
 Para verificar que AIP está activado:
 
-1. Iniciar sessão no [Centro de administração do Active Directory Azure](https://portal.azure.com/).
+1. Iniciar sessão no [Azure portal](https://portal.azure.com/).
 
-    Pode também cantar no localizando em **centros de Admin** \> **Do Active Directory Azure** nav esquerda de no Centro de administração.
-
-2. Seleccione **todos os serviços** e tyoe *Azure a protecção de informações* na **Caixa de procura**.
+2. Seleccione **todos os serviços** e escreva *Azure a protecção de informações* na **Caixa de procura**.
 
 3. Depois de visualizar os resultados, clique em Iniciar seguinte para **A protecção de informações Azure** para o tornar um favorito e fácil de localizar mais tarde.
 
@@ -144,7 +142,7 @@ Para verificar que AIP está activado:
 
 Para ver e modificar, os existentes etiquetas:
 
-1. No dashboard Azure a protecção de informações, seleccione as **classificações de** \> * * etiquetas. <br/>![Etiquetas padrão para a protecção de informações Azure.](media/AIPLabels.png)
+1. No dashboard Azure a protecção de informações, seleccione as **classificações de** \> **etiquetas**. <br/>![Etiquetas padrão para a protecção de informações Azure.](media/AIPLabels.png)
 
 2. Pode escolher qualquer etiqueta para ver opções, pode alterar o nome a apresentar, cores, etc.
  
@@ -159,6 +157,16 @@ Para instalar manualmente o cliente AIP:
 2. Pode verificar que a instalação trabalhou visualizando um documento do Word e certificando-se de que a opção de **protecção** está disponível no separador **base** . <br/>![Separador protecção pendente num documento do Word.](media/Word_Protect.png)
 
 Para mais informações, consulte [instalar o cliente](https://docs.microsoft.com/azure/information-protection/infoprotect-tutorial-step3)
+
+## <a name="go-to-intune-admin-center"></a>Ir para Centro de administração de Intune
+
+1. Iniciar sessão no [Azure portal](https://portal.azure.com/).
+
+2. Seleccione **todos os serviços** e digite *Intune* na **Caixa de procura**.
+
+3. Depois de visualizar os resultados, clique em Iniciar seguinte para **Microsoft Intune** para o tornar um favorito e fácil de localizar mais tarde.
+ 
+Pode utilizar Intune para inscrição e gerir dispositivos da sua organização. Para mais informações, consulte [Opções de inscrição de dispositivos geridos por Intune](https://docs.microsoft.com/intune/enrollment-options)e as [capacidades pelo método de inscrição de dispositivos do Windows](https://docs.microsoft.com/intune/enrollment-method-capabs) .
     
 ## <a name="faq"></a>FAQ
 
@@ -174,15 +182,4 @@ Sim, estas funcionalidades estão disponíveis em todos os mercados em que o Mic
     
     ![Nav esquerda no Centro de administração de Microsoft 365, escolha os centros de Admin.](media/fa4484f8-c637-45fd-a7bd-bdb3abfd6c03.png)
   
-3. Escolher **segurança &amp; conformidade** para ir para a segurança &amp; Centro de conformidade. 
-    
- ### <a name="how-do-i-find-the-intune-admin-center"></a>Como localizo o Centro de administração Intune?
-  
-  
-1. [Iniciar sessão no Microsoft 365 Business](https://portal.microsoft.com/) utilizando as credenciais de administrador. 
-    
-2. No nav esquerdo, localize a **centros de administração** e expandi-lo. 
-    
-3. Escolha **Intune** para ir para Centro de administração de Intune. 
-    
-
+3. Escolher **segurança &amp; conformidade** para ir para a segurança &amp; Centro de conformidade.
