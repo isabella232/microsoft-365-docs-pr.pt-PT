@@ -7,6 +7,9 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
+ms.collection:
+- Adm_O365
+- M365-subscription-management
 ms.custom:
 - Core_O365Admin_Migration
 - MiniMaven
@@ -16,12 +19,12 @@ search.appverid:
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: Obter informações sobre como mover o seu negócio para Microsoft 365 Business.
-ms.openlocfilehash: fd6f18c02453e6751d6163ab79e726eae9c951a9
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: 3e45ba13e4cfe772829f545219bf86a9a3317d59
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26983498"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32285706"
 ---
 # <a name="migrate-to-microsoft-365-business-from-office-365-business-premium"></a>Migrar para o Microsoft 365 Business do prémio de negócio do Office 365
 
@@ -55,7 +58,7 @@ Se for dada uma hiperligação para adquirir as licenças, irá percorrer um ass
     
 2. Na página **Personalizar o início de sessão no e correio electrónico** , pode adicionar um domínio seleccionando **ligar um domínio é já proprietário** se pretender utilizar esta oportunidade para adicionar outro domínio à sua subscrição. 
     
-    Se já tiver configurado um domínio, o segundo campo indicará que e indicará a **continuar a utilizar** \< _o nome de domínio_ \> **para correio electrónico e o início de sessão**. Se não tiver configurado um domínio com a subscrição, vai indicar **continuar a utilizar** \< _name.onmicrosoft.com a empresa_ \> **para correio electrónico e o início de sessão**.    
+    Se já tiver configurado um domínio, o segundo campo indicará que e indicará a **continuar a utilizar** \< _o nome de domínio_ \> **para correio electrónico e o início de sessão**.   Se não tiver configurado um domínio com a subscrição, vai indicar **continuar a utilizar** \< _name.onmicrosoft.com a empresa_ \> **para correio electrónico e o início de sessão**.  
     
     Selecione **Seguinte**.
     
@@ -65,7 +68,7 @@ Se for dada uma hiperligação para adquirir as licenças, irá percorrer um ass
     
     Se não tiver novos empregados para adicionar e atribuir licenças a utilizadores existentes, seleccione **seguinte**.
     
-4. Sobre o * * migrar mensagens de correio electrónico * * página, pode optar por migrar de correio electrónico para qualquer um dos novos utilizadores que adicionou no passo 3. Também pode ignorar este passo. Seleccione **seguinte**.
+4. Sobre o * * migrar mensagens de correio electrónico * * página, pode optar por migrar de correio electrónico para qualquer um dos novos utilizadores que adicionou no passo 3. Também pode ignorar este passo. Selecione **Seguinte**.
     
 5. Na última página, escolha a **Ir para o Centro admin**e continuar a configuração não existe.
     
@@ -95,7 +98,7 @@ Depois de atribuir licenças para o Microsoft 365 Business, pode começar a prot
     
   - [Configurar as definições de proteção de aplicações para dispositivos Windows 10](protection-settings-for-windows-10-devices.md)
     
-  - [Configurar as definições de proteção de dispositivos para PCs Windows 10](protection-settings-for-windows-10-pcs.md)
+  - [Definir definições de protecção do dispositivo para o Windows 10 PCs](protection-settings-for-windows-10-pcs.md)
     
    ![No painel de política de adicionar, introduza um nome para o mesmo e seleccione o tipo de política a partir do menu pendente.](media/76ef37e4-1d18-4f34-8a0f-391ab1d0ae2b.png)
   
