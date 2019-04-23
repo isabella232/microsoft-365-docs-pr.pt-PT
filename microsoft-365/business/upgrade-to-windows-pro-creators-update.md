@@ -7,6 +7,7 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
+ms.collection: M365-subscription-management
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -16,38 +17,26 @@ search.appverid:
 - MOE150
 ms.assetid: ffc4d886-9e1d-453d-a0d0-2f62f18635e2
 description: 'Obter informações sobre como actualizar dispositivos do Windows para actualização do Windows 10 Pro criadores. '
-ms.openlocfilehash: 5a9d232ffa50b642bdeab2dea391895e759e118b
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: ec1ef0462cc1ba1cd1ae01ee28795096097e01a9
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26982728"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32279871"
 ---
 # <a name="upgrade-windows-devices-to-windows-pro-creators-update"></a>Atualizar dispositivos Windows para a Atualização para Criativos do Windows Pro
 
 ## <a name="upgrade-to-windows-10-pro-creators-update"></a>Actualizar para o Windows 10 Pro criadores actualizar
-
-1. Iniciar sessão para o [Centro de administração da Microsoft](https://portal.office.com/adminportal/home) e localize a ficha **Da actualização Windows 10** . 
-    
-    ![Actualização do Windows 10 cartão no Centro de administração.](media/066f47bf-7b88-4fea-8fd0-82798ea66716.png)
   
-2. Para actualizar para Windows 10 Pro criadores de actualização, tem várias opções. É possível:
+1. Para actualizar para Windows 10 Pro criadores de actualização, tem várias opções. É possível:
     
-- Instale a actualização a partir do site de transferências de Software Microsoft - Seleccione esta opção se o dispositivo que iniciou sessão no mesmo dispositivo como aquele de que pretende actualizar.
+    - Instale a actualização a partir do [site de transferências de Software Microsoft](https://go.microsoft.com/fwlink/?LinkID=836951 ) - Seleccione esta opção se o dispositivo que iniciou sessão no mesmo dispositivo como aquele de que pretende actualizar.
     
-  a. Seleccione **instalar a actualização**.
+      a. O software site para transferir, clique em **Actualizar agora** para iniciar a actualização do dispositivo para o Windows 10 Pro criadores de Update. 
     
-  b. a partir do software site para transferir, clique em **Actualizar agora** para iniciar a actualização do dispositivo para o Windows 10 Pro criadores de Update. 
+     - Criar um suporte de instalação utilizando a [Ferramenta de criação de multimédia](https://go.microsoft.com/fwlink/?LinkID=836960) - Seleccione esta opção para criar um suporte de instalação da actualização do Windows 10 Pro criadores (unidade flash USB ou ficheiro ISO) para instalar o Windows 10 num PC que é diferente daquele que está a utilizar.
     
-- Partilhar a ligação de transferência - Seleccione esta opção se pretender enviar mensagens de correio electrónico a pessoas na organização, de modo que podem actualizar para o Windows 10 Pro por si.
- 
-   r. Seleccionar ligação de **partilha a transferência** para abrir uma mensagem de correio electrónico que contém uma hiperligação para o software Windows transferir o site. 
-    
- - Criar um suporte de instalação utilizando a ferramenta de criação do suporte de dados - Seleccione esta opção para criar um suporte de instalação da actualização do Windows 10 Pro criadores (unidade flash USB ou ficheiro ISO) para instalar o Windows 10 num PC que é diferente daquele que está a utilizar.
-    
-    a. Seleccione **criar suporte de instalação**.
-    
-    b. ler as instruções sobre como utilizar a ferramenta e criar o suporte de instalação. 
+        a. Leia as instruções sobre como utilizar a ferramenta e criar o suporte de instalação. 
     
 Consulte [Configurar dispositivos do Windows para utilizadores empresariais do Microsoft 365](set-up-windows-devices.md) para concluir a configuração de Windows 10 dispositivos. 
   

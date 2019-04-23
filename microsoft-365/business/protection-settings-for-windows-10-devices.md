@@ -11,6 +11,9 @@ f1_keywords:
 - BCS365_Win10AppPolicy
 ms.service: o365-administration
 localization_priority: Normal
+ms.collection:
+- M365-subscription-management
+- M365-identity-device-management
 ms.custom:
 - Core_O365Admin_Migration
 - MiniMaven
@@ -21,12 +24,12 @@ search.appverid:
 - MOE150
 ms.assetid: 02e74022-44af-414b-9d74-0ebf5c2197f0
 description: Obter informações sobre como criar uma política de gestão de aplicações e proteger os ficheiros de trabalho no Windows 10 dispositivos.
-ms.openlocfilehash: acf19a72d994185a35b2e425f8334a73a121ee10
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: 289c6a74f6ccb53f6a833612a7b4a5bcddd3ea56
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26982828"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32278194"
 ---
 # <a name="set-application-protection-settings-for-windows-10-devices"></a>Configurar as definições de proteção de aplicações para dispositivos Windows 10
 
@@ -34,23 +37,21 @@ ms.locfileid: "26982828"
 
 Se os seus utilizadores tiverem dispositivos Windows 10 pessoais, nos quais realizam tarefas profissionais, também pode proteger os seus dados nesses dispositivos.
   
-1. Inicie sessão no [Microsoft 365 Business](https://portal.office.com) com as suas credenciais de administrador global. Selecione o mosaico **Administrador** para aceder ao centro de administração. 
+1. Iniciar sessão no [Centro de administração](https://go.microsoft.com/fwlink/p/?linkid=837890) com credenciais de administrador global. Selecione o mosaico **Administrador** para aceder ao centro de administração. 
     
-2. No cartão **Políticas de dispositivos** do portal de administração, selecione **Adicionar política**.
-    
-    ![Device policies card in the admin center.](media/27c12b61-d112-4348-b557-4f3e46204797.png)
-  
+2. Nav esquerda, escolher **dispositivos** \> **políticas** \> **Adicionar**.
+
 3. No painel **Adicionar política**, introduza um nome exclusivo para esta política. 
     
 4. Em **Tipo de política**, selecione **Gestão de Aplicações para Windows 10**.
     
-5. Em * * o tipo de dispositivo * *, escolher **pessoal** ou **Propriedade da empresa**.
+5. Under ** Device type **, choose either **Personal** or **Company Owned**.
     
 6. A opção **Encriptar ficheiros de trabalho** é ativada automaticamente. 
     
 7. Defina **Impedir que os utilizadores copiem os dados da empresa para ficheiros pessoais e obrigá-los a guardar os ficheiros de trabalho no OneDrive para Empresas** como **Ativado** se não pretender que os utilizadores guardem ficheiros de trabalho nos respetivos PCs. 
     
-8. Expanda **Gerir a forma como os utilizadores acedem a ficheiros do Office em dispositivos** \> configure as definições de acordo com as suas preferências. A opção **Gerir a forma como os utilizadores acedem a dispositivos do Office em dispositivos móveis** está **Desativada** por predefinição, mas recomenda-se que a defina como **Ativada** e aceite os valores predefinidos. Consulte [Definições disponíveis](protection-settings-for-windows-10-devices.md#bkmk_settings) para obter mais informações. 
+8. Expanda **Gerir a forma como os utilizadores acedem a ficheiros do Office em dispositivos** \> configure as definições de acordo com as suas preferências. A opção **Gerir a forma como os utilizadores acedem a dispositivos do Office em dispositivos móveis** está **Desativada** por predefinição, mas recomenda-se que a defina como **Ativada** e aceite os valores predefinidos. Para mais informações, consulte [as definições disponíveis](#available-settings). 
     
     Pode sempre utilizar a ligação **Repor predefinições** para regressar à predefinição. 
     

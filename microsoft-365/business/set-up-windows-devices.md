@@ -7,6 +7,9 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
+ms.collection:
+- M365-subscription-management
+- M365-identity-device-management
 ms.custom:
 - Core_O365Admin_Migration
 - MiniMaven
@@ -16,12 +19,12 @@ search.appverid:
 - MET150
 ms.assetid: 2d7ff45e-0da0-4caa-89a9-48cabf41f193
 description: 'Obter informações sobre como configurar dispositivos do Windows com o Windows 10 Pro para utilizadores empresariais do Microsoft 365. '
-ms.openlocfilehash: 482199b175c568bfae420619aa02024303894789
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: f93257bd9a68385fca4f178a2e09c5c11506ee2c
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26982858"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32284411"
 ---
 # <a name="set-up-windows-devices-for-microsoft-365-business-users"></a>Configurar dispositivos Windows para utilizadores do Microsoft 365 Business
 
@@ -33,7 +36,7 @@ Se tiver dispositivos Windows a executar o Windows 7 Pro, Windows 8 Pro ou Windo
   
 Para obter mais informações sobre como atualizar dispositivos Windows para a Atualização para Criativos do Windows 10 Pro, siga os passos neste tópico: [Atualizar dispositivos Windows para a Atualização para Criativos do Windows Pro](upgrade-to-windows-pro-creators-update.md).
   
-Consulte [Verificar se o dispositivo foi atualizado para o Windows 10 Business](set-up-windows-devices.md#bkmk_verifywin10) para verificar se tem a atualização ou para garantir que a atualização funcionou. 
+Consulte a [verificar o dispositivo está ligado à Azure AD](#verify-the-device-is-connected-to-azure-ad) para verificar que se tem a actualização, ou para se certificar de que a actualização de trabalho. 
   
 ## <a name="join-windows-10-devices-to-your-organizations-azure-ad"></a>Associar dispositivos Windows 10 ao Azure AD da sua organização
 
@@ -51,7 +54,7 @@ Para um novo dispositivo a executar a Atualização para Criativos do Windows 10
     
 3. Conclua a configuração do dispositivo Windows 10.
     
-   Quando terminar, o utilizador estará ligado ao Azure AD da sua organização. Consulte [Verificar se o dispositivo está ligado ao Azure AD](set-up-windows-devices.md#bkmk_verifyaad) para garantir que o dispositivo está ligado. 
+   Quando terminar, o utilizador estará ligado ao Azure AD da sua organização. Consulte [Verificar se o dispositivo está ligado ao Azure AD](#verify-the-device-is-connected-to-azure-ad) para garantir que o dispositivo está ligado. 
   
 ### <a name="for-a-device-already-set-up-and-running-windows-10-pro"></a>Para um dispositivo que já esteja configurado e a executar o Windows 10 Pro
 
@@ -79,7 +82,7 @@ Para um novo dispositivo a executar a Atualização para Criativos do Windows 10
   
    ![Enter your work or school email on the Let's get you signed in page](media/f70eb148-b1d2-4ba3-be38-7317eaf0321a.png)
   
-6. Sobre o * * certificar-se de que esta é a sua organização * * página, certifique-se de que as informações estão correctas e clique em **aderir**.
+6. Na página **tornar-se de que esta é a sua organização** , certifique-se de que as informações estão correctas e clique em **aderir**.
   
    Na página **Está pronto!**, clique em **Concluído**.
   
@@ -107,7 +110,7 @@ Verifique se os seus dispositivos Windows 10 associados ao Azure AD foram atuali
     
     ![Verify that Windows edition is Windows 10 Business.](media/ff660fc8-d3ba-431b-89a5-f5abded96c4d.png)
   
-## <a name="next-steps"></a>Próximos passos
+## <a name="next-steps"></a>Next steps
 
 Para configurar os seus dispositivos móveis, consulte [Configurar dispositivos móveis para utilizadores do Microsoft 365 Business](set-up-mobile-devices.md). Para definir políticas de proteção de aplicações ou proteção de dispositivos, consulte [Gerir o Microsoft 365 Business](manage.md).
   

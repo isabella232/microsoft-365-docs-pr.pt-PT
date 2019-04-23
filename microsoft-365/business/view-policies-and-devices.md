@@ -7,6 +7,9 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
+ms.collection:
+- M365-subscription-management
+- M365-identity-device-management
 ms.custom:
 - Core_O365Admin_Migration
 - MiniMaven
@@ -16,12 +19,12 @@ search.appverid:
 - MET150
 ms.assetid: 6b70fa27-d171-4593-8ecf-f78bb4ed2e99
 description: Ver dispositivo políticas e acções iniciando sessão no Microsoft 365 business com credintials de administrador global.
-ms.openlocfilehash: 0018abc6dcf2163dc50c6c792793c9f5d9e29d45
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: 524e5382fb242ea6b77abd72191073ce4df14f0c
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26982178"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32285830"
 ---
 # <a name="view-policies-and-devices"></a>Ver políticas e dispositivos
 
@@ -29,7 +32,7 @@ ms.locfileid: "26982178"
 
 1. Inicie sessão no [Microsoft 365 Business](https://portal.office.com) com as suas credenciais de administrador global. 
     
-2. No centro de administração, no cartão **Políticas de dispositivos**, selecione **Políticas de dispositivos** para abrir a página **Políticas de dispositivos**. 
+2. Nav esquerda, escolher **dispositivos** \> **políticas** \> **Adicionar**.
     
     Nesta página pode criar, editar, alterar o grupo de destino ou eliminar uma política.
     

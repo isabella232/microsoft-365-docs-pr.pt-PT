@@ -7,6 +7,9 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
+ms.collection:
+- M365-subscription-management
+- M365-identity-device-management
 ms.custom:
 - Core_O365Admin_Migration
 - MiniMaven
@@ -16,12 +19,12 @@ search.appverid:
 - MET150
 ms.assetid: d868561b-d340-4c04-a973-e2575d7f09bc
 description: Instale o Office num iPhone ou um telefone Android e os ficheiros de trabalho no Office aplicações serão protegidas por negócio do Microsoft 365.
-ms.openlocfilehash: 15dc9742cb9712bcbf21e7e3668adc572ee9eb2b
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: 4ffde6197104cfceb337a9d531032dacfd9efcf0
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26982598"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32284743"
 ---
 # <a name="set-up-mobile-devices-for-microsoft-365-business-users"></a>Configurar dispositivos móveis para utilizadores do Microsoft 365 Business
 

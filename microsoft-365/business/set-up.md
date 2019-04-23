@@ -10,7 +10,9 @@ f1_keywords:
 - BCS365_M365SetupBanner
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection: Adm_O365
+ms.collection:
+- Adm_O365
+- M365-subscription-management
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -20,18 +22,18 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Obter informações sobre como configurar o Microsoft 365 Business, concluindo os quatro passos.
-ms.openlocfilehash: f57239b884bd2e186c0bc01973130a10fa4cfe84
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: a1c8a41c3e291983276280a063248bdd10a7f85a
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26982198"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32283941"
 ---
 # <a name="set-up-microsoft-365-business-by-using-the-setup-wizard"></a>Configurar o Microsoft 365 Business através do assistente de configuração
 
 Conclua os passos 1 a 4 abaixo.
   
-### <a name="set-up-microsoft-365-business"></a>Configurar o Microsoft 365 Empresas
+### <a name="set-up-microsoft-365-business"></a>Configurar o Microsoft 365 Business
 
 Ver um vídeo sobre como configurar o Microsoft 365 Business quando não tiver um local, Active Directory:
   
@@ -53,11 +55,11 @@ Os passos de configuração incluem informações sobre configurações que incl
     
 3. Introduza o nome do domínio que pretende utilizar (como contoso.com)
     
-    Vá lá e introduza o domínio, mesmo se ter verificado enquanto estiver a utilizar Azure AD ligar, por exemplo. Os dois passos seguintes não se aplicam ao utilizador se tiver utilizado Azure AD ligar para verificar se o domínio.
+    Continue o processo e introduza o seu domínio mesmo que já o tenha verificado quando utilizou o Azure AD Connect, por exemplo. Os dois passos seguintes não se aplicam ao utilizador se tiver utilizado Azure AD ligar para verificar se o domínio.
     
 4. Siga os passos no Assistente para [registos de DNS criar em qualquer fornecedor de alojamento de DNS para o Office 365](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166) , que verifica que possui o domínio. 
     
-    Pode ver um vídeo de exemplo do [vídeo: configuração do Office 365 no novo Centro de administração do](https://support.office.com/article/a8c2002a-34bc-4ab3-93d8-9b5156c48bf8). Tenha em atenção que este vídeo não inclui os passos de protecção de dados do Microsoft 365 Business.
+    Pode ver um vídeo de exemplo do [vídeo: configuração do Office 365 no novo Centro de administração do](https://support.office.com/article/a8c2002a-34bc-4ab3-93d8-9b5156c48bf8). Tenha em atenção que este vídeo não inclui os passos de proteção de dados do Microsoft 365 Business.
     
     ![Screenshot of the Business Cloud Suite setup wizard.](media/3c4fd40c-2de1-4a87-8ee0-78d3928c7bb7.png)
   
@@ -84,13 +86,13 @@ Os passos de configuração incluem informações sobre configurações que incl
   
 Para configurar serviços, tem de atualizar alguns registos no seu anfitrião de DNS ou entidade de registo de domínios.
   
-1. O Assistente de configuração normalmente detecta o escrivão e dá-lhe uma hiperligação para instruções passo a passo para actualizar os registos de NS no Web site da entidade de registo. Caso contrário, [nameservers de alteração para configurar o Office 365 qualquer registo de domínio](https://support.office.com/article/a8b487a9-2a45-4581-9dc4-5d28a47010a2).
+1. Normalmente, o assistente de configuração deteta a sua entidade de registo e fornece-lhe uma ligação para instruções passo a passo de forma a atualizar os seus registos NS no site da entidade de registo de domínios. Caso contrário, [nameservers de alteração para configurar o Office 365 qualquer registo de domínio](https://support.office.com/article/a8b487a9-2a45-4581-9dc4-5d28a47010a2).
     
 2. O e-mail e os restantes serviços serão configurados automaticamente
     
 ### <a name="step-4-manage-devices-and-work-files"></a>Passo 4: Gerir dispositivos e ficheiros de trabalho
 
-1. Nos **ficheiros de trabalho de protecção nos dispositivos móveis** página definida **proteger ficheiros de trabalho quando os dispositivos são perdidos ou roubados** e **Gerir a forma como os utilizadores acedem a ficheiros do Office em dispositivos móveis** definições para **no**. Também pode aceder a cada sub definição clicando em divisas ao lado de cada definição.
+1. Na página **Proteger ficheiros de trabalho nos seus dispositivos móveis**, altere as definições **Proteger os ficheiros de trabalho se os dispositivos forem perdidos ou roubados** e **Gerir a forma como os utilizadores acedem a ficheiros do Office em dispositivos móveis** para **Ativada**. Também pode aceder a cada sub definição clicando em divisas ao lado de cada definição.
   
   Todos os ficheiros de trabalho dos utilizadores licenciados estão agora protegidos iOS e dos dispositivos Android, logo [instalar aplicações do Office](set-up-mobile-devices.md) (e autenticar com as respectivas credenciais de Microsoft 365 Business). 
   
@@ -100,7 +102,7 @@ Para configurar serviços, tem de atualizar alguns registos no seu anfitrião de
   
    Também pode aceder a cada sub definição clicando nas divisas junto da mesma.
   
-3. Configure a definição de **Instalar o Office em dispositivos de 10 do Windows** **Sim** se todos os utilizadores tiverem o Windows 10 computadores e instala o Office não existente ou instala o Office Clique-e-Use. Se não for este o caso, defina esta opção para **não**. Pode [instalar automaticamente o Office](auto-install-or-uninstall-office.md) mais tarde a partir do Centro de administração depois de ter preparado os computadores dos utilizadores. Para obter instruções, consulte a [preparar a instalação de cliente do Office](prepare-for-office-client-deployment.md).
+3. Altere a definição **Instalar o Office em dispositivos Windows 10** para **Sim** se todos os seus utilizadores tiverem computadores com o Windows 10, mas sem uma instalação do Office ou uma instalação do Office com tecnologia Clique-e-Use. Se este não for o caso, defina esta opção para **Não**. Pode [instalar automaticamente o Office](auto-install-or-uninstall-office.md) mais tarde a partir do centro de administração após ter preparado os computadores dos utilizadores. Para obter instruções, consulte a [preparar a instalação de cliente do Office](prepare-for-office-client-deployment.md).
   
     Ficheiros de trabalho dos utilizadores licenciados em dispositivos de Windows 10 vão ser projectados, logo a [associar o seu dispositivo Windows 10](set-up-windows-devices.md) a um domínio do Microsoft 365 Business Azure AD ou, em seguida, [instalar o Windows 10 num novo computador](https://support.office.com/article/c654bd23-d256-4ac7-8fba-0c993bf5a771.aspx) ao aderir ao mesmo tempo o Microsoft 365 Domínio de Azure AD de negócio. 
   
@@ -123,7 +125,7 @@ Para além da segurança e a definição de conformidade no Assistente de config
     
 - Configurar **políticas de retenção**de personalizadas, por exemplo, para manter durante um período específico de tempo ou eliminar permanentemente o conteúdo no final do período de retenção. Pode activar políticas de retenção personalizada no Centro de conformidade, vá para a **governação de dados** de valores mobiliários e \> **retenção**e, em seguida, siga os passos no assistente. Para obter mais informações, consulte [Descrição geral de políticas de retenção](https://support.office.com/article/5e377752-700d-4870-9b6d-12bfc12d2423).
     
-## <a name="next-steps"></a>Próximos passos
+## <a name="next-steps"></a>Next steps
 
 Para os utilizadores que têm licenças, o próximo passo é configurar os dispositivos.<br/> Consulte [Configurar dispositivos Windows para utilizadores do Microsoft 365 Business](set-up-windows-devices.md) e [Configurar dispositivos móveis para utilizadores do Microsoft 365 Business](set-up-mobile-devices.md). <br/>Consulte [Gerir o Microsoft 365 Business](manage.md) para obter ligações para tópicos sobre como definir políticas de proteção de aplicações e de dispositivos e como remover dados de dispositivos do utilizador. 
   

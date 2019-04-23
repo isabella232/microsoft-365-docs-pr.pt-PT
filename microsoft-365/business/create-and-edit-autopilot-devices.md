@@ -7,7 +7,10 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection: Adm_O365
+ms.collection:
+- Adm_O365
+- M365-subscription-management
+- M365-identity-device-management
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -19,12 +22,12 @@ search.appverid:
 - MOE150
 ms.assetid: 0f7b1d7c-4086-4331-8534-45d7886f9f34
 description: Obter informações sobre como carregar dispositivos a utilizar o piloto automático no Microsoft 365 Business. Pode atribuir um perfil para um dispositivo ou um grupo de dispositivos.
-ms.openlocfilehash: cc1f81e9efd9b16e27b8abfbb0927d241535077e
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: fff2dbc6af45ef9d4189f23849d638172c19dfb2
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26982938"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32277054"
 ---
 # <a name="create-and-edit-autopilot-devices"></a>Criar e editar dispositivos AutoPilot
 
@@ -37,10 +40,8 @@ Os dispositivos têm de cumprir os seguintes requisitos:
 - Windows 10, versão 1703 ou posterior.
     
 - Novos dispositivos que não tenham tido a experiência de configuração inicial do Windows.
-    
-1. No centro de administração do Microsoft 365 Business, selecione **Implementar o Windows com o Autopilot** no cartão **Ações do dispositivo**. 
-    
-    ![On the Device actions card, choose Deploy Windows with Autopilot.](media/160d5c2a-11a8-48f9-a8aa-70f084b85448.png)
+
+1. No Centro de Admin de negócio do Microsoft 365, escolher **dispositivos** \> **AutoPilot** \> **Adicionar**.
   
 2. Na página **Preparar Windows**, selecione o separador **Dispositivos** \> **Adicionar dispositivos**.
     

@@ -8,7 +8,10 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection: Adm_O365
+ms.collection:
+- Adm_O365
+- M365-subscription-management
+- M365-identity-device-management
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -19,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: aad21b1a-c775-469a-b89c-c5d1d59d27db
 description: Obter informações sobre como as funcionalidades de protecção no Microsoft 365 Business mapeiam para as definições de Intune. A subscrição fornece-lhe uma licença para modificar as definições de Intune.
-ms.openlocfilehash: 5ee5a457fe3f265dd37f6806ca8c11fe096718b6
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: ddd520cd059c84e5d64e967fe5631fe2f6bce0d4
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26983018"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32278561"
 ---
 # <a name="how-do-protection-features-in-microsoft-365-business-map-to-intune-settings"></a>Como é que as funcionalidades de proteção no Microsoft 365 Business são mapeadas para as definições do Intune
 
@@ -73,10 +76,10 @@ Clique no nome da política que pretende selecionar e, em seguida, selecione **G
   
 |**Definição de política de aplicação para Windows 10**|**Definições do Intune**|
 |:-----|:-----|
-|Encriptar ficheiros de trabalho  <br/> |**Definições avançadas** \> **Proteção de dados**. **Revogar as chaves de encriptação ao anular a inscrição** e **Revogar o acesso a dados protegidos quando o dispositivo se inscreve para MDM** estão definidas para **Ativado**.    <br/> |
+|Encriptar ficheiros de trabalho  <br/> |**Definições avançadas** \> **Proteção de dados**. **Revogar as chaves de encriptação ao anular a inscrição** e **Revogar o acesso a dados protegidos quando o dispositivo se inscreve para MDM** estão definidas para **Ativado**.      <br/> |
 |Impeça os utilizadores de copiarem dados empresariais para ficheiros pessoais.  <br/> |**Definições necessárias** \> **Modo Windows Information Protection**. **Ativado** no Microsoft 365 Business mapeia a: **Ocultar Substituições**, **Desativado** no Microsoft 365 Business mapeia a: **Desativado**.  <br/> |
 |Controlo do acesso a documentos do Office  <br/> | Se estiver definido para **Ativado** no Microsoft 365 Business,  <br/> **Definições avançadas** \> **Acesso**, **Utilizar o Windows Hello para Empresas como método para iniciar sessão no Windows** está definido para **Ativado**, com as seguintes definições adicionais:  <br/> **Definir o número mínimo de carateres necessários para o PIN** está definido para **4**.  <br/> **Configurar a utilização de letras em maiúsculas no PIN do Windows Hello para Empresas** está definido para **Não permitir a utilização de letras maiúsculas no PIN**.  <br/> **Configurar a utilização de letras em minúsculas no PIN do Windows Hello para Empresas** está definido para **Não permitir a utilização de letras minúsculas no PIN**.  <br/> **Configurar a utilização de carateres especiais no PIN do Windows Hello para Empresas** está definido para **Não permitir a utilização de carateres especiais no PIN**.  <br/> **Especificar o período de tempo (em dias) durante o qual um PIN pode ser utilizado antes de o sistema pedir ao utilizador que o altere** está definido para **0**.  <br/> **Especificar o número de PINs anteriores que podem ser associados a uma conta de utilizador que não pode ser reutilizada** está definido para **0**.  <br/> **Número de falhas de autenticação permitidas antes de o dispositivo ser eliminado** está definido para Microsoft 365 Business 5 (por predefinição).  <br/> **Período de inatividade máximo (em minutos) permitido no dispositivo após o qual ficará bloqueado por PIN ou palavra-passe** está definido tal como no Microsoft 365 Business.  <br/> |
-|Ativar a recuperação de dados protegidos  <br/> |**Definições avançadas** \> **Proteção de dados**. **Mostrar o ícone de proteção de dados empresariais** e **Utilizar o Azure RMS para WIP** estão definidos para **Ativado**.    <br/> |
+|Ativar a recuperação de dados protegidos  <br/> |**Definições avançadas** \> **Proteção de dados**. **Mostrar o ícone de proteção de dados empresariais** e **Utilizar o Azure RMS para WIP** estão definidos para **Ativado**.      <br/> |
 |Proteger localizações na nuvem da empresa adicionais  <br/> |**Definições avançadas** \> **Domínios protegidos** e **Recursos da nuvem** mostram sites do SharePoint e domínios.  <br/> |
 |Os ficheiros utilizados por estas aplicações estão protegidos  <br/> |A lista de aplicações protegidas é indicada em **Aplicações permitidas**.  <br/> |
 |||
@@ -85,7 +88,7 @@ Clique no nome da política que pretende selecionar e, em seguida, selecione **G
 
 A tabela seguinte mostra como as definições de configuração para dispositivos Windows 10 são mapeadas às definições do Intune.
   
-Para localizar o Intune definição, enquanto a sessão com as credenciais de administração do Microsoft 365 Business, vá para o [Azure portal](https://portal.azure.com), em seguida, seleccione **mais serviços**e o tipo de Intune para o **filtro**, seleccionam **Intune** \> **dispositivo configuração de** \> **perfis**. Em seguida, seleccione a **política de dispositivos para o Windows 10** \> **Propriedades** \> **Definições**.
+Para localizar o Intune definição, enquanto a sessão com as credenciais de administração do Microsoft 365 Business, vá para o [Azure portal](https://portal.azure.com), em seguida, seleccione **mais serviços**e o tipo de Intune para o **filtro**, seleccionam **Intune** \> **dispositivo configuração de** \> **perfis**. Then select **Device policy for Windows 10** \> **Properties** \> **Settings**.
   
 |**Definição de política para dispositivos Windows 10**|**Definições do Intune**|
 |:-----|:-----|

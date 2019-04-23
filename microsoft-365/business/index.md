@@ -8,14 +8,15 @@ keywords: Microsoft 365 Business, Microsoft 365, negócio, SMB, pequena para a e
 localization_priority: Normal
 audience: microsoft-business
 ms.prod: microsoft-365-business
+ms.collection: M365-subscription-management
 title: Recursos empresariais do Microsoft 365
 description: Obter informações sobre como planear, implementar e utilizar Microsoft Office 365, Windows 10 e mobilidade empresa + segurança em conjunto na empresa para uma infra-estrutura de integradas e segura que permite que o trabalho em equipa e desbloqueia a criatividade.
-ms.openlocfilehash: 386c829a6b635b1b23301e838f05b0b84bbfb3b4
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: fc3a702f76426f3b7ffcb0f45996b097d0d17e94
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26982508"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32278503"
 ---
 <div id="main" class="v2">
     <div class="container">
@@ -41,7 +42,7 @@ ms.locfileid: "26982508"
                                             <div class="cardText">
                                                 <h3>Explorar</h3>
                                                 <P><a href="https://support.office.com/article/what-is-microsoft-365-business-901e2522-c2cf-4b8c-894e-f482cda3347a" target="_blank">Descrição Geral</a></p>
-                                                <P><a href="microsoft-365-business-overview.md" target="_blank">Introdução ao Microsoft 365 Business</a></p> <P><a href="https://docs.microsoft.com/microsoft-365/business/support/microsoft-365-business-faqs" target="_blank">FAQ</a></p>
+                                                <P><a href="microsoft-365-business-overview.md" target="_blank">Introdução ao Microsoft 365 Business</a></p> <P><a href="https://docs.microsoft.com/microsoft-365/business/support/microsoft-365-business-faqs" target="_blank">PERGUNTAS MAIS FREQUENTES</a></p>
                                             </div>
                                         </div>
                                     </div>
@@ -57,7 +58,7 @@ ms.locfileid: "26982508"
                                                 </div>
                                             </div>
                                             <div class="cardText">
-                                                <h3>Configurar o Microsoft 365 Empresas</h3>
+                                                <h3>Configurar o Microsoft 365 Business</h3>
                                                 <P><a href="set-up.md" target="_blank">Configurar</a></p>
                                             </div>
                                         </div>
@@ -110,7 +111,7 @@ ms.locfileid: "26982508"
                                                 </div>
                                             </div>
                                             <div class="cardText">
-                                                <h3>Utilize o modo </h3>
+                                                <h3>Utilize</h3>
                                                 <P><a href="set-up-mobile-devices.md" target="_blank">Configurar dispositivos móveis</a></p>
                                                 <P><a href="https://support.office.com/office-training-center" target="_blank">Ajude os utilizadores a começar a utilizar com o Office</a></p>
                                                 <P><a href="https://www.microsoft.com/itpro/windows-10/end-user-readiness" target="_blank">Ajude os utilizadores a mudar para o Windows 10</a></p>

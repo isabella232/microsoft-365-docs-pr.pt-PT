@@ -4,10 +4,13 @@ ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
 ms.audience: Admin
-ms.topic: overview
+ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection: Adm_O365
+ms.collection:
+- Adm_O365
+- M365-subscription-management
+- M365-identity-device-management
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -19,16 +22,16 @@ search.appverid:
 - MOE150
 ms.assetid: c3ac23c5-d4b4-4b1b-b7ce-ea759521bf8c
 description: Obter informações sobre Estados de dispositivo no Microsoft 365 Business.
-ms.openlocfilehash: bd6f1ad7f7671d9616fd14d477dfcfb164ff6bd0
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: 15114835a5014f5bfac600eac79bcdffdaec481a
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26982908"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32276993"
 ---
-# <a name="device-states"></a>Estados de dispositivos
+# <a name="device-states"></a>Estados do dispositivo
 
-## <a name="device-states"></a>Estados de dispositivos
+## <a name="device-states"></a>Estados do dispositivo
 
 Os dispositivos na lista **Ações de dispositivos** (Página principal de administração \> **Ações de dispositivos**) podem ter os seguintes estados.
   

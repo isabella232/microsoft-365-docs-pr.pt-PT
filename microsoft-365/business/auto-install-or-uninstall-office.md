@@ -7,7 +7,9 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection: Adm_O365
+ms.collection:
+- Adm_O365
+- M365-subscription-management
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -18,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: cbc6bfe5-565a-4fb8-95f0-b06e7b74ac46
 description: 'Instalar ou desinstalar o Office no Windows 10 dispositivos partir do Centro de administração do Microsoft 365 Business. '
-ms.openlocfilehash: 997c001ed1520f1ac989255632d36f9b7bedd16c
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: fef4a543aed489202bf05dfb1e8cafbb784ca819
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26983338"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32277300"
 ---
 # <a name="automatically-install-or-uninstall-office-on-windows-10-devices"></a>Instalar ou desinstalar o Office em dispositivos Windows 10 automaticamente
 
@@ -35,7 +37,8 @@ Para compreender como este processo funciona em aplicações do Office instalada
 
 1. Inicie sessão no [centro de administração](https://aka.ms/bcsportal) com as suas credenciais de administrador global. 
     
-2. Na ficha de **dispositivos** , seleccione **Gerir a implementação do Office**.    Se não vir o cartão de **Acções do dispositivo** no centro **doméstica** página admin, clique em **Adicionar** (+) para o adicionar à sua home page de administração.
+2. No cartão **Dispositivos**, selecione **Gerir a Implementação do Office**.
+      Se não vir o cartão de **Acções do dispositivo** no centro **doméstica** página admin, clique em **Adicionar** (+) para o adicionar à sua home page de administração.
     
     ![Screenshot of the Devices card in the admin center](media/9982e784-dbf9-4a76-a159-bb3e2e5aa23f.png)
   

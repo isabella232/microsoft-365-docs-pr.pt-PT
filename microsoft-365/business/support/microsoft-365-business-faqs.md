@@ -5,16 +5,17 @@ author: jasongroce
 ms.author: jasgro
 ms.topic: article 
 ms.prod: microsoft-365-business
+ms.collection: M365-subscription-management
 localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business, Microsoft 365, SMB, FAQ, perguntas mais frequentes, respostas, business
 ms.date: 06/08/2018
-ms.openlocfilehash: e5937b1436701e872898dc079ba892181772202f
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: 1e277aed366d82e524ef99c43ab0401b5d35e5b0
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26983488"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32286135"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>Perguntas mais frequentes sobre o negócio Microsoft 365
 
@@ -29,10 +30,10 @@ Microsoft 365 é uma solução integrada que reúne ferramentas melhor na classe
 * Aplicações de negócio do Office (reservas, Gestor de cliente do Outlook, MileIQ<sup>[1](#footnote1)</sup>, Microsoft listagens<sup>[1](#footnote1)</sup>, Microsoft ligações<sup>[1](#footnote1)</sup>, de facturação Microsoft<sup>[1](#footnote1)</sup>) 
  
 **Capacidades de gestão e segurança do dispositivo de escala da empresa** 
-- Ajuda a fornecer protecção contra ameaças externas, tais como phishing e malware sofisticado com protecção de ameaças avançado do Office 365 e protecção de tirar partido do Windows Defender 
--  Ajuda a controlar e gerir informações confidenciais como é acedido e transmitidos com políticas de prevenção de perda de dados do Office 365 (para estar disponível no Verão, 2018) e Azure informações protecção plano 1 
+- Ajuda a fornecer protecção contra ameaças externas, tais como phishing & sofisticadas malware com protecção de ameaças avançado do Office 365 e protecção de tirar partido do Windows Defender 
+-  Ajuda-o a gerir informações confidenciais como de & de controlo é acedido e transmitidos com políticas de prevenção de perda de dados do Office 365 (para estar disponível no Verão, 2018) e Azure informações protecção plano 1 
 -  Ajuda a proteger, manter e os dados com o Exchange Online arquivar uma cópia de segurança  
--   Protecção de aplicações para outras aplicações móveis com protecção de aplicações de Intune & Office 
+-   Protecção de aplicações para o Office & outras aplicações móveis com protecção de aplicações de Intune 
 -  Gestão de dispositivos para Windows 10 PCs, MacOS & dispositivos móveis com gestão de dispositivos de Intune 
 -  Configuração de segurança consistentes entre dispositivos - protecção de dados de empresa através de dispositivos - Windows Defender, sempre activa e actualizada 
  
@@ -84,7 +85,7 @@ Microsoft 365 Business oferece aos clientes um meio simple mas poderoso de permi
 * Funcionalidades de **Gestão de dispositivos para iOS, Android & MacOS** ajuda a gerir de forma segura uma ecossistema de diversos dispositivos que inclui dispositivos iOS, Android, Windows e macOS de empresas. 
 
 ### <a name="how-does-microsoft-365-business-help-protect-pcs-in-my-organization-from-malicious-attacks"></a>Como é que o Microsoft 365 Business ajuda a proteger computadores na minha organização contra ataques mal-intencionados? 
-Computadores geridos com Microsoft 365 Business estão protegidos com o Windows Defender, que é a funcionalidade de antivírus do n º 1 no Windows 10, proteger mais computadores contra vírus, malware, spyware e outras ameaças em qualquer outra solução.  Com Microsoft 365 Business, empresas podem garantir a protecção do Windows Defender está em execução e sempre actualizada em todos os seus dispositivos de 10 de Windows.  
+Computadores geridos com Microsoft 365 Business estão protegidos com o Windows Defender, que é o n º. 1 funcionalidade antivírus no Windows 10, proteger mais computadores contra vírus, malware, spyware e outras ameaças em qualquer outra solução.  Com Microsoft 365 Business, empresas podem garantir a protecção do Windows Defender está em execução e sempre actualizada em todos os seus dispositivos de 10 de Windows.  
  
 Windows 10 Business também inclui o Windows Defender explorar Guard, um novo conjunto de capacidades da prevenção de intrusões. Uma das respectivas funcionalidades, o acesso a pastas regulamentadas, deixa de ransomware nas respectivas faixas, bloquear pastas e impedindo apps não autorizados acedam a ficheiros importantes do utilizador. 
 
@@ -179,7 +180,7 @@ Microsoft 365 Business não efectua uma versão caso contrário não genuína do
 Os mesmos canais de suporte disponíveis para os parceiros CSP hoje (suporte premier e programa suporte avançado) tem sido formação em Microsoft 365 Business e estão prontos para fornecer suporte aos parceiros. 
 
 ### <a name="what-is-the-gdpr-and-how-does-microsoft-365-business-help-customers-with-their-compliance-obligations"></a>Qual é o PIBR e como Microsoft 365 Business ajuda os clientes com as suas obrigações de conformidade?
-O Regulamento de protecção de dados geral (PIBR) é uma nova lei de privacidade abrangente que fornece o controlo de maior da União Europeia (UE) sobre os "dados pessoais" residentes e requer a organizações para manter a integridade dos dados pessoais. O PIBR requer organizações esse controlo ou o processo de dados pessoais vinculados a residentes na UE para utilizar apenas processadores de dados de outros fabricantes que cumprem os requisitos do PIBR para processamento de dados pessoal. Em Março de 2017, a Microsoft tomou disponíveis garantias contratuais que forneçam essas garantias. Os clientes que tenham perguntas sobre como o Microsoft pode ajudá-los a cumprir as obrigações do PIBR adicionais devem saber sobre as capacidades de segurança disponíveis como suplementos (por exemplo, a protecção de informações Azure, prevenção de perda de dados, Advnaced e conformidade avançada Protecção contra ameaças, etc.) e, outros conjuntos de aplicações (por exemplo, o Microsoft 365 empresa E5). Para obter mais informações, visite [www.microsoft.com/gdpr](https://www.microsoft.com/gdpr).
+O Regulamento de protecção de dados geral (PIBR) é uma nova lei de privacidade abrangente que fornece o controlo de maior da União Europeia (UE) sobre os "dados pessoais" residentes e requer a organizações para manter a integridade dos dados pessoais. O PIBR requer organizações esse controlo ou o processo de dados pessoais vinculados a residentes na UE para utilizar apenas processadores de dados de outros fabricantes que cumprem os requisitos do PIBR para processamento de dados pessoal. Em Março de 2017, a Microsoft tomou disponíveis garantias contratuais que forneçam essas garantias. Os clientes que tenham perguntas sobre como o Microsoft pode ajudá-los a cumprir as obrigações do PIBR adicionais devem saber sobre as capacidades de segurança disponíveis como suplementos (por exemplo, a protecção de informações Azure, prevenção de perda de dados, avançadas e conformidade avançada Protecção contra ameaças, etc.) e, outros conjuntos de aplicações (por exemplo, o Microsoft 365 empresa E5). Para obter mais informações, visite [www.microsoft.com/gdpr](https://www.microsoft.com/gdpr).
 
 
 

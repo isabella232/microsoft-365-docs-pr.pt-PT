@@ -7,7 +7,10 @@ ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
-ms.collection: Adm_O365
+ms.collection:
+- Adm_O365
+- M365-subscription-management
+- M365-identity-device-management
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -18,28 +21,26 @@ search.appverid:
 - MET150
 ms.assetid: 6f2b80b4-81c3-4714-a7bc-ae69313e8a33
 description: Obter informações sobre como criar, editar ou eliminar uma política de gestão de aplicações e proteger ficheiros de trabalho em dispositivos Android ou iOS.
-ms.openlocfilehash: ed03227496120369b94bf2396974eebfd7798678
-ms.sourcegitcommit: e491c4713115610cbe13d2fbd0d65e1a41c34d62
+ms.openlocfilehash: e81ff8a4bd71dbbbf7ccc31249d450e03f4bd241
+ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "26983668"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32277463"
 ---
 # <a name="set-app-protection-settings-for-android-or-ios-devices"></a>Configurar as definições de proteção de aplicações para dispositivos Android ou iOS
 
 ## <a name="create-an-app-management-policy"></a>Criar uma política de gestão de aplicações
 
-1. Inicie sessão no [Microsoft 365 Business](https://portal.office.com) com as suas credenciais de administrador global. 
+1. Iniciar sessão no [Centro de administração do Microsoft 365 Business](https://go.microsoft.com/fwlink/p/?linkid=837890) com credenciais de administrador global. 
     
-2. No centro de administração, no cartão **Políticas de dispositivos**, selecione **Adicionar política**.
-    
-    ![Device policies card in the admin center.](media/27c12b61-d112-4348-b557-4f3e46204797.png)
+2. No Centro de administração, escolher **dispositivos** \> **políticas** \> **Adicionar política**.
   
 3. No painel **Adicionar política**, introduza um nome exclusivo para esta política. 
     
 4. Em **Tipo de política**, selecione **Gestão de Aplicações para Android** ou **Gestão de Aplicações para iOS** consoante o conjunto de políticas que pretende criar. 
     
-5. Expanda as opções **Proteger os ficheiros de trabalho se os dispositivos forem perdidos ou roubados** e **Gerir a forma como os utilizadores acedem a ficheiros do Office em dispositivos móveis** \> configure as definições como pretende. A opção **Gerir a forma como os utilizadores acedem a ficheiros do Office em dispositivos móveis** está **Desativada** por predefinição, mas recomenda-se que a defina como **Ativada** e aceite os valores predefinidos. Consulte as [Definições disponíveis](app-protection-settings-for-android-and-ios.md#bkmk_availablesettings) para obter mais informações. 
+5. Expanda as opções **Proteger os ficheiros de trabalho se os dispositivos forem perdidos ou roubados** e **Gerir a forma como os utilizadores acedem a ficheiros do Office em dispositivos móveis** \> configure as definições como pretende. A opção **Gerir a forma como os utilizadores acedem a ficheiros do Office em dispositivos móveis** está **Desativada** por predefinição, mas recomenda-se que a defina como **Ativada** e aceite os valores predefinidos. Para mais informações, consulte [as definições disponíveis](#available-settings) . 
     
     Pode sempre utilizar a ligação **Repor predefinições** para regressar à predefinição. 
     
@@ -93,7 +94,7 @@ As seguintes definições estão disponíveis para gerir como os utilizadores ac
 |Repor o PIN quando o início de sessão falha este número de vezes  <br/> |Para impedir um utilizador não autorizado de adivinhar um PIN aleatoriamente, o PIN será reposto após o número de tentativas incorretas que especificar.  <br/> |
 |Exigir que o utilizador inicie a sessão novamente após as aplicações do Office estarem inativas durante  <br/> |Esta definição determina durante quanto tempo um utilizador pode estar inativo antes de ter de voltar a iniciar sessão.  <br/> |
 |Negar o acesso a ficheiros de trabalho em dispositivos desbloqueados por jailbreak ou rooting  <br/> |Alguns utilizadores podem ter um dispositivo desbloqueado através de jailbreak ou rooting. Isto significa que o utilizador pode modificar o sistema operativo, o que pode tornar o dispositivo mais suscetível a software maligno. Estes dispositivos são bloqueados quando esta definição se encontra **Ativada**.  <br/> |
-|Permitir que os utilizadores copiem conteúdos das aplicações do Office para aplicações pessoais  <br/> |Vamos permitir isto por predefinição, mas se a definição estiver **activa**, o utilizador pode copiar informações num ficheiro de trabalho para um ficheiro pessoal. Se a definição estiver **desactivada**, o utilizador será não é possível copiar informações de uma conta de trabalho para uma conta pessoal ou app pessoal.<br/> |
+|Permitir que os utilizadores copiem conteúdos das aplicações do Office para aplicações pessoais  <br/> |Vamos permitir isto por predefinição, mas se a definição estiver **activa**, o utilizador pode copiar informações num ficheiro de trabalho para um ficheiro pessoal. Se a definição estiver **desactivada**, o utilizador será não é possível copiar informações de uma conta de trabalho para uma conta pessoal ou app pessoal.  <br/> |
    
 
   
