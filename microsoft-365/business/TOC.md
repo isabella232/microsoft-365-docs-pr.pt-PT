@@ -1,5 +1,5 @@
 # [Começar](microsoft-365-business-overview.md)
-## [Obter o Microsoft 365 Empresas](get-microsoft-365-business.md)
+## [Obter Microsoft 365 Business](sign-up.md)
 ## [Pré-requisitos para protecção de dados](pre-requisites-for-data-protection.md)
 ## [Funcionalidades de segurança](security-features.md)
 ## [Configurar](set-up.md)
