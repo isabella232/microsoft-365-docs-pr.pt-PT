@@ -17,12 +17,12 @@ search.appverid:
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: Obter informações sobre como obter acesso a recursos no local, tais como aplicações de linha de negócios, partilhas de ficheiros e impressoras a partir de um Azure Active Directory associado Windows 10 dispositivo.
-ms.openlocfilehash: 212685bc229f519152e69b09d0a745bfac7a38cd
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: 2be8eb16b9d17547d3bc4c3e4fe499b4c14117a4
+ms.sourcegitcommit: db1dfb2df2c2f7beced3b57bc772d106c189e88a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32276887"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33660275"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business"></a>Acesso local recursos a partir de um dispositivo associado AD Azure no Microsoft 365 Business
 
@@ -47,11 +47,9 @@ Se a organização não estiver preparada para implementar na Azure AD associado
 Se estiver AD Azure aderir a um dispositivo do Windows que foi anteriormente associados ao domínio ou num grupo de trabalho, terá de considerar as seguintes limitações:
   
 - Quando adere a um dispositivo Azure AD, cria um novo utilizador sem fazer referência um perfil existente. Para corrigir este problema, perfis tem de ser migrados manualmente. Um perfil de utilizador contém informações como favoritos, ficheiros locais, as definições do browser, definições do menu Iniciar, etc. Uma abordagem melhor será localizar uma ferramenta de outros fabricantes para mapear os ficheiros existentes e as definições para o novo perfil
-    
-- Se o dispositivo estiver a utilizar objectos de política de grupo (GPO), alguns GPOs poderão não ter um comparáveis [Configuração Service Provider](https://docs.microsoft.com/windows/configuration/provisioning-packages/how-it-pros-can-use-configuration-service-providers) (CSP) no Intune. Execute a [ferramenta MMAT](https://www.microsoft.com/download/details.aspx?id=45520) para localizar os CSPs comparáveis para os GPOs existentes. 
-    
-- Os utilizadores não conseguirão autenticar para aplicações que dependem de autenticação do Active Directory. Para lidar com avaliar a utilização de uma aplicação de legacy e considere a hipótese de actualizar para uma aplicação que utiliza autenticação moderna se possível.
-    
-- Detecção de impressora do Active Directory não irá funcionar. Para corrigir este problema, forneça caminhos directa de impressora para todos os utilizadores ou tirar partido de [Impressão de nuvem de híbridos](https://docs.microsoft.com/windows-server/administration/hybrid-cloud-print/hybrid-cloud-print-deploy).
-    
 
+- Se o dispositivo estiver a utilizar objectos de política de grupo (GPO), alguns GPOs poderão não ter um comparáveis [Configuração Service Provider](https://docs.microsoft.com/windows/configuration/provisioning-packages/how-it-pros-can-use-configuration-service-providers) (CSP) no Intune. Execute a [ferramenta MMAT](https://www.microsoft.com/download/details.aspx?id=45520) para localizar os CSPs comparáveis para os GPOs existentes.
+
+- Os utilizadores não conseguirão autenticar para aplicações que dependem de autenticação do Active Directory. Para lidar com avaliar a utilização de uma aplicação de legacy e considere a hipótese de actualizar para uma aplicação que utiliza autenticação moderna se possível.
+
+- Detecção de impressora do Active Directory não irá funcionar. Para corrigir este problema, forneça caminhos directa de impressora para todos os utilizadores ou tirar partido de [Impressão de nuvem de híbridos](https://docs.microsoft.com/windows-server/administration/hybrid-cloud-print/hybrid-cloud-print-deploy).

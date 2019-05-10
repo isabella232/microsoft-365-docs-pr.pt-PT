@@ -6,7 +6,7 @@ manager: scotv
 ms.audience: Admin
 ms.topic: conceptual
 f1_keywords:
-- 'O365E_BCSSetup4OfficeMobile '
+- O365E_BCSSetup4OfficeMobile
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection:
@@ -23,12 +23,12 @@ search.appverid:
 - MOE150
 ms.assetid: aa31319c-9196-48c9-a90b-4057e0494c7a
 description: Obter informações sobre políticas de protecção que podem ajudar acesso seguro para aplicações do Office a partir de dispositivos móveis.
-ms.openlocfilehash: b77d30686b26f95de684238d1b9afd57550a7c7f
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: b49ec33f4899a25f92ffd9d7a25d3e435016749e
+ms.sourcegitcommit: db1dfb2df2c2f7beced3b57bc772d106c189e88a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32278615"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33660359"
 ---
 # <a name="manage-how-users-access-office-documents-on-mobile-devices"></a>Gerir a forma como os utilizadores acedem a documentos do Office em dispositivos móveis
 
@@ -45,6 +45,6 @@ As seguintes definições estão disponíveis para gerir como os utilizadores ac
 |Repor o PIN quando o início de sessão falha este número de vezes  <br/> |Para impedir um utilizador não autorizado de adivinhar um PIN aleatoriamente, o PIN será reposto após o número de tentativas incorretas que especificar.  <br/> |
 |Exigir que o utilizador inicie a sessão novamente após as aplicações do Office estarem inativas durante  <br/> |Esta definição determina durante quanto tempo um utilizador pode estar inativo antes de ter de voltar a iniciar sessão.  <br/> |
 |Negar o acesso a ficheiros de trabalho em dispositivos desbloqueados por jailbreak ou rooting  <br/> |Alguns utilizadores podem ter um dispositivo desbloqueado através de jailbreak ou rooting. Isto significa que o utilizador pode modificar o sistema operativo, o que pode tornar o dispositivo mais suscetível a software maligno. Estes dispositivos são bloqueados quando esta definição se encontra **Ativada**.  <br/> |
-|Permitir que os utilizadores copiem conteúdos das aplicações do Office para aplicações pessoais  <br/> |Por predefinição, esta definição não é permitida. No entanto, se a mesma estiver definida como **Ativada**, o utilizador poderá copiar informações de um ficheiro de trabalho para um ficheiro pessoal. Se a definição estiver **Desativada**, o utilizador não pode copiar informações de um ficheiro de trabalho para uma aplicação ou conta pessoal.  <br/> |
+|Não permitir aos utilizadores copiar o conteúdo de aplicações do Office para aplicações pessoais  <br/> |Quando a definição está **activada**, o utilizador não é possível copiar informações num ficheiro de trabalho para um ficheiro pessoal. Se a definição estiver **desactivada**, o utilizador pode copiar informações a partir de um ficheiro de trabalho para uma conta pessoal ou app pessoal.  <br/> |
    
 

@@ -20,16 +20,16 @@ search.appverid:
 - MOE150
 ms.assetid: be5b6d90-3344-4c5e-bf40-5733eb845beb
 description: Obter informações sobre como utilizar o piloto automático do Windows para configurar novos dispositivos Windows 10 para a sua empresa.
-ms.openlocfilehash: e0802ddcc0964d0b8d102f7dbdb9116b33cdcf58
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: 8c4a14b4b9dcbf7a30c1e6e0bdd53418a1ab8a03
+ms.sourcegitcommit: db1dfb2df2c2f7beced3b57bc772d106c189e88a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32277153"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33660691"
 ---
 # <a name="use-the-step-by-step-guide-to-add-autopilot-devices-and-profile"></a>Utilizar o guia passo a passo para adicionar perfis e dispositivos Autopilot
 
-Pode utilizar o Windows AutoPilot para configurar novos dispositivos com Windows 10 da sua empresa, para que estejam prontos para uma utilização produtiva assim que os der aos seus funcionários.
+Pode utilizar o piloto automático do Windows para configurar **novos** dispositivos Windows 10 para a sua empresa para que estejam prontos para utilização produtiva, logo que lhes atribua aos seus empregados.
   
 ## <a name="device-requirements"></a>Requisitos de dispositivo
 
@@ -41,13 +41,17 @@ Os dispositivos têm de cumprir os seguintes requisitos:
     
 ## <a name="use-the-setup-guide-to-create-devices-and-profiles"></a>Utilizar o guia de configuração para criar dispositivos e perfis
 
+![Faixa que apontam para https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
+
 Se ainda não tiver criado perfis e grupos de dispositivos, a melhor forma de começar é com o guia passo a passo, mas também pode [adicionar dispositivos](create-and-edit-autopilot-devices.md) e [atribuir perfis](create-and-edit-autopilot-profiles.md) aos mesmos sem utilizar o guia. 
   
-1. No centro de administração do Microsoft 365 Business, localize o cartão **Ações do dispositivo** e selecione **Implementar o Windows com o AutoPilot**.
-    
-    ![On the Device actions card, choose Deploy Windows with Autopilot.](media/160d5c2a-11a8-48f9-a8aa-70f084b85448.png)
+1. Vá para o Centro de administração no <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>.
+
+2. Nav esquerda do escolher **dispositivos** \> **piloto automático**.
+
+    ![No Centro de administração seleccione os dispositivos e, em seguida, o piloto automático.](media/AutoPilot.png)
   
-2. Na página **Preparar Windows**, clique ou toque em **Guia de introdução**.
+2. Na página **piloto automático** , clique ou toque em **Iniciar guia**.
     
     ![Click Start guide for step-by-step instructions for Autopilot.](media/31662655-d1e6-437d-87ea-c0dec5da56f7.png)
   

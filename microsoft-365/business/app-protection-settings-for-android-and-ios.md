@@ -21,20 +21,22 @@ search.appverid:
 - MET150
 ms.assetid: 6f2b80b4-81c3-4714-a7bc-ae69313e8a33
 description: Obter informações sobre como criar, editar ou eliminar uma política de gestão de aplicações e proteger ficheiros de trabalho em dispositivos Android ou iOS.
-ms.openlocfilehash: e81ff8a4bd71dbbbf7ccc31249d450e03f4bd241
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: 04479360bf13a8ff685a91ed95440c08f8cf80b4
+ms.sourcegitcommit: db1dfb2df2c2f7beced3b57bc772d106c189e88a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32277463"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33660583"
 ---
 # <a name="set-app-protection-settings-for-android-or-ios-devices"></a>Configurar as definições de proteção de aplicações para dispositivos Android ou iOS
 
+![Faixa que apontam para https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
+
 ## <a name="create-an-app-management-policy"></a>Criar uma política de gestão de aplicações
 
-1. Iniciar sessão no [Centro de administração do Microsoft 365 Business](https://go.microsoft.com/fwlink/p/?linkid=837890) com credenciais de administrador global. 
+1. Vá para o Centro de administração no <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>. 
     
-2. No Centro de administração, escolher **dispositivos** \> **políticas** \> **Adicionar política**.
+2. Nav esquerda, escolher **dispositivos** \> **políticas** \> **Adicionar**.
   
 3. No painel **Adicionar política**, introduza um nome exclusivo para esta política. 
     
@@ -62,9 +64,9 @@ ms.locfileid: "32277463"
     
 ## <a name="delete-an-app-management-policy"></a>Eliminar uma política de gestão de aplicações
 
-1. No cartão **Políticas**, selecione **Eliminar política**.
+1. Na página **políticas** , escolha uma política e, em seguida, **Eliminar**.
     
-2. No painel **Eliminar política**, selecione as políticas que pretende eliminar \> **Selecionar** e, em seguida, **Confirmar** para eliminar as políticas selecionadas. 
+2. No painel de **Eliminar política** escolha **Confirmar** ao eliminar a política ou políticas que escolheu. 
     
 ## <a name="available-settings"></a>Definições disponíveis
 

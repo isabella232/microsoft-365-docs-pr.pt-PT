@@ -18,16 +18,18 @@ search.appverid:
 - MET150
 ms.assetid: 27ff1678-865a-4707-8145-e1155aa815d6
 description: Obter informações sobre como gerir Microsoft 365 Business relacionados com tarefas de administração, dispositivos móveis, 10PCs do Windows e muitas dessas tarefas.
-ms.openlocfilehash: 993db51ec487237395ca57290e37a6c5edbce8b8
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: 0d0f9292307144314d25f712867cf1caa7cdd0ff
+ms.sourcegitcommit: db1dfb2df2c2f7beced3b57bc772d106c189e88a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32278581"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33660526"
 ---
 # <a name="manage-microsoft-365-business"></a>Gerir o Microsoft 365 Business
 
 ## <a name="general-microsoft-365-business-admin-tasks"></a>Tarefas gerais de administração do Microsoft 365 Empresas
+
+A maior parte do [conteúdo de administração](/Office365/Admin/admin-home.md) para o Office 365 para a empresa também se aplica para o Microsoft 365 Business.
 
 - [Adicionar utilizadores ao Microsoft 365 Empresas](add-users-m365b.md)
     

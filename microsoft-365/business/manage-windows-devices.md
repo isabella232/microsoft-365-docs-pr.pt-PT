@@ -20,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: 9b4de218-f1ad-41fa-a61b-e9e8ac0cf993
 description: Obter informações sobre como activar o Microsoft 365 proteger local AD associado Windows 10 dispositivos.
-ms.openlocfilehash: d61b3bf6be50d6b21e7b883774567bb63995e60e
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: 661e5bf8205a661eb4382b4bdd8fcf3a54ecc12f
+ms.sourcegitcommit: db1dfb2df2c2f7beced3b57bc772d106c189e88a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32278083"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33660354"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business"></a>Ativar a gestão, por parte do Microsoft 365 Business, de dispositivos associados ao domínio Windows 10
 
@@ -33,7 +33,7 @@ Se a organização utilizar o Windows Server Active Directory no local, pode con
   
 ## <a name="set-up-domain-joined-devices-to-be-managed-by-microsoft-365-business"></a>Configurar dispositivos de domínio a ser gerido pelo Microsoft 365 Business
 
-Para configurar dispositivos de domínio da organização para beneficiar as capacidades fornecidas pelo Azure Active Directory para além do Active Directory no local, pode implementar **híbrido Azure AD associado dispositivos**. Estes são dispositivos que estão associados no local, Active Directory e o Azure Active Directory. Híbrido AD Azure associado dispositivos que podem ser protegidos e geridos pelo Microsoft 365 Business... 
+Para configurar dispositivos de domínio da organização para beneficiar as capacidades fornecidas pelo Azure Active Directory para além do Active Directory no local, pode implementar **híbrido Azure AD associado dispositivos**. Estes são dispositivos que estão associados no local, Active Directory e o Azure Active Directory. Híbrido AD Azure associado dispositivos que podem ser protegidos e geridos pelo Microsoft 365 Business. 
   
 Conclua os passos abaixo para certificar os dispositivos Windows 10 híbrido AD Azure associado e geridos pelo Microsoft 365 Business.
   
@@ -43,15 +43,13 @@ Conclua os passos abaixo para certificar os dispositivos Windows 10 híbrido AD 
     > Os passos são exactamente o mesmo para o Microsoft 365 Business. 
   
 2. Antes de concluir o passo 3 para permitir que dispositivos Windows 10 ser híbrido Azure AD associado, tem de certificar-se de que cumpre os seguintes pré-requisitos:
-    
+
    - Tem a versão mais recente do Azure AD ligar.
-    
+
    - Ligar Azure AD sincronizou todos os objectos de computador dos dispositivos que pretende ser híbrido Azure AD associado. Se os objectos de computador pertencem a unidades organizacionais específicas (UO), em seguida, certifique-se que estes UOs são definidos para sincronização no Azure AD ligar bem.
     
 3. Registe existentes associados ao domínio Windows 10 dispositivos ser híbrido Azure AD associado e inscrevê-los para gestão do dispositivo móvel pelo Intune (Microsoft 365 Business):
     
 4. Siga as instruções passo a passo de [como configurar dispositivos de Azure do Active Directory associado híbrida](https://go.microsoft.com/fwlink/p/?linkid=872870). Isto permitirá a sincronização do Active Directory no local associado a computadores Windows 10 e torná-los cloud preparado.
     
-5. Para inscrever um dispositivo Windows 10 para a gestão do dispositivo móvel, consulte a [Inscrever-se um dispositivo Windows 10 com Intune, utilizando uma política de grupo](https://go.microsoft.com/fwlink/p/?linkid=872871) para obter instruções. Pode definir a política de grupo no computador local nível ou para operações em massa, pode criar esta definição de política de grupo no seu servidor de controlador de domínio. 
-    
-
+5. Para inscrever um dispositivo Windows 10 para a gestão do dispositivo móvel, consulte a [Inscrever-se um dispositivo Windows 10 com Intune, utilizando uma política de grupo](https://go.microsoft.com/fwlink/p/?linkid=872871) para obter instruções. Pode definir a política de grupo no computador local nível ou para operações em massa, pode criar esta definição de política de grupo no seu servidor de controlador de domínio.

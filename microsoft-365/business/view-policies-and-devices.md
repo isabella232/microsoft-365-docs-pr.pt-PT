@@ -19,34 +19,32 @@ search.appverid:
 - MET150
 ms.assetid: 6b70fa27-d171-4593-8ecf-f78bb4ed2e99
 description: Ver dispositivo políticas e acções iniciando sessão no Microsoft 365 business com credintials de administrador global.
-ms.openlocfilehash: 524e5382fb242ea6b77abd72191073ce4df14f0c
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: fa609aad36b945fe9df99392aa1f9f8252baff1c
+ms.sourcegitcommit: db1dfb2df2c2f7beced3b57bc772d106c189e88a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32285830"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33660223"
 ---
-# <a name="view-policies-and-devices"></a>Ver políticas e dispositivos
+# <a name="view-and-manage-policies-and-devices"></a>Ver e gerir as políticas e dispositivos
 
-## <a name="view-device-policies"></a>Ver políticas de dispositivos
+![Faixa que apontam para https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
 
-1. Inicie sessão no [Microsoft 365 Business](https://portal.office.com) com as suas credenciais de administrador global. 
-    
-2. Nav esquerda, escolher **dispositivos** \> **políticas** \> **Adicionar**.
-    
+## <a name="view-and-edit-device-policies"></a>Ver e editar políticas de dispositivo
+
+1.  Vá para o Centro de administração no <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>.
+2. Nav esquerda, escolher **dispositivos** \> **políticas**.
+
     Nesta página pode criar, editar, alterar o grupo de destino ou eliminar uma política.
-    
-    ![Screenshot of the Policies page](media/27ebb1d3-d04b-4221-a13f-8583045b5077.png)
-  
-## <a name="view-device-actions"></a>Ver ações de dispositivos
 
-1. Inicie sessão no [Microsoft 365 Business](https://portal.office.com) com as suas credenciais de administrador global. 
-    
-2. No centro de administração, no cartão **Ações de dispositivos**, selecione **Ações de dispositivos** para abrir a página **Ações de dispositivos**. 
+    ![Screenshot of the Policies page](media/devicepolicies.png)
+  
+## <a name="view-and-manage-devices"></a>Ver e gerir dispositivos
+
+
+1. Nav esquerda, escolher **dispositivos** \> **Gerir**. 
     
     Nesta página pode selecionar um ou mais dispositivos e remover os dados da empresa. Para dispositivos Windows 10 para os quais configurou definições de proteção de dispositivos, também pode optar por repor o dispositivo para as definições de fábrica.
-    
-    ![Device actions page.](media/6d2ad0c4-9c96-4489-ab93-c4e38e317d45.PNG)
   
-  
+   ![Gerir a página de dispositivos](media/devicesmanage.png)
 
