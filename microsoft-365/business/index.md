@@ -11,12 +11,12 @@ ms.prod: microsoft-365-business
 ms.collection: M365-subscription-management
 title: Recursos empresariais do Microsoft 365
 description: Obter informações sobre como planear, implementar e utilizar Microsoft Office 365, Windows 10 e mobilidade empresa + segurança em conjunto na empresa para uma infra-estrutura de integradas e segura que permite que o trabalho em equipa e desbloqueia a criatividade.
-ms.openlocfilehash: fc3a702f76426f3b7ffcb0f45996b097d0d17e94
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: 3c5cc341734896cb9a42565c8647f3f5ac37fc5b
+ms.sourcegitcommit: db1dfb2df2c2f7beced3b57bc772d106c189e88a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32278503"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33660297"
 ---
 <div id="main" class="v2">
     <div class="container">
@@ -41,8 +41,10 @@ ms.locfileid: "32278503"
                                             </div>
                                             <div class="cardText">
                                                 <h3>Explorar</h3>
-                                                <P><a href="https://support.office.com/article/what-is-microsoft-365-business-901e2522-c2cf-4b8c-894e-f482cda3347a" target="_blank">Descrição Geral</a></p>
-                                                <P><a href="microsoft-365-business-overview.md" target="_blank">Introdução ao Microsoft 365 Business</a></p> <P><a href="https://docs.microsoft.com/microsoft-365/business/support/microsoft-365-business-faqs" target="_blank">PERGUNTAS MAIS FREQUENTES</a></p>
+                                                <P><a href="https://support.office.com/article/what-is-microsoft-365-business-901e2522-c2cf-4b8c-894e-f482cda3347a" target="_blank">Descrição geral do vídeo</a></p>
+                                                <P><a href="microsoft-365-business-overview.md" target="_blank">O que é o Microsoft 365 Business</a></p>
+                                                <P><a href="https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-business-service-description" target="_blank">Descrição do serviço</a></p>
+                                                <P><a href="https://docs.microsoft.com/microsoft-365/business/support/microsoft-365-business-faqs" target="_blank">PERGUNTAS MAIS FREQUENTES</a></p>
                                             </div>
                                         </div>
                                     </div>
@@ -58,8 +60,12 @@ ms.locfileid: "32278503"
                                                 </div>
                                             </div>
                                             <div class="cardText">
-                                                <h3>Configurar o Microsoft 365 Business</h3>
-                                                <P><a href="set-up.md" target="_blank">Configurar</a></p>
+                                                <h3>Configurar</h3>
+                                              <P><a href="get-microsoft-365-business.md" target="_blank">Obter Microsoft 365 Business</a></p>
+                                               <P><a href="set-up.md" target="_blank">Configurar o Microsoft 365 Business</a></p>
+                                                <P><a href="set-up-windows-devices.md" target="_blank">Configurar dispositivos Windows 10</a></p>
+                                                <P><a href="set-up-mobile-devices.md" target="_blank">Configurar dispositivos Android e iPhone</a></p>
+                                                <P><a href="auto-install-or-uninstall-office.md" target="_blank">Instalar o Office num Windows 10</a></p>
                                             </div>
                                         </div>
                                     </div>
@@ -93,9 +99,10 @@ ms.locfileid: "32278503"
                                             </div>
                                             <div class="cardText">
                                                 <h3>Proteger dispositivos e dados de negócio</h3>
-                                                <P><a href="manage.md" target="_blank">Gerir dispositivos</a></p> <P><a href="app-protection-settings-for-android-and-ios.md" target="_blank">Proteger dispositivos Android e iPhone</a></p>
-                                                 <P><a href="https://support.office.com/article/top-10-ways-to-secure-office-365-and-microsoft-365-business-plans-from-cyber-threats-de2da300-dbb6-4725-bb12-b85a9d296e75" target="_blank">10 melhores formas de proteger o Microsoft 365 Business</a></p>
+                                                 <P><a href="https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data"target="_blank">10 melhores formas de proteger o Microsoft 365 Business</a></p>
                                                 <P><a href="security-features.md" target="_blank">Obter mais informações sobre funcionalidades de segurança</a></p>
+                                                <P><a href="remove-company-data.md" target="_blank">Remover dados de dispositivos</a></p>
+                                                <P><a href="reset-devices-to-factory-settings.md" target="_blank">Repor dispositivos</a></p>
                                                 </div>
                                         </div>
                                     </div>
@@ -112,7 +119,6 @@ ms.locfileid: "32278503"
                                             </div>
                                             <div class="cardText">
                                                 <h3>Utilize</h3>
-                                                <P><a href="set-up-mobile-devices.md" target="_blank">Configurar dispositivos móveis</a></p>
                                                 <P><a href="https://support.office.com/office-training-center" target="_blank">Ajude os utilizadores a começar a utilizar com o Office</a></p>
                                                 <P><a href="https://www.microsoft.com/itpro/windows-10/end-user-readiness" target="_blank">Ajude os utilizadores a mudar para o Windows 10</a></p>
                                                 <P><a href="https://docs.microsoft.com/intune-user-help/use-managed-devices-to-get-work-done" target="_blank">Formação de Intune</a></p>
@@ -127,14 +133,14 @@ ms.locfileid: "32278503"
                                         <div class="card">
                                             <div class="cardImageOuter">
                                                 <div class="cardImage">
-                                                    <img src="https://docs.microsoft.com/media/logos/logo_Windows.svg" alt="Windows logo" />
+                                                    <img src="https://docs.microsoft.com/en-us/office/media/icons/success-blue.svg" alt="Success logo" />
                                                 </div>
                                             </div>
                                             <div class="cardText">
-                                                <h3>Windows 10</h3>
-                                                <P><a href="set-up-windows-devices.md" target="_blank">Configurar dispositivos Windows 10</a></p>
-                                                <P><a href="remove-company-data.md" target="_blank">Remover dados de dispositivos</a></p>
-                                                <P><a href="reset-devices-to-factory-settings.md" target="_blank">Repor dispositivos</a></p>
+                                                <h3>Recursos para parceiros</h3>
+                                                <P><a href="get-microsoft-365-business.md" target="_blank">Obter Microsoft 365 Business a partir do Centro de parceiros</a></p>
+                                                <P><a href="https://www.microsoft.com/microsoft-365/partners/business" target="_blank">Página de parceiros Microsoft 365</a></p>
+                                                <P><a href="https://www.microsoft.com/microsoft-365/partners/resources/microsoft-365-business-licensing-deck" target="_blank">Pavimento de licenciamento do Microsoft 365 Business</a></p>
                                             </div>
                                         </div>
                                     </div>
@@ -154,9 +160,10 @@ ms.locfileid: "32278503"
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
-                                                    <h3>Obter ajuda de um parceiro da Microsoft</h3>
+                                                    <h3>Precisa de ajuda?</h3>
                                                     <P><a href="https://www.microsoft.com/solution-providers/search" target="_blank">Localizar um parceiro</a></p>
-                                                    <P><a href="https://www.microsoft.com/microsoft-365/partners/business" target="_blank">Recursos para parceiros</a></p>
+                                                    <P><a href="https://support.office.com/article/Contact-support-for-business-products-Admin-Help-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b" target="_blank">Contacte o suporte para o Office 365</a></p>
+                                                    <P><a href="https://techcommunity.microsoft.com/t5/Small-and-Medium-Businesses/ct-p/SMB" target="_blank">Comunidade do tech de pequenas e médias empresas</a></p>
                                                 </div>
                                             </div>
                                         </div>
@@ -172,10 +179,9 @@ ms.locfileid: "32278503"
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
-                                                    <h3>Necessita de suporte?</h3>
-                                                     <P><a href="https://azure.microsoft.com/support/options/" target="_blank">Azure</a></p>
-                                                     <P><a href="https://support.office.com/article/Contact-support-for-business-products-Admin-Help-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b" target="_blank">Office 365</a></p>
-                                                     <P><a href="http://support.microsoft.com/products/windows" target="_blank">Windows 10</a></p>
+                                                    <h3>Documentação de ajuda</h3>
+                                                     <P><a href="https://docs.microsoft.com/office/admins-itprofessionals" target="_blank">Docs de admin do Office</a></p>
+                                                     <P><a href="https://docs.microsoft.com/intune/index">Documentos do Microsoft Intune</a></p>
                                                 </div>
                                             </div>
                                         </div>
