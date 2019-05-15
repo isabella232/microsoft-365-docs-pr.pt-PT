@@ -3,7 +3,7 @@ title: Acesso local recursos a partir de um dispositivo associado AD Azure no Mi
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ms.collection: M365-subscription-management
@@ -17,12 +17,12 @@ search.appverid:
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: Obter informações sobre como obter acesso a recursos no local, tais como aplicações de linha de negócios, partilhas de ficheiros e impressoras a partir de um Azure Active Directory associado Windows 10 dispositivo.
-ms.openlocfilehash: 2be8eb16b9d17547d3bc4c3e4fe499b4c14117a4
-ms.sourcegitcommit: db1dfb2df2c2f7beced3b57bc772d106c189e88a
+ms.openlocfilehash: fa3cf640e799feb81ff08c5b7b81d57f707e0152
+ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "33660275"
+ms.lasthandoff: 05/15/2019
+ms.locfileid: "34072036"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business"></a>Acesso local recursos a partir de um dispositivo associado AD Azure no Microsoft 365 Business
 

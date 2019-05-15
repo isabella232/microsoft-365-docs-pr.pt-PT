@@ -3,7 +3,7 @@ title: Verificar definições de proteção de aplicações em PCs Windows 10
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
@@ -21,12 +21,12 @@ search.appverid:
 - MET150
 ms.assetid: fae8819d-7235-495f-9f07-d016f545887f
 description: Obter informações sobre como validar as definições de protecção de aplicações Microsoft 365 Business Windows 10 dispositivos.
-ms.openlocfilehash: 5ab91d65fa7bd40ebc118df217c9711b7bbfe7a4
-ms.sourcegitcommit: 81273a9df49647286235b187fa2213c5ec7e8b62
+ms.openlocfilehash: 15c2d54c6281369875d15985c9d4ed16f0114176
+ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32286768"
+ms.lasthandoff: 05/15/2019
+ms.locfileid: "34072243"
 ---
 # <a name="validate-device-protection-settings-on-windows-10-pcs"></a>Validar as definições de protecção do dispositivo no Windows 10 PCs
 
@@ -54,7 +54,7 @@ Depois de [configurar as políticas de dispositivos](protection-settings-for-win
     
     ![As definições de protecção contra vírus e ameaças estão a cinzento.](media/9ca68d40-a5d9-49d7-92a4-c581688b5926.png)
   
-## <a name="related-topics"></a>Tópicos Relacionados
+## <a name="related-topics"></a>Tópicos relacionados
 
 [Recursos e documentação do Microsoft 365 Business](https://go.microsoft.com/fwlink/p/?linkid=853701)
   
