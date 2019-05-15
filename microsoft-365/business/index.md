@@ -2,8 +2,8 @@
 layout: HubPage
 hide_bc: true
 ms.topic: hub-page
-ms.author: robmazz
-author: robmazz
+ms.author: sirkkuw
+author: sirkkuw
 keywords: Microsoft 365 Business, Microsoft 365, negócio, SMB, pequena para a empresa de média dimensão, documentação de Microsoft 365 Business, documentos, documentação, informações técnicas
 localization_priority: Normal
 audience: microsoft-business
@@ -11,12 +11,12 @@ ms.prod: microsoft-365-business
 ms.collection: M365-subscription-management
 title: Recursos empresariais do Microsoft 365
 description: Obter informações sobre como planear, implementar e utilizar Microsoft Office 365, Windows 10 e mobilidade empresa + segurança em conjunto na empresa para uma infra-estrutura de integradas e segura que permite que o trabalho em equipa e desbloqueia a criatividade.
-ms.openlocfilehash: 3c5cc341734896cb9a42565c8647f3f5ac37fc5b
-ms.sourcegitcommit: db1dfb2df2c2f7beced3b57bc772d106c189e88a
+ms.openlocfilehash: 1a2ce52c9132a63ef6535e287dc2e37421984b61
+ms.sourcegitcommit: f420a5cdedf3ec2babc6d8ad7e7c79da0b08e115
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "33660297"
+ms.lasthandoff: 05/13/2019
+ms.locfileid: "33966964"
 ---
 <div id="main" class="v2">
     <div class="container">
@@ -61,7 +61,7 @@ ms.locfileid: "33660297"
                                             </div>
                                             <div class="cardText">
                                                 <h3>Configurar</h3>
-                                              <P><a href="get-microsoft-365-business.md" target="_blank">Obter Microsoft 365 Business</a></p>
+                                              <P><a href="sign-up.md" target="_blank">Obter Microsoft 365 Business</a></p>
                                                <P><a href="set-up.md" target="_blank">Configurar o Microsoft 365 Business</a></p>
                                                 <P><a href="set-up-windows-devices.md" target="_blank">Configurar dispositivos Windows 10</a></p>
                                                 <P><a href="set-up-mobile-devices.md" target="_blank">Configurar dispositivos Android e iPhone</a></p>
