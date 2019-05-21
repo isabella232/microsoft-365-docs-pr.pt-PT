@@ -10,12 +10,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business, Microsoft 365, SMB, FAQ, perguntas mais frequentes, respostas, business
 ms.date: 06/08/2018
-ms.openlocfilehash: 9757abb98f4f1c2612f20c75fffd5da10bbbc381
-ms.sourcegitcommit: b05aa01a72c3bc257a9f3b06a7779d88a89758c6
+ms.openlocfilehash: 6ef500c9b0c9e83e77e46c1eaf7057e3e46cfe0d
+ms.sourcegitcommit: 5c6bbf6dd7020b462b56b644b5a0fcc0217d6a53
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "33657213"
+ms.lasthandoff: 05/20/2019
+ms.locfileid: "34276229"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>Perguntas mais frequentes sobre o negócio Microsoft 365
 
@@ -80,7 +80,7 @@ Diversos empregados preferem utilizar dos seus telemóveis ou mesas de dados par
 Microsoft 365 Business oferece aos clientes um meio simple mas poderoso de permitir que os empregados para utilizar os dispositivos de pessoais para o trabalho ao fornecer o negócio com a capacidade para impedir que os dispositivos de acesso, reter, e/ou partilha de informações comerciais . Mais especificamente: 
 * **Protecção de aplicação para aplicações móveis Office** ajuda a proteger dados do Office, incluindo correio electrónico, calendário, contactos e documentos em iOS e Android dispositivos móveis, impondo políticas como eliminar automaticamente os dados de negócio após um determinado período de tempo de não ligar ao serviço, que exijam que informações são armazenadas apenas a OneDrive das empresas, que exijam uma verificação do PIN/impressões digitais para aceder a aplicações do Office e evitar dados de empresa sejam copiadas a partir de uma aplicação do Office em aplicações pessoais. Gestão de aplicações móveis para outras aplicações móveis através de Intune também está disponível para subscritores do Microsoft 365 Business. 
   
-* Empresas de aallows de **Gestão de dispositivo para o Windows 10 PCs** optar por definir e impor capacidades tais como o Windows Defender protecção contra malware, actualizações automáticas e a desactivação do ecrãs após um determinado período de tempo. Além disso, perdidos ou roubados dispositivos Windows 10 podem ser totalmente limpo de aplicações empresariais e de dados através do Centro de administração. 
+* **Gestão de dispositivo para o Windows 10 PCs** permite às empresas optar por definir e impor capacidades tais como o Windows Defender protecção contra malware, actualizações automáticas e a desactivação do ecrãs após um determinado período de tempo. Além disso, perdidos ou roubados dispositivos Windows 10 podem ser totalmente limpo de aplicações empresariais e de dados através do Centro de administração. 
 
 * Funcionalidades de **Gestão de dispositivos para iOS, Android & MacOS** ajuda a gerir de forma segura uma ecossistema de diversos dispositivos que inclui dispositivos iOS, Android, Windows e macOS de empresas. 
 
