@@ -7,17 +7,18 @@
 ### [Descrição geral do programa de configuração](set-up-overview.md)
 ### [Configurar o Microsoft 365 Business](set-up.md)
 ### [Actualizar para o Windows Update criadores Pro](upgrade-to-windows-pro-creators-update.md)
-### [Configurar dispositivos móveis](set-up-mobile-devices.md)
-### [Configurar dispositivos do Windows](set-up-windows-devices.md)
 ### [Preparar para implementação de cliente do Office](prepare-for-office-client-deployment.md)
 ### [Automático instalar ou desinstalar o Office](auto-install-or-uninstall-office.md)
 ### [Aceder a recursos no local]()
 #### [Activar dispositivos associados ao domínio de Windows 10 a serem geridas](manage-windows-devices.md)
 #### [Aceder a recursos de um dispositivo associado AD Azure](access-resources.md)
+## Configuração do dispositivo de utilizador
+### [Configurar dispositivos móveis](set-up-mobile-devices.md)
+### [Configurar dispositivos do Windows](set-up-windows-devices.md)
 ## [Seguro](security-features.md)
 ### [Proteger o seu negócio](/Office365/Admin/security-and-compliance/secure-your-business-data?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
 ### [Configurar funcionalidades de segurança avançada](set-up-advanced-security.md)
-## Utilizadores
+## Gerir utilizadores
 ### [Add users](add-users-m365b.md)
 ### [Remover um empregado](/Office365/Admin/add-users/remove-former-employee?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
 ## Gerir dispositivos
