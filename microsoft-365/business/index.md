@@ -11,12 +11,12 @@ ms.prod: microsoft-365-business
 ms.collection: M365-subscription-management
 title: Recursos empresariais do Microsoft 365
 description: Obter informações sobre como planear, implementar e utilizar Microsoft Office 365, Windows 10 e mobilidade empresa + segurança em conjunto na empresa para uma infra-estrutura de integradas e segura que permite que o trabalho em equipa e desbloqueia a criatividade.
-ms.openlocfilehash: 1a2ce52c9132a63ef6535e287dc2e37421984b61
-ms.sourcegitcommit: f420a5cdedf3ec2babc6d8ad7e7c79da0b08e115
+ms.openlocfilehash: a7b6ef6b3c86868ffd9dd2ab912c427911075911
+ms.sourcegitcommit: 7ac06563c6ff034358e8fd3f9298fc426187ade2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/13/2019
-ms.locfileid: "33966964"
+ms.lasthandoff: 05/31/2019
+ms.locfileid: "34653052"
 ---
 <div id="main" class="v2">
     <div class="container">
@@ -99,7 +99,6 @@ ms.locfileid: "33966964"
                                             </div>
                                             <div class="cardText">
                                                 <h3>Proteger dispositivos e dados de negócio</h3>
-                                                 <P><a href="https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data"target="_blank">10 melhores formas de proteger o Microsoft 365 Business</a></p>
                                                 <P><a href="security-features.md" target="_blank">Obter mais informações sobre funcionalidades de segurança</a></p>
                                                 <P><a href="remove-company-data.md" target="_blank">Remover dados de dispositivos</a></p>
                                                 <P><a href="reset-devices-to-factory-settings.md" target="_blank">Repor dispositivos</a></p>
