@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Obter informações sobre como configurar o Microsoft 365 Business.
-ms.openlocfilehash: 42a35810531b6abd5b22e5fdbce2c0cfea57b8d7
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+ms.openlocfilehash: ac9c8b828ff131a15bf057fa8bdc0bf56dd00987
+ms.sourcegitcommit: 75b97d1ff617bc4b1b0ef9135dfe6a8842ea1b52
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34074596"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35772573"
 ---
 # <a name="set-up-microsoft-365-business-in-the-setup-wizard"></a>Configurar o Microsoft 365 Business no Assistente de configuração
 
@@ -123,4 +123,4 @@ As políticas que configura no assistente são aplicadas automaticamente a um [g
 Se optar por instalar automaticamente aplicações do Office no durante o conjunto de cópias, as aplicações instalará nos dispositivos Windows 10 depois dos utilizadores têm sessão iniciada no Azure AD dos dispositivos do Windows com as respectivas credenciais de trabalho.
 Para instalar o Office iOS móvel ou dispositivos Android, consulte [Configurar dispositivos móveis para utilizadores empresariais do Microsoft 365](set-up-mobile-devices.md).
 
-Pode também instalar o Office individualmente. Consulte a [instalar o Office num PC ou Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc471665) para obter instruções.
+Pode também instalar o Office individualmente. Consulte a [instalar o Office num PC ou Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658) para obter instruções.
