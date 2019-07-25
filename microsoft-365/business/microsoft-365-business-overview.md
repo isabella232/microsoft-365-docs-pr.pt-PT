@@ -21,12 +21,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Obter informações sobre como configurar o Microsoft 365 Business.
-ms.openlocfilehash: 6fd328ebd4a8d3fbcde836c4aa87b56b9775c3cd
-ms.sourcegitcommit: 64a7511d8c5ef527673b4c05753e6bb52ce9ab86
+ms.openlocfilehash: 64cfa460311af6cdafb637ceb3415511e003e394
+ms.sourcegitcommit: dd0d99d2ff930cd1777d6704f4d88a70adc9ca74
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "35114968"
+ms.lasthandoff: 07/24/2019
+ms.locfileid: "35853155"
 ---
 # <a name="overview-of-microsoft-365-business"></a>Descrição geral de negócio Microsoft 365
 
@@ -36,7 +36,7 @@ O Microsoft 365 Empresas é um conjunto abrangente de ferramentas de colaboraç�
   
 Microsoft 365 Business foi concebido para um máximo de 300 licenças. Caso necessite de mais licenças, consulte a documentação sobre o [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986) para obter mais informações.
 
-Consulte a [Descrição do serviço Microsoft 365 Business](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-business-service-description) para a lista completa de funcionalidades.
+Consulte a [Descrição do serviço Microsoft 365 Business](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) para a lista completa de funcionalidades.
   
 ## <a name="small-business-security-needs"></a>Necessidades de segurança de pequena empresa
 
