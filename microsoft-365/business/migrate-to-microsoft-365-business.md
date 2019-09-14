@@ -1,5 +1,5 @@
 ---
-title: Migrar para o Microsoft 365 Business do prémio de negócio do Office 365
+title: Migrar para o Microsoft 365 Business do Office 365 Business Premium
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -18,99 +18,99 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
-description: Obter informações sobre como mover o seu negócio para Microsoft 365 Business.
-ms.openlocfilehash: e4bb18904355663f9f26f58a3fd3aaf7420e5378
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Saiba como mover sua empresa para o Microsoft 365 Business.
+ms.openlocfilehash: a3f77bd18b9b900151c50f923b705e4ff0150519
+ms.sourcegitcommit: 91ff1d4339f0f043c2b43997d87d84677c79e279
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34072746"
+ms.lasthandoff: 09/14/2019
+ms.locfileid: "36982447"
 ---
-# <a name="migrate-to-microsoft-365-business-from-office-365-business-premium"></a>Migrar para o Microsoft 365 Business do prémio de negócio do Office 365
+# <a name="migrate-to-microsoft-365-business-from-office-365-business-premium"></a>Migrar para o Microsoft 365 Business do Office 365 Business Premium
 
-Se já tiver o Office 365 para a subscrição de negócio, por exemplo, Office 365 Business Premium, pode facilmente adicionar licenças à Microsoft 365 Business e atribui-los a alguns ou todos os utilizadores.
+Se já tiver uma subscrição do Office 365 para empresas, por exemplo, Office 365 Business Premium, pode adicionar facilmente licenças ao Microsoft 365 Business e atribuí-las a algumas ou a todos os utilizadores.
   
 > [!NOTE]
-> Não é possível utilizar o botão de [planos de parâmetro](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a?.aspx#switchbutton) para actualizar para o Microsoft 365 Business ainda. 
+> Você não pode usar o botão de [planos de switch](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a?.aspx#switchbutton) para atualizar para o Microsoft 365 Business ainda. 
   
-## <a name="add-microsoft-365-business-licenses"></a>Adicionar licenças Microsoft 365 Business
+## <a name="add-microsoft-365-business-licenses"></a>Adicionar licenças do Microsoft 365 Business
 
-Tem duas formas de obter o Microsoft 365 Business. Se tiver um cônjuge, ele ou ela pode adquirir Microsoft 365 Business para lhe do [Centro de parceiros da Microsoft](get-microsoft-365-business.md). O parceiro também pode ajudar a transição para o Microsoft 365 Business.
+Você tem duas maneiras de obter o Microsoft 365 Business. Um parceiro pode comprar o Microsoft 365 Business para você no [Microsoft Partner Center](get-microsoft-365-business.md). Seu parceiro também pode ajudá-lo a fazer a transição para o Microsoft 365 Business.
   
-Se gerir a sua subscrição, pode [contactar a vendas](https://www.microsoft.com/microsoft-365/business) para adquirir licenças Microsoft 365 Business. 
+Se você gerenciar sua própria assinatura, poderá [entrar em contato com as vendas](https://www.microsoft.com/microsoft-365/business) para adquirir as licenças do Microsoft 365 Business. 
   
-Consulte para [Adicionar, alterar ou eliminar um parceiro de classificação de subscrição](https://support.office.com/article/f86e8177-936e-491e-9024-44dea2b296ff) para saber como pode começar a trabalhar com um parceiro. 
+Consulte [Adicionar, alterar ou excluir um parceiro de conselheiro de assinatura](https://support.office.com/article/f86e8177-936e-491e-9024-44dea2b296ff) para descobrir como você pode começar a trabalhar com um parceiro. 
   
-Se for dada uma hiperligação para adquirir as licenças, irá percorrer um assistente semelhante ao abaixo apresentado. Escolha **Sim, adicioná-lo para a minha conta**. Também pode escolher o número de licenças e o método de pagamento.
+Se você for dado um link para comprar suas licenças, você vai percorrer um assistente como o abaixo. Escolha **Sim, adicioná-lo à minha conta**. Você também pode escolher o número de licenças e o método de pagamento.
   
-![A actividade de 365 Microsoft direct comprar hiperligação, optar por adicionar a sua conta actual ou inscrever-se para uma nova conta.](media/8bc54fd1-9cab-44d5-af91-c471e89aea46.png)
+![No link de compra direta do Microsoft 365 Business, opte por adicionar à sua conta atual ou Inscreva-se em uma nova conta.](media/8bc54fd1-9cab-44d5-af91-c471e89aea46.png)
   
-## <a name="assign-microsoft-365-licenses"></a>Atribuir licenças Microsoft 365
+## <a name="assign-microsoft-365-licenses"></a>Atribuir licenças do Microsoft 365
 
-1. Quando tiver adquirido licenças de novas e esta é a primeira vez que fez, a faixa do programa de configuração para Microsoft 365 Business será apresentado na parte superior do Centro de administração.
+1. Depois de ter comprado novas licenças, e esta é a primeira vez que você fez, o banner de configuração para o Microsoft 365 Business será exibido na parte superior do centro de administração.
     
     > [!NOTE]
-    > A faixa do programa de configuração é uma oportunidade para adicionar novos utilizadores, um novo domínio e migrar o correio electrónico para novos utilizadores. Se não tenciona efectuar um, deve ainda avança no assistente e escolha as opções predefinidas para o tornar desaparecem da home page da administração. 
+    > O banner de configuração é uma oportunidade para adicionar novos usuários, um novo domínio e migrar emails para novos usuários. Se você não planeja fazer qualquer, você ainda deve percorrer o assistente e escolher as opções padrão para fazê-lo desaparecer da home page do administrador. 
   
-   ![Escolha a configuração de início da actividade de 365 Microsoft está pronta para definir a faixa.](media/8d3b0d97-7cca-497f-9364-4b00ad670209.png)
+   ![Escolha Iniciar configuração no Microsoft 365 Business está pronto para configurar banner.](media/8d3b0d97-7cca-497f-9364-4b00ad670209.png)
   
     Selecione **Iniciar configuração**.
     
-2. Na página **Personalizar o início de sessão no e correio electrónico** , pode adicionar um domínio seleccionando **ligar um domínio é já proprietário** se pretender utilizar esta oportunidade para adicionar outro domínio à sua subscrição. 
+2. Na página **personalizar sua inscrição e email** , você pode adicionar um domínio escolhendo **conectar um domínio que você já possui** se quiser usar essa oportunidade para adicionar outro domínio à sua assinatura. 
     
-    Se já tiver configurado um domínio, o segundo campo indicará que e indicará a **continuar a utilizar** \< _o nome de domínio_ \> **para correio electrónico e o início de sessão**.   Se não tiver configurado um domínio com a subscrição, vai indicar **continuar a utilizar** \< _name.onmicrosoft.com a empresa_ \> **para correio electrónico e o início de sessão**.  
+    Se você já configurou um domínio, o segundo campo indicará que e dirá **continuar usando** \< _seu nome_ \> **de domínio para email e entrando**.   Se você não configurou um domínio com sua assinatura, ele dirá **continuar usando** \< _sua empresa Name.onmicrosoft.com_ \> **para e-mail e entrando**.  
     
     Selecione **Seguinte**.
     
-    ![Na página correio electrónico e personalizar o início de sessão no, optar por adicionar um domínio ou utilize o que estiver a utilizar.](media/c3f5cfb2-1189-4d2f-803b-c9feb008a7a3.png)
+    ![Na página personalizar sua inscrição e email, escolha Adicionar um domínio ou use o que você está usando.](media/c3f5cfb2-1189-4d2f-803b-c9feb008a7a3.png)
   
-3. Na página **Adicionar novos utilizadores** , pode adicionar novos utilizadores, se tiver novos empregados que pretende atribuir as licenças Microsoft 365 Business ao. 
+3. Na página **Adicionar novos usuários** , você pode adicionar novos usuários, se você tiver novos funcionários aos quais deseja atribuir as licenças do Microsoft 365 Business. 
     
-    Se não tiver novos empregados para adicionar e atribuir licenças a utilizadores existentes, seleccione **seguinte**.
+    Se não tiver novos funcionários para adicionar e pretender atribuir licenças a utilizadores existentes, escolha **seguinte**.
     
-4. Sobre o * * migrar mensagens de correio electrónico * * página, pode optar por migrar de correio electrónico para qualquer um dos novos utilizadores que adicionou no passo 3. Também pode ignorar este passo. Selecione **Seguinte**.
+4. Na página * * migrar mensagens de email * *, você pode optar por migrar emails para qualquer um dos novos usuários adicionados na etapa 3. Você pode pular esta etapa também. Selecione **Seguinte**.
     
-5. Na última página, escolha a **Ir para o Centro admin**e continuar a configuração não existe.
+5. Na última página, escolha **ir para o centro de administração**e continuar a configuração lá.
     
-6. No Centro de administração, vá para **utilizadores** \> **os utilizadores activos**.
+6. No centro de administração, **aceda a** \> utilizadores **activos**.
     
-7. Seleccione o utilizador a quem pretende atribuir a licença do **Microsoft 365 Business** para e, em seguida, escolha **Editar** junto de **Licenças de produto**.
+7. Selecione o usuário para o qual você deseja atribuir a licença de **negócios do Microsoft 365** e, em seguida, escolha **Editar** próximo a **licenças de produto**.
     
-    ![Na ficha de utilizador, escolha Editar junto de licenças de produto.](media/be0fe2d8-7ff8-447c-88f6-d212ed78451c.png)
+    ![No cartão de usuário, escolha Editar ao lado de licenças de produto.](media/be0fe2d8-7ff8-447c-88f6-d212ed78451c.png)
   
-8. Em **licenças de produto** do diapositivo **Microsoft 365 Business** **nas** \> **Guardar**e, em seguida, **Fechar**.
+8. Em **licenças de produto** deslize **Microsoft 365 Business** **para** \> **salvar**e, em seguida, **feche**.
     
-Assim que adquiriu a licença inicial para o Microsoft 365 Business, agora também pode adicionar mais em de **Facturação** \> **Serviços de compra**. Na página de **Serviços de compra** pode clique nas reticências no cartão de **Visita de 365 da Microsoft** e seleccione **Alterar quantidade de licenças** a adquirir mais. 
+Depois de adquirir a licença inicial para o Microsoft 365 Business, agora você também pode adicionar mais em **** \> **serviços de compra**de faturamento. Na página de **serviços de compra** , você pode clicar nas reticências no cartão de visita do **Microsoft 365** e escolher **alterar a quantidade de licença** para comprar mais. 
   
-## <a name="protect-user-devices-and-files"></a>Proteger ficheiros e dispositivos de utilizador
+## <a name="protect-user-devices-and-files"></a>Proteja os dispositivos e arquivos do usuário
 
-Depois de atribuir licenças para o Microsoft 365 Business, pode começar a proteger dispositivos e ficheiros dos utilizadores.
+Depois de atribuir licenças ao Microsoft 365 Business, você pode começar a proteger os dispositivos e arquivos dos usuários.
   
-1. No Centro de administração, em nav esquerda, vá para **dispositivos de** \> **políticas**.
+1. No centro de administração, no NAV esquerdo, vá para **políticas**de **dispositivos** \> .
     
-2. Na página **políticas de dispositivo** , seleccione **Adicionar**.
+2. Na página **diretivas de dispositivo** , escolha **Adicionar**.
     
-3. No painel **Adicionar política** atribua a política de um nome e, em seguida, escolha um **tipo de política** da lista pendente. 
+3. No painel **Adicionar política** , dê um nome à política e escolha um tipo de **política** no menu suspenso. 
     
-    Pode configurar políticas de aplicação para proteger ficheiros no Android e iPhone dispositivos, bem como o Windows 10 e pode configurar políticas de configuração do dispositivo para a empresa propriedade Windows 10 dispositivos. Consulte as hiperligações seguintes para obter detalhes:
+    Você pode configurar políticas de aplicativo para proteger arquivos em dispositivos Android e iPhone, bem como o Windows 10, e você pode configurar políticas de configuração de dispositivo para dispositivos Windows 10 de propriedade da empresa. Consulte os seguintes links para obter detalhes:
     
   - [Configurar as definições de proteção de aplicações para dispositivos Android ou iOS](app-protection-settings-for-android-and-ios.md)
     
   - [Configurar as definições de proteção de aplicações para dispositivos Windows 10](protection-settings-for-windows-10-devices.md)
     
-  - [Definir definições de protecção do dispositivo para o Windows 10 PCs](protection-settings-for-windows-10-pcs.md)
+  - [Definir configurações de proteção do dispositivo para PCs com Windows 10](protection-settings-for-windows-10-pcs.md)
     
-   ![No painel de política de adicionar, introduza um nome para o mesmo e seleccione o tipo de política a partir do menu pendente.](media/76ef37e4-1d18-4f34-8a0f-391ab1d0ae2b.png)
+   ![No painel Adicionar política, insira um nome para ele e escolha o tipo de política no menu suspenso.](media/76ef37e4-1d18-4f34-8a0f-391ab1d0ae2b.png)
   
-4. Depois de configurar políticas, e os seus funcionários podem configurar dispositivos:
+4. Depois de configurar políticas, você e seus funcionários podem configurar dispositivos:
     
-  - Se o Windows ainda não estão na actualização do Windows Pro criador, terá de [actualizar para Pro criadores de actualização do Windows](upgrade-to-windows-pro-creators-update.md).
+  - Se o Windows ainda não estiver na atualização do Windows pro Creator, será necessário [atualizá-los para a atualização do Windows pro Creators](upgrade-to-windows-pro-creators-update.md).
     
-  - Consulte [Configurar dispositivos do Windows para utilizadores empresariais do Microsoft 365](set-up-windows-devices.md) para obter os passos para dispositivos do Windows. 
+  - Consulte [configurar dispositivos Windows para usuários do Microsoft 365 Business](set-up-windows-devices.md) para obter as etapas para dispositivos Windows. 
     
-  - Consulte [Configurar dispositivos móveis para utilizadores empresariais do Microsoft 365](set-up-mobile-devices.md) para obter os passos para telefones Android e iPhones. 
+  - Consulte [configurar dispositivos móveis para usuários do Microsoft 365 Business](set-up-mobile-devices.md) para obter as etapas para telefones e iPhones Android. 
     
-5. Para instalar automaticamente as aplicações de cliente do Office, consulte [preparar a implementação de cliente do Office por negócio do Microsoft 365](prepare-for-office-client-deployment.md) e [automaticamente instalar ou desinstalar o Office no Windows 10 dispositivos](auto-install-or-uninstall-office.md).
+5. Para instalar automaticamente aplicativos cliente do Office, consulte [preparar para implantação de cliente do Office pelo Microsoft 365 Business](prepare-for-office-client-deployment.md) e [instalar ou desinstalar automaticamente o Office em dispositivos Windows 10](auto-install-or-uninstall-office.md).
     
 
 

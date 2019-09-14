@@ -1,5 +1,5 @@
 ---
-title: Acesso local recursos a partir de um dispositivo associado AD Azure no Microsoft 365 Business
+title: Acessar recursos locais de um dispositivo ingressado no Azure AD no Microsoft 365 Business
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -16,40 +16,45 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
-description: Obter informações sobre como obter acesso a recursos no local, tais como aplicações de linha de negócios, partilhas de ficheiros e impressoras a partir de um Azure Active Directory associado Windows 10 dispositivo.
-ms.openlocfilehash: fa3cf640e799feb81ff08c5b7b81d57f707e0152
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Saiba como obter acesso a recursos locais, como aplicativos de linha de negócios, compartilhamentos de arquivos e impressoras de um dispositivo do Windows 10 ingressado no Azure Active Directory.
+ms.openlocfilehash: ab9049e78617372463b8446dc8f8bc0089d8c117
+ms.sourcegitcommit: 91ff1d4339f0f043c2b43997d87d84677c79e279
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34072036"
+ms.lasthandoff: 09/14/2019
+ms.locfileid: "36981667"
 ---
-# <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business"></a>Acesso local recursos a partir de um dispositivo associado AD Azure no Microsoft 365 Business
+# <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business"></a>Acessar recursos locais de um dispositivo ingressado no Azure AD no Microsoft 365 Business
 
-Qualquer dispositivo Windows 10 Azure do Active Directory associado terão acesso a todos os recursos baseada na nuvem, tais como as suas aplicações do Office 365 e pode ser protegido por negócio do Microsoft 365. Para também permitir o acesso a recursos no local, como aplicações, partilhas de ficheiros e impressoras de linha de negócio (LOB), terá de sincronizar no local, Active Directory com o Active Directory de Azure utilizando [Azure AD ligar](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect). Consulte [Introdução à gestão de dispositivos no Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/device-management-introduction) para obter mais informações. 
-  
-## <a name="run-azure-ad-connect"></a>Executar Azure AD ligar
+Qualquer dispositivo Windows 10 que é o Azure Active Directory ingressado terá acesso a todos os recursos baseados em nuvem, como seus aplicativos do Office 365 e pode ser protegido pelo Microsoft 365 Business. Para permitir também o acesso a recursos locais, como aplicativos LOB (linha de negócios), compartilhamentos de arquivos e impressoras, você deve sincronizar seu Active Directory local com o Azure Active Directory usando o [Azure ad Connect](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect). O vídeo a seguir detalha as etapas de como configurá-lo para o cenário mais comum.
+ 
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3C9hO]
 
-Conclua os seguintes passos para activar dispositivos de AD Azure associado da organização aceder a recursos no local.
+Consulte [introdução ao gerenciamento de dispositivos no Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/device-management-introduction) para saber mais.
+As etapas também são resumidas nas seções a seguir.
+
+## <a name="run-azure-ad-connect"></a>Executar o Azure AD Connect
+
+Conclua as etapas a seguir para permitir que os dispositivos ingressados no Azure AD da sua organização acessem recursos locais.
   
-1. Para sincronizar a utilizadores, grupos e contactos a partir do Active Directory local do Active Directory Azure, execute o Assistente de sincronização de directório e Azure AD ligar, como descrito em [Configurar a sincronização de directório para o Office 365](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846).
+1. Para sincronizar os utilizadores, grupos e contactos do Active Directory local para o Azure Active Directory, execute o assistente de sincronização de directórios e o Azure AD Connect conforme descrito em [Configurar a sincronização de directórios para o Office 365](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846).
     
-2. Depois de concluída a sincronização de directório, certifique-se Windows 10 dispositivos da sua organização são AD Azure associado. Este passo é efectuado individualmente em cada dispositivo do Windows 10. Consulte [Configurar dispositivos do Windows para utilizadores empresariais do Microsoft 365](set-up-windows-devices.md) para obter detalhes. 
+2. Após a conclusão da sincronização de diretórios, certifique-se de que os dispositivos Windows 10 da sua organização estejam ingressados no Azure AD. Esta etapa é feita individualmente em cada dispositivo Windows 10. Consulte [configurar dispositivos Windows para usuários do Microsoft 365 Business](set-up-windows-devices.md) para obter detalhes. 
     
-3. Depois dos dispositivos de 10 de Windows Azure AD associado, cada utilizador deverá reiniciar os dispositivos e o início de sessão com as respectivas credenciais de Microsoft 365 Business. Todos os dispositivos terão agora acesso aos recursos do local bem.
+3. Depois que os dispositivos Windows 10 são ingressados no Azure AD, cada usuário deve reiniciar seus dispositivos e fazer logon com suas credenciais do Microsoft 365 Business. Todos os dispositivos agora terão acesso a recursos locais também.
     
-Não existem passos adicionais são necessários para aceder a recursos para Azure AD associado dispositivos no local. Esta é a funcionalidade incorporada disponível no Windows 10. 
+Não são necessárias etapas adicionais para obter acesso a recursos locais para dispositivos ingressados no Azure AD. Esta é a funcionalidade incorporada disponível no Windows 10. 
   
-Se a organização não estiver preparada para implementar na Azure AD associado dispositivo configuração acima descrito, considere a definição de [configuração do dispositivo híbrido Azure AD associado](manage-windows-devices.md).
+Se sua organização não estiver pronta para implantar na configuração de dispositivo ingressado no Azure AD descrita acima, considere configurar a [configuração de dispositivo ingressado no Azure ad híbrida](manage-windows-devices.md).
   
-### <a name="considerations-when-joining-your-windows-devices-to-azure-ad"></a>Considerações sobre quando colocar os dispositivos Windows Azure AD
+### <a name="considerations-when-joining-your-windows-devices-to-azure-ad"></a>Considerações ao ingressar em seus dispositivos Windows no Azure AD
 
-Se estiver AD Azure aderir a um dispositivo do Windows que foi anteriormente associados ao domínio ou num grupo de trabalho, terá de considerar as seguintes limitações:
+Se você estiver ingressado no Azure AD em um dispositivo Windows que tenha sido associado ao domínio anteriormente ou em um grupo de trabalho, você precisará considerar as seguintes limitações:
   
-- Quando adere a um dispositivo Azure AD, cria um novo utilizador sem fazer referência um perfil existente. Para corrigir este problema, perfis tem de ser migrados manualmente. Um perfil de utilizador contém informações como favoritos, ficheiros locais, as definições do browser, definições do menu Iniciar, etc. Uma abordagem melhor será localizar uma ferramenta de outros fabricantes para mapear os ficheiros existentes e as definições para o novo perfil
+- Quando um dispositivo do Azure AD ingressa, ele cria um novo usuário sem referenciar um perfil existente. Para corrigir isso, os perfis precisam ser migrados manualmente. Um perfil de usuário contém informações como favoritos, arquivos locais, configurações do navegador, configurações do menu Iniciar, etc. A melhor abordagem é encontrar uma ferramenta de terceiros para mapear arquivos e configurações existentes para o novo perfil
 
-- Se o dispositivo estiver a utilizar objectos de política de grupo (GPO), alguns GPOs poderão não ter um comparáveis [Configuração Service Provider](https://docs.microsoft.com/windows/configuration/provisioning-packages/how-it-pros-can-use-configuration-service-providers) (CSP) no Intune. Execute a [ferramenta MMAT](https://www.microsoft.com/download/details.aspx?id=45520) para localizar os CSPs comparáveis para os GPOs existentes.
+- Se o dispositivo estiver usando objetos de diretiva de grupo (GPO), alguns GPOs podem não ter um [provedor de](https://docs.microsoft.com/windows/configuration/provisioning-packages/how-it-pros-can-use-configuration-service-providers) serviços de configuração (CSP) comparável no Intune. Execute a [ferramenta Mmat](https://www.microsoft.com/download/details.aspx?id=45520) para localizar CSPs comparáveis para GPOs existentes.
 
-- Os utilizadores não conseguirão autenticar para aplicações que dependem de autenticação do Active Directory. Para lidar com avaliar a utilização de uma aplicação de legacy e considere a hipótese de actualizar para uma aplicação que utiliza autenticação moderna se possível.
+- Os usuários não poderão se autenticar em aplicativos que dependem da autenticação do Active Directory. Para lidar com isso, avalie o uso de um aplicativo herdado e considere a atualização para um aplicativo que usa o auth moderno, se possível.
 
-- Detecção de impressora do Active Directory não irá funcionar. Para corrigir este problema, forneça caminhos directa de impressora para todos os utilizadores ou tirar partido de [Impressão de nuvem de híbridos](https://docs.microsoft.com/windows-server/administration/hybrid-cloud-print/hybrid-cloud-print-deploy).
+- Descoberta de impressora do Active Directory não funcionará. Para corrigir isso, forneça caminhos de impressora diretos para todos os usuários ou aproveite a [impressão de nuvem híbrida](https://docs.microsoft.com/windows-server/administration/hybrid-cloud-print/hybrid-cloud-print-deploy).
