@@ -19,37 +19,40 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 9b4de218-f1ad-41fa-a61b-e9e8ac0cf993
-description: Obter informações sobre como activar o Microsoft 365 proteger local AD associado Windows 10 dispositivos.
-ms.openlocfilehash: af0e78ef6e79bfd612b11a16538e7afcd377ffb0
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Saiba como habilitar o Microsoft 365 para proteger dispositivos do Windows 10 ingressados no AD local.
+ms.openlocfilehash: 5cce4bc53f118560e31ad7e6048e4efcb49d662e
+ms.sourcegitcommit: c0f769244d05ad019ea2307c38d5543d7b1e5afd
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34071556"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36992235"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business"></a>Ativar a gestão, por parte do Microsoft 365 Business, de dispositivos associados ao domínio Windows 10
 
-Se a organização utilizar o Windows Server Active Directory no local, pode configurar o Microsoft 365 Business para proteger os dispositivos Windows 10, mantendo o acesso a recursos locais que requerem autenticação local. Pode configurar esta tarefa pela primeira sincronização do Active Directory com Azure Active Directory, seguido de registar os dispositivos de 10 de Windows Azure AD e inscrição-los para gestão do dispositivo móvel pelo Microsoft 365 Business.
-  
-## <a name="set-up-domain-joined-devices-to-be-managed-by-microsoft-365-business"></a>Configurar dispositivos de domínio a ser gerido pelo Microsoft 365 Business
+Se sua organização usa o Active Directory do Windows Server no local, você pode configurar o Microsoft 365 Business para proteger seus dispositivos Windows 10, enquanto ainda mantém o acesso a recursos locais que exigem autenticação local. Você pode configurá-lo sincronizando primeiro o Active Directory com o Azure Active Directory, seguido de registrar os dispositivos Windows 10 com o Azure AD e inscrevendo-os para o gerenciamento de dispositivos móveis pelo Microsoft 365 Business.
+O vídeo a seguir detalha as etapas de como configurá-lo para o cenário mais comum.
 
-Para configurar dispositivos de domínio da organização para beneficiar as capacidades fornecidas pelo Azure Active Directory para além do Active Directory no local, pode implementar **híbrido Azure AD associado dispositivos**. Estes são dispositivos que estão associados no local, Active Directory e o Azure Active Directory. Híbrido AD Azure associado dispositivos que podem ser protegidos e geridos pelo Microsoft 365 Business. 
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3C9hO]
   
-Conclua os passos abaixo para certificar os dispositivos Windows 10 híbrido AD Azure associado e geridos pelo Microsoft 365 Business.
+## <a name="set-up-domain-joined-devices-to-be-managed-by-microsoft-365-business"></a>Configurar dispositivos ingressados no domínio a serem gerenciados pelo Microsoft 365 Business
+
+Para configurar os dispositivos ingressados no domínio da sua organização para se beneficiarem dos recursos fornecidos pelo Azure Active Directory, além do Active Directory local, você pode implementar **dispositivos ingressados no Azure ad híbridos**. Estes são dispositivos que estão associados ao Active Directory no local e ao Azure Active Directory. Os dispositivos ingressados no Azure AD híbridos podem ser protegidos e gerenciados pelo Microsoft 365 Business. 
   
-1. Para sincronizar a utilizadores, grupos e contactos a partir do Active Directory local do Active Directory Azure, execute o Assistente de sincronização de directório e Azure Active Directory ligar conforme descrito em [Configurar a sincronização de directório para o Office 365](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846).
+Conclua as etapas abaixo para tornar seus dispositivos Windows 10 híbridos do Azure AD ingressados e gerenciados pelo Microsoft 365 Business.
+  
+1. Para sincronizar seus usuários, grupos e contatos do Active Directory local no Active Directory do Azure, execute o assistente de sincronização de diretórios e o Azure Active Directory Connect, conforme descrito em [Configurar a sincronização de diretórios para o Office 365](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846).
     
     > [!NOTE]
-    > Os passos são exactamente o mesmo para o Microsoft 365 Business. 
+    > As etapas são exatamente as mesmas para o Microsoft 365 Business. 
   
-2. Antes de concluir o passo 3 para permitir que dispositivos Windows 10 ser híbrido Azure AD associado, tem de certificar-se de que cumpre os seguintes pré-requisitos:
+2. Antes de concluir a etapa 3 para permitir que os dispositivos Windows 10 sejam ingressados no Azure AD híbrido, você precisa certificar-se de que atende aos seguintes pré-requisitos:
 
-   - Tem a versão mais recente do Azure AD ligar.
+   - Você está executando a versão mais recente do Azure AD Connect.
 
-   - Ligar Azure AD sincronizou todos os objectos de computador dos dispositivos que pretende ser híbrido Azure AD associado. Se os objectos de computador pertencem a unidades organizacionais específicas (UO), em seguida, certifique-se que estes UOs são definidos para sincronização no Azure AD ligar bem.
+   - O Azure AD Connect sincronizou todos os objetos de computador dos dispositivos que você deseja que sejam ingressados no Azure AD híbrido. Se os objetos de computador pertencerem a unidades organizacionais específicas (UO), certifique-se de que essas OUs estão definidas para sincronização no Azure AD conectar também.
     
-3. Registe existentes associados ao domínio Windows 10 dispositivos ser híbrido Azure AD associado e inscrevê-los para gestão do dispositivo móvel pelo Intune (Microsoft 365 Business):
+3. Registre dispositivos existentes do Windows 10 ingressados no domínio para ser híbrido do Azure AD ingressado e inscrevê-los para gerenciamento de dispositivos móveis pelo Intune (Microsoft 365 Business):
     
-4. Siga as instruções passo a passo de [como configurar dispositivos de Azure do Active Directory associado híbrida](https://go.microsoft.com/fwlink/p/?linkid=872870). Isto permitirá a sincronização do Active Directory no local associado a computadores Windows 10 e torná-los cloud preparado.
+4. Siga as instruções passo a passo em [como configurar os dispositivos ingressados no Azure Active Directory híbrido](https://go.microsoft.com/fwlink/p/?linkid=872870). Isso permitirá a sincronização de seu Active Directory local ingressado em computadores com Windows 10 e disponibilizá-los na nuvem.
     
-5. Para inscrever um dispositivo Windows 10 para a gestão do dispositivo móvel, consulte a [Inscrever-se um dispositivo Windows 10 com Intune, utilizando uma política de grupo](https://go.microsoft.com/fwlink/p/?linkid=872871) para obter instruções. Pode definir a política de grupo no computador local nível ou para operações em massa, pode criar esta definição de política de grupo no seu servidor de controlador de domínio.
+5. Para inscrever um dispositivo Windows 10 para gerenciamento de dispositivos móveis, consulte [inscrever um dispositivo Windows 10 com o Intune usando uma política de grupo](https://go.microsoft.com/fwlink/p/?linkid=872871) para obter instruções. Você pode definir a diretiva de grupo em um nível de computador local ou para operações em massa, você pode criar essa configuração de diretiva de grupo no seu servidor de controlador de domínio.
