@@ -10,12 +10,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business, Microsoft 365, SMB, FAQ, perguntas freqüentes, respostas, negócios
 ms.date: 06/08/2018
-ms.openlocfilehash: e722cc117d967796f0063b20e3d117b36b179f3e
-ms.sourcegitcommit: 14624abb412b6a34138a6266c994bb9cae411ad9
+ms.openlocfilehash: cc6cc924cf45fa19d7f91235515981b636abf77d
+ms.sourcegitcommit: bd17ee20da1685e5c660d5f99746c81c63a17b22
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "37028413"
+ms.lasthandoff: 09/24/2019
+ms.locfileid: "37141515"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>Perguntas freqüentes sobre o Microsoft 365 Business
 
@@ -43,6 +43,9 @@ O Microsoft 365 é uma solução integrada, que reúne as melhores ferramentas d
 * Instalação automática de aplicativos do Office em PCs com Windows 10 
 * Sempre atualizado Office + Windows 10 
 * Implantação simplificada de PCs com o Windows AutoPilot
+
+**Habilitando o acesso condicional**
+- Os clientes do Microsoft 365 Business podem habilitar o acesso condicional por meio das configurações do Azure Directory no portal do Azure. Para obter mais informações sobre como configurar políticas de acesso condicional, consulte o artigo [o que é o acesso condicional](https://docs.microsoft.com/azure/active-directory/conditional-access/overview).
 
 ### <a name="who-should-consider-adopting-microsoft-365-business"></a>Quem deve considerar adotar o Microsoft 365 Business? 
 O Microsoft 365 Business foi criado para clientes de pequeno e médio porte que têm pouco ou nenhum recurso de ti na equipe e desejam os melhores recursos de produtividade e colaboração do Office 365, juntamente com soluções de gerenciamento e segurança de dispositivos que salvaguardar os dados empresariais. O cliente Microsoft 365 Business está pronto para mover suas operações de ti para a nuvem e está interessado em manter uma postura pró-ativa para ajudar a proteger dados em dispositivos de empresa e de Propriedade do funcionário.
