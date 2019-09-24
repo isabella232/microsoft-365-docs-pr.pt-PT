@@ -1,5 +1,5 @@
 ---
-title: Funcionalidades de segurança e conformidade Microsoft 365 Business
+title: Recursos de conformidade e segurança do Microsoft 365 Business
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -18,108 +18,108 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
-description: Obter informações sobre as funcionalidades de segurança fornecidas com o Microsoft 365 Business.
-ms.openlocfilehash: bd61ad3bf1b34635a7b80f1c9ccf63fa98d31915
-ms.sourcegitcommit: 274af83139ad7da3aa33366c3323d533d95c7db4
+description: Saiba mais sobre os recursos de segurança que vêm com o Microsoft 365 Business.
+ms.openlocfilehash: 6b8fc215b95913e1beef3a3715119b947a7af406
+ms.sourcegitcommit: 7690c8bfdea6e6d245cfa7c5b09b913b092cde0a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/17/2019
-ms.locfileid: "35017528"
+ms.lasthandoff: 09/23/2019
+ms.locfileid: "37121164"
 ---
-# <a name="microsoft-365-business-security-and-compliance-features"></a>Funcionalidades de segurança e conformidade Microsoft 365 Business
+# <a name="microsoft-365-business-security-and-compliance-features"></a>Recursos de conformidade e segurança do Microsoft 365 Business
 
-Microsoft 365 Business oferece funcionalidades de segurança simplificada para ajudar a salvaguardar os dados em PCs, telefones e mesas de dados.
+O Microsoft 365 Business oferece recursos de segurança simplificados para ajudar a proteger seus dados em PCs, telefones e tablets.
     
-## <a name="microsoft-365-business-admin-center-security-features"></a>Funcionalidades de segurança do Microsoft 365 Business admin Centro
+## <a name="microsoft-365-business-admin-center-security-features"></a>Microsoft 365 Business Admin Center recursos de segurança
 
-![Faixa que apontam para https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
+[![Label para que você saiba que o centro de administração está mudando e você pode encontrar mais detalhes em aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
-Pode gerir muitas das funcionalidades de segurança do Microsoft 365 Business no Centro de administração, dá-lhe uma forma simplificada para activar ou desactivar estas funcionalidades. No Centro de administração pode fazer o seguinte:
+Você pode gerenciar muitos dos recursos de segurança do Microsoft 365 Business no centro de administração, o que oferece uma maneira simplificada de ativar ou desativar esses recursos. No centro de administração, você pode fazer o seguinte:
   
   
-- [Definir definições de gestão de aplicações para dispositivos Android ou iOS](app-protection-settings-for-android-and-ios.md) . 
+- [Defina as configurações de gerenciamento de aplicativos para dispositivos Android ou Ios](app-protection-settings-for-android-and-ios.md) . 
     
-    Estas definições incluem eliminar ficheiros a partir de um dispositivo inactivo após um período definido, a encriptação dos ficheiros de trabalho, que exijam que os utilizadores definem um PIN, etc.
+    Essas configurações incluem a exclusão de arquivos de um dispositivo inativo após um período definido, criptografando arquivos de trabalho, exigindo que os usuários definam um PIN, etc.
     
-- [Definir definições de protecção da aplicação para Windows 10 dispositivos](protection-settings-for-windows-10-devices.md) . 
+- [Defina as configurações de proteção de aplicativos para dispositivos Windows 10](protection-settings-for-windows-10-devices.md) . 
     
-    Estas definições podem ser aplicadas para dispositivos de propriedade pessoalmente ou dados da empresa em ambos pertencentes à empresa.
+    Essas configurações podem ser aplicadas aos dados da empresa em ambos os dispositivos pertencentes à empresa ou de propriedade pessoal.
     
-- [Definir definições de protecção do dispositivo para o Windows 10 dispositivos](protection-settings-for-windows-10-pcs.md) . 
+- [Defina as configurações de proteção do dispositivo para dispositivos Windows 10](protection-settings-for-windows-10-pcs.md) . 
     
-    Pode activar a encriptação [BitLocker](https://go.microsoft.com/fwlink/p/?linkid=871405) ajudar a proteger os dados no caso de um dispositivo for perdido ou roubado e activar a [Protecção de tirar partido do Windows](https://go.microsoft.com/fwlink/p/?linkid=871404) fornecer protecção avançada contra ransomware. 
+    Você pode habilitar a criptografia [BitLocker](https://go.microsoft.com/fwlink/p/?linkid=871405) para ajudar a proteger os dados caso um dispositivo seja perdido ou roubado e habilitar o [Windows Exploit Guard](https://go.microsoft.com/fwlink/p/?linkid=871404) para fornecer proteção avançada contra ransomware. 
     
 - [Remover dados empresariais de dispositivos](remove-company-data.md)
     
-    Pode limpar dados da empresa remotamente se um dispositivo for perdido, roubado, ou um empregado deixa a empresa.
+    Você pode limpar remotamente os dados da empresa se um dispositivo for perdido, roubado ou um funcionário deixar sua empresa.
     
-- [Dispositivos Windows 10 repor as definições de fábrica](reset-devices-to-factory-settings.md) . 
+- [Redefinir dispositivos Windows 10 para suas configurações de fábrica](reset-devices-to-factory-settings.md) . 
     
-    Pode repor todos os dispositivos Windows 10 que têm definições de protecção de dispositivo aplicadas.
+    Você pode redefinir todos os dispositivos Windows 10 que tenham as configurações de proteção do dispositivo aplicadas a eles.
     
 ## <a name="additional-security-features"></a>Funcionalidades de segurança adicionais 
 
-Funcionalidades avançadas no Microsoft 365 Business estão disponíveis para ajudar a proteger a sua empresa contra ciber-ameaças e proteger informações confidenciais.
+Os recursos avançados do Microsoft 365 Business estão disponíveis para ajudá-lo a proteger seus negócios contra ameaças cibernéticas e proteger informações confidenciais.
   
-- **[Protecção do Office 365 ameaça avançadas](https://support.office.com/article/e100fe7c-f2a1-4b7d-9e08-622330b83653)**
+- **[Proteção avançada contra ameaças do Office 365](https://support.office.com/article/e100fe7c-f2a1-4b7d-9e08-622330b83653)**
     
-    Avançada protecção de ameaças (ATP) ajuda a proteger a sua empresa contra phishing sofisticada e ataques de ransomware, concebidos para comprometer empregado ou informações de cliente. As funcionalidades incluem:
+    A proteção avançada contra ameaças (ATP) ajuda a proteger sua empresa contra ataques sofisticados de phishing e ransomware projetados para comprometer informações de funcionários ou clientes. As características incluem:
     
-  - Análise de anexos sofisticados e alimentados AI análise para detectar e eliminar mensagens perigosas.
+  - Análise sofisticada de anexos e análises com tecnologia de ia para detectar e descartar mensagens perigosas.
     
-  - Automático verifica-se de hiperligações numa mensagem de correio electrónico para avaliar se são parte de um esquema de phishing. Mantém a segurança de aceder a Web sites inseguros.
+  - Verificações automáticas de links no e-mail para avaliar se eles fazem parte de um esquema de phishing. Isso mantém você seguro de acessar sites não seguros.
 
-- **[Todas as capacidades de Intune no Azure portal](https://go.microsoft.com/fwlink/p/?linkid=871403)**
+- **[Os recursos completos do Intune no portal do Azure](https://go.microsoft.com/fwlink/p/?linkid=871403)**
     
-    Aceder a Intune Centro de administração no Azure portal permite-lhe configurar funcionalidades de segurança adicionais, tais como a gestão de dispositivos MacOS, iPhone e dispositivos Android juntamente com a gestão de dispositivos avançado para Windows, que não estão disponíveis através da Microsoft Centro de administração de negócio 365.
-- **Mesmo [Acesso condicional](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview) como plano Azure AD P1**
+    Acessar o centro de administração do Intune no portal do Azure permite que você configure recursos de segurança adicionais, como o gerenciamento de dispositivos MacOS, iPhone e dispositivos Android, juntamente com o gerenciamento avançado de dispositivo para Windows, que não estão disponíveis por meio da Microsoft 365 centro de administração de negócios.
+- **Mesmo [acesso condicional](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview) como plano do Azure ad P1**
 
-    Acesso condicional pode ajudar a proteger a sua organização do risco de início de sessão, tentativas de acesso de um inesperado na rede ou a região, tentativas de acesso sem tipos de dispositivos arriscado do formulário e assim sucessivamente. Nega o acesso condicional políticas são aplicadas depois de concluída a primeira autenticação e utiliza sinais do primeiro evento de autenticação para determinar se a tentativa de acesso deve ser aprovada, ou f mais prova (por exemplo, a segunda forma de identificação) necessária.
+    O acesso condicional pode ajudar a proteger sua organização contra o risco de login, as tentativas de acesso de uma rede ou localidade inesperada, tentativas de acesso formam tipos de dispositivos arriscados e assim por diante. As diretivas de acesso condicional são impostas após a conclusão da primeira autenticação, e ele usa sinais do primeiro evento de autenticação para determinar se o acesso tentado deve ser aprovado, nega ou f mais prova (como a segunda forma de identificação) é Necessário.
 
-    As funcionalidades de acesso condicional incluídas são:
+    Os recursos de acesso condicional incluídos são:
 
-    - Acesso com base no nome de utilizador, grupo e função
-    - O acesso [com base numa aplicação](https://docs.microsoft.com/azure/active-directory/conditional-access/app-based-conditional-access) 
-    - [Acesso com base na localização](https://docs.microsoft.com/azure/active-directory/authentication/howto-registration-mfa-sspr-combined#conditional-access-policies-for-combined-registration);  Permitir apenas acesso de intervalos IP fidedignos ou países específicos 
-    - Requerer AMF para acesso
-    - Bloquear o acesso a aplicações que utilizam a [autenticação de legado](https://docs.microsoft.com/azure/active-directory/conditional-access/block-legacy-authentication)
-    - Exigir a utilização de tp apps [protecção da aplicação de Intune](https://docs.microsoft.com/azure/active-directory/conditional-access/app-protection-based-conditional-access)
-    - Autenticação personalizada como AMF com fornecedores de terceiros, por exemplo DUO.
+    - Acesso baseado em nome de usuário, grupo e função
+    - Acesso [baseado em um aplicativo](https://docs.microsoft.com/azure/active-directory/conditional-access/app-based-conditional-access) 
+    - [Acesso com base no local](https://docs.microsoft.com/azure/active-directory/authentication/howto-registration-mfa-sspr-combined#conditional-access-policies-for-combined-registration);  apenas permitir o acesso a partir de intervalos de IP confiáveis ou países específicos 
+    - Exigir MFA para acesso
+    - Bloquear o acesso a aplicativos que usam a [autenticação herdada](https://docs.microsoft.com/azure/active-directory/conditional-access/block-legacy-authentication)
+    - Exigir aplicativos TP usar [proteção de aplicativo do Intune](https://docs.microsoft.com/azure/active-directory/conditional-access/app-protection-based-conditional-access)
+    - Autenticação personalizada, como MFA com provedores terceirizados, por exemplo, DUO.
    
-    Outras funcionalidades:
-    - [Repor a palavra-passe self-service](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-customization) para híbrido Azure AD
+    Outras características:
+    - [Redefinição de senha de autoatendimento](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-customization) para o Azure ad híbrido
     
-## <a name="compliance-features"></a>Funcionalidades de conformidade
+## <a name="compliance-features"></a>Recursos de conformidade
 
-A Microsoft 365 Business subscrição inclui funcionalidades que o ajudam a manter a conformidade e normas regulamentares.
+Sua assinatura do Microsoft 365 Business inclui recursos que ajudam a manter padrões de conformidade e regulatórios.
 
-- **[Descrição geral das políticas de prevenção de perda de dados](https://support.office.com/article/1966b2a7-d1e2-4d92-ab61-42efbb137f5e)** (DLP). 
+- **[Visão geral das políticas de prevenção de perda de dados](https://support.office.com/article/1966b2a7-d1e2-4d92-ab61-42efbb137f5e)** (DLP). 
     
-    Pode configurar DLP para detectar automaticamente informações sensíveis, tais como números de cartão de crédito, números de segurança social, etc. para impedir a sua inadvertida partilha fora da empresa.
+    Você pode configurar o DLP para detectar automaticamente informações confidenciais, como números de cartão de crédito, números de segurança social, etc. para evitar sua partilha inadvertida fora de sua empresa.
     
 - **[Arquivo do Exchange Online](https://products.office.com/exchange/microsoft-exchange-online-archiving-email)**
     
-    Licença Online arquivo do Exchange permite mensagens facilmente ser arquivada com cópia de segurança de dados contínua. Armazena todas as mensagens de correio electrónico do utilizador, incluindo itens eliminados, no caso de forem necessários mais tarde para detecção ou de restauro. Além disso, pode utilizar políticas de retenção diferente para manter os dados de correio electrónico para porões de litígio, detecção de dados electrónicos, ou para satisfazer requisitos de conformidade.
+    A licença de arquivamento do Exchange Online permite que as mensagens sejam facilmente arquivadas com backup contínuo de dados. Ele armazena todos os emails de um usuário, incluindo itens excluídos, caso eles sejam necessários posteriormente para descoberta ou restauração. Além disso, você pode usar políticas de retenção diferentes para preservar dados de email para retenções de litígio, eDiscovery ou para atender aos requisitos de conformidade.
     
-- **[Protecção de informações Azure](https://go.microsoft.com/fwlink/p/?linkid=871406)**
+- **[Proteção de informações do Azure](https://go.microsoft.com/fwlink/p/?linkid=871406)**
     
-    Informações protecção ajuda-o a que controlar o acesso a informações confidenciais no correio electrónico e documentos com controlos como "Não reencaminhar" e "Não copia". Também pode classificar as informações confidenciais como "Confidencial" e especificar como as informações classificadas podem ser partilhadas fora e dentro de negócio. Encriptação de escala da empresa é fácil aplicar a mensagem de correio electrónico e documentos para manter as suas informações privadas. Microsoft 365 Business inclui todas as funcionalidades do [Azure informações protecção planear 1](https://go.microsoft.com/fwlink/p/?linkid=871407). Também pode instalar o protecção de informações de Azure cliente suplemento para aplicações do Office. Para obter mais detalhes, consulte o [manual de administrador de cliente de protecção de informações de Azure](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide).
+    A proteção de informações ajuda você a controlar o acesso a informações confidenciais em emails e documentos com controles como "não encaminhar" e "não copiar". Você também pode classificar informações confidenciais como "confidenciais" e especificar como as informações classificadas podem ser compartilhadas fora e dentro da empresa. A criptografia de nível corporativo é fácil de aplicar a emails e documentos para manter suas informações privadas. O Microsoft 365 Business inclui todos os recursos do [plano de proteção de informações do Azure 1](https://go.microsoft.com/fwlink/p/?linkid=871407). Você também pode instalar o suplemento do cliente do Azure Information Protection para aplicativos do Office. Para obter mais detalhes, consulte [Guia do administrador do cliente do Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide).
 
-Pode gerir estas funcionalidades na segurança &amp; Centro de conformidade e o Centro de administração Intune. Ao longo do tempo serão adicionados os controlos simplificados para o Centro admin do Microsoft 365 Business.
+Você pode gerenciar esses recursos no centro de &amp; conformidade de segurança e no centro de administração do Intune. Ao longo do tempo, os controles simplificados serão adicionados ao centro de administração do Microsoft 365 Business.
   
     
 ## <a name="faq"></a>FAQ
 
- ### <a name="are-these-security-features-available-in-all-markets"></a>Estas funcionalidades de segurança estão disponíveis em todos os mercados?
+ ### <a name="are-these-security-features-available-in-all-markets"></a>Estes recursos de segurança estão disponíveis em todos os mercados?
   
-Sim, estas funcionalidades estão disponíveis em todos os mercados em que o Microsoft 365 Business é vendido.
+Sim, esses recursos estão disponíveis em todos os mercados onde o Microsoft 365 Business é vendido.
   
-### <a name="how-do-i-find-the-security-amp-compliance-center"></a>Como encontrar a segurança &amp; center conformidade?
+### <a name="how-do-i-find-the-security-amp-compliance-center"></a>Como encontro o centro de conformidade &amp; de segurança?
   
-1. [Iniciar sessão no Microsoft 365 Business](https://portal.microsoft.com/) utilizando as credenciais de administrador. 
+1. [Entre no Microsoft 365 Business](https://portal.microsoft.com/) usando suas credenciais de administrador. 
     
-2. No nav esquerdo, localize a **centros de administração** e expandi-lo. 
+2. No NAV esquerdo, localize **centros de administração** e expandi-lo. 
     
-    ![Nav esquerda no Centro de administração de Microsoft 365, escolha os centros de Admin.](media/fa4484f8-c637-45fd-a7bd-bdb3abfd6c03.png)
+    ![No NAV esquerdo no centro de administração do Microsoft 365, escolha centros de administração.](media/fa4484f8-c637-45fd-a7bd-bdb3abfd6c03.png)
   
-3. Escolher **segurança &amp; conformidade** para ir para a segurança &amp; Centro de conformidade.
+3. Escolha **conformidade &amp; de segurança** para ir para &amp; o centro de conformidade de segurança.
