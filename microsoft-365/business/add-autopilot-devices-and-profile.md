@@ -19,73 +19,73 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: be5b6d90-3344-4c5e-bf40-5733eb845beb
-description: Obter informações sobre como utilizar o piloto automático do Windows para configurar novos dispositivos Windows 10 para a sua empresa.
-ms.openlocfilehash: 9a70978156fb26ac3aad08f1758b7ee125067d38
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Saiba como usar o Windows AutoPilot para configurar novos dispositivos Windows 10 para sua empresa.
+ms.openlocfilehash: ee4b4a9b06c08b8f9456822b680542665c27baf3
+ms.sourcegitcommit: 7690c8bfdea6e6d245cfa7c5b09b913b092cde0a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34072156"
+ms.lasthandoff: 09/23/2019
+ms.locfileid: "37121204"
 ---
-# <a name="use-the-step-by-step-guide-to-add-autopilot-devices-and-profile"></a><span data-ttu-id="86c97-103">Utilizar o guia passo a passo para adicionar perfis e dispositivos Autopilot</span><span class="sxs-lookup"><span data-stu-id="86c97-103">Use the step-by-step guide to add Autopilot devices and profile</span></span>
+# <a name="use-the-step-by-step-guide-to-add-autopilot-devices-and-profile"></a><span data-ttu-id="e6949-103">Utilizar o guia passo a passo para adicionar perfis e dispositivos Autopilot</span><span class="sxs-lookup"><span data-stu-id="e6949-103">Use the step-by-step guide to add Autopilot devices and profile</span></span>
 
-<span data-ttu-id="86c97-104">Pode utilizar o piloto automático do Windows para configurar **novos** dispositivos Windows 10 para a sua empresa para que estejam prontos para utilização produtiva, logo que lhes atribua aos seus empregados.</span><span class="sxs-lookup"><span data-stu-id="86c97-104">You can use Windows AutoPilot to set up **new** Windows 10 devices for your business so they are ready for productive use as soon as you give them to your employees.</span></span>
+<span data-ttu-id="e6949-104">Você pode usar o Windows AutoPilot para configurar **novos** dispositivos Windows 10 para sua empresa para que eles estejam prontos para uso produtivo assim que você os entregar aos seus funcionários.</span><span class="sxs-lookup"><span data-stu-id="e6949-104">You can use Windows AutoPilot to set up **new** Windows 10 devices for your business so they are ready for productive use as soon as you give them to your employees.</span></span>
   
-## <a name="device-requirements"></a><span data-ttu-id="86c97-105">Requisitos de dispositivo</span><span class="sxs-lookup"><span data-stu-id="86c97-105">Device requirements</span></span>
+## <a name="device-requirements"></a><span data-ttu-id="e6949-105">Requisitos de dispositivo</span><span class="sxs-lookup"><span data-stu-id="e6949-105">Device requirements</span></span>
 
-<span data-ttu-id="86c97-106">Os dispositivos têm de cumprir os seguintes requisitos:</span><span class="sxs-lookup"><span data-stu-id="86c97-106">Devices need to meet these requirements:</span></span>
+<span data-ttu-id="e6949-106">Os dispositivos têm de cumprir os seguintes requisitos:</span><span class="sxs-lookup"><span data-stu-id="e6949-106">Devices need to meet these requirements:</span></span>
   
-- <span data-ttu-id="86c97-107">Windows 10, versão 1703 ou posterior.</span><span class="sxs-lookup"><span data-stu-id="86c97-107">Windows 10, version 1703 or later.</span></span>
+- <span data-ttu-id="e6949-107">Windows 10, versão 1703 ou posterior.</span><span class="sxs-lookup"><span data-stu-id="e6949-107">Windows 10, version 1703 or later.</span></span>
     
-- <span data-ttu-id="86c97-108">Novos dispositivos que não tenham tido a experiência de configuração inicial do Windows.</span><span class="sxs-lookup"><span data-stu-id="86c97-108">New devices that have not been through Windows out-of-box experience.</span></span>
+- <span data-ttu-id="e6949-108">Novos dispositivos que não tenham tido a experiência de configuração inicial do Windows.</span><span class="sxs-lookup"><span data-stu-id="e6949-108">New devices that have not been through Windows out-of-box experience.</span></span>
     
-## <a name="use-the-setup-guide-to-create-devices-and-profiles"></a><span data-ttu-id="86c97-109">Utilizar o guia de configuração para criar dispositivos e perfis</span><span class="sxs-lookup"><span data-stu-id="86c97-109">Use the setup guide to create devices and profiles</span></span>
+## <a name="use-the-setup-guide-to-create-devices-and-profiles"></a><span data-ttu-id="e6949-109">Utilizar o guia de configuração para criar dispositivos e perfis</span><span class="sxs-lookup"><span data-stu-id="e6949-109">Use the setup guide to create devices and profiles</span></span>
 
-![Faixa que apontam para https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
+<span data-ttu-id="e6949-110">[![Label para que você saiba que o centro de administração está mudando e você pode encontrar mais detalhes em aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)</span><span class="sxs-lookup"><span data-stu-id="e6949-110">[![Label to let you know the admin center is changing and you can find more details at aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)</span></span>
 
-<span data-ttu-id="86c97-111">Se ainda não tiver criado perfis e grupos de dispositivos, a melhor forma de começar é com o guia passo a passo, mas também pode [adicionar dispositivos](create-and-edit-autopilot-devices.md) e [atribuir perfis](create-and-edit-autopilot-profiles.md) aos mesmos sem utilizar o guia.</span><span class="sxs-lookup"><span data-stu-id="86c97-111">If you have no device groups or profiles created yet, the best way to get started is by using the step-by-step guide, but you can also [add devices](create-and-edit-autopilot-devices.md) and [assign profiles](create-and-edit-autopilot-profiles.md) to them without using the guide.</span></span> 
+<span data-ttu-id="e6949-111">Se ainda não tiver criado perfis e grupos de dispositivos, a melhor forma de começar é com o guia passo a passo, mas também pode [adicionar dispositivos](create-and-edit-autopilot-devices.md) e [atribuir perfis](create-and-edit-autopilot-profiles.md) aos mesmos sem utilizar o guia.</span><span class="sxs-lookup"><span data-stu-id="e6949-111">If you have no device groups or profiles created yet, the best way to get started is by using the step-by-step guide, but you can also [add devices](create-and-edit-autopilot-devices.md) and [assign profiles](create-and-edit-autopilot-profiles.md) to them without using the guide.</span></span> 
   
-1. <span data-ttu-id="86c97-112">Vá para o Centro de administração no <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>.</span><span class="sxs-lookup"><span data-stu-id="86c97-112">Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>.</span></span>
+1. <span data-ttu-id="e6949-112">Vá para o centro de administração <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>em.</span><span class="sxs-lookup"><span data-stu-id="e6949-112">Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>.</span></span>
 
-2. <span data-ttu-id="86c97-113">Nav esquerda do escolher **dispositivos** \> **piloto automático**.</span><span class="sxs-lookup"><span data-stu-id="86c97-113">On the left nav choose **Devices** \> **AutoPilot**.</span></span>
+2. <span data-ttu-id="e6949-113">No NAV esquerdo escolha **dispositivos** \> **piloto automático**.</span><span class="sxs-lookup"><span data-stu-id="e6949-113">On the left nav choose **Devices** \> **AutoPilot**.</span></span>
 
-    ![No Centro de administração seleccione os dispositivos e, em seguida, o piloto automático.](media/AutoPilot.png)
+    ![No centro de administração, escolha dispositivos e, em seguida, AutoPilot.](media/AutoPilot.png)
   
-2. <span data-ttu-id="86c97-115">Na página **piloto automático** , clique ou toque em **Iniciar guia**.</span><span class="sxs-lookup"><span data-stu-id="86c97-115">On the **AutoPilot** page, click or tap **Start guide**.</span></span>
+2. <span data-ttu-id="e6949-115">Na página **piloto automático** , clique ou toque em **iniciar guia**.</span><span class="sxs-lookup"><span data-stu-id="e6949-115">On the **AutoPilot** page, click or tap **Start guide**.</span></span>
     
     ![Click Start guide for step-by-step instructions for Autopilot.](media/31662655-d1e6-437d-87ea-c0dec5da56f7.png)
   
-3. <span data-ttu-id="86c97-p101">Na página **Carregar um ficheiro .csv com a lista de dispositivos**, procure uma localização com o ficheiro .CSV preparado e, em seguida, selecione **Abrir** \> **Seguinte**. O ficheiro deverá ter três cabeçalhos:</span><span class="sxs-lookup"><span data-stu-id="86c97-p101">On the **Upload .csv file with list of devices** page, browse to a locations where you have the prepared .CSV file, then **Open** \> **Next**. The file should have three headers:</span></span>
+3. <span data-ttu-id="e6949-p101">Na página **Carregar um ficheiro .csv com a lista de dispositivos**, procure uma localização com o ficheiro .CSV preparado e, em seguida, selecione **Abrir** \> **Seguinte**. O ficheiro deverá ter três cabeçalhos:</span><span class="sxs-lookup"><span data-stu-id="e6949-p101">On the **Upload .csv file with list of devices** page, browse to a locations where you have the prepared .CSV file, then **Open** \> **Next**. The file should have three headers:</span></span>
     
-  - <span data-ttu-id="86c97-119">Coluna A: Número de Série do Dispositivo</span><span class="sxs-lookup"><span data-stu-id="86c97-119">Column A: Device Serial Number</span></span>
+  - <span data-ttu-id="e6949-119">Coluna A: Número de Série do Dispositivo</span><span class="sxs-lookup"><span data-stu-id="e6949-119">Column A: Device Serial Number</span></span>
     
-  - <span data-ttu-id="86c97-120">Coluna B: ID do Produto Windows</span><span class="sxs-lookup"><span data-stu-id="86c97-120">Column B: Windows Product ID</span></span>
+  - <span data-ttu-id="e6949-120">Coluna B: ID do Produto Windows</span><span class="sxs-lookup"><span data-stu-id="e6949-120">Column B: Windows Product ID</span></span>
     
-  - <span data-ttu-id="86c97-121">Coluna C: Hash do Hardware</span><span class="sxs-lookup"><span data-stu-id="86c97-121">Column C: Hardware Hash</span></span>
+  - <span data-ttu-id="e6949-121">Coluna C: Hash do Hardware</span><span class="sxs-lookup"><span data-stu-id="e6949-121">Column C: Hardware Hash</span></span>
     
-    <span data-ttu-id="86c97-122">Pode obter esta informação através do fabricante de hardware ou pode utilizar o [script do PowerShell Get-WindowsAutoPilotInfo](https://www.powershellgallery.com/packages/Get-WindowsAutoPilotInfo) que irá gerar um ficheiro CSV.</span><span class="sxs-lookup"><span data-stu-id="86c97-122">You can get this information from your hardware vendor, or you can use the [Get-WindowsAutoPilotInfo PowerShell script](https://www.powershellgallery.com/packages/Get-WindowsAutoPilotInfo) that will generate a CSV file.</span></span> 
+    <span data-ttu-id="e6949-122">Pode obter esta informação através do fabricante de hardware ou pode utilizar o [script do PowerShell Get-WindowsAutoPilotInfo](https://www.powershellgallery.com/packages/Get-WindowsAutoPilotInfo) que irá gerar um ficheiro CSV.</span><span class="sxs-lookup"><span data-stu-id="e6949-122">You can get this information from your hardware vendor, or you can use the [Get-WindowsAutoPilotInfo PowerShell script](https://www.powershellgallery.com/packages/Get-WindowsAutoPilotInfo) that will generate a CSV file.</span></span> 
     
-    <span data-ttu-id="86c97-p102">Para obter mais informações, consulte [Ficheiro CSV da lista de dispositivos](https://support.office.com/article/932e3676-2491-49f0-9177-d893d2f5276e). Também pode transferir um ficheiro de exemplo na página **Carregar um ficheiro .csv com a lista de dispositivos**.</span><span class="sxs-lookup"><span data-stu-id="86c97-p102">For more information, see [Device list CSV-file](https://support.office.com/article/932e3676-2491-49f0-9177-d893d2f5276e). You can also download a sample file on the **Upload .csv file with list of devices** page.</span></span> 
+    <span data-ttu-id="e6949-p102">Para obter mais informações, consulte [Ficheiro CSV da lista de dispositivos](https://support.office.com/article/932e3676-2491-49f0-9177-d893d2f5276e). Também pode transferir um ficheiro de exemplo na página **Carregar um ficheiro .csv com a lista de dispositivos**.</span><span class="sxs-lookup"><span data-stu-id="e6949-p102">For more information, see [Device list CSV-file](https://support.office.com/article/932e3676-2491-49f0-9177-d893d2f5276e). You can also download a sample file on the **Upload .csv file with list of devices** page.</span></span> 
     
-4. <span data-ttu-id="86c97-p103">Na página **Atribuir um perfil**, pode selecionar um perfil existente ou criar um novo. Se ainda não tiver um, ser-lhe-á pedido que crie um novo.</span><span class="sxs-lookup"><span data-stu-id="86c97-p103">On the **Assign a profile** page, you can either pick an existing profile, or create a new one. If you don't have one yet, you will be prompted to create a new one.</span></span> 
+4. <span data-ttu-id="e6949-p103">Na página **Atribuir um perfil**, pode selecionar um perfil existente ou criar um novo. Se ainda não tiver um, ser-lhe-á pedido que crie um novo.</span><span class="sxs-lookup"><span data-stu-id="e6949-p103">On the **Assign a profile** page, you can either pick an existing profile, or create a new one. If you don't have one yet, you will be prompted to create a new one.</span></span> 
     
-    <span data-ttu-id="86c97-127">Um perfil é uma coleção de definições que podem ser aplicadas a um único dispositivo ou a um grupo de dispositivos.</span><span class="sxs-lookup"><span data-stu-id="86c97-127">A profile is a collection of settings that can be applied to a single device or to a group of devices.</span></span>
+    <span data-ttu-id="e6949-127">Um perfil é uma coleção de definições que podem ser aplicadas a um único dispositivo ou a um grupo de dispositivos.</span><span class="sxs-lookup"><span data-stu-id="e6949-127">A profile is a collection of settings that can be applied to a single device or to a group of devices.</span></span>
     
-    <span data-ttu-id="86c97-p104">As funcionalidades predefinidas são necessárias e serão configuradas automaticamente. As funcionalidades predefinidas são:</span><span class="sxs-lookup"><span data-stu-id="86c97-p104">The default features are required and will be set automatically. The default features are:</span></span>
+    <span data-ttu-id="e6949-p104">As funcionalidades predefinidas são necessárias e serão configuradas automaticamente. As funcionalidades predefinidas são:</span><span class="sxs-lookup"><span data-stu-id="e6949-p104">The default features are required and will be set automatically. The default features are:</span></span>
     
-  - <span data-ttu-id="86c97-130">O registo da Cortana, do OneDrive e do OEM é ignorado.</span><span class="sxs-lookup"><span data-stu-id="86c97-130">Cortana, OneDrive and OEM registration is skipped.</span></span>
+  - <span data-ttu-id="e6949-130">O registo da Cortana, do OneDrive e do OEM é ignorado.</span><span class="sxs-lookup"><span data-stu-id="e6949-130">Cortana, OneDrive and OEM registration is skipped.</span></span>
     
-  - <span data-ttu-id="86c97-131">Crie uma experiência de início de sessão com a identidade corporativa da sua empresa.</span><span class="sxs-lookup"><span data-stu-id="86c97-131">Create sign-in experience with your company brand.</span></span>
+  - <span data-ttu-id="e6949-131">Crie uma experiência de início de sessão com a identidade corporativa da sua empresa.</span><span class="sxs-lookup"><span data-stu-id="e6949-131">Create sign-in experience with your company brand.</span></span>
     
-  - <span data-ttu-id="86c97-132">Os seus dispositivos serão ligados às contas do Azure Active Directory e automaticamente inscritos para serem geridos pelo Microsoft 365 Business.</span><span class="sxs-lookup"><span data-stu-id="86c97-132">Your devices are going to be connected to Azure Active Directory accounts and automatically enrolled to be managed by Microsoft 365 Business.</span></span>
+  - <span data-ttu-id="e6949-132">Os seus dispositivos serão ligados às contas do Azure Active Directory e automaticamente inscritos para serem geridos pelo Microsoft 365 Business.</span><span class="sxs-lookup"><span data-stu-id="e6949-132">Your devices are going to be connected to Azure Active Directory accounts and automatically enrolled to be managed by Microsoft 365 Business.</span></span>
     
-    <span data-ttu-id="86c97-133">Para obter mais informações, consulte</span><span class="sxs-lookup"><span data-stu-id="86c97-133">For more information, see</span></span>
+    <span data-ttu-id="e6949-133">Para obter mais informações, consulte</span><span class="sxs-lookup"><span data-stu-id="e6949-133">For more information, see</span></span>
     
-    <span data-ttu-id="86c97-134">[Sobre as definições do Perfil AutoPilot](autopilot-profile-settings.md) .</span><span class="sxs-lookup"><span data-stu-id="86c97-134">[About AutoPilot Profile settings](autopilot-profile-settings.md) .</span></span> 
+    <span data-ttu-id="e6949-134">[Sobre as definições do Perfil AutoPilot](autopilot-profile-settings.md) .</span><span class="sxs-lookup"><span data-stu-id="e6949-134">[About AutoPilot Profile settings](autopilot-profile-settings.md) .</span></span> 
     
-5. <span data-ttu-id="86c97-135">As outras definições são **Ignorar definições de privacidade** e **Não permitir que o utilizador se torne o administrador local**. Ambas estão configuradas como **Desativado** por predefinição.</span><span class="sxs-lookup"><span data-stu-id="86c97-135">The other settings are **Skip privacy settings** and **Don't allow user to become the local admin**. These are both set to **Off** by default.</span></span> 
+5. <span data-ttu-id="e6949-135">As outras definições são **Ignorar definições de privacidade** e **Não permitir que o utilizador se torne o administrador local**. Ambas estão configuradas como **Desativado** por predefinição.</span><span class="sxs-lookup"><span data-stu-id="e6949-135">The other settings are **Skip privacy settings** and **Don't allow user to become the local admin**. These are both set to **Off** by default.</span></span> 
     
-    <span data-ttu-id="86c97-136">Selecione **Seguinte**.</span><span class="sxs-lookup"><span data-stu-id="86c97-136">Choose **Next**.</span></span>
+    <span data-ttu-id="e6949-136">Selecione **Seguinte**.</span><span class="sxs-lookup"><span data-stu-id="e6949-136">Choose **Next**.</span></span>
     
-6. <span data-ttu-id="86c97-p105">A página **Concluído** indica que o perfil criado (ou selecionado) será aplicado ao grupo de dispositivos criado ao atualizar a lista de dispositivos. Estas definições entrarão em vigor assim que os utilizadores dos dispositivos iniciarem sessão. Selecione **Fechar**.</span><span class="sxs-lookup"><span data-stu-id="86c97-p105">**You're done** page indicates that the profile you created (or chose) will be applied to the device group you created by uploading the list of devices. These settings will be in effect when the device users sign in next. Choose **Close**.</span></span>
+6. <span data-ttu-id="e6949-p105">A página **Concluído** indica que o perfil criado (ou selecionado) será aplicado ao grupo de dispositivos criado ao atualizar a lista de dispositivos. Estas definições entrarão em vigor assim que os utilizadores dos dispositivos iniciarem sessão. Selecione **Fechar**.</span><span class="sxs-lookup"><span data-stu-id="e6949-p105">**You're done** page indicates that the profile you created (or chose) will be applied to the device group you created by uploading the list of devices. These settings will be in effect when the device users sign in next. Choose **Close**.</span></span>
     
