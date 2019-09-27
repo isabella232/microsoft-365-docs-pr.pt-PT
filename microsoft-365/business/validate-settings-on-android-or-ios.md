@@ -1,5 +1,5 @@
 ---
-title: Validar definições de protecção da aplicação em dispositivos Android ou iOS
+title: Validar configurações de proteção de aplicativos em dispositivos Android ou iOS
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -10,25 +10,22 @@ localization_priority: Normal
 ms.collection:
 - M365-subscription-management
 - M365-identity-device-management
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: f3433b6b-02f7-447f-9d62-306bf03638b0
-description: 'Learn how to validate the Microsoft 365 Business app protection settings in your Android or iOS devices.  '
-ms.openlocfilehash: d4ed70290b21b40ca9ecd5601954c429a27dc528
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Learn how to validate the Microsoft 365 Business app protection settings in your Android or iOS devices.
+ms.openlocfilehash: 19a7ce48e8df5c80964a250b0bc087591a0530c1
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34072376"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37287881"
 ---
-# <a name="validate-app-protection-settings-on-android-or-ios-devices"></a>Validar definições de protecção da aplicação em dispositivos Android ou iOS
+# <a name="validate-app-protection-settings-on-android-or-ios-devices"></a>Validar configurações de proteção de aplicativos em dispositivos Android ou iOS
 
-Siga as instruções nos separadores para validar as definições de protecção de aplicações em dispositivos Android ou iOS.
+Siga as instruções nas guias para validar as configurações de proteção de aplicativos em dispositivos Android ou iOS.
   
 ## <a name="androidtab"></a>[Android](#tab/)
   
@@ -119,7 +116,7 @@ No painel **Editar política**, selecione **Editar** junto a **Proteção contra
     
     ![An encrypted image file in the Gallery app.](media/25936414-bd7e-421d-824e-6e59b877722d.png)
   
-## <a name="iostab"></a>[iOS](#tab/)
+## <a name="iostab"></a>[Ios](#tab/)
   
 ### <a name="check-that-the-app-protection-settings-are-working-on-user-devices"></a>Verificar se as definições de proteção de aplicações estão a funcionar nos dispositivos dos utilizadores
 

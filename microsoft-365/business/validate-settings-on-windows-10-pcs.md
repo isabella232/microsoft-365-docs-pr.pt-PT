@@ -11,48 +11,44 @@ ms.collection:
 - Adm_O365
 - M365-subscription-management
 - M365-identity-device-management
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: fae8819d-7235-495f-9f07-d016f545887f
-description: Obter informações sobre como validar as definições de protecção de aplicações Microsoft 365 Business Windows 10 dispositivos.
-ms.openlocfilehash: 15c2d54c6281369875d15985c9d4ed16f0114176
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Saiba como validar as configurações de proteção de aplicativos do Microsoft 365 Business em dispositivos Windows 10.
+ms.openlocfilehash: 66e83df19e44419b37bcc1c5678ab13317162dbc
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34072243"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37288601"
 ---
-# <a name="validate-device-protection-settings-on-windows-10-pcs"></a>Validar as definições de protecção do dispositivo no Windows 10 PCs
+# <a name="validate-device-protection-settings-on-windows-10-pcs"></a>Validar configurações de proteção do dispositivo em PCs com Windows 10
 
-## <a name="verify-that-windows-10-device-policies-are-set"></a>Certifique-se de que estão definidas políticas de dispositivo do Windows 10
+## <a name="verify-that-windows-10-device-policies-are-set"></a>Verifique se as diretivas de dispositivo do Windows 10 estão definidas
 
-Depois de [configurar as políticas de dispositivos](protection-settings-for-windows-10-pcs.md), poderá demorar até algumas horas para a política em vigor em dispositivos de utilizadores. Pode confirmar que as políticas de entrada em vigor, observando vários ecrãs de definições do Windows em dispositivos dos utilizadores. Uma vez que os utilizadores não será possível modificar as definições do Windows Update e Windows Defender Antivirus nos respectivos dispositivos Windows 10, muitas dessas opções serão cinzento.
+Depois de [Configurar políticas de dispositivos](protection-settings-for-windows-10-pcs.md), pode demorar até algumas horas para que a política tenha efeito nos dispositivos dos utilizadores. Você pode confirmar que as políticas foram efetivadas observando várias telas de configurações do Windows nos dispositivos dos usuários. Como os usuários não poderão modificar as configurações do Windows Update e do Windows Defender Antivirus em seus dispositivos Windows 10, muitas dessas opções ficarão esmaecido.
   
-1. Vá para **Definições** \> **Update &amp; segurança** \> **Windows Update** \> **Opções de reinício** e confirmar que todas as definições são cinzento. 
+1. Vá para **configurações** \> **de &amp; atualização de segurança** \> do **Windows Update** \> **Opções de reinicialização** e confirme que todas as configurações estão acinzentadas. 
     
-    ![Todas as opções de reinício estão a cinzento.](media/31308da9-18b0-47c5-bbf6-d5fa6747c376.png)
+    ![Todas as opções de reinicialização são acinzentadas.](media/31308da9-18b0-47c5-bbf6-d5fa6747c376.png)
   
-2. Vá para **Definições** \> **Update &amp; segurança** \> **Windows Update** \> **Opções avançadas** e confirme que todas as definições são cinzento. 
+2. Vá para **configurações** \> **de &amp; atualização de segurança** \> do **Windows Update** \> **Opções avançadas** e confirme que todas as configurações estão acinzentadas. 
     
-    ![Opções das actualizações do Windows Advanced são todos cinzento.](media/049cf281-d503-4be9-898b-c0a3286c7fc2.png)
+    ![As opções de atualizações avançadas do Windows estão todas acinzentadas.](media/049cf281-d503-4be9-898b-c0a3286c7fc2.png)
   
-3. Vá para **Definições** \> **Update &amp; segurança** \> **Windows Update** \> **Opções avançadas de** \> **Escolher a forma como as actualizações são fornecidas**.
+3. Vá para **configurações** \> **de &amp; atualização de segurança** \> do **Windows Update** \> **Opções** \> avançadas **escolha como as atualizações são entregues**.
     
-    Confirme que pode vir a mensagem (em vermelho) que algumas definições estiverem ocultas ou geridas pela sua organização e todas as opções são cinzento.
+    Confirme que você pode ver a mensagem (em vermelho) que algumas configurações estão ocultas ou gerenciadas por sua organização, e todas as opções são acinzentadas.
     
-    ![Escolher a forma como as actualizações são fornecidas página indica as definições estiverem ocultas ou geridas pela sua organização.](media/6b3e37c5-da41-4afd-9983-b4f406216b59.png)
+    ![Escolha como as atualizações são entregues página indica que as configurações são ocultas ou gerenciadas por sua organização.](media/6b3e37c5-da41-4afd-9983-b4f406216b59.png)
   
-4. Para abrir o Centro de segurança do Windows Defender, vá para **Definições** \> **Update &amp; segurança** \> **O Windows Defender** \> clique em **Abrir o Centro de segurança Windows Defender** \> **Virus &amp; thread protecção** \> **Virus &amp; as definições de protecção de ameaças**. 
+4. Para abrir a central de segurança do Windows Defender, vá para **configurações** \> de **atualização &amp; de segurança** \> **do Windows Defender** \> clique em **Abrir Windows Defender Security Center** \> **Virus &amp; thread ** \> configurações de proteção contra **ameaças de vírus &amp; **de proteção. 
     
-5. Certifique-se de que todas as opções são cinzento. 
+5. Verifique se todas as opções estão acinzentadas. 
     
-    ![As definições de protecção contra vírus e ameaças estão a cinzento.](media/9ca68d40-a5d9-49d7-92a4-c581688b5926.png)
+    ![As configurações de proteção contra vírus e ameaças são acinzentadas.](media/9ca68d40-a5d9-49d7-92a4-c581688b5926.png)
   
 ## <a name="related-topics"></a>Tópicos relacionados
 

@@ -14,22 +14,19 @@ localization_priority: Normal
 ms.collection:
 - M365-subscription-management
 - M365-identity-device-management
-ms.custom:
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: 52089919-9a5e-475f-a49a-f65369487861
-description: 'Obter informações sobre a configuração predefinida e adicionar políticas de gestão de aplicações para proteger os dados da empresa em dispositivos móveis de pessoal dos utilizadores. '
-ms.openlocfilehash: 1cb2f8079fafd6d3bba153eafcc07d071fd9ccbd
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: 'Saiba mais sobre a configuração padrão e adicionando políticas de gerenciamento de aplicativos para proteger os dados da empresa nos dispositivos móveis pessoais dos usuários. '
+ms.openlocfilehash: 22857304387b43cf67e43c3b6f3ff324eadcb606
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34072606"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37288361"
 ---
 # <a name="protect-work-files-on-devices"></a>Proteger ficheiros de trabalho em dispositivos
 

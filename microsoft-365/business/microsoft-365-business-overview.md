@@ -1,5 +1,5 @@
 ---
-title: Descrição geral Microsoft 365 Business
+title: Visão geral Microsoft 365 Business
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -11,24 +11,20 @@ localization_priority: Normal
 ms.collection:
 - Adm_O365
 - M365-subscription-management
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
-description: Obter informações sobre como configurar o Microsoft 365 Business.
-ms.openlocfilehash: 64cfa460311af6cdafb637ceb3415511e003e394
-ms.sourcegitcommit: dd0d99d2ff930cd1777d6704f4d88a70adc9ca74
+description: Aprenda a configurar o Microsoft 365 Business.
+ms.openlocfilehash: 8568232eb65485f1e016342bb13de9a07f706c00
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/24/2019
-ms.locfileid: "35853155"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37288541"
 ---
-# <a name="overview-of-microsoft-365-business"></a>Descrição geral de negócio Microsoft 365
+# <a name="overview-of-microsoft-365-business"></a>Visão geral do Microsoft 365 Business
 
 ## <a name="what-is-microsoft-365-business"></a>O que é o Microsoft 365 Business
 
@@ -36,29 +32,29 @@ O Microsoft 365 Empresas é um conjunto abrangente de ferramentas de colaboraç�
   
 Microsoft 365 Business foi concebido para um máximo de 300 licenças. Caso necessite de mais licenças, consulte a documentação sobre o [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986) para obter mais informações.
 
-Consulte a [Descrição do serviço Microsoft 365 Business](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) para a lista completa de funcionalidades.
+Consulte [Microsoft 365 descrição do serviço de negócios](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) para a lista inteira de recursos.
   
-## <a name="small-business-security-needs"></a>Necessidades de segurança de pequena empresa
+## <a name="small-business-security-needs"></a>Necessidades de segurança de pequenas empresas
 
-Os dados de negócio podem ser comprometidos de várias formas. Os utilizadores podem comprometer a segurança da organização quando inicia sessão com credenciais comprometidas ou ver dados de organização de dispositivos e aplicações diferentes. Mais especificamente, a organização está susceptível a:
+Seus dados corporativos podem ser comprometidos de várias maneiras. Você e seus usuários podem comprometer a segurança da sua organização quando você entrar com credenciais comprometidas ou exibir dados da organização em diferentes dispositivos e aplicativos. Mais especificamente, sua organização está em risco de:
 
-1. Comprometida ou fracas-credenciais de sessão.
-2. Dispositivo comprometido com um pin fraco ou um utilizador pertence o dispositivo.
-3. Utilizadores que podem copiar/colar/guardar dados da organização para aplicações pessoais.
-4. Utilizadores que instalar e utilizam 3<sup>rd</sup> parte aplicações com segurança fraca.
-5. Vulnerabilidades de correio electrónico, incluindo a partilha de dados sensíveis, phishing tentativas, software malicioso, etc.
-6. Quando as pessoas que não devem, pode aceder a documentos com informações sensíveis.
+1. Credenciais de início de sessão comprometidas ou fracas.
+2. Dispositivo comprometido com um pino fraco ou um dispositivo de Propriedade do usuário.
+3. Usuários que podem copiar/colar/salvar os dados da sua organização em aplicativos pessoais.
+4. Usuários que instalam e usam aplicativos de terceiros de 3<sup>RD</sup> com segurança fraca.
+5. Vulnerabilidades de e-mail, incluindo compartilhamento de dados confidenciais, tentativas de phishing, malware, etc.
+6. Quando as pessoas que não devem, podem acessar documentos com informações confidenciais.
 
-Microsoft 365 Business ajuda a proteger os dados em cada uma dessas ocorrências. As funcionalidades de segurança que protegem os dados de negócio são descritas na figura seguinte.
+O Microsoft 365 Business ajuda a proteger seus dados em cada uma dessas instâncias. Os recursos de segurança que protegem seus dados corporativos são detalhados na figura a seguir.
 
-![Figura que mostra como o M365B protege a sua empresa.](media/m365businessvalueadd.png)
+![Uma figura que mostra como M365B protege o seu negócio.](media/m365businessvalueadd.png)
 
-Para ver a lista completa de funcionalidades de segurança, consulte [funcionalidades de segurança do Microsoft 365 Business](security-features.md). Depois de [configurar o Microsoft 365 Business](set-up.md), consulte [Configurar políticas de segurança avançada](set-up-advanced-security.md) para começar a trabalhar com as funcionalidades de segurança que não estão incluídas como parte da configuração. Ler também [10 mais formas para proteger o Office 365 e planos do Microsoft 365 Business](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) para uma boa descrição geral sobre como configurar protecções contra ciber-crime e hackers.
+Para ver a lista completa de recursos de segurança, consulte [Microsoft 365 recursos de segurança do negócio](security-features.md). Depois de [Configurar o Microsoft 365 Business](set-up.md), consulte [configurar diretivas de segurança avançadas](set-up-advanced-security.md) para começar a usar os recursos de segurança que não estão incluídos como parte da instalação. Leia também [Top 10 maneiras de proteger o Office 365 e Microsoft 365 planos de negócios](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) para uma boa visão geral sobre como configurar proteções contra criminosos cibernéticos e hackers.
 
 ## <a name="get-microsoft-365-business"></a>Obter o Microsoft 365 Empresas
 
 - Se tiver um parceiro, este obterá o Microsoft 365 Business: [Obter o Microsoft 365 Empresas a partir do Centro de Parceiros da Microsoft](get-microsoft-365-business.md#get-microsoft-365-business-from-microsoft-partner-center).
 
-- Se não tiver um parceiro e pretender obter Microsoft 365 Business, pode [comprá-lo aqui](https://www.microsoft.com/microsoft-365/business) e siga as instruções de [Inscrever-se](sign-up.md) .
+- Se você não tem um parceiro e deseja obter o Microsoft 365 Business, você pode [comprá-lo aqui](https://www.microsoft.com/microsoft-365/business) e siga as instruções de [inscrição](sign-up.md) .
 
-- Pode também head através de um [Arquivo Microsoft](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en-us_UF_FAS) de ambos os comprar Microsoft 365 Business e obter ajuda de configuração.
+- Você também pode ir até uma [Microsoft Store](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en-us_UF_FAS) para comprar o Microsoft 365 Business e obter ajuda de set-up.

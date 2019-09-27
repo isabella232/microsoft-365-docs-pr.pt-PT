@@ -15,42 +15,38 @@ ms.collection:
 - Adm_O365
 - M365-subscription-management
 - M365-identity-device-management
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: 99bfbf81-e719-4630-9b0f-c187edfa1f8a
-description: Perfis de piloto automático ajudam-na controlar como o Windows é instalado em dispositivos de utilizador. Os perfis contêm predefinido e definições opcionais como ignorar a instalação de Cortana.
-ms.openlocfilehash: adc8112861b67fd96a91ff24dc155aeb0c394532
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Os perfis do AutoPilot ajudam você a controlar como o Windows é instalado em dispositivos de usuário. Os perfis contêm configurações padrão e opcionais, como ignorar a instalação da Cortana.
+ms.openlocfilehash: cd66627943301f4a4f2410bafeff6074919ec29d
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34071866"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37287481"
 ---
 # <a name="about-autopilot-profile-settings"></a>Sobre as definições do Perfil AutoPilot
 
-## <a name="autopilot-profile-settings"></a>Definições do perfil de piloto automático
+## <a name="autopilot-profile-settings"></a>Configurações do perfil do AutoPilot
 
-Pode controlar como o Windows é instalado em dispositivos de utilizador, utilizando os perfis de piloto automático. Os perfis de contenham as seguintes definições.
+Você pode controlar como o Windows é instalado em dispositivos de usuário usando os perfis do AutoPilot. Os perfis contêm as seguintes configurações.
   
- **Piloto automático funcionalidades predefinidas (obrigatórias) que são definidas automaticamente:**
+ **Recursos padrão do AutoPilot (obrigatório) que são definidos automaticamente:**
   
 |**Definição**|**Descrição**|
 |:-----|:-----|
-|Ignorar o registo de Cortana, OneDrive e OEM  <br/> |Ignora a instalação de aplicações do consumidor tal como Cortana e OneDrive pessoal. O dispositivo de utilizador pode instalar estes posterior, desde que ele ou ela é um administrador local no dispositivo. O registo de fabricante original é ignorado porque o dispositivo será gerido pelo Microsoft 365 Business.  <br/> |
-|Iniciar sessão na experiência adquirida com a marca de empresa  <br/> |Se a empresa tiver uma [imagem corporativa adicionar empresa Office 365 Iniciar sessão na página](https://support.office.com/article/a1229cdb-ce19-4da5-90c7-2b9b146aef0a), o utilizador do dispositivo irá obter essa experiência ao iniciar sessão no.  <br/> |
-|MDM-inscrição automática com contas AAD configuradas.  <br/> |A identidade do utilizador será gerida pelo Azure Active directory e os utilizadores vão iniciar sessão no Windows e Office 365 com as respectivas credenciais de Microsoft 365 Business.  <br/> |
+|Ignorar Cortana, OneDrive e registro de OEM  <br/> |Ignora a instalação de aplicativos de consumidor como Cortana e OneDrive pessoal. O usuário do dispositivo pode instalá-los mais tarde, desde que ele ou ela é um administrador local no dispositivo. O registro original do fabricante é ignorado porque o dispositivo será gerenciado pelo Microsoft 365 Business.  <br/> |
+|Entre em experiência com a sua marca da empresa  <br/> |Se a sua empresa tiver uma [Adicionar a marca da sua empresa à página de início de sessão do Office 365](https://support.office.com/article/a1229cdb-ce19-4da5-90c7-2b9b146aef0a), o utilizador do dispositivo receberá essa experiência quando iniciar sessão.  <br/> |
+|Registro automático do MDM com contas AAD configuradas.  <br/> |A identidade do usuário será gerenciada pelo Active Directory do Azure e os usuários farão logon no Windows e no Office 365 com suas credenciais do Microsoft 365 Business.  <br/> |
    
- **Definições opcionais:**
+ **Configurações opcionais:**
   
 |**Definição**|**Descrição**|
 |:-----|:-----|
-|Ignorar definições de privacidade (desactivado por predefinição)  <br/> |Se esta opção é definida como **no**, o utilizador do dispositivo não verá o contrato de licença para o dispositivo e o Windows quando ele ou ela primeiro inicia sessão.  <br/> |
-|Não permitir que o utilizador tornar-se o administrador local  <br/> |Se esta opção estiver definida para **activado**, o dispositivo de utilizador não poderá instalar quaisquer aplicações pessoais, tais como Cortana.  <br/> |
+|Ignorar configurações de privacidade (desativado por padrão)  <br/> |Se essa opção estiver definida como **ativado**, o usuário do dispositivo não verá o contrato de licença para o dispositivo e o Windows quando ele ou ela entrar pela primeira vez.  <br/> |
+|Não permita que o usuário se torne o administrador local  <br/> |Se essa opção estiver definida como **ativado**, o usuário do dispositivo não poderá instalar nenhum aplicativo pessoal, como a Cortana.  <br/> |
    

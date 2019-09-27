@@ -1,5 +1,5 @@
 ---
-title: Obter Microsoft 365 Business a partir do Centro de parceiros
+title: Obtenha o Microsoft 365 Business do Partner Center
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -10,22 +10,18 @@ localization_priority: Normal
 ms.collection:
 - Adm_O365
 - M365-subscription-management
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 5abfef7b-5957-484a-b06b-a7c55e013e44
-description: Obter informações sobre como comprar o Microsoft Business de 365 da Microsoft Partner Center.
-ms.openlocfilehash: 61e178b73c83880aab22336814dd9dc7fca046a5
-ms.sourcegitcommit: 64a7511d8c5ef527673b4c05753e6bb52ce9ab86
+description: Saiba como adquirir o Microsoft 365 Business a partir do Microsoft Partner Center.
+ms.openlocfilehash: 27f0b291861959c7fe925f5c72698895999d65f8
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "35114948"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37287801"
 ---
 # <a name="get-microsoft-365-business"></a>Obter o Microsoft 365 Empresas
 
@@ -33,9 +29,9 @@ ms.locfileid: "35114948"
 
 Se não tiver um parceiro e quiser obter o Microsoft 365 Business, pode [comprá-lo aqui](https://www.microsoft.com/en-US/microsoft-365/business).
 
-Consulte a [Inscrever-se para o Microsoft 365 Business](sign-up.md) para obter instruções detalhadas.
+Consulte [Inscreva-se no Microsoft 365 Business](sign-up.md) para obter instruções detalhadas.
 
-Pode também head através de um [Arquivo Microsoft](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en-us_UF_FAS) de ambos os comprar Microsoft 365 Business e obter ajuda de configuração.
+Você também pode ir até uma [Microsoft Store](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en-us_UF_FAS) para comprar o Microsoft 365 Business e obter ajuda de set-up.
   
 ## <a name="get-microsoft-365-business-from-microsoft-partner-center"></a>Obter o Microsoft 365 Business a partir do Centro de Parceiros da Microsoft
 

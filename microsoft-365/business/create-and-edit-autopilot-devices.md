@@ -11,23 +11,19 @@ ms.collection:
 - Adm_O365
 - M365-subscription-management
 - M365-identity-device-management
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: 0f7b1d7c-4086-4331-8534-45d7886f9f34
-description: Obter informações sobre como carregar dispositivos a utilizar o piloto automático no Microsoft 365 Business. Pode atribuir um perfil para um dispositivo ou um grupo de dispositivos.
-ms.openlocfilehash: dee77a014ef519f3487a082edc3cf81058ec1c00
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Saiba como carregar dispositivos usando o AutoPilot no Microsoft 365 Business. Você pode atribuir um perfil a um dispositivo ou a um grupo de dispositivos.
+ms.openlocfilehash: 9ae94266f5a41d8d115fc92f0f080a6fdbdc9f15
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34071646"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37288021"
 ---
 # <a name="create-and-edit-autopilot-devices"></a>Criar e editar dispositivos AutoPilot
 
@@ -41,13 +37,13 @@ Os dispositivos têm de cumprir os seguintes requisitos:
     
 - Novos dispositivos que não tenham tido a experiência de configuração inicial do Windows.
 
-1. No Centro de Admin de negócio do Microsoft 365, escolher **dispositivos** \> **piloto automático**.
+1. No centro de administração de negócios do Microsoft 365, escolha **dispositivos** \> **piloto automático**.
   
-2. Na página **piloto automático** , seleccione o separador **dispositivos** \> **Adicionar dispositivos**.
+2. Na página **AutoPilot** , escolha a \> guia **dispositivos** **Adicionar dispositivos**.
     
     ![In the Devices tab, choose Add devices.](media/6ba81e22-c873-40ad-8a72-ce64d15ea6ba.png)
   
-3. No painel **Adicionar dispositivos** , navegue para uma [lista de dispositivos ficheiro CSV](https://support.office.com/article/932e3676-2491-49f0-9177-d893d2f5276e) que tenha preparado \> **Guardar** \> **Fechar**.
+3. No painel **Adicionar dispositivos** , navegue até um [arquivo CSV de lista de dispositivo](https://support.office.com/article/932e3676-2491-49f0-9177-d893d2f5276e) que você preparou \> **salvar** \> **fechar**.
     
     Pode obter esta informação através do fabricante de hardware ou pode utilizar o [script do PowerShell Get-WindowsAutoPilotInfo](https://www.powershellgallery.com/packages/Get-WindowsAutoPilotInfo) que irá gerar um ficheiro cvs. 
     

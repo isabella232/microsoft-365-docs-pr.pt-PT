@@ -10,21 +10,18 @@ localization_priority: Normal
 ms.collection:
 - M365-subscription-management
 - M365-identity-device-management
-ms.custom:
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: bd66c26c-73a4-45a8-8642-3ea4ee7cd89d
-description: Obter informações sobre a predefinição e outras definições disponíveis no Microsoft Business de 365 para proteger o Windows 10 dispositivos.
-ms.openlocfilehash: 844bddc4b93c7dc543ad6c6a79f5cf92c96ceff0
-ms.sourcegitcommit: 0c1227dc79b66bab529bf178c5672791369ba471
+description: Saiba mais sobre as configurações padrão e outras disponíveis no Microsoft 365 Business para proteger dispositivos Windows 10.
+ms.openlocfilehash: 11042a63c1c0938d73ee8c2ee4326430af31b92d
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/11/2019
-ms.locfileid: "35630615"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37288691"
 ---
 # <a name="set-device-protection-settings-for-windows-10-pcs"></a>Configurar as definições de proteção de dispositivos para PCs Windows 10
 
@@ -34,9 +31,9 @@ Veja um vídeo sobre como proteger os dispositivos com Windows 10 com Microsoft 
   
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/a5734146-620a-4cec-8618-536b3ca37972?autoplay=false]
   
-1. Vá para o Centro de administração no <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>. 
+1. Vá para o centro de administração <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>em. 
     
-2. Nav esquerda, escolher **dispositivos** \> **políticas** \> **Adicionar**.
+2. No NAV esquerdo, escolha **Adicionar** **políticas** \> de **dispositivos** \> .
   
 3. No painel **Adicionar política**, introduza um nome exclusivo para esta política. 
     

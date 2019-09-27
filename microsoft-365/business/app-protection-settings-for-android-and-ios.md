@@ -11,38 +11,34 @@ ms.collection:
 - Adm_O365
 - M365-subscription-management
 - M365-identity-device-management
-ms.custom:
-- Adm_O365
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 6f2b80b4-81c3-4714-a7bc-ae69313e8a33
-description: Obter informações sobre como criar, editar ou eliminar uma política de gestão de aplicações e proteger ficheiros de trabalho em dispositivos Android ou iOS.
-ms.openlocfilehash: 21cc1d91c2952c6e9414d3742c26547fc36016a5
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Saiba como criar, editar ou excluir uma política de gerenciamento de aplicativos e proteger arquivos de trabalho em dispositivos Android ou iOS.
+ms.openlocfilehash: 68a338ffb4f9b6cab16c677f80d27481ccec4bd8
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34073516"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37287701"
 ---
 # <a name="set-app-protection-settings-for-android-or-ios-devices"></a>Configurar as definições de proteção de aplicações para dispositivos Android ou iOS
 
-![Faixa que apontam para https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
+![Banner que apontam para https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
 
 ## <a name="create-an-app-management-policy"></a>Criar uma política de gestão de aplicações
 
-1. Vá para o Centro de administração no <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>. 
+1. Vá para o centro de administração <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>em. 
     
-2. Nav esquerda, escolher **dispositivos** \> **políticas** \> **Adicionar**.
+2. No NAV esquerdo, escolha **Adicionar** **políticas** \> de **dispositivos** \> .
   
 3. No painel **Adicionar política**, introduza um nome exclusivo para esta política. 
     
 4. Em **Tipo de política**, selecione **Gestão de Aplicações para Android** ou **Gestão de Aplicações para iOS** consoante o conjunto de políticas que pretende criar. 
     
-5. Expanda as opções **Proteger os ficheiros de trabalho se os dispositivos forem perdidos ou roubados** e **Gerir a forma como os utilizadores acedem a ficheiros do Office em dispositivos móveis** \> configure as definições como pretende. A opção **Gerir a forma como os utilizadores acedem a ficheiros do Office em dispositivos móveis** está **Desativada** por predefinição, mas recomenda-se que a defina como **Ativada** e aceite os valores predefinidos. Para mais informações, consulte [as definições disponíveis](#available-settings) . 
+5. Expanda as opções **Proteger os ficheiros de trabalho se os dispositivos forem perdidos ou roubados** e **Gerir a forma como os utilizadores acedem a ficheiros do Office em dispositivos móveis** \> configure as definições como pretende. A opção **Gerir a forma como os utilizadores acedem a ficheiros do Office em dispositivos móveis** está **Desativada** por predefinição, mas recomenda-se que a defina como **Ativada** e aceite os valores predefinidos. Consulte [as configurações disponíveis](#available-settings) para obter mais informações. 
     
     Pode sempre utilizar a ligação **Repor predefinições** para regressar à predefinição. 
     
@@ -54,7 +50,7 @@ ms.locfileid: "34073516"
     
 ## <a name="edit-an-app-management-policy"></a>Editar uma política de gestão de aplicações
 
-1. Na ficha de **políticas** , escolha **Editar política**.
+1. No cartão de **políticas** , escolha **Editar política**.
     
 2. No painel **Editar política**, selecione a política que pretende alterar 
     
@@ -64,9 +60,9 @@ ms.locfileid: "34073516"
     
 ## <a name="delete-an-app-management-policy"></a>Eliminar uma política de gestão de aplicações
 
-1. Na página **políticas** , escolha uma política e, em seguida, **Eliminar**.
+1. Na página **diretivas** , escolha uma política e **exclua**.
     
-2. No painel de **Eliminar política** escolha **Confirmar** ao eliminar a política ou políticas que escolheu. 
+2. No painel **excluir política** , escolha **Confirm** para excluir a política ou as políticas que você escolheu. 
     
 ## <a name="available-settings"></a>Definições disponíveis
 
@@ -96,7 +92,7 @@ As seguintes definições estão disponíveis para gerir como os utilizadores ac
 |Repor o PIN quando o início de sessão falha este número de vezes  <br/> |Para impedir um utilizador não autorizado de adivinhar um PIN aleatoriamente, o PIN será reposto após o número de tentativas incorretas que especificar.  <br/> |
 |Exigir que o utilizador inicie a sessão novamente após as aplicações do Office estarem inativas durante  <br/> |Esta definição determina durante quanto tempo um utilizador pode estar inativo antes de ter de voltar a iniciar sessão.  <br/> |
 |Negar o acesso a ficheiros de trabalho em dispositivos desbloqueados por jailbreak ou rooting  <br/> |Alguns utilizadores podem ter um dispositivo desbloqueado através de jailbreak ou rooting. Isto significa que o utilizador pode modificar o sistema operativo, o que pode tornar o dispositivo mais suscetível a software maligno. Estes dispositivos são bloqueados quando esta definição se encontra **Ativada**.  <br/> |
-|Permitir que os utilizadores copiem conteúdos das aplicações do Office para aplicações pessoais  <br/> |Vamos permitir isto por predefinição, mas se a definição estiver **activa**, o utilizador pode copiar informações num ficheiro de trabalho para um ficheiro pessoal. Se a definição estiver **desactivada**, o utilizador será não é possível copiar informações de uma conta de trabalho para uma conta pessoal ou app pessoal.  <br/> |
+|Permitir que os utilizadores copiem conteúdos das aplicações do Office para aplicações pessoais  <br/> |Nós permitimos isso por padrão, mas se a configuração estiver **ativado**, o usuário poderá copiar informações em um arquivo de trabalho para um arquivo pessoal. Se a configuração estiver **desativada**, o usuário não poderá copiar informações de uma conta de trabalho em um aplicativo pessoal ou conta pessoal.  <br/> |
    
 
   

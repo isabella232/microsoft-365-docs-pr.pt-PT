@@ -14,22 +14,19 @@ localization_priority: Normal
 ms.collection:
 - M365-subscription-management
 - M365-identity-device-management
-ms.custom:
-- Core_O365Admin_Migration
-- MiniMaven
-- MSB365
+ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: 02e74022-44af-414b-9d74-0ebf5c2197f0
-description: Obter informações sobre como criar uma política de gestão de aplicações e proteger os ficheiros de trabalho no Windows 10 dispositivos.
-ms.openlocfilehash: 670184a2e81721fb5cc063e854822e9b271164d9
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Saiba como criar uma política de gerenciamento de aplicativos e proteger arquivos de trabalho em dispositivos Windows 10.
+ms.openlocfilehash: 92cd3facbd3eabbfef674300abe0257c370294ea
+ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34074616"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37288421"
 ---
 # <a name="set-application-protection-settings-for-windows-10-devices"></a>Configurar as definições de proteção de aplicações para dispositivos Windows 10
 
@@ -37,15 +34,15 @@ ms.locfileid: "34074616"
 
 Se os seus utilizadores tiverem dispositivos Windows 10 pessoais, nos quais realizam tarefas profissionais, também pode proteger os seus dados nesses dispositivos.
   
-1. Vá para o Centro de administração no <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>. 
+1. Vá para o centro de administração <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>em. 
     
-2. Nav esquerda, escolher **dispositivos** \> **políticas** \> **Adicionar**.
+2. No NAV esquerdo, escolha **Adicionar** **políticas** \> de **dispositivos** \> .
 
 3. No painel **Adicionar política**, introduza um nome exclusivo para esta política. 
     
 4. Em **Tipo de política**, selecione **Gestão de Aplicações para Windows 10**.
     
-5. Em **tipo de dispositivo**, escolha **pessoais** ou **Propriedade da empresa**.
+5. Em **tipo de dispositivo**, escolha **pessoal** ou **empresa possuída**.
     
 6. A opção **Encriptar ficheiros de trabalho** é ativada automaticamente. 
     
