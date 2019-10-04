@@ -15,12 +15,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Configure a proteção avançada contra ameaças do Office 365 e proteja os dados confidenciais.
-ms.openlocfilehash: 81197a8baf1c4d0cbfd898c41a305c1a99bab57c
-ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
+ms.openlocfilehash: 5009379d6a5d8c3a692799aa7c0f137dae1482fd
+ms.sourcegitcommit: 492f03a2c83e36846602fced396c8f8d32315c85
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37288121"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "37398915"
 ---
 # <a name="increase-threat-protection"></a>Aumente a proteção contra ameaças
 
@@ -146,8 +146,6 @@ Para criar uma política de antiphishing do ATP, Assista a [este vídeo de trein
 |Inteligência de caixa de correio  <br/> |Por padrão, a inteligência de caixa de correio é selecionada quando você cria uma nova política de antiphishing. Deixe esta definição **em** para obter melhores resultados.  <br/> |
 |Adicionar domínios e remetentes confiáveis  <br/> |Aqui você pode adicionar seu próprio domínio, ou quaisquer outros domínios confiáveis.  <br/> |
 |Aplicado a  <br/> |Selecione **o domínio do destinatário**. Em **qualquer um desses**, selecione **escolher**. Selecione **+ Adicionar**. Marque a caixa de seleção ao lado do nome do domínio, por exemplo, *contoso.<span> com <span>*, na lista e, em seguida, selecione **Adicionar**. Selecione **concluído**.  <br/> |
-   
-Para obter mais informações, consulte [Configurar políticas de antiphishing do Office 365 ATP](https://go.microsoft.com/fwlink/?linkid=2016505&amp;clcid=0x409).
   
 ## <a name="protect-against-malicious-attachments-and-files-with-atp-safe-attachments"></a>Proteja-se contra anexos e arquivos maliciosos com anexos seguros ATP
 
