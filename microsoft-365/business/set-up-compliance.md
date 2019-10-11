@@ -14,13 +14,13 @@ ms.custom: OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
-description: Configure a proteção avançada contra ameaças do Office 365 e proteja os dados confidenciais.
-ms.openlocfilehash: 8144bcebe8a0cdf28a5e092f592362922ccbdd48
-ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
+description: Configure os recursos de conformidade para evitar perda de dados e rótulos de dados confidenciais.
+ms.openlocfilehash: a0ba2fa6dbe7c786d577ad7098c1790f569f5acc
+ms.sourcegitcommit: 255e8194bb5767a9983d54d16e79d628732a1d97
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37288751"
+ms.lasthandoff: 10/11/2019
+ms.locfileid: "37453928"
 ---
 # <a name="set-up-compliance-features"></a>Configurar recursos de conformidade
 
@@ -50,48 +50,21 @@ Para colocar uma caixa de correio em retenção de litígio, no centro de admini
     
 **Retenção:** Você pode habilitar políticas de retenção personalizadas, por exemplo, para preservar um determinado período de tempo ou excluir conteúdo permanentemente no final do período de retenção. Para saber mais, consulte [visão geral das políticas de retenção](https://support.office.com/article/5e377752-700d-4870-9b6d-12bfc12d2423).
 
-## <a name="set-up-azure-information-protection-features"></a>Configurar os recursos do Azure Information Protection
+## <a name="set-up-sensitivity-labels"></a>Configurar rótulos de sensibilidade
 
-O AIP (proteção de informações do Azure) ajuda você a classificar e, opcionalmente, proteger seus documentos e emails, aplicando rótulos. Os rótulos podem ser aplicados automaticamente por administradores que definem regras e condições, manualmente por usuários, ou usando uma combinação em que os usuários recebem recomendações.
+Rótulos de sensibilidade vêm com o plano de proteção de informações do Azure (AIP) 1 e ajudam a classificar e, opcionalmente, proteger seus documentos e emails, aplicando rótulos. Os rótulos podem ser aplicados automaticamente por administradores que definem regras e condições, manualmente por usuários, ou usando uma combinação em que os usuários recebem recomendações.
 
-No Outlook na Web, você pode aplicar os seguintes rótulos e restrições incorporados aos seus emails:
-  
-- **Não encaminhar**: os destinatários podem ler a mensagem, mas não conseguem encaminhar, imprimir ou copiar conteúdo
-    
-- **Criptografar**: a mensagem inteira é criptografada. Os destinatários devem confirmar sua identidade antes de acessar o conteúdo criptografado e não podem remover a criptografia.
-    
-- **Confidencial**: concede aos funcionários da sua organização permissões completas para o conteúdo e os anexos de e-mail, mas não para pessoas fora da sua organização. Os proprietários de dados podem rastrear e revogar conteúdo em qualquer ponto.
-    
-- **Altamente confidencial**: essa restrição pode ser aplicada a dados altamente confidenciais, permitindo que os funcionários visualizem, editem e respondam, mas não reencaminhar, imprimir ou copiar os dados. Os proprietários de dados podem rastrear e revogar conteúdo em qualquer ponto.
+Para configurar rótulos de sensibilidade, exiba [criar e gerenciar os rótulos de sensibilidade](https://support.office.com/en-us/article/2fb96b54-7dd2-4f0c-ac8d-170790d4b8b9) vídeo.
 
-### <a name="make-sure-azure-information-protection-is-activated"></a>Certifique-se de que a proteção de informações do Azure está ativada
 
-Para verificar se o AIP está ativado:
-
-1. Entre no [portal do Azure](https://portal.azure.com/).
-
-2. Selecione **todos os serviços** e digite a *proteção de informações do Azure* na **caixa de pesquisa**.
-
-3. Depois que os resultados forem exibidos, clique no início ao lado da **proteção de informações do Azure** para torná-lo um favorito e fácil de encontrar mais tarde.
-
-4. Selecione \> **ativação da proteção** de **proteção de informações do Azure** e certifique-se de que o status esteja definido como ativado. 
-
-### <a name="view-the-azure-information-protection-policy-and-default-labels"></a>Exibir a política de proteção de informações do Azure e rótulos padrão 
-
-Para exibir e modificar os rótulos existentes:
-
-1. No painel de proteção de informações do Azure, selecione **Rótulos**de **classificações** \> . <br/>![Rótulos padrão para a proteção de informações do Azure.](media/AIPLabels.png)
-
-2. Você pode escolher qualquer etiqueta para ver as opções, você pode alterar o nome de exibição, cores, etc.
- 
-3. Consulte [modificar e criar novos rótulos](https://docs.microsoft.com/azure/information-protection/infoprotect-tutorial-step2) se você quiser criar o seu próprio. 
 
 ### <a name="install-the-azure-information-protection-client-manually"></a>Instalar o cliente do Azure Information Protection manualmente
 
 Para instalar manualmente o cliente AIP:
 
-1. Baixar **Azinfoprotection. exe** do [centro de download da Microsoft](https://www.microsoft.com/download/details.aspx?id=53018).
+1. Baixar **AzinfoProtection_UL. exe** do [centro de download da Microsoft](https://www.microsoft.com/download/details.aspx?id=53018).
  
-2. Você pode verificar se a instalação funcionou exibindo um documento do Word e certificando-se de que a opção **Protect** está disponível na guia **início** . <br/>![Guia de proteção suspensa em um documento do Word.](media/Word_Protect.png)
+2. Você pode verificar se a instalação funcionou exibindo um documento do Word e certificando-se de que a opção de **sensibilidade** está disponível na guia **início** .
+<br/>![Guia de proteção suspensa em um documento do Word.](media/word-sensitivity.png)
 
 Para obter mais informações, consulte, [instalar o cliente](https://docs.microsoft.com/azure/information-protection/infoprotect-tutorial-step3).
