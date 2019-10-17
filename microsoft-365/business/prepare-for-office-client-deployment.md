@@ -9,18 +9,22 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: M365-subscription-management
-ms.custom: OKR_SMB_M365
+ms.custom:
+- Core_O365Admin_Migration
+- MiniMaven
+- MSB365
+- OKR_SMB_M365
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: ed34fff3-2881-4ed4-9906-1ba6bb8dd804
 description: Saiba como instalar automaticamente os aplicativos do Office de 32 bits em computadores com Windows 10 e mantê-los atualizados.
-ms.openlocfilehash: fe1f946e4a216050e533604afa7c6e74e7b5980f
-ms.sourcegitcommit: 6003d6da0a85c97357eb3dba3918eb145f381fe1
+ms.openlocfilehash: 5b28c1e62d813c52b41ce8e7619c865cdf7690e2
+ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37288401"
+ms.lasthandoff: 10/17/2019
+ms.locfileid: "37575824"
 ---
 # <a name="prepare-for-office-client-deployment-by-microsoft-365-business"></a>Preparar a implementação do cliente do Office pelo Microsoft 365 Business
 
@@ -54,10 +58,10 @@ A seguinte tabela indica detalhadamente que ação os utilizadores/administrador
   
 |**Estado inicial da instalação do Office**|**Ação a tomar antes da instalação do Office do Microsoft 365 Business**|**Estado final**|
 |:-----|:-----|:-----|
-|Nenhum conjunto de aplicações do Office instalado  <br/> |Nenhuma  <br/> |Office 2016 de 32 bits instalado com a tecnologia Clique-e-Use  <br/> |
-|Versão Clique-e-Use de 32 bits do Office (2016 ou anterior) sem aplicações autónomas  <br/> |Nenhuma  <br/> |Atualizada para a versão Clique-e-Use de 32 bits mais recente do Office 2016, conforme necessário **\*** <br/> |
-|Versão Clique-e-Use de 32 bits do Office e aplicações autónomas do Office Clique-e-Use de 32 ou 64 bits (por exemplo, o Visio ou Project)  <br/> |Nenhuma  <br/> |As aplicações autónomas não são afetadas. O conjunto de aplicações é atualizado para a versão Clique-e-Use de 32 bits do Office 2016  <br/> |
-|Versão Clique-e-Use de 32 bits do Office e quaisquer aplicações autónomas do Office MSI de 32 ou 64 bits (exceto o 2016)  <br/> |Nenhuma  <br/> |As aplicações autónomas não são afetadas. O conjunto de aplicações é atualizado para a versão Clique-e-Use de 32 bits do Office 2016  <br/> ||||
+|Nenhum conjunto de aplicações do Office instalado  <br/> |Nenhum  <br/> |Office 2016 de 32 bits instalado com a tecnologia Clique-e-Use  <br/> |
+|Versão Clique-e-Use de 32 bits do Office (2016 ou anterior) sem aplicações autónomas  <br/> |Nenhum  <br/> |Atualizada para a versão Clique-e-Use de 32 bits mais recente do Office 2016, conforme necessário **\*** <br/> |
+|Versão Clique-e-Use de 32 bits do Office e aplicações autónomas do Office Clique-e-Use de 32 ou 64 bits (por exemplo, o Visio ou Project)  <br/> |Nenhum  <br/> |As aplicações autónomas não são afetadas. O conjunto de aplicações é atualizado para a versão Clique-e-Use de 32 bits do Office 2016  <br/> |
+|Versão Clique-e-Use de 32 bits do Office e quaisquer aplicações autónomas do Office MSI de 32 ou 64 bits (exceto o 2016)  <br/> |Nenhum  <br/> |As aplicações autónomas não são afetadas. O conjunto de aplicações é atualizado para a versão Clique-e-Use de 32 bits do Office 2016  <br/> ||||
 |Qualquer versão Clique-e-Use de 64 bits do Office  <br/> |Desinstale as aplicações do Office de 64 bits se não houver problema em substitui-las pelas aplicações do Office de 32 bits  <br/> |Se as aplicações do Office de 64 bits forem removidas, a versão Clique-e-Use de 32 bits do Office 2016 é instalada  <br/> |
 |Uma instalação MSI do Office 2016 com ou sem aplicações autónomas  <br/> |Desinstale o Office 2016 MSI.  <br/> |A versão Clique-e-Use de 32 bits do Office 2016 é instalada. As aplicações autónomas não são alteradas  <br/> |
 |Instalação do Office 2013 MSI (ou anterior) e/ou aplicações autónomas do Office  <br/> |Nenhuma  <br/> |A versão Clique-e-Use de 32 bits do Office 2016 e a instalação do Office MSI já existente (e aplicações autónomas) existem em simultâneo  <br/> |
