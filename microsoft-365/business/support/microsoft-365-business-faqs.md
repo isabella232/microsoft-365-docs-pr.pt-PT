@@ -10,12 +10,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business, Microsoft 365, SMB, FAQ, frequentemente perguntas, respostas, negócios
 ms.date: 06/08/2018
-ms.openlocfilehash: 18198007bf61d448581335594016433668edb47d
-ms.sourcegitcommit: 23173f7d0ca5079662ef4060371d8ee11bac228e
+ms.openlocfilehash: 23cf7c4770387050c60ac21f537fbd7738a8aab4
+ms.sourcegitcommit: 1e3916bbe94d4fbb858566e7db5018e1e46bcd0d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "37611427"
+ms.lasthandoff: 10/23/2019
+ms.locfileid: "37646391"
 ---
 # <a name="microsoft-365-business-frequently-asked-questions"></a>Microsoft 365 Negócios frequentemente perguntas feitas
 
@@ -164,7 +164,7 @@ Os provedores de serviços de TI que ainda não são [https://partners.office.co
 Os parceiros que agora vendem o Office 365 podem usar os mesmos métodos consultivos de venda para vender o Microsoft 365 Business. Além disso, estamos introduzindo mais recursos e treinamento para sua equipe de vendas para entender o ambiente de desktop existente dos clientes, a confiança do Diretório Ativo, a mobilidade e a segurança precisam comunicar efetivamente o valor total do Microsoft 365 Business de uma forma que é relevante para o cliente. Encontre esses recursos no portal [http://partners.office.com/microsoft365business](http://partners.office.com/microsoft365business)office partner em . 
 
 ### <a name="how-can-microsoft-365-business-help-partners-increase-the-profitability"></a>Como o Microsoft 365 Business pode ajudar os parceiros a aumentar a rentabilidade? 
-A Microsoft 365 Business ajudará os parceiros a reduzir custos por meio de maiores eficiências operacionais e aumentar a receita através da venda de serviços adicionais. O Estudo de Impacto Econômico Total de Negócios (TEI) da Forresterhttps://partners.office.com/TEIBusiness)Research, Microsoft 365 Business Total Impact (TEI), em junho de 2017 ( , demonstra que a Microsoft 365 Business terá um impacto positivo na rentabilidade dos parceiros. 
+A Microsoft 365 Business ajudará os parceiros a reduzir custos por meio de maiores eficiências operacionais e aumentar a receita através da venda de serviços adicionais. O Estudo de Impacto Econômico Total de Negócios (TEI) da Forresterhttps://www.microsoft.com/microsoft-365/partners/PartnerTEI)Research, Microsoft 365 Business Total Impact (TEI), em junho de 2017 ( , demonstra que a Microsoft 365 Business terá um impacto positivo na rentabilidade dos parceiros. 
 
 Nos parceiros de estudo do TEI relataram que, com a Microsoft 365 Business, eles esperam: 
 
