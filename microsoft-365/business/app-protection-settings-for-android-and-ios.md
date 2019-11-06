@@ -22,28 +22,28 @@ search.appverid:
 - MET150
 ms.assetid: 6f2b80b4-81c3-4714-a7bc-ae69313e8a33
 description: Saiba como criar, editar ou excluir uma política de gerenciamento de aplicativos e proteger arquivos de trabalho em dispositivos Android ou iOS.
-ms.openlocfilehash: a829cfbcb3209313a53e0a1406f5252d3d5580d8
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+ms.openlocfilehash: 914e6848ac46eb334516aadff2827da2b83a38c4
+ms.sourcegitcommit: 0fa897d06b664c0ed005817752da1426d4ee17cb
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37574744"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "38002091"
 ---
 # <a name="set-app-protection-settings-for-android-or-ios-devices"></a>Configurar as definições de proteção de aplicações para dispositivos Android ou iOS
 
-![Banner que apontam para https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
+![Banner que https://aka.ms/aboutM365previewapontam para .](media/m365admincenterchanging.png)
 
 ## <a name="create-an-app-management-policy"></a>Criar uma política de gestão de aplicações
 
-1. Vá para o centro de administração <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>em. 
+1. Vá para o centro <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>de administração em . 
     
-2. No NAV esquerdo, escolha **Adicionar** **políticas** \> de **dispositivos** \> .
+2. No nav esquerdo, escolha **políticas** \> dos **dispositivos** \> **adicione.**
   
 3. No painel **Adicionar política**, introduza um nome exclusivo para esta política. 
     
 4. Em **Tipo de política**, selecione **Gestão de Aplicações para Android** ou **Gestão de Aplicações para iOS** consoante o conjunto de políticas que pretende criar. 
     
-5. Expanda as opções **Proteger os ficheiros de trabalho se os dispositivos forem perdidos ou roubados** e **Gerir a forma como os utilizadores acedem a ficheiros do Office em dispositivos móveis** \> configure as definições como pretende. A opção **Gerir a forma como os utilizadores acedem a ficheiros do Office em dispositivos móveis** está **Desativada** por predefinição, mas recomenda-se que a defina como **Ativada** e aceite os valores predefinidos. Consulte [as configurações disponíveis](#available-settings) para obter mais informações. 
+5. Expanda as opções **Proteger os ficheiros de trabalho se os dispositivos forem perdidos ou roubados** e **Gerir a forma como os utilizadores acedem a ficheiros do Office em dispositivos móveis** \> configure as definições como pretende. A opção **Gerir a forma como os utilizadores acedem a ficheiros do Office em dispositivos móveis** está **Desativada** por predefinição, mas recomenda-se que a defina como **Ativada** e aceite os valores predefinidos. Veja [as configurações disponíveis](#available-settings) para obter mais informações. 
     
     Pode sempre utilizar a ligação **Repor predefinições** para regressar à predefinição. 
     
@@ -55,7 +55,7 @@ ms.locfileid: "37574744"
     
 ## <a name="edit-an-app-management-policy"></a>Editar uma política de gestão de aplicações
 
-1. No cartão de **políticas** , escolha **Editar política**.
+1. No cartão **de Políticas,** escolha **a política de eitar**.
     
 2. No painel **Editar política**, selecione a política que pretende alterar 
     
@@ -65,13 +65,13 @@ ms.locfileid: "37574744"
     
 ## <a name="delete-an-app-management-policy"></a>Eliminar uma política de gestão de aplicações
 
-1. Na página **diretivas** , escolha uma política e **exclua**.
+1. Na página **de Políticas,** escolha uma política e, em seguida, **excluir**.
     
-2. No painel **excluir política** , escolha **Confirm** para excluir a política ou as políticas que você escolheu. 
+2. No painel de **política delete** escolha **confirmar** para excluir a política ou as políticas que você escolheu. 
     
 ## <a name="available-settings"></a>Definições disponíveis
 
-As tabelas seguintes fornecem informações detalhadas sobre as definições disponíveis para proteger ficheiros de trabalho em dispositivos e as definições que controlam a forma como os utilizadores acedem a ficheiros do Office a partir dos respetivos dispositivos móveis.
+As tabelas a seguir dão informações detalhadas sobre as configurações disponíveis para proteger os arquivos de trabalho em dispositivos e as configurações que controlam como os usuários acessam os arquivos do Office de seus dispositivos móveis.
   
  Consulte o artigo [Como é que as funcionalidades de proteção no Microsoft 365 Business são mapeadas às definições do Intune](map-protection-features-to-intune-settings.md) para obter mais informações. 
   
@@ -97,7 +97,7 @@ As seguintes definições estão disponíveis para gerir como os utilizadores ac
 |Repor o PIN quando o início de sessão falha este número de vezes  <br/> |Para impedir um utilizador não autorizado de adivinhar um PIN aleatoriamente, o PIN será reposto após o número de tentativas incorretas que especificar.  <br/> |
 |Exigir que o utilizador inicie a sessão novamente após as aplicações do Office estarem inativas durante  <br/> |Esta definição determina durante quanto tempo um utilizador pode estar inativo antes de ter de voltar a iniciar sessão.  <br/> |
 |Negar o acesso a ficheiros de trabalho em dispositivos desbloqueados por jailbreak ou rooting  <br/> |Alguns utilizadores podem ter um dispositivo desbloqueado através de jailbreak ou rooting. Isto significa que o utilizador pode modificar o sistema operativo, o que pode tornar o dispositivo mais suscetível a software maligno. Estes dispositivos são bloqueados quando esta definição se encontra **Ativada**.  <br/> |
-|Permitir que os utilizadores copiem conteúdos das aplicações do Office para aplicações pessoais  <br/> |Nós permitimos isso por padrão, mas se a configuração estiver **ativado**, o usuário poderá copiar informações em um arquivo de trabalho para um arquivo pessoal. Se a configuração estiver **desativada**, o usuário não poderá copiar informações de uma conta de trabalho em um aplicativo pessoal ou conta pessoal.  <br/> |
+|Permitir que os utilizadores copiem conteúdos das aplicações do Office para aplicações pessoais  <br/> |Nós permitimos isso por padrão, mas se a configuração estiver **on,** o usuário poderá copiar informações em um arquivo de trabalho para um arquivo pessoal. Se a configuração estiver **desligada,** o usuário não poderá copiar informações de uma conta de trabalho em um aplicativo pessoal ou conta pessoal.  <br/> |
    
 
   
