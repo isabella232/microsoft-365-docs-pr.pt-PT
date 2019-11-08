@@ -21,12 +21,12 @@ search.appverid:
 - MET150
 ms.assetid: 5abfef7b-5957-484a-b06b-a7c55e013e44
 description: Saiba como comprar o Microsoft 365 Business do Microsoft Partner Center.
-ms.openlocfilehash: 168c68c7394ff736e9d94cb40872230a3f3b8894
-ms.sourcegitcommit: 70e920f76526f47fc849df615de4569e0ac2f4be
+ms.openlocfilehash: 09d2f24fba1725278b663d5c3159163a56dcdc59
+ms.sourcegitcommit: 550ea6f093ec35182e7c65a2811e9bfb07ec7d01
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/07/2019
-ms.locfileid: "38030820"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "38038925"
 ---
 # <a name="get-microsoft-365-business"></a>Obter o Microsoft 365 Empresas
 
@@ -36,7 +36,7 @@ Se não tiver um parceiro e quiser obter o Microsoft 365 Business, pode [comprá
 
 Veja [a inscrição no Microsoft 365 Business](sign-up.md) para obter instruções detalhadas.
 
-Você também pode ir até uma [Microsoft Store](https://www.microsoft.com/store/locations/find-a-store?icid=en-us_UF_FAS) para comprar o Microsoft 365 Business e obter ajuda de configuração.
+Você também pode ir até uma [Microsoft Store](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en_US_Store_UH_FAS) para comprar o Microsoft 365 Business e obter ajuda de configuração.
   
 ## <a name="get-microsoft-365-business-from-microsoft-partner-center"></a>Obter o Microsoft 365 Business a partir do Centro de Parceiros da Microsoft
 
@@ -46,7 +46,7 @@ Você também pode ir até uma [Microsoft Store](https://www.microsoft.com/store
     
     ![In the Microsoft Partner center, add a new customer.](media/ec807d07-bbd2-411f-8fe1-c644cf9a3882.png)
   
-3. Na página **Subscrição** do cliente, selecione Adicionar subscrição, selecione a opção Pequenas empresas em Catálogo e, em seguida, selecione **Microsoft 365 Empresas**.
+3. Na página de **assinatura** do cliente, selecione **adicionar assinatura,** escolha a opção de pequenas empresas em catálogo e, em seguida, escolha o **Microsoft 365 Business**.
     
     Selecione o número de licenças de que necessita (até 300). Se tiver mais de 300 utilizadores, consulte antes o artigo [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=862316). 
     

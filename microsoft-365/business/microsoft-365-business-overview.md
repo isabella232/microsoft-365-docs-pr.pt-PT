@@ -22,18 +22,18 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Aprenda a configurar o Microsoft 365 Business.
-ms.openlocfilehash: afc39ce57e63ad039780ad33e60fa81d8e8eec7a
-ms.sourcegitcommit: 70e920f76526f47fc849df615de4569e0ac2f4be
+ms.openlocfilehash: 86af927c05168fabe5a72f331c14c9f3e5cbc1dd
+ms.sourcegitcommit: 550ea6f093ec35182e7c65a2811e9bfb07ec7d01
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/07/2019
-ms.locfileid: "38031471"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "38038955"
 ---
 # <a name="overview-of-microsoft-365-business"></a>Visão geral do Microsoft 365 Business
 
 ## <a name="what-is-microsoft-365-business"></a>O que é o Microsoft 365 Business
 
-O Microsoft 365 Empresas é um conjunto abrangente de ferramentas de colaboração e produtividade empresarial, como o Outlook, Word, Excel e outros produtos do Office sempre atualizados. Pode proteger os seus ficheiros de trabalho em todos os seus dispositivos iOS, Android e Windows 10 com segurança de nível empresarial que é simples de gerir.
+O Microsoft 365 Business é um serviço de assinatura que inclui ferramentas de produtividade do Office 365 e recursos avançados para ajudar a proteger seus negócios contra ameaças cibernéticas, proteger seus dados e gerenciar os dispositivos.
   
 Microsoft 365 Business foi concebido para um máximo de 300 licenças. Caso necessite de mais licenças, consulte a documentação sobre o [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986) para obter mais informações.
 
