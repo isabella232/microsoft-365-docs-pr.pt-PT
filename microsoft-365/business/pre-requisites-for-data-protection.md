@@ -17,13 +17,13 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 7770e280-3a6c-436f-a157-b008a2744f51
-description: 'Conheça os pré-requisitos para configurar sua organização com o Microsoft 365 Business. '
-ms.openlocfilehash: 3bf02ab831a1eb158959490ff7f4d4274a15bb3f
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+description: 'Conheça os pré-requisitos para a criação de sua organização com o Microsoft 365 Business. '
+ms.openlocfilehash: 157abf0a3396ab374297441bf90d6defc4093390
+ms.sourcegitcommit: e2ed110c4c3a8434f9fcc9d610069bc77bc39220
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575844"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38290536"
 ---
 # <a name="pre-requisites-for-protecting-data-on-devices-with-microsoft-365-business"></a>Pré-requisitos para proteger dados em dispositivos com o Microsoft 365 Business
 
@@ -34,6 +34,8 @@ O primeiro passo a seguir ao configurar a sua organização com o Microsoft 365 
 - Os dispositivos Windows têm de executar o Windows 7 Profissional, o Windows 8 Pro ou o Windows 8.1 Pro.
     
     [Atualizar dispositivos Windows para a Atualização para Criativos do Windows Pro](upgrade-to-windows-pro-creators-update.md)
+    
+    Se você estiver executando o Windows 10 Home, então você precisa **comprar** o Windows 10 Pro. Veja [a atualização do Windows 10 Home para o Windows 10 Pro](https://support.office.com/article/0aee10c1-4d34-43ee-a325-579c6c2df90e?ui=en-US&rs=en-US&ad=US) para obter instruções. 
     
 - Remova os dispositivos das soluções de gestão de dispositivos móveis (como o Mobile Iron, AirWatch, entre outras). Deve inscrever todas as pessoas na sua organização na gestão de dispositivos móveis do Microsoft 365 Business.
     
