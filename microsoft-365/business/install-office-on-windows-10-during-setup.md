@@ -21,20 +21,18 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 5ffd5327-a83a-4d53-94d6-22ba2f9fd090
-description: Saiba agora para implantar automaticamente o Office em dispositivos Windows 10 durante a instalação.
-ms.openlocfilehash: 64585d0a34e409822959939d5ae40fac57ff943b
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+description: Saiba agora a implantar automaticamente os dispositivos Office para Windows 10 durante a configuração.
+ms.openlocfilehash: fbc11553452ae5068ad7013a409901dee5b3570d
+ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37576004"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38320054"
 ---
 # <a name="install-office-on-windows-10-during-setup"></a>Instalar o Office no Windows 10 durante a configuração
 
-![Banner que apontam para https://aka.ms/aboutM365preview.](media/m365admincenterchanging.png)
+![Banner que https://aka.ms/aboutM365previewapontam para .](media/m365admincenterchanging.png)
 
-Esta definição está desativada por predefinição. Pode ativá-la para se certificar de que os utilizadores têm a versão mais recente do Office em todos os seus dispositivos Windows 10, mas deve verificar primeiro se todos os pré-requisitos foram cumpridos. Os utilizadores têm de ter licenças do Microsoft 365 Business para que esta definição possa implementar o software no dispositivo, além de terem de cumprir outros requisitos descritos em [Preparar a implementação do cliente do Office pelo Microsoft 365 Empresas](prepare-for-office-client-deployment.md). 
+Esta definição está desativada por predefinição. Você pode ligá-lo para garantir que os usuários tenham a versão mais recente do Office em todos os seus dispositivos Windows 10, mas primeiro verifique se todos os pré-requisitos são atendidos. Os usuários devem ser licenciados para o Microsoft 365 Business para esta configuração para empurrar o software para o dispositivo, além de outros requisitos descritos na implantação do [cliente Prepare for Office pela Microsoft 365 Business](prepare-for-office-client-deployment.md). 
   
-Recomendamos que aceite a predefinição durante a configuração. Se quiser aplicar definições diferentes para grupos de utilizadores diferentes, pode gerir a implementação do Office para cada um dos grupos após a configuração. Aceda a **Dispositivos** \> **Gerir a implementação do Office** na home page do Centro de administração. Para obter instruções passo a passo, consulte [Instalar ou desinstalar o Office em dispositivos Windows 10 automaticamente](auto-install-or-uninstall-office.md).
-  
-
+Recomendamos que você aceite a configuração padrão durante a configuração. Se quiser aplicar definições diferentes para grupos de utilizadores diferentes, pode gerir a implementação do Office para cada um dos grupos após a configuração. Aceda a **Dispositivos** \> **Gerir a implementação do Office** na home page do Centro de administração. Para obter instruções passo a passo, consulte [Instalar ou desinstalar o Office em dispositivos Windows 10 automaticamente](auto-install-or-uninstall-office.md).
