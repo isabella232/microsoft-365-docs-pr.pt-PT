@@ -21,24 +21,24 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Aprenda a configurar o Microsoft 365 Business.
-ms.openlocfilehash: 4c744d6a900dba3c11ee51e75602a430268e15bb
-ms.sourcegitcommit: 70e920f76526f47fc849df615de4569e0ac2f4be
+ms.openlocfilehash: 5986e3fb7786ebb3fa7bcf42b34345be98af44a2
+ms.sourcegitcommit: 9a057e70637dcfe06d4f729a96c02be989cf9e25
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/07/2019
-ms.locfileid: "38029110"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38633435"
 ---
 # <a name="get-started-with-microsoft-365-business"></a>Introdução ao Microsoft 365 Business
 
 ## <a name="what-is-microsoft-365-business"></a>O que é o Microsoft 365 Business
 
-O Microsoft 365 Empresas é um conjunto abrangente de ferramentas de colaboração e produtividade empresarial, como o Outlook, Word, Excel e outros produtos do Office sempre atualizados. Pode proteger os seus ficheiros de trabalho em todos os seus dispositivos iOS, Android e Windows 10 com segurança de nível empresarial que é simples de gerir.
+O Microsoft 365 Business é um conjunto abrangente de ferramentas de produtividade e colaboração de negócios, como Outlook, Word, Excel e outros produtos do Office, que estão sempre atualizados. Você pode proteger seus arquivos de trabalho em todos os seus dispositivos iOS, Android e Windows 10 com segurança de nível corporativo que é simples de gerenciar.
   
-Microsoft 365 Business foi concebido para um máximo de 300 licenças. Caso necessite de mais licenças, consulte a documentação sobre o [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986) para obter mais informações. 
+Microsoft 365 Business destina-se a até 300 licenças. Se você precisar de mais licenças, consulte a documentação da [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986) para obter mais informações. 
   
 ## <a name="get-microsoft-365-business"></a>Obter o Microsoft 365 Empresas
 
-- Se tiver um parceiro, este obterá o Microsoft 365 Business: [Obter o Microsoft 365 Empresas a partir do Centro de Parceiros da Microsoft](get-microsoft-365-business.md).
+- Se você tiver um parceiro, eles receberão o Microsoft 365 Business: obtenha o [Microsoft 365 Business do Microsoft Partner Center.](get-microsoft-365-business.md)
     
 - Se não tiver um parceiro e quiser obter o Microsoft 365 Business, pode [comprá-lo aqui](https://www.microsoft.com/microsoft-365/business).
     
@@ -46,39 +46,39 @@ Microsoft 365 Business foi concebido para um máximo de 300 licenças. Caso nece
 
  **Visão geral da configuração do Microsoft 365 Business Suite**
   
-O diagrama a seguir descreve como os administradores configurar Microsoft 365 Business. Também descreve os passos para preparar os PCs com Windows para o Microsoft 365 Business. Também pode adicionar novos dispositivos no centro de administração do Microsoft 365 Business com o [Windows AutoPilot](add-autopilot-devices-and-profile.md). Pode utilizar o AutoPilot para configurar e pré-configurar novos dispositivos e prepará-los para uma utilização produtiva assim que o utilizador iniciar sessão com as respetivas credenciais do Microsoft 365 Business.
+O diagrama a seguir descreve como os administradores configurar Microsoft 365 Business. Também descreve os passos para preparar os PCs com Windows para o Microsoft 365 Business. Você também pode adicionar novos dispositivos no centro de administração microsoft 365 business com [o Windows AutoPilot.](add-autopilot-devices-and-profile.md) Você pode usar o AutoPilot para configurar e pré-configurar novos dispositivos para que eles estejam prontos para uso produtivo assim que um usuário entrar com suas credenciais microsoft 365 Business.
   
 ![A diagram that shows the setup and management flow for admins, and also for a user](media/249f81fc-7e79-44c7-8425-3a0b7b651c3b.png)
   
 ### <a name="1-set-up-microsoft-365-business-admin"></a>1: Configurar o Microsoft 365 Business (Admin)
 
-Inicie sessão no [centro de administração do Microsoft 365 Empresas](https://portal.office.com/adminportal/home) com as suas credenciais de administrador global e conclua os passos abaixo para configurar o Microsoft 365 Business. 
+Entre no [microsoft 365 business admin center](https://portal.office.com/adminportal/home) com suas credenciais de administração global e complete as seguintes etapas para configurar o Microsoft 365 Business. 
   
-1. [Pré-requisitos para proteger dados em dispositivos com o Microsoft 365 Empresas](pre-requisites-for-data-protection.md)
+1. [Pré-requisitos para proteger dados em dispositivos com a Microsoft 365 Business](pre-requisites-for-data-protection.md)
     
-    Leia os pré-requisitos primeiro para se certificar de que os seus dispositivos estão prontos para o Microsoft 365 Business.
+    Leia os pré-requisitos primeiro para garantir que seus dispositivos estejam prontos para o Microsoft 365 Business.
     
-2. [Configurar o Microsoft 365 Empresas com o assistente de configuração](set-up.md)
+2. [Use o assistente de configuração para configurar o Microsoft 365 Business](set-up.md)
     
-    Se você estiver **permanentemente se movendo de um Diretório Ativo local para a nuvem,** você pode adicionar seus usuários manualmente no centro de administração microsoft 365 Business usando o assistente de configuração ou pode fazer uma sincronização única com o AD Connect do Azure. Existem duas formas de o fazer: 
+    Se você estiver **permanentemente se movendo de um Diretório Ativo local para a nuvem,** você pode ir para o centro de administração de negócios microsoft 365 e usar o assistente de configuração para adicionar seus usuários manualmente ou você pode fazer uma sincronização única com o AD Connect do Azure. Existem duas formas de o fazer: 
     
-  - Se você também tiver um servidor Exchange 2010, Exchange 2013 ou Exchange 2016, você pode usar o Minimal Hybrid para migrar rapidamente as caixas de correio da [Exchange para o Office 365](https://support.office.com/article/fdecceed-0702-4af3-85be-f2a0013937ef). Os passos de migração híbrida mínima incluem uma sincronização única dos utilizadores para o Azure AD, bem como a migração de e-mails do servidor no local para a nuvem. Após a conclusão da migração de e-mails, a sincronização de diretórios será automaticamente desativada com este método.
+    - Se você também tiver um servidor Exchange 2010, Exchange 2013 ou Exchange 2016, você pode usar o Minimal Hybrid para migrar rapidamente as caixas de correio da [Exchange para o Office 365](https://support.office.com/article/fdecceed-0702-4af3-85be-f2a0013937ef). As etapas híbridas mínimas incluem uma sincronização única dos usuários com o AD do Azure e a migração de e-mail de locais para a nuvem. Depois que a migração de e-mail estiver completa, a sincronização do diretório é desativada automaticamente quando você usa esse método.
     
-  - Utilize o assistente de sincronização de diretórios do Office 365 para sincronizar os seus utilizadores com a nuvem. Siga os passos em [Set up directory synchronization for Office 365](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846) para concluir este processo. Depois de sincronizar os seus utilizadores com a nuvem, terá de [Turn off directory synchronization for Office 365](https://support.office.com/article/ee5f861e-bd48-4267-83d1-a4ead4b4a00d).
+    - Use o assistente de sincronização do diretório do Office 365 para sincronizar seus usuários com a nuvem. Siga os passos em [Set up directory synchronization for Office 365](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846) para concluir este processo. Depois de sincronizar seus usuários com a nuvem, você terá que desligar a [sincronização do diretório para o Office 365](https://support.office.com/article/ee5f861e-bd48-4267-83d1-a4ead4b4a00d).
     
-    Também terá de atribuir uma licença do Microsoft 365 Empresas a cada um dos utilizadores que adicionou desta forma. Você pode fazer isso no assistente de [configuração,](set-up.md)ou nas [licenças de design para usuários no Office 365 para negócios.](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC)
+    Você também terá que dar a cada usuário que foi adicionado desta forma uma licença para a Microsoft 365 Business. Você pode fazer isso no assistente de [configuração](set-up.md) ou você pode [atribuir licenças aos usuários no Office 365 para negócios.](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC)
     
 ### <a name="2-prepare-mobile-devices"></a>2: Preparar dispositivos móveis
 
-Siga as etapas na Configuração de[dispositivos móveis para usuários corporativos do Microsoft 365](set-up-mobile-devices.md) instalarem aplicativos do Office em dispositivos e garantir que eles sejam protegidos pelo Microsoft 365 Business. 
+Siga as [etapas na Configuração de dispositivos móveis para usuários do Microsoft 365 Business](set-up-mobile-devices.md) instalaraplicativos do Office em dispositivos e garantir que eles sejam protegidos pelo Microsoft 365 Business. 
   
 ### <a name="3-prepare-pcs"></a>3: Preparar PCs
 
-Os administradores podem pré-selecionar configurações para novos dispositivos com PCs do Windows 10 usando o [Windows AutoPilot.](add-autopilot-devices-and-profile.md) Os usuários podem configurar seus dispositivos Windows 10 existentes ou novos seguindo as etapas deste tópico: [configure PCs do Windows para usuários do Microsoft 365 Business.](set-up-windows-devices.md) Para dispositivos existentes, os usuários também podem mover arquivos **opcionalmente**[para o OneDrive for Business.](move-files-to-onedrive.md) Eles também podem usar ferramentas de terceiros para mover arquivos associados ao perfil do Windows para o OneDrive.
+Os administradores podem pré-selecionar configurações para novos PCs do Windows 10 usando o [Windows AutoPilot.](add-autopilot-devices-and-profile.md) Os usuários podem configurar seus dispositivos Windows 10 existentes ou novos seguindo as etapas deste tópico: [configure PCs do Windows para usuários do Microsoft 365 Business.](set-up-windows-devices.md) Para dispositivos existentes, os usuários podem mover **arquivos opcionalmente** [para o OneDrive for Business.](move-files-to-onedrive.md) Eles também podem usar ferramentas de terceiros para mover arquivos associados ao perfil do Windows para o OneDrive.
   
-Se a sua organização usar o Diretório Ativo do Windows Server no local, você poderá configurar o Microsoft 365 Business para proteger seus dispositivos Windows 10, mantendo o acesso a recursos no local que exigem autenticação local. Siga as etapas dos [dispositivos Windows 10 incluídos no domínio habilitado para serem gerenciados pelo Microsoft 365 Business](manage-windows-devices.md) para configurar isso. Este é o método preferido e os dispositivos neste estado são chamados dispositivos unidos a **AD híbridos.** 
+Se a sua organização usar o Diretório Ativo do Windows Server no local, você poderá configurar o Microsoft 365 Business para proteger seus dispositivos Windows 10, mantendo o acesso a recursos no local que exigem autenticação local. Siga as etapas dos [dispositivos Windows 10 incluídos no domínio habilitado para serem gerenciados pelo Microsoft 365 Business](manage-windows-devices.md) para configurar isso. Este método é preferido, e os dispositivos neste estado são chamados dispositivos unidos a **AD híbridos.** 
   
-Se você mantiver um Diretório Ativo local que contém alguns recursos no local (como compartilhamentos de arquivos e impressoras), você pode dar aos seus **dispositivos azure ad** acesso a esses recursos seguindo os passos aqui: [Acesse recursos no local Dispositivo azure ad-joined no negócio de Microsoft 365.](access-resources.md)
+Se você mantiver um Diretório Ativo local que contém alguns recursos no local (como compartilhamentos de arquivos e impressoras), você pode dar aos **dispositivos vinculados a Azure a dispositivos vinculados** a esses recursos seguindo os passos aqui: Acesse [recursos locais de um dispositivo azure vinculado a AD no Microsoft 365 Business](access-resources.md).
   
 Depois de configurar pCs do Windows 10, você pode [instalar automaticamente](auto-install-or-uninstall-office.md) o Office para os dispositivos. 
   
@@ -88,7 +88,7 @@ Depois de configurar pCs do Windows 10, você pode [instalar automaticamente](au
   
 - Contacte o seu parceiro.
     
-- Como administrador da Microsoft 365 Business, você tem acesso à nossa equipe de suporte ao cliente, ** [suporte de contato para produtos de negócios - Admin Help](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b)**
+- Como administrador da Microsoft 365 Business, você tem acesso à nossa equipe de suporte ao cliente: ** [suporte de contato para produtos de negócios - Admin Help](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b)**
     
 ## <a name="related-topics"></a>Tópicos relacionados
 [Recursos e documentação do Microsoft 365 Empresas](https://go.microsoft.com/fwlink/p/?linkid=853701)

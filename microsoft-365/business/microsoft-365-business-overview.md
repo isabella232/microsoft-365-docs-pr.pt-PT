@@ -21,21 +21,21 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
-description: Aprenda a configurar o Microsoft 365 Business.
-ms.openlocfilehash: 86af927c05168fabe5a72f331c14c9f3e5cbc1dd
-ms.sourcegitcommit: 550ea6f093ec35182e7c65a2811e9bfb07ec7d01
+description: Saiba mais sobre o Microsoft 365 Business.
+ms.openlocfilehash: 03e16c336a2d6d3d8ffd5875ed7419bba3c7e378
+ms.sourcegitcommit: 9a057e70637dcfe06d4f729a96c02be989cf9e25
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/08/2019
-ms.locfileid: "38038955"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38633405"
 ---
 # <a name="overview-of-microsoft-365-business"></a>Visão geral do Microsoft 365 Business
 
 ## <a name="what-is-microsoft-365-business"></a>O que é o Microsoft 365 Business
 
-O Microsoft 365 Business é um serviço de assinatura que inclui ferramentas de produtividade do Office 365 e recursos avançados para ajudar a proteger seus negócios contra ameaças cibernéticas, proteger seus dados e gerenciar os dispositivos.
+O Microsoft 365 Business é um serviço de assinatura que inclui ferramentas de produtividade do Office 365 e recursos avançados para ajudar a proteger seus negócios contra ameaças cibernéticas, proteger seus dados e gerenciar dispositivos.
   
-Microsoft 365 Business foi concebido para um máximo de 300 licenças. Caso necessite de mais licenças, consulte a documentação sobre o [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986) para obter mais informações.
+Microsoft 365 Business destina-se a até 300 licenças. Se você precisar de mais licenças, consulte a documentação da [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986) para obter mais informações.
 
 Veja a [descrição do serviço Microsoft 365 Business](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) para toda a lista de recursos.
   
@@ -43,12 +43,12 @@ Veja a [descrição do serviço Microsoft 365 Business](https://docs.microsoft.c
 
 Seus dados de negócios podem ser comprometidos de muitas maneiras. Você e seus usuários podem comprometer a segurança da sua organização quando você faz login com credenciais comprometidas ou visualizaos dados da organização em diferentes dispositivos e aplicativos. Mais especificamente, sua organização está em risco de:
 
-1. Credenciais de login comprometidas ou fracas.
-2. Dispositivo comprometido com um pino fraco ou um dispositivo de propriedade do usuário.
-3. Usuários que podem copiar/colar/salvar os dados da sua organização em aplicativos pessoais.
-4. Usuários que instalam e usam aplicativos de festa 3<sup>rd</sup> com segurança fraca.
-5. Vulnerabilidades de e-mail, incluindo compartilhamento de dados confidenciais, tentativas de phishing, malware, etc.
-6. Quando as pessoas que não o devem, podem acessar documentos com informações confidenciais.
+- Credenciais de login comprometidas ou fracas.
+- Dispositivo comprometido com um pino fraco ou um dispositivo de propriedade do usuário.
+- Usuários que podem copiar/colar/salvar os dados da sua organização em aplicativos pessoais.
+- Usuários que instalam e usam aplicativos de terceiros com segurança fraca.
+- Vulnerabilidades de e-mail, incluindo compartilhamento de dados confidenciais, tentativas de phishing, malware e assim por diante.
+- Quando as pessoas que não o devem, podem acessar documentos com informações confidenciais.
 
 O Microsoft 365 Business ajuda a proteger seus dados em cada uma dessas instâncias. Os recursos de segurança que protegem os dados de seus negócios são detalhados na seguinte figura.
 
@@ -58,7 +58,7 @@ O Microsoft 365 Business ajuda a proteger seus dados em cada uma dessas instânc
 
 Microsoft 365 Business ajuda **a defender contra ameaças** por:
 
-Digitalizar quaisquer links em e-mails e documentos em tempo real para bloquear sites inseguros (ATP Safe Links).
+- Digitalizar links em e-mails e documentos em tempo real para bloquear sites inseguros (ATP Safe Links).
 
 - Realização de análise avançada de anexos de e-mail em um ambiente de caixa de areia para detectar malware recém-desenvolvido (ATP Safe Attachments). 
 
@@ -66,23 +66,23 @@ Digitalizar quaisquer links em e-mails e documentos em tempo real para bloquear 
 
 - A criação de políticas avançadas que desative o acesso de locais não confiáveis ou contorne a autenticação multifator de lugares confiáveis, como sua rede de escritórios (Azure MFA, incluindo IPs confiáveis e Acesso Condicional). 
 
-- Aplicando a proteção contra malware em todos os dispositivos Windows 10 da sua empresa e protegendo arquivos em pastas-chave do sistema de alterações feitas por ransomware (Windows Defender)
+- Aplicando a proteção contra malware em todos os dispositivos Windows 10 da sua organização e protegendo arquivos nas principais pastas do sistema contra alterações feitas por ransomware (Windows Defender)
 
 Os dados dos seus **negócios estão protegidos** por:
 
-- O uso da detecção automática para ajudar a evitar que informações confidenciais, como números de segurança social ou cartões de crédito, vazem fora do seu negócio (Prevenção de Perdas de Dados). 
+- O uso da detecção automática para ajudar a evitar que informações confidenciais, como números da Previdência Social ou cartões de crédito, vazem fora do seu negócio (prevenção de perdas de dados). 
 
-- Criptografando e-mails confidenciais para que você possa se comunicar com segurança com clientes ou outras pessoas fora da sua empresa, garantindo que apenas o destinatário pretendido possa ler a mensagem (criptografia de mensagem do Office 365).
+- Criptografando e-mails confidenciais para que você possa se comunicar com segurança com clientes ou outras pessoas fora de sua organização. Isso garante que apenas o destinatário pretendido possa ler a mensagem (criptografia de mensagem do Office 365).
 
 - Controlar quem tem acesso às informações da empresa aplicando restrições como **Não copiar** e **não encaminhar** para e-mail e documentos (Proteção de Informações Do Zure, Plano 1).
 
-- Habilitar arquivamento sinuoso ilimitado para que você possa reter todos os e-mails de suas empresas, incluindo as caixas de correio de ex-funcionários (Arquivar on-line exchange).
+- Habilitar arquivamento sinuoso ilimitado para que você possa reter todos os e-mails da sua organização, incluindo as caixas de correio de ex-funcionários (Arquivar on-line exchange).
 
 Seus **dispositivos são protegidos** por:
 
-- Controlar quais dispositivos e usuários podem acessar seus dados do Office 365; com opções para bloquear os usuários de fazer login a partir de computadores domésticos, aplicativos não aprovados ou fora do horário de trabalho (Acesso Condicional).
+- Controlar quais dispositivos e usuários podem acessar seus dados do Office 365, com opções para impedir que usuários se inscem de computadores domésticos, aplicativos não aprovados ou fora do horário de trabalho (Acesso Condicional).
 
-- Aplicação de políticas de segurança para proteger os dados das empresas em dispositivos iOS e Android.  Por exemplo, você pode exigir que os usuários forneçam um PIN ou uma impressão digital para acessar dados de negócios e criptografar dados em dispositivos móveis (proteção de aplicativos para aplicativos móveis do Office).
+- Aplicação de políticas de segurança para proteger os dados das empresas em dispositivos iOS e Android. Por exemplo, você pode exigir que os usuários forneçam um PIN ou uma impressão digital para acessar dados de negócios e criptografar dados em dispositivos móveis (proteção de aplicativos para aplicativos móveis do Office).
 
 - Manter documentos de negócios, e-mails e outros dados dentro de aplicativos móveis do Office aprovados e impedir que os funcionários os salvassem para aplicativos e locais não autorizados (proteção de aplicativos de aplicativos móveis do Escritório).
 
@@ -94,7 +94,7 @@ Para ver a lista completa de recursos de segurança, consulte os recursos de [se
 
 ## <a name="get-microsoft-365-business"></a>Obter o Microsoft 365 Empresas
 
-- Se tiver um parceiro, este obterá o Microsoft 365 Business: [Obter o Microsoft 365 Empresas a partir do Centro de Parceiros da Microsoft](get-microsoft-365-business.md#get-microsoft-365-business-from-microsoft-partner-center).
+- Se você tiver um parceiro, eles receberão o Microsoft 365 Business: obtenha o [Microsoft 365 Business do Microsoft Partner Center.](get-microsoft-365-business.md#get-microsoft-365-business-from-microsoft-partner-center)
 
 - Se você não tem um parceiro e quer obter o Microsoft 365 Business, você pode [comprá-lo aqui](https://www.microsoft.com/microsoft-365/business) e seguir as instruções de [inscrição.](sign-up.md)
 
