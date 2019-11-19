@@ -20,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: bd66c26c-73a4-45a8-8642-3ea4ee7cd89d
 description: Saiba mais sobre o padrão e outras configurações disponíveis no Microsoft 365 Business para proteger os dispositivos Windows 10.
-ms.openlocfilehash: 5d4bce02df1276dc9b284c7b0709c7dc26b0dbce
-ms.sourcegitcommit: 8ca97fa879ae4ea44468be629d6c32b429efeeec
+ms.openlocfilehash: 1846ee7ae09db94575ef27dcf4f5721661f7666d
+ms.sourcegitcommit: 5d11f516e78ea4a74145e19ba2300f0792c8bac1
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/16/2019
-ms.locfileid: "38676054"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38715208"
 ---
 # <a name="set-device-protection-settings-for-windows-10-pcs"></a>Configurar as definições de proteção de dispositivos para PCs Windows 10
 
@@ -43,7 +43,7 @@ Veja um vídeo sobre como proteger os dispositivos com Windows 10 com Microsoft 
     
 4. Em **Tipo de política**, selecione **Configuração de Dispositivos Windows 10**.
     
-5. Expanda a janela **Proteger Dispositivos Windows 10** \> configure as definições da forma que pretende. Consulte [Definições disponíveis](#available-settings) para obter mais informações. 
+5. Expanda a janela **Proteger Dispositivos Windows 10** \> configure as definições da forma que pretende. Para mais informações, consulte [as configurações disponíveis.](#available-settings) 
     
     Pode sempre utilizar a ligação **Repor predefinições** para regressar à predefinição. 
     
@@ -57,7 +57,7 @@ Veja um vídeo sobre como proteger os dispositivos com Windows 10 com Microsoft 
 
 Por predefinição, todas as definições estão **Ativadas**. As seguintes definições estão disponíveis.
   
-Consulte o artigo [Como é que as funcionalidades de proteção no Microsoft 365 Business são mapeadas às definições do Intune](map-protection-features-to-intune-settings.md) para obter mais informações. 
+Para obter mais informações, consulte [Como é que as funcionalidades de proteção no Microsoft 365 Empresas são mapeadas para as definições do Intune](map-protection-features-to-intune-settings.md). 
   
 |||
 |:-----|:-----|
@@ -66,13 +66,10 @@ Consulte o artigo [Como é que as funcionalidades de proteção no Microsoft 365
 |Ajudar a proteger os PCs contra ameaças baseadas na Web no Microsoft Edge  <br/> |Ativa as definições no Microsoft Edge que ajudam a proteger os utilizadores contra transferências e sites maliciosos.  <br/> |
 |Utilize regras que reduzam a superfície de ataque dos dispositivos  <br/> |Quando ativada, a redução da superfície de ataque ajuda a bloquear ações e aplicações normalmente utilizadas por software maligno para infetar dispositivos. Esta definição só está disponível se o Antivírus do Windows Defender estiver Ativado. Consulte [Reduzir superfícies de ataque](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/exploit-protection) para saber mais.  <br/> |
 |Proteger pastas contra ameaças como o ransomware  <br/> |Esta definição utiliza o acesso controlado a pastas para proteger os dados da empresa contra modificações de aplicações suspeitas e maliciosas, como o ransomware. Estes tipos de aplicações são impedidas de fazer alterações a pastas protegidas. Esta definição só está disponível se o Antivírus do Windows Defender estiver Ativado. Veja [as pastas Protect com acesso](https://docs.microsoft.com/configmgr/protect/deploy-use/create-deploy-exploit-guard-policy#bkmk_CFA) de pasta controlada para saber mais.  <br/> |
-|Impedir o acesso da rede a conteúdo potencialmente malicioso na Internet  <br/> |Utilize esta definição para bloquear as ligações de utilizadores de saída a localizações na Internet de baixa reputação que possam alojar esquemas de phishing, exploits ou outros conteúdos maliciosos. Esta definição só está disponível se o Antivírus do Windows Defender estiver Ativado. Consulte [Proteger a sua rede](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/configure-real-time-protection-windows-defender-antivirus) para obter mais informações.  <br/> |
-|Ajudar a proteger ficheiros e pastas nos PCs contra acesso não autorizado com o BitLocker  <br/> |O Bitlocker protege os dados ao encriptar os discos rígidos do computador e proteger contra exposição de dados em caso de roubo ou perda do computador. Consulte as [FAQs do Bitlocker](https://go.microsoft.com/fwlink/?linkid=871000) para mais informações.  <br/> |
+|Impedir o acesso da rede a conteúdo potencialmente malicioso na Internet  <br/> |Use essa configuração para bloquear conexões de ida de usuário s locais de Internet de baixa reputação que podem hospedar golpes de phishing, explorações ou outros conteúdos maliciosos. Esta configuração só está disponível se o Antivírus Defensor do Windows estiver definido para **on.** Para mais informações, [consulte proteger sua rede](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/configure-real-time-protection-windows-defender-antivirus).  <br/> |
+|Ajudar a proteger ficheiros e pastas nos PCs contra acesso não autorizado com o BitLocker  <br/> |O Bitlocker protege os dados ao encriptar os discos rígidos do computador e proteger contra exposição de dados em caso de roubo ou perda do computador. Para mais informações, consulte [bitlocker FAQ](https://go.microsoft.com/fwlink/?linkid=871000).  <br/> |
 |Permitir que os utilizadores transfiram aplicações da Microsoft Store  <br/> |Permite que os utilizadores transfiram e instalem aplicações da Microsoft Store. As aplicações incluem tudo, desde jogos a ferramentas de produtividade, pelo que deixamos esta definição **Ativada**, embora a possa desativar para garantir uma segurança adicional.  <br/> |
-|Permitir que os utilizadores acedam à Cortana  <br/> |A Cortana pode ser bastante útil! Ela pode ativar ou desativar definições automaticamente, dar indicações e certificar-se de que chega a tempo aos seus compromissos, pelo que esta opção é mantida **Ativada** por predefinição.  <br/> |
+|Permitir que os utilizadores acedam à Cortana  <br/> |A Cortana pode ser bastante útil! Cortana pode ativar ou desligar as configurações para você, dar instruções e certificar-se de que você está na hora de compromissos, por isso mantemos essa **configuração** por padrão.  <br/> |
 |Permitir que os utilizadores recebam sugestões e anúncios da Microsoft acerca do Windows  <br/> |As sugestões do Windows podem ser úteis e ajudar a orientar os utilizadores quando são lançadas novas versões.  <br/> |
 |Manter os dispositivos Windows 10 atualizados automaticamente  <br/> |Garante que os dispositivos Windows 10 recebem automaticamente as atualizações mais recentes.  <br/> |
 |Desligar o ecrã do dispositivo quando estiver inativo durante este período de tempo  <br/> |Garante que os dados da empresa são protegidos se um utilizador estiver inativo. É possível que um utilizador esteja a trabalhar num local público, como um café, e se afaste ou distraia por um momento, deixando o dispositivo vulnerável a olhares alheios. Esta definição permite-lhe controlar quanto tempo um utilizador pode estar inativo antes de o ecrã se desligar.  <br/> |
-   
-  
-
