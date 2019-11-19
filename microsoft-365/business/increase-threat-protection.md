@@ -18,12 +18,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Configure o Office 365 Advanced Threat Protection e proteja dados confidenciais.
-ms.openlocfilehash: bca5400a04ca2986496c4a704289474887eb834b
-ms.sourcegitcommit: 8ca97fa879ae4ea44468be629d6c32b429efeeec
+ms.openlocfilehash: 87a5c79636a2eefe394b4a30e72971eb851e3ecb
+ms.sourcegitcommit: 38934a2115d5cdeb44c7484d57be07686c6f7720
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/16/2019
-ms.locfileid: "38676014"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38704081"
 ---
 # <a name="increase-threat-protection"></a>Aumentar a proteção contra ameaças
 
@@ -233,4 +233,4 @@ Para mais informações, consulte [os links seguros do Office 365 ATP.](https://
 
 3. Uma vez que os resultados aparecem, selecione o início ao lado da **Microsoft Intune** para torná-lo um favorito e fácil de encontrar mais tarde.
 
-Além do centro de administração, você pode usar o Intune para se inscrever e gerenciar os dispositivos da sua organização. Para obter mais informações, consulte os Recursos por método de [inscrição para dispositivos Windows](https://docs.microsoft.com/intune/enrollment-method-capabs) e opções de inscrição para [dispositivos gerenciados pela Intune](https://docs.microsoft.com/intune/enrollment-options).
+Além do centro de administração, você pode usar o Intune para se inscrever e gerenciar os dispositivos da sua organização. Para obter mais informações, consulte os Recursos por método de [inscrição para dispositivos Windows](https://docs.microsoft.com/intune/enrollment/enrollment-method-capab) e opções de inscrição para [dispositivos gerenciados pela Intune](https://docs.microsoft.com/intune/enrollment-options).
