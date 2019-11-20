@@ -21,12 +21,12 @@ search.appverid:
 - MET150
 - MOE150
 description: Saiba como configurar políticas de acesso condicional para as campanhas Microsoft 365.
-ms.openlocfilehash: 0fccd103e3633c7fa5ac07c731341eee93059986
-ms.sourcegitcommit: 5d11f516e78ea4a74145e19ba2300f0792c8bac1
+ms.openlocfilehash: aebdb733c2dd9a05947335ad4f151104d801568e
+ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 11/19/2019
-ms.locfileid: "38715088"
+ms.locfileid: "38718835"
 ---
 # <a name="set-up-conditional-access-policies"></a>Criar políticas de acesso condicional
 
@@ -35,10 +35,10 @@ ms.locfileid: "38715088"
 Essas políticas exigem que os administradores e usuários insiram uma segunda forma de autenticação (chamada autenticação multifator, ou MFA) quando determinadas condições forem atendidas. Por exemplo, se um usuário estiver se inscrevendo de um país diferente, o login pode ser considerado arriscado e o usuário deve fornecer uma forma adicional de autenticação. 
 
 Atualmente, as políticas de base incluem o seguinte:
-- **Exigir mfa para administradores** - requer autenticação multi-fator para as funções de administrador mais privilegiados, incluindo administrador global.
-- **Proteção do usuário final** - requer autenticação multifator para usuários somente quando um login é arriscado. 
-- **Bloqueie a autenticação herdada** - aplicativos de clientes mais antigos e alguns novos aplicativos não usam protocolos de autenticação mais novos e mais seguros. Esses aplicativos mais antigos podem ignorar as políticas de acesso condicional e obter acesso não autorizado ao seu ambiente. Esta política bloqueia o acesso de clientes que não suportam o acesso condicional. 
-- **Exigir mfa para gerenciamento** de serviços - requer multi-fator de autenticação para acesso a ferramentas de gerenciamento, incluindo o portal Azure (onde você configura as políticas de base). 
+- **Exigir mfa para administradores** &ndash; requer multi-fator de autenticação para as funções de administrador mais privilegiados, incluindo administrador global.
+- **A proteção** &ndash; do usuário final requer autenticação multifator para usuários somente quando um login é arriscado. 
+- **Bloqueie aplicativos legados** &ndash; de autenticação de clientes mais antigos e alguns novos aplicativos não usam protocolos de autenticação mais novos e mais seguros. Esses aplicativos mais antigos podem ignorar as políticas de acesso condicional e obter acesso não autorizado ao seu ambiente. Esta política bloqueia o acesso de clientes que não suportam o acesso condicional. 
+- **Exigir o MFA para gerenciamento** &ndash; de serviços requer autenticação multifator para acesso a ferramentas de gerenciamento, incluindo o portal Azure (onde você configura as políticas de base). 
 
 A Microsoft recomenda que você habilite todas essas políticas básicas. Depois que essas políticas forem ativadas, os administradores e os usuários serão solicitados a se cadastrar na autenticação do Azure Multii-Factor.
 

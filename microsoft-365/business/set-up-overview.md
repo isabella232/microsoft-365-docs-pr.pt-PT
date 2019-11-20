@@ -22,24 +22,23 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
-description: Visão geral dos passos de configuração para o Microsoft 365 Business.
-ms.openlocfilehash: 3e1cf240db673a7b961ec8aa574f3e09efee476b
-ms.sourcegitcommit: 8ca97fa879ae4ea44468be629d6c32b429efeeec
+description: Visão geral das etapas de configuração para o Microsoft 365 Business.
+ms.openlocfilehash: 3447f06d031462a7bebc6f129238de9f0c5dee41
+ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/16/2019
-ms.locfileid: "38676034"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38721565"
 ---
 # <a name="overview-of-setup"></a>Visão geral da configuração
 
 A maioria das etapas de configuração pode ser feita no assistente de configuração, mas as outras opções também estão listadas.
 
-
 ## <a name="step-1-add-your-domain-and-users"></a>Etapa 1: Adicione seu domínio e usuários
 
    - **[Adicione o seu domínio](set-up.md#add-your-domain-to-personalize-sign-in)** (se você comprou o seu domínio durante a [inscrição,](sign-up.md)esta etapa já está feito.)
 
-    - **Adicionar usuários.** Você pode fazer isso de qualquer uma das três maneiras:
+    - **Adicionar usuários.** Você pode adicionar usuários de qualquer uma das três maneiras:
         - No [mago.](set-up.md#add-users-in-the-wizard)
         - Use sincronização do diretório para adicionar usuários usando o AD Connect do [Azure](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization) se você tiver um diretório ativo no local.
         - Você também pode [adicionar usuários mais tarde](add-users-m365b.md) no centro de administração.
@@ -68,19 +67,19 @@ A maioria das etapas de configuração pode ser feita no assistente de configura
    - O Windows 10 Pro é um [pré-requisito](pre-requisites-for-data-protection.md) para o Microsoft 365 Business, mas se você tiver o Windows 7 Pro, o Windows 8 Pro ou o Windows 8.1 Pro, sua assinatura lhe dá direito a uma atualização para o [Windows 10 Pro.](https://docs.microsoft.com/microsoft-365/business/upgrade-to-windows-pro-creators-update)
     - Use o assistente de [configuração](set-up.md#protect-data-and-devices) para configurar políticas para dispositivos Windows 10.
 
-## <a name="stes-4-install-office-365-business"></a>Stes 4: Instale o escritório 365 negócio
+## <a name="step-4-install-office-365-business"></a>Etapa 4: Instale o escritório 365 negócio
 - Você pode instalar automaticamente o Office nos dispositivos Windows usando o assistente de [configuração.](set-up.md#deploy-office-365-client-apps)
 - Permita que os usuários [instalem aplicativos do Office](https://docs.microsoft.com/office365/admin/setup/install-applications) para Windows e dispositivos.
      
 ## <a name="advanced"></a>Avançado
 - **Use o piloto automático para configurar novos dispositivos**
             
-     Você pode usar o [Windows Autopilot](add-autopilot-devices-and-profile.md) para pré-configurar automaticamente **novos** dispositivos Windows 10 para um usuário, mas pode ser mais fácil conseguir um [parceiro](https://www.microsoft.com/solution-providers/search) que possa fazer isso por você. Você também pode ir à [Microsoft Store](https://go.microsoft.com/fwlink/?linkid=874598) e pedir a um especialista em tecnologia de nuvem que configure novos dispositivos que você compra para você.
+     Você pode usar o [Windows Autopilot](add-autopilot-devices-and-profile.md) para pré-configurar automaticamente **novos** dispositivos Windows 10 para um usuário, mas pode ser mais fácil conseguir um [parceiro](https://www.microsoft.com/solution-providers/search) que possa fazer isso por você. Você também pode ir à [Microsoft Store](https://go.microsoft.com/fwlink/?linkid=874598)e pedir a um especialista em tecnologia de nuvem para configurar novos dispositivos que você compra.
 
 - **Acesso a recursos no local**
 
-     - Se a sua organização usar o Diretório Ativo do Windows Server no local, você poderá configurar o Microsoft 365 Business para proteger seus dispositivos Windows 10, mantendo o acesso a recursos no local que exigem autenticação local. Siga as etapas dos [dispositivos Windows 10 incluídos no domínio habilitado para serem gerenciados pelo Microsoft 365 Business](manage-windows-devices.md) para configurar isso. Este é o método preferido e os dispositivos neste estado são chamados dispositivos unidos a AD híbridos.
+     - Se a sua organização usar o Diretório Ativo do Windows Server no local, você poderá configurar o Microsoft 365 Business para proteger seus dispositivos Windows 10, mantendo o acesso a recursos no local que exigem autenticação local. Siga as etapas dos [dispositivos Windows 10 incluídos no domínio habilitado para serem gerenciados pelo Microsoft 365 Business](manage-windows-devices.md) para configurar isso. Este é o método preferido, e os dispositivos neste estado são chamados dispositivos unidos a Anúncio híbrido sucateado a AD.
 
-    - Se a sua empresa tiver um Diretório Ativo local que contém alguns recursos no local (como compartilhamentos de arquivos e impressoras), você pode dar aos seus dispositivos azure ad-joined acesso a esses recursos, seguindo as etapas aqui: Acesso aos [recursos locais de um dispositivo azure ad-joined no Microsoft 365 Business](access-resources.md).
+    - Se a sua empresa tiver um Diretório Ativo local que contém alguns recursos no local (como compartilhamentos de arquivos e impressoras), você poderá dar aos dispositivos vinculados a Azure a dispositivos vinculados a esses recursos seguindo os passos aqui: [acesse recursos locais de um dispositivo azure vinculado a AD no Microsoft 365 Business](access-resources.md).
 
   

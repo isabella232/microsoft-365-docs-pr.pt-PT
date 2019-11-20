@@ -19,13 +19,13 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 2d7ff45e-0da0-4caa-89a9-48cabf41f193
-description: 'Saiba como configurar dispositivos Windows que executam o Windows 10 pro para usuários do Microsoft 365 Business. '
-ms.openlocfilehash: 7b6fa2ce3243500c3ddcff7883fa9d8da27dcf86
-ms.sourcegitcommit: bd52f7b662887f552f90c46f69d6a2a42fb66914
+description: 'Saiba como configurar dispositivos Windows que executam o Windows 10 Pro para usuários do Microsoft 365 Business. '
+ms.openlocfilehash: f929c64b00e4ebf24e9f82fcfea433119abf2f1c
+ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37575574"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38718885"
 ---
 # <a name="set-up-windows-devices-for-microsoft-365-business-users"></a>Configurar dispositivos Windows para utilizadores do Microsoft 365 Business
 
@@ -37,11 +37,11 @@ Se tiver dispositivos Windows a executar o Windows 7 Pro, Windows 8 Pro ou Windo
   
 Para obter mais informações sobre como atualizar dispositivos Windows para a Atualização para Criativos do Windows 10 Pro, siga os passos neste tópico: [Atualizar dispositivos Windows para a Atualização para Criativos do Windows Pro](upgrade-to-windows-pro-creators-update.md).
   
-Consulte [verificar se o dispositivo está conectado ao Azure ad](#verify-the-device-is-connected-to-azure-ad) para verificar se você tem a atualização ou para garantir que a atualização funcionou. 
+[Verifique se o dispositivo está conectado ao AD do Azure](#verify-the-device-is-connected-to-azure-ad) para verificar se você tem a atualização ou para garantir que a atualização funcione. 
   
 ## <a name="join-windows-10-devices-to-your-organizations-azure-ad"></a>Associar dispositivos Windows 10 ao Azure AD da sua organização
 
-Depois de todos os dispositivos Windows na sua organização terem sido atualizados para a Atualização para Criativos do Windows 10 Pro ou se já estiverem a executar a Atualização para Criativos do Windows 10 Pro, pode associar estes dispositivos ao Azure Active Directory da sua organização. Assim que os dispositivos forem associados serão atualizados automaticamente para o Windows 10 Business, que faz parte da sua subscrição do Microsoft 365 Business.
+Quando todos os dispositivos Windows da sua organização tiverem sido atualizados para o Windows 10 Pro Creators Update ou já estiverem executando o Windows 10 Pro Creators Update, você pode conectar esses dispositivos ao Diretório Ativo Azure da sua organização. Uma vez que os dispositivos são aderidos, eles serão atualizados automaticamente para o Windows 10 Business, que faz parte da sua assinatura Microsoft 365 Business.
   
 ### <a name="for-a-brand-new-or-newly-upgraded-windows-10-pro-device"></a>Para um dispositivo Windows 10 Pro novo ou recentemente atualizado
 
@@ -83,13 +83,13 @@ Para um novo dispositivo a executar a Atualização para Criativos do Windows 10
   
    ![Enter your work or school email on the Let's get you signed in page](media/f70eb148-b1d2-4ba3-be38-7317eaf0321a.png)
   
-6. Na página certifique **-se de que esta é a sua organização** , verifique se as informações estão correctas e clique em **aderir**.
+6. No **Verifique se esta é a** página da sua organização, verifique se as informações estão corretas e clique em **Participar.**
   
    Na página **Está pronto!**, clique em **Concluído**.
   
    ![On the Make sure this is your organization screen, click Join](media/c749c0a2-5191-4347-a451-c062682aa1fb.png)
   
-Se tiver carregado ficheiros para o OneDrive para Empresas, sincronize-os novamente. Se utilizou uma ferramenta de terceiros para migrar o perfil e os ficheiros, sincronize-os também com o novo perfil.
+Se tiver carregado ficheiros para o OneDrive para Empresas, sincronize-os novamente. Se você usou uma ferramenta de terceiros para migrar perfil e arquivos, também sincronizá-los com o novo perfil.
   
 ## <a name="verify-the-device-is-connected-to-azure-ad"></a>Verificar se o dispositivo está ligado ao Azure AD
 
@@ -97,7 +97,7 @@ Para verificar o seu estado de sincronização, na página **Aceder a profiss./e
   
 Na página Estado de sincronização, clique em Sincronizar para obter as mais recentes políticas de gestão de dispositivos móveis no PC.
   
-Para começar a utilizar a conta do Microsoft 365 Business, aceda ao botão **Iniciar** do Windows, clique com o botão direito do rato na imagem da conta atual e, em seguida, em **Mudar de conta**. Inicie sessão com o endereço de e-mail e palavra-passe da sua organização.
+Para começar a usar a conta Microsoft 365 Business, acesse o botão Windows **Start,** clique na foto da sua conta corrente e, em seguida, **alternar**a conta. Inicie sessão com o endereço de e-mail e palavra-passe da sua organização.
   
 ![Click Info button to view synchronization status](media/818f7043-adbf-402a-844a-59d50034911d.png)
   

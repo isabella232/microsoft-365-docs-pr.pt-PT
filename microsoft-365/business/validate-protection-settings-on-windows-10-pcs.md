@@ -18,19 +18,19 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: fae8819d-7235-495f-9f07-d016f545887f
-description: Obter informações sobre como validar as definições de protecção de aplicações Microsoft 365 Business Windows 10 dispositivos.
-ms.openlocfilehash: 7710accf9a3cd1db788dd5215ab6d7bbb97e48a6
-ms.sourcegitcommit: 66bb5af851947078872a4d31d3246e69f7dd42bb
+description: Saiba como validar as configurações de proteção de aplicativos do Microsoft 365 Business em dispositivos Windows 10.
+ms.openlocfilehash: c54b053c1f6efbca8fd02431c416793a044c6821
+ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34074386"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38721866"
 ---
 # <a name="validate-app-protection-settings-on-windows-10-pcs"></a>Verificar definições de proteção de aplicações em PCs Windows 10
 
 ## <a name="verify-that-users-cannot-copy-company-data-to-personal-files-on-corporate-devices"></a>Confirmar que os utilizadores não conseguem copiar dados da empresa para ficheiros pessoais em dispositivos da empresa
 
-Depois de [configurar as políticas de proteção de aplicações](protection-settings-for-windows-10-devices.md), as mesmas poderão demorar algumas horas a entrar em vigor nos dispositivos dos utilizadores. Se tiver mudado para **Ativado**, a definição **Impedir que os utilizadores copiem os dados da empresa para ficheiros pessoais e obrigá-los a guardar os ficheiros de trabalho no OneDrive para Empresas** para dispositivos da empresa, poderá verificá-lo no dispositivo do utilizador após o mesmo ter estabelecido ligação ao Azure AD e iniciado sessão. 
+Depois de [configurar as políticas de proteção de aplicações](protection-settings-for-windows-10-devices.md), as mesmas poderão demorar algumas horas a entrar em vigor nos dispositivos dos utilizadores. Se você **ativar** os **usuários da Prevent de copiar os dados da empresa para arquivos pessoais e forçá-los a salvar arquivos** de trabalho para a configuração OneDrive for Business para dispositivos de propriedade da empresa, você poderá verificar isso no dispositivo do usuário depois que eles se conectarem ao AD do Azure e se inscreverem. 
   
  **Verificar definições de ligação**
   
@@ -38,11 +38,11 @@ Depois de [configurar as políticas de proteção de aplicações](protection-se
     
     ![Click or tap Info on the Connected to Azure AD dialog.](media/a36ede2b-d1a0-4d4e-8ea7-af39b4b63890.png)
   
-2. Na página **Gerido por** \<nome do inquilino\>, poderá ver as **Informações de ligação** que incluem um **Endereço do Servidor de Gestão**, tal como o apresentado na imagem seguinte. 
+2. Na página de nome\> **gerenciada pelo** \<locatário, você pode ver as **informações** de conexão que incluem um endereço de **servidor de gerenciamento** como o mostrado na seguinte figura. 
     
     ![Managed by page shows connection info of the device manager URL.](media/47515a8e-2d0c-4bea-99f0-6b2545b88a11.png)
   
- **Confirmar que não consegue colar dados da empresa numa aplicação não gerida**
+ **Verifique se você não pode colar dados da empresa em um aplicativo não gerenciado**
   
 1. Abra a versão do Outlook 2016 que foi instalada pelo Microsoft 365 Business.
     
@@ -50,7 +50,7 @@ Depois de [configurar as políticas de proteção de aplicações](protection-se
     
     Abra o Bloco de Notas e tente colar os conteúdos na aplicação.
     
-    Irá receber uma mensagem de erro a indicar que a aplicação não consegue aceder aos conteúdos.
+    Você receberá um erro que afirma que o aplicativo não pode acessar o conteúdo.
     
     ![A dialog that states app can't access content when you paste into an unmanaged app.](media/5e82b154-cf2f-43c8-ae80-b45d8ad80e56.png)
   
@@ -60,7 +60,7 @@ Depois de [configurar as políticas de proteção de aplicações](protection-se
 
  **Verificar definições de ligação**
   
-1. No dispositivo pessoal Windows 10 onde tiver sessão iniciada como utilizador local, aceda a **Definições do Windows** e clique ou toque em **Contas** \> **Aceder a profiss./escolar**.
+1. No seu dispositivo pessoal do Windows 10, onde você está conectado como usuário local, acesse as **configurações do Windows**e clique ou toque no **trabalho ou na escola**de acesso a **contas.** \>
     
 2. Em **Aceder a profiss./escolar**, selecione **Ligar**.
     
@@ -68,13 +68,13 @@ Depois de [configurar as políticas de proteção de aplicações](protection-se
     
 4. Na página **Aceder a profiss./escolar**, selecione a opção **Conta escolar ou profissional** e, em seguida, selecione **Informações**.
     
-    ![Click or tap Info on the Work or school account dalog.](media/63bd8b32-cb32-4afa-8ce0-6070ac403abc.png)
+    ![Clique ou toque no diálogo sobre o trabalho ou conta escolar.](media/63bd8b32-cb32-4afa-8ce0-6070ac403abc.png)
   
-5. Na página **Aceder a profiss./escolar**, poderá ver as **Informações de ligação** que incluem um **Endereço do Servidor de Gestão**, tal como o apresentado na imagem seguinte, bem como as palavras  *wip*  e  *mam*  . 
+5. No **trabalho de acesso ou** na página da escola, você pode ver as **informações** de conexão que incluem um endereço de **servidor de gerenciamento** como o mostrado na seguinte figura e inclui as palavras *wip* e *mam* dentro. 
     
     ![Managed by page shows connection info URL that includes the words mam and wpi.](media/abd4eaf4-44fa-4538-a3e8-1e0d331dfe1e.png)
   
- **Confirmar que não consegue colar dados da empresa numa aplicação não gerida**
+ **Verifique se você não pode colar dados da empresa em um aplicativo não gerenciado**
   
 1. Abra o Outlook 2016, adicione a sua conta Microsoft 365 Business se necessário e inicie sessão com as suas credenciais Microsoft 365 Business.
     
@@ -82,7 +82,7 @@ Depois de [configurar as políticas de proteção de aplicações](protection-se
     
     Abra o Bloco de Notas e tente colar os conteúdos na aplicação.
     
-    Irá receber uma mensagem de erro a indicar que a aplicação não consegue aceder aos conteúdos.
+    Você receberá um erro que afirma que o Aplicativo não pode acessar o conteúdo.
     
     ![A dialog that states app can't access content when you paste into an unmanaged app.](media/5e82b154-cf2f-43c8-ae80-b45d8ad80e56.png)
   
