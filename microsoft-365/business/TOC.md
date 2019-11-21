@@ -35,7 +35,7 @@
 ## Migrar para o Microsoft 365 Empresas
 ### [Migrar do Office 365 Business Premium](migrate-to-microsoft-365-business.md)
 ### [Migrar do Office 365 E3](migrate-from-e3.md)
-### [Migrar ro Microsoft 365 Enterprise](migrate-from-microsoft-365-business-to-microsoft-365-enterprise.md)
+### [Migrar para a Microsoft 365 Enterprise](migrate-from-microsoft-365-business-to-microsoft-365-enterprise.md)
 ## Faturação
 ### [Sua conta](/Office365/Admin/subscriptions-and-billing/view-your-bill-or-invoice?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
 ### [Pagar](/Office365/Admin/subscriptions-and-billing/pay-for-your-subscription?toc=/microsoft-365/business/toc.json&bc=/microsoft-365/business/breadcrumb/toc.json)
