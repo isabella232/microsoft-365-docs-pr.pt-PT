@@ -15,30 +15,31 @@ ms.custom:
 - MiniMaven
 - MSB365
 - OKR_SMB_M365
+- TRN_M365B
+- OKR_SMB_Videos
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: d868561b-d340-4c04-a973-e2575d7f09bc
 description: Instale o Office em um iPhone ou um telefone Android, e seus arquivos de trabalho em aplicativos do Office serão protegidos pelo Microsoft 365 Business.
-ms.openlocfilehash: e09db43705d601df0c0b30a46ee36cf0295ecae3
-ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
+ms.openlocfilehash: d87ea714f578130d05be57d1f66270b306f37c7c
+ms.sourcegitcommit: c5ca71d6feb0f033b50ccd4de816fd59b0925007
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38718945"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "39831389"
 ---
 # <a name="set-up-mobile-devices-for-microsoft-365-business-users"></a>Configurar dispositivos móveis para utilizadores do Microsoft 365 Business
 
 Siga as instruções nos separadores para instalar o Office num telemóvel Android ou iPhone. Após seguir estes passos, os seus ficheiros de trabalho criados em aplicações do Office serão protegidos pelo Microsoft 365 Business.
 
-  
 O exemplo é para o Outlook, mas aplica-se a outras aplicações do Office que também pretenda instalar.
   
 ## <a name="set-up-mobile-devices"></a>Configurar dispositivos móveis
 
 ## <a name="iphonetabiphone"></a>[Iphone](#tab/iPhone)
   
-Assista a um vídeo sobre como configurar aplicativos do Office em dispositivos iOS com o Microsoft 365 Business:
+Assista a um vídeo sobre como configurar aplicativos do Office em dispositivos iOS com o Microsoft 365 Business.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/e0ee7052-e0f4-4c42-a4f1-5e91b9776ce9?autoplay=false] 
 
@@ -68,6 +69,12 @@ Localize o Outlook no iPhone e reinicie-o. Quando solicitado, digite um PIN e ve
   
 ## <a name="androidtabandroid"></a>[Android](#tab/Android)
   
+Assista a um vídeo sobre a instalação do Outlook e do Office em dispositivos Android.<br><br>
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/ecc2e9c0-bc7e-4f26-8b14-91d84dbcfef0] 
+
+Se você achou este vídeo útil, confira a série de [treinamento completo para pequenas empresas e as novas para a Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+
 Para começar a configurar no seu telemóvel Android, vá à Play Store.
   
 ![On the Android home screen, tap Play Store](media/93df88e7-c778-40e1-b35e-868ca6e97f6c.png)
@@ -91,7 +98,9 @@ Na Play Store, instale o Portal da Empresa Intune.
 Abra novamente o Outlook e introduza e confirme um PIN. A sua aplicação Outlook está pronta para ser utilizada.
   
 ![Set  PIN for Outlook app in Android](media/edb91afb-f1ed-451a-bc6b-8ccba664e055.png)
-  
+
+## <a name="see-also"></a>See also
+
+[Microsoft 365 Vídeos de treinamento de negócios](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+
 ---
-
-
