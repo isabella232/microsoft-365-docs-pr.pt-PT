@@ -20,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: 2d7ff45e-0da0-4caa-89a9-48cabf41f193
 description: 'Saiba como configurar dispositivos Windows que executam o Windows 10 Pro para usuários do Microsoft 365 Business. '
-ms.openlocfilehash: f929c64b00e4ebf24e9f82fcfea433119abf2f1c
-ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
+ms.openlocfilehash: b377c1e69d117b893b256880cd3b9972e33345c7
+ms.sourcegitcommit: 8fda7852b2a5baa92b8a365865b014ea6d100bbc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38718885"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39812884"
 ---
 # <a name="set-up-windows-devices-for-microsoft-365-business-users"></a>Configurar dispositivos Windows para utilizadores do Microsoft 365 Business
 
@@ -37,7 +37,13 @@ Se tiver dispositivos Windows a executar o Windows 7 Pro, Windows 8 Pro ou Windo
   
 Para obter mais informações sobre como atualizar dispositivos Windows para a Atualização para Criativos do Windows 10 Pro, siga os passos neste tópico: [Atualizar dispositivos Windows para a Atualização para Criativos do Windows Pro](upgrade-to-windows-pro-creators-update.md).
   
-[Verifique se o dispositivo está conectado ao AD do Azure](#verify-the-device-is-connected-to-azure-ad) para verificar se você tem a atualização ou para garantir que a atualização funcione. 
+[Verifique se o dispositivo está conectado ao AD do Azure](#verify-the-device-is-connected-to-azure-ad) para verificar se você tem a atualização ou para garantir que a atualização funcione.
+
+Assista a um pequeno vídeo sobre a conexão do Windows com o Microsoft 365.<br><br>
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3yXh3] 
+
+Se você achou este vídeo útil, confira a série de [treinamento completo para pequenas empresas e as novas para a Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
   
 ## <a name="join-windows-10-devices-to-your-organizations-azure-ad"></a>Associar dispositivos Windows 10 ao Azure AD da sua organização
 
@@ -115,3 +121,6 @@ Verifique se os seus dispositivos Windows 10 associados ao Azure AD foram atuali
 
 Para configurar os seus dispositivos móveis, consulte [Configurar dispositivos móveis para utilizadores do Microsoft 365 Business](set-up-mobile-devices.md). Para definir políticas de proteção de aplicações ou proteção de dispositivos, consulte [Gerir o Microsoft 365 Business](manage.md).
   
+## <a name="see-also"></a>See also
+
+[Microsoft 365 Vídeos de treinamento de negócios](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

@@ -23,12 +23,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Visão geral das etapas de configuração para o Microsoft 365 Business.
-ms.openlocfilehash: 3447f06d031462a7bebc6f129238de9f0c5dee41
-ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
+ms.openlocfilehash: 425c465262c266ca764ae8c7a52130903fa635a5
+ms.sourcegitcommit: 8fda7852b2a5baa92b8a365865b014ea6d100bbc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38721565"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39812784"
 ---
 # <a name="overview-of-setup"></a>Visão geral da configuração
 
@@ -44,16 +44,15 @@ A maioria das etapas de configuração pode ser feita no assistente de configura
         - Você também pode [adicionar usuários mais tarde](add-users-m365b.md) no centro de administração.
 ## <a name="step-2-set-up-security-policies-and-configure-devices"></a>Etapa 2: Configurar políticas de segurança e configurar dispositivos 
 
-  - Use o assistente de [configuração](set-up.md#protect-data-and-devices) para configurar políticas de dispositivo e segurança. 
+  - Use o assistente de [configuração](set-up.md#protect-your-organization) para configurar as políticas do dispositivo. 
   - Você também pode adicionar mais ou editá-los mais tarde no centro de [administração](view-policies-and-devices.md) e no [portal Intune.](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal)
-  - Além das configurações de segurança no assistente de configuração, você pode aumentar sua segurança adicionando as seguintes configurações:
+  - O assistente de configuração também criará configurações básicas de proteção contra ameaças e prevenção de perdas de dados.
+  
+  Além das configurações de segurança no assistente de configuração, você pode aumentar sua segurança adicionando as seguintes configurações:
 
       - **Proteção de malware por e-mail**
-      - **Ligações seguras de Proteção a Ameaças Avançadas (ATP)**
-      - **Anexos seguros ATP**
       - **Atp anti-phishing ATP anti-phishing**
       - **Arquivo do Exchange Online**
-      - **Prevenção de Perdas de Dados (DLP)**
       - **Proteção da Informação Azure (Plan1**)
 
           Para começar a ver, criar políticas de [segurança avançadas](set-up-advanced-security.md).
@@ -62,10 +61,12 @@ A maioria das etapas de configuração pode ser feita no assistente de configura
 
 ## <a name="step-3-set-up-and-manage-windows-10-devices"></a>Etapa 3: Configurar e gerenciar dispositivos Windows 10
 
-   Quando você junta um dispositivo Windows 10 ao AD do Azure, as políticas que você configura no [Passo 2](#step-2-set-up-security-policies-and-configure-devices) são aplicadas a ele.
+Depois de executar o assistente configurar, você vai querer proctect todos os windwos 10 computadores em sua organização.
+  
+- O Windows 10 Pro é um [pré-requisito](pre-requisites-for-data-protection.md) para o Microsoft 365 Business, mas se você tiver o Windows 7 Pro, o Windows 8 Pro ou o Windows 8.1 Pro, sua assinatura lhe dá direito a uma atualização para o [Windows 10 Pro.](https://docs.microsoft.com/microsoft-365/business/upgrade-to-windows-pro-creators-update)
+- Siga as etapas em [PCs do Windows 10 seguros](secure-win-10-pcs.md) para configurar políticas para dispositivos Windows 10.
 
-   - O Windows 10 Pro é um [pré-requisito](pre-requisites-for-data-protection.md) para o Microsoft 365 Business, mas se você tiver o Windows 7 Pro, o Windows 8 Pro ou o Windows 8.1 Pro, sua assinatura lhe dá direito a uma atualização para o [Windows 10 Pro.](https://docs.microsoft.com/microsoft-365/business/upgrade-to-windows-pro-creators-update)
-    - Use o assistente de [configuração](set-up.md#protect-data-and-devices) para configurar políticas para dispositivos Windows 10.
+Quando você junta um dispositivo Windows 10 ao AD do Azure, as políticas que você define para computadores Windows 10 são aplicadas a ele. Para mais informações, consulte [dispositivos Windows para usuários do Microsoft 365 Business.](set-up-windows-devices.md)
 
 ## <a name="step-4-install-office-365-business"></a>Etapa 4: Instale o escritório 365 negócio
 - Você pode instalar automaticamente o Office nos dispositivos Windows usando o assistente de [configuração.](set-up.md#deploy-office-365-client-apps)
@@ -82,4 +83,6 @@ A maioria das etapas de configuração pode ser feita no assistente de configura
 
     - Se a sua empresa tiver um Diretório Ativo local que contém alguns recursos no local (como compartilhamentos de arquivos e impressoras), você poderá dar aos dispositivos vinculados a Azure a dispositivos vinculados a esses recursos seguindo os passos aqui: [acesse recursos locais de um dispositivo azure vinculado a AD no Microsoft 365 Business](access-resources.md).
 
-  
+## <a name="see-also"></a>See also
+
+[Microsoft 365 Vídeos de treinamento de negócios](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
