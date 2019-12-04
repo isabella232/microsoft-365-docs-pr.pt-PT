@@ -13,6 +13,7 @@ localization_priority: Normal
 ms.collection:
 - Adm_O365
 - M365-subscription-management
+- TRN_SMB
 ms.custom:
 - Adm_O365
 - Core_O365Admin_Migration
@@ -23,14 +24,20 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Saiba como configurar o Microsoft 365 Business.
-ms.openlocfilehash: f29dbdb61636fdfe573a1a6920d0aed963b737ad
-ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
+ms.openlocfilehash: 7ab6ae095ae30f8ceb74be69fcee20f31977ae21
+ms.sourcegitcommit: 8fda7852b2a5baa92b8a365865b014ea6d100bbc
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38721495"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39818953"
 ---
 # <a name="set-up-microsoft-365-business-in-the-setup-wizard"></a>Configurar o Microsoft 365 Business no assistente de configuração
+
+Assista a este vídeo para uma visão geral da configuração do Microsoft 365 Business.<br><br>
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FYSM] 
+
+Se você achou este vídeo útil, confira a série de [treinamento completo para pequenas empresas e as novas para a Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
 ## <a name="add-your-domain-users-and-set-up-policies"></a>Adicione seu domínio, usuários e configure políticas
 
@@ -44,16 +51,18 @@ Quando você compra o Microsoft 365 Business, você tem a opção de usar um dom
 
 1. Entre no [centro de administração da Microsoft 365](https://admin.microsoft.com) usando suas credenciais de administração global. 
 
-2. Escolha **Adicionar um domínio** ou adicionar **usuários** para iniciar o assistente.
+2. Escolha **Vá para a configuração** para iniciar o mago.
+
+    ![Selecione Vá para a configuração.](media/gotosetupinadmincenter.png)
+
+3. Na página **de aplicativos install your office,** você pode instalar opcionalmente os aplicativos em seu próprio computador.
+    
+4. Na etapa de **domínio Adicionar,** digite o nome de domínio que deseja usar (como contoso.com).
+
     > [!IMPORTANT]
     > Se você comprou um domínio durante a inscrição, você não verá **adicionar um** passo de domínio aqui. Ir para [adicionar usuários](#add-users-and-assign-licenses) em seu lugar.
 
-    ![Selecione Vá para a configuração.](media/gotosetupinadmincenter.png)
-    
-3. No mago, digite o nome de domínio que você deseja usar (como contoso.com).
-
-
-    ![Captura de tela do Personalize sua página de login.](media/personalizesignin.png)
+    ![Captura de tela do Personalize sua página de login.](media/adddomain.png)
 
     
 4. Siga os passos no mago para [criar registros DeNS em qualquer provedor de hospedagem dns para o Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) que verifica o seu próprio domínio. Se você conhece o seu anfitrião de domínio, consulte também as instruções específicas do [anfitrião.](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions)
@@ -76,13 +85,6 @@ Todos os usuários que você adicionar no assistente obter automaticamente atrib
 
 2. Depois de adicionar os usuários, você também terá a opção de compartilhar credenciais com os novos usuários que você adicionou. Pode optar por imprimir, transferir ou enviá-las por e-mail.
 
-3. Nas Equipes de Criação para sua organização, você pode optar por adicionar equipes e adicionar usuários a elas. Você também pode fazer isso mais tarde. Para mais informações, veja [criar uma equipe em toda a empresa.](https://support.office.com/article/037bb27a-bcc9-48fe-8d72-44d9482420a3)
-
-4. Ignore a migração de mensagens de e-mail e selecione **Seguinte** na página **Migrar as mensagens de e-mail**. 
-
-    Se você estiver se movendo de outro provedor de e-mail e quiser copiar seus dados mais tarde, poderá [migrar e-mails e contatos para o Office 365](https://support.office.com/article/a3e3bddb-582e-4133-8670-e61b9f58627e).
-
-
 ### <a name="connect-your-domain"></a>Ligar o seu domínio
 
 > [!NOTE]
@@ -95,31 +97,29 @@ Para configurar serviços, tem de atualizar alguns registos no seu anfitrião de
     - Se você tiver registros DNS existentes, por exemplo, um site existente, mas seu host DNS está habilitado para [conectar domínio,](https://docs.microsoft.com/office365/admin/get-help-with-domains/domain-connect)escolha **adicionar registros para mim**. Na página **de serviços on-line Escolha,** aceite todos os padrões e escolha **em seguida**e escolha **autorizar** na página do seu host DNS.
     - Se você tiver registros DNS existentes com outros hosts DNS (não habilitados para conexão de domínio), você deseja gerenciar seus próprios registros de DNS para garantir que os serviços existentes permaneçam conectados. Veja o [básico de domínio](https://docs.microsoft.com/office365/admin/get-help-with-domains/dns-basics) para obter mais informações.
 
-        ![Conecte sua página de domínio com eu gerenciarei meus próprios registros de DNS.](media/connectyourdomainpage.png)
+        ![Ativar a página de registros.](media/activaterecords.png)
 
 2. Siga os passos no assistente e e-mail e outros serviços serão configurados para você.
 
-### <a name="protect-data-and-devices"></a>Proteger dados e dispositivos 
+### <a name="protect-your-organization"></a>Proteger sua organização 
 
 As políticas que você configura no mago são aplicadas automaticamente a um grupo de [segurança](https://docs.microsoft.com/office365/admin/create-groups/compare-groups#security-groups) chamado *All Users.* Você também pode criar grupos adicionais para atribuir políticas no centro de administração.
 
-1. No **Protect your work files em dispositivos móveis,** a opção Protect arquivos de trabalho quando os **dispositivos são perdidos ou roubados** é selecionada por padrão. Você tem a opção de ativar **gerenciar como os usuários acessam os arquivos do Office em dispositivos móveis,** e isso é recomendado.
+1. Sobre a **proteção de aumento contra ameaças cibernéticas avançadas,** recomenda-se que você aceite os padrões para permitir que o Office [365 Advance Threat Protection](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) escaneie arquivos e links em aplicativos do Office.
 
-    ![Captura de tela dos arquivos de trabalho Protect na página de dispositivos móveis.](media/protectworkfilesondevices.png)
+    ![Página de proteção de captura de tela do aumento.](media/increasetreatprotection.png)
 
-     - Expanda os arquivos de trabalho protect quando os **dispositivos são perdidos ou roubados** para exibir os [valores padrão:](protect-work-files-on-lost-or-stolen-device.md)
 
-        ![Captura de tela dos valores padrão para proteger arquivos em dispositivos perdidos.](media/protectworkfilesondevicesdefault.png)
+2. No **Prevent vazamentos de página de dados confidenciais,** aceite os padrões para ativar a Prevenção de Perdas de Dados (DLP) do Office 365 para rastrear dados confidenciais em aplicativos do Office e evitar o compartilhamento acidental desses fora de sua organização.
 
-    - Selecione **Gerenciar como os usuários acessam arquivos do Office em dispositivos móveis** e expandi-los para exibir os [valores padrão](manage-user-access-on-mobile-devices.md). Recomendamos que você aceite os valores padrão durante a configuração para criar políticas de aplicativos para Android, iOS e Windows 10 que se aplicam a todos os usuários. Poderá criar políticas adicionais após a configuração estar concluída.
+3. Nos **dados protect in Office para** página móvel, deixe o gerenciamento de aplicativos móveis, expanda as configurações e os revise e selecione a política de gerenciamento de **aplicativos móveis**do Create.
 
-        ![Captura de tela das configurações de proteção para arquivos do Office em dispositivos móveis.](media/useraccessonmobile.png)
+    ![Captura de tela dos dados de Proteger no Office para página móvel.](media/protectdatainmobile.png)
 
-2. A última etapa para proteger dados e dispositivos permite configurar políticas para proteger os dispositivos Windows 10. Essas configurações são aplicadas automaticamente quando o Windows 10 de um usuário se conecta à sua organização. Você pode expandir **dispositivos Secure Windows 10** para ver e modificar os [valores padrão.](secure-windows-10-devices.md)
-3. Você também pode optar por [instalar automaticamente](install-office-on-windows-10-during-setup.md) o Office em dispositivos Windows 10.
 
-    ![Captura de tela da página de configuração do dispositivo Conjunto Windows 10.](media/setwin10config.png)
+## <a name="secure-windows-10-pcs"></a>PCs seguros do Windows 10
 
+No nav esquerdo, selecione **a configuração** e, em seguida, **sing-in e segurança,** escolha **proteger seus computadores do Windows 10**. Escolha **o View** para começar. Veja [proteger seus computadores do Windows 10](secure-win-10-pcs.md) para instruções completas.
 
 ## <a name="deploy-office-365-client-apps"></a>Implantar aplicativos para clientes do Office 365
 
@@ -128,3 +128,7 @@ Se você optar por instalar aplicativos do Office automaticamente durante a conf
 Para instalar o Office em dispositivos iOS ou Android móveis, [consulte a configuração de dispositivos móveis para usuários do Microsoft 365 Business.](set-up-mobile-devices.md)
 
 Você também pode instalar o Office individualmente. Consulte [o Office em um PC ou Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658) para obter instruções.
+
+## <a name="see-also"></a>See also
+
+[Microsoft 365 Vídeos de treinamento de negócios](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
