@@ -10,7 +10,7 @@
 ### [Atualização para atualização do Windows Pro Creators](upgrade-to-windows-pro-creators-update.md)
 ### [Prepare-se para a implantação de clientes do Office](prepare-for-office-client-deployment.md)
 ### [Ajude os usuários a instalar o Office](help-users-install-office.md)
-### [Acesso a recursos no local]
+### Acesso a recursos no local
 #### [Permitir que dispositivos Windows 10 incluídos no domínio sejam gerenciados](manage-windows-devices.md)
 #### [Acesso a recursos de um dispositivo azure ad-joined](access-resources.md)
 ## Configuração do dispositivo do usuário
