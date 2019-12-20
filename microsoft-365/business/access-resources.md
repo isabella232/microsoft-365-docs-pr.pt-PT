@@ -18,12 +18,12 @@ search.appverid:
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: Saiba como ter acesso a recursos locais, como linha de aplicativos de negócios, compartilhamentos de arquivos e impressoras de um diretório ativo do Azure, que se juntou ao dispositivo Windows 10.
-ms.openlocfilehash: 4a2ff28107c6e2ec4473859c75bf720df7662747
-ms.sourcegitcommit: 58a7bd70a4bcf52530baf5f82507fd5dc4455fd9
+ms.openlocfilehash: 89ac38f3da9cbdd3ff1a5eb33dc129d2e83521c7
+ms.sourcegitcommit: 8c244b38c43dd00c4ef0102f8bed02ab36639a6b
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "39668794"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39967169"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business"></a>Acesse recursos locais de um dispositivo azure ad no Microsoft 365 Business
 
@@ -47,7 +47,7 @@ Complete as seguintes etapas para permitir que o AD Azure da sua organização a
     
 Não são necessárias medidas adicionais para ter acesso a recursos locais para dispositivos azure azure ajuntados a AD. Essa funcionalidade é incorporada ao Windows 10. 
 
-Se você tem planos de fazer login no dispositivo AADJ além do método de senha Como PIN/Bio-metric via login de credencial WHFB e, em seguida, acessar recursos locais (compartilhamentos, impressoras.. etc), por favor, sigahttps://docs.microsoft.com/en-us/windows/security/identity-protection/hello-for-business/hello-hybrid-aadj-sso-base
+Se você tem planos de fazer login no dispositivo AADJ além do método de senha Como PIN/Bio-metric via login de credencial WHFB e, em seguida, acessar recursos locais (compartilhamentos, impressoras.. etc), por favor, sigahttps://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-aadj-sso-base
   
 Se a sua organização não estiver pronta para ser implantada na configuração do dispositivo adjacente ao AZure AD descrita acima, considere a configuração da configuração do [dispositivo Hybrid Azure AD Joined](manage-windows-devices.md).
   
