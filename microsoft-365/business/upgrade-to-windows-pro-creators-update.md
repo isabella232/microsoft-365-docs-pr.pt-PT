@@ -1,5 +1,5 @@
 ---
-title: Atualizar dispositivos Windows para a Atualização para Criativos do Windows Pro
+title: Atualize dispositivos Windows para o Windows 10 Pro
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -21,25 +21,25 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: ffc4d886-9e1d-453d-a0d0-2f62f18635e2
-description: 'Saiba como atualizar os dispositivos Windows para o Windows 10 Pro Creators Update. '
-ms.openlocfilehash: e8399ad94ef58ad8fa5386d4ab0ed7fa4b8627a0
-ms.sourcegitcommit: c5ca71d6feb0f033b50ccd4de816fd59b0925007
+description: 'Saiba como atualizar os dispositivos Windows para o Windows 10 Pro. '
+ms.openlocfilehash: acad4a393e0870299df768fd4c821d9c1e83ecac
+ms.sourcegitcommit: cf7b0fd80ecfb7a216111a801269c5322794795e
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "39831199"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "40995276"
 ---
-# <a name="upgrade-windows-devices-to-windows-pro-creators-update"></a>Atualizar dispositivos Windows para a Atualização para Criativos do Windows Pro
+# <a name="upgrade-windows-devices-to-windows-10-pro"></a>Atualize dispositivos Windows para o Windows 10 Pro
 
 Assista a um pequeno vídeo sobre a atualização de dispositivos Windows para o Windows 10 Pro.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3t58j] 
 
-Se você achou este vídeo útil, confira a série de [treinamento completo para pequenas empresas e as novas para a Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+Caso tenha considerado este vídeo útil, consulte a [série de formação completa para pequenas empresas e as novidades do Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
-## <a name="upgrade-to-windows-10-pro-creators-update"></a>Atualização para atualização do Windows 10 Pro Creators
+## <a name="upgrade-to-windows-10-pro"></a>Atualização para o Windows 10 Pro
   
-Para atualizar para o Windows 10 Pro Creators Update, você tem várias opções. É possível:
+Para atualizar para o Windows 10 Pro, você tem várias opções. É possível:
     
 - Instale a atualização do [site](https://go.microsoft.com/fwlink/?LinkID=836951 ) &ndash; microsoft software download selecione essa opção se o dispositivo em que você está conectado estiver no mesmo dispositivo que deseja atualizar. 
 
@@ -50,12 +50,12 @@ Para atualizar para o Windows 10 Pro Creators Update, você tem várias opções
     - Leia as instruções sobre como usar a ferramenta e criar seus meios de instalação. 
 
 > [!NOTE]
-> Se você tiver dispositivos Windows rodando O Windows 7 Pro, Windows 8 Pro ou Windows 8.1 Pro, sua assinatura Microsoft 365 Business lhe dá direito a uma atualização do Windows 10; você não precisa de uma chave de produto.
+> Se você tiver dispositivos Windows rodando O Windows 7 Pro, Windows 8 Pro ou Windows 8.1 Pro, sua assinatura Microsoft 365 Business lhe dá direito a uma atualização do Windows Pro 10; você não precisa de uma chave de produto.
     
 Veja [configurar dispositivos Windows para usuários do Microsoft 365 Business](set-up-windows-devices.md) para concluir a configuração de dispositivos Windows 10. 
   
 Veja [configurar dispositivos móveis para usuários do Microsoft 365 Business](set-up-mobile-devices.md) para concluir a configuração de dispositivos Android e iOS. 
   
-## <a name="see-also"></a>See also
+## <a name="see-also"></a>Consulte também
 
-[Microsoft 365 Vídeos de treinamento de negócios](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Vídeos de formação do Microsoft 365 Business](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

@@ -23,12 +23,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Visão geral das etapas de configuração para o Microsoft 365 Business.
-ms.openlocfilehash: 4aca617015cceb85ca35c8d8ada7b83d1416d959
-ms.sourcegitcommit: 178ecb21cacdeaf440f3df2fe6e539e9127fcf15
+ms.openlocfilehash: cab999493bf86ed0adf32521eaf6b3943f107f79
+ms.sourcegitcommit: cf7b0fd80ecfb7a216111a801269c5322794795e
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/23/2019
-ms.locfileid: "40850810"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "40995256"
 ---
 # <a name="overview-of-setup"></a>Visão geral da configuração
 
@@ -36,7 +36,7 @@ Assista a um pequeno vídeo sobre a configuração do Microsoft 365 Business.<br
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4jZwg] 
 
-Se você achou este vídeo útil, confira a série de [treinamento completo para pequenas empresas e as novas para a Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+Caso tenha considerado este vídeo útil, consulte a [série de formação completa para pequenas empresas e as novidades do Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
 A maioria das etapas de configuração pode ser feita no assistente de configuração, mas as outras opções também estão listadas.
 
@@ -61,7 +61,7 @@ A maioria das etapas de configuração pode ser feita no assistente de configura
 - **Arquivo do Exchange Online**
 - **Proteção da Informação Azure (Plan1**)
 
-Para começar, veja a criação de políticas de [segurança avançadas.](set-up-advanced-security.md)
+Para começar, veja aumentar a [proteção contra ameaças](increase-threat-protection.md) e configurar recursos de [conformidade.](set-up-compliance.md)
 
 Veja também [as 10 principais maneiras de proteger seu Microsoft 365 Business](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) para um roteiro das melhores práticas de segurança.
 
@@ -89,6 +89,6 @@ Quando você junta um dispositivo Windows 10 ao AD do Azure, as políticas que v
 
     - Se a sua empresa tiver um Diretório Ativo local que contém alguns recursos no local (como compartilhamentos de arquivos e impressoras), você poderá dar aos dispositivos vinculados a Azure a dispositivos vinculados a esses recursos seguindo os passos aqui: [acesse recursos locais de um dispositivo azure vinculado a AD no Microsoft 365 Business](access-resources.md).
 
-## <a name="see-also"></a>See also
+## <a name="see-also"></a>Consulte também
 
-[Microsoft 365 Vídeos de treinamento de negócios](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Vídeos de formação do Microsoft 365 Business](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
