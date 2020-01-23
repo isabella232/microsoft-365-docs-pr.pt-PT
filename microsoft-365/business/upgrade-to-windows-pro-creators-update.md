@@ -22,12 +22,12 @@ search.appverid:
 - MOE150
 ms.assetid: ffc4d886-9e1d-453d-a0d0-2f62f18635e2
 description: 'Saiba como atualizar os dispositivos Windows para o Windows 10 Pro. '
-ms.openlocfilehash: acad4a393e0870299df768fd4c821d9c1e83ecac
-ms.sourcegitcommit: cf7b0fd80ecfb7a216111a801269c5322794795e
+ms.openlocfilehash: 3457b35c5f9e313e176664ca088e64ce5dd4f881
+ms.sourcegitcommit: 1db269c0349a252eaf3f315ee72ff679fff829f1
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "40995276"
+ms.lasthandoff: 01/22/2020
+ms.locfileid: "41265864"
 ---
 # <a name="upgrade-windows-devices-to-windows-10-pro"></a>Atualize dispositivos Windows para o Windows 10 Pro
 
@@ -50,7 +50,7 @@ Para atualizar para o Windows 10 Pro, você tem várias opções. É possível:
     - Leia as instruções sobre como usar a ferramenta e criar seus meios de instalação. 
 
 > [!NOTE]
-> Se você tiver dispositivos Windows rodando O Windows 7 Pro, Windows 8 Pro ou Windows 8.1 Pro, sua assinatura Microsoft 365 Business lhe dá direito a uma atualização do Windows Pro 10; você não precisa de uma chave de produto.
+> Se você tiver dispositivos Windows rodando O Windows 7 Pro, Windows 8 Pro ou Windows 8.1 Pro, sua assinatura Microsoft 365 Business lhe dá direito a uma atualização do Windows Pro 10.
     
 Veja [configurar dispositivos Windows para usuários do Microsoft 365 Business](set-up-windows-devices.md) para concluir a configuração de dispositivos Windows 10. 
   
