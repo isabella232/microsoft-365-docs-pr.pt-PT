@@ -1,5 +1,7 @@
 ---
 title: Repor as definições de fábrica de dispositivos Windows 10
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -19,27 +21,27 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: c4db6caf-74df-4734-b1dd-53e371c7a3c3
-description: 'Saiba como usar o Microsoft 365 Business para redefinir seus dispositivos Windows 10. '
-ms.openlocfilehash: 867b87b488ec13c7b84a9eb810a076fbb6da545d
-ms.sourcegitcommit: 5d11f516e78ea4a74145e19ba2300f0792c8bac1
+description: 'Saiba como utilizar o Microsoft 365 Business para redefinir os seus dispositivos Windows 10. '
+ms.openlocfilehash: b5039693640a17e531296d019117a9f40bf98a7f
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38715168"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593482"
 ---
-# <a name="reset-windows-10-devices-to-their-factory-settings"></a><span data-ttu-id="3c5ac-103">Repor as definições de fábrica de dispositivos Windows 10</span><span class="sxs-lookup"><span data-stu-id="3c5ac-103">Reset Windows 10 devices to their factory settings</span></span>
+# <a name="reset-windows-10-devices-to-their-factory-settings"></a><span data-ttu-id="8ffde-103">Repor as definições de fábrica de dispositivos Windows 10</span><span class="sxs-lookup"><span data-stu-id="8ffde-103">Reset Windows 10 devices to their factory settings</span></span>
 
-<span data-ttu-id="3c5ac-104">[![Etiqueta que informa que o centro de administração está a mudar e que pode encontrar mais detalhes em aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)</span><span class="sxs-lookup"><span data-stu-id="3c5ac-104">[![Label to let you know the admin center is changing and you can find more details at aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)</span></span>
+<span data-ttu-id="8ffde-104">[![Etiqueta que informa que o centro de administração está a mudar e que pode encontrar mais detalhes em aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)</span><span class="sxs-lookup"><span data-stu-id="8ffde-104">[![Label to let you know the admin center is changing and you can find more details at aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)</span></span>
 
-<span data-ttu-id="3c5ac-p101">A reposição das definições de fábrica reverte um dispositivo para as definições originais que este tinha quando foi adquirido. Todas as aplicações e dados no dispositivo que foram instalados após a compra são removidos. Pode utilizar o Microsoft 365 Business para repor as definições de fábrica nos dispositivos Windows 10 geridos por si.</span><span class="sxs-lookup"><span data-stu-id="3c5ac-p101">A factory reset reverts a device to the original settings it had when the device was purchased. All apps and data on the device that were installed after purchase are removed. You can use Microsoft 365 Business to factory reset Windows 10 devices you manage.</span></span>
+<span data-ttu-id="8ffde-p101">A reposição das definições de fábrica reverte um dispositivo para as definições originais que este tinha quando foi adquirido. Todas as aplicações e dados no dispositivo que foram instalados após a compra são removidos. Pode utilizar o Microsoft 365 Business para repor as definições de fábrica nos dispositivos Windows 10 geridos por si.</span><span class="sxs-lookup"><span data-stu-id="8ffde-p101">A factory reset reverts a device to the original settings it had when the device was purchased. All apps and data on the device that were installed after purchase are removed. You can use Microsoft 365 Business to factory reset Windows 10 devices you manage.</span></span>
   
-1. <span data-ttu-id="3c5ac-108">Vá para o centro <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>de administração em .</span><span class="sxs-lookup"><span data-stu-id="3c5ac-108">Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>.</span></span>
+1. <span data-ttu-id="8ffde-108">Vá ao centro de <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>administração em .</span><span class="sxs-lookup"><span data-stu-id="8ffde-108">Go to the admin center at <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>.</span></span>
     
-2. <span data-ttu-id="3c5ac-109">No nav esquerdo, escolha **dispositivos** \> **controla.**</span><span class="sxs-lookup"><span data-stu-id="3c5ac-109">In the left nav, choose **Devices** \> **Manage**.</span></span>
+2. <span data-ttu-id="8ffde-109">Na navegação à esquerda, escolha **Dispositivos** \> **Gerir**.</span><span class="sxs-lookup"><span data-stu-id="8ffde-109">In the left nav, choose **Devices** \> **Manage**.</span></span>
 
-3. <span data-ttu-id="3c5ac-110">Na página **gerenciar,** verifique a caixa de seleção ao lado do dispositivo que você deseja remover dados e, em seguida, no **Drop-down gerenciar** escolher **reset fábrica**.</span><span class="sxs-lookup"><span data-stu-id="3c5ac-110">On the **Manage** page, check the checkbox next to the device you want to remove data from and then, in the **Manage** drop-down choose **Factory reset**.</span></span>
+3. <span data-ttu-id="8ffde-110">Na página **'Gerir',** verifique a caixa de verificação ao lado do dispositivo de que pretende remover os dados e, em seguida, na **reset 'Reproduzir',** escolha **'Gerir'.**</span><span class="sxs-lookup"><span data-stu-id="8ffde-110">On the **Manage** page, check the checkbox next to the device you want to remove data from and then, in the **Manage** drop-down choose **Factory reset**.</span></span>
     
-4. <span data-ttu-id="3c5ac-111">No painel **Quer mesmo repor as definições de fábrica nos dispositivos abaixo**, selecione **Confirmar** \> **Fechar**.</span><span class="sxs-lookup"><span data-stu-id="3c5ac-111">On the **Are you sure you want to factory reset the devices below** pane, choose **Confirm** \> **Close**.</span></span>
+4. <span data-ttu-id="8ffde-111">No painel **Quer mesmo repor as definições de fábrica nos dispositivos abaixo**, selecione **Confirmar** \> **Fechar**.</span><span class="sxs-lookup"><span data-stu-id="8ffde-111">On the **Are you sure you want to factory reset the devices below** pane, choose **Confirm** \> **Close**.</span></span>
     
   
 
