@@ -1,5 +1,7 @@
 ---
-title: Que assinatura é certa para o seu negócio?
+title: Que subscrição é a certa para o seu negócio?
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -16,13 +18,13 @@ search.appverid:
 - BCS160
 - MET150
 description: Determine se o Office 365 E3, o Office 365 Business Premium ou o Microsoft 365 Business são adequados para o seu negócio.
-ms.openlocfilehash: f3adf67cf164b14596bc0cedf1cacd7dec41955e
-ms.sourcegitcommit: b535fe233234fd25146cfe15478e20d954f71e03
+ms.openlocfilehash: 44d8b6c64882b0357674793e8430423802b0fc1a
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "38748327"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41594941"
 ---
-# <a name="what-subscription-is-right-for-your-small-business"></a>Que assinatura é certa para sua pequena empresa?
+# <a name="what-subscription-is-right-for-your-small-business"></a>Que subscrição é a certa para o seu pequeno negócio?
 
-A Microsoft oferece vários planos para pequenas empresas. As assinaturas recomendadas são o Office 365 Business Premium ou o Microsoft 365 Business com até 300 usuários. O Microsoft 365 Business oferece mais recursos de segurança do que o Office 365 Business Premium por um custo adicional.
+A Microsoft oferece vários planos para pequenas empresas. As subscrições recomendadas são o Office 365 Business Premium ou o Microsoft 365 Business com até 300 utilizadores. O Microsoft 365 Business oferece mais funcionalidades de segurança do que o Office 365 Business Premium por um custo adicional.

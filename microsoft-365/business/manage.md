@@ -1,5 +1,7 @@
 ---
 title: Gerir o Microsoft 365 Business
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -18,29 +20,29 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 27ff1678-865a-4707-8145-e1155aa815d6
-description: Aprenda a gerenciar tarefas de administração relacionadas ao Microsoft 365 Business, dispositivos móveis, PCs do Windows 10 e muitas dessas tarefas.
-ms.openlocfilehash: 77b8757d9e6ab644b16e97ff20f50c0ce3123088
-ms.sourcegitcommit: 8ca97fa879ae4ea44468be629d6c32b429efeeec
+description: Aprenda a gerir tarefas de administração relacionadas com o Microsoft 365 Business, dispositivos móveis, PCs windows 10 e muitas dessas tarefas.
+ms.openlocfilehash: 41b627b0bb7cbb009832d3e7c45e44ceb8a8fdcd
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/16/2019
-ms.locfileid: "38675974"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593787"
 ---
 # <a name="manage-microsoft-365-business"></a>Gerir o Microsoft 365 Business
 
 ## <a name="general-microsoft-365-business-admin-tasks"></a>Tarefas gerais de administração do Microsoft 365 Empresas
 
-A maior parte do [conteúdo administrativo](https://docs.microsoft.com/office365/admin/admin-home) do Office 365 para negócios também se aplica à Microsoft 365 Business.
+A maioria dos [conteúdos administrativos](https://docs.microsoft.com/office365/admin/admin-home) do Office 365 para negócios também se aplica ao Microsoft 365 Business.
 
-- [Adicionar mais usuários ao Microsoft 365 Business](add-users-m365b.md)
+- [Adicione mais utilizadores ao Microsoft 365 Business](add-users-m365b.md)
     
 - [Ver políticas e dispositivos](view-policies-and-devices.md)
     
-- [Microsoft 365 Recursos de segurança de negócios](security-features.md)
+- [Funcionalidades de segurança do Microsoft 365 Business](security-features.md)
     
 - [Como é que as funcionalidades de proteção no Microsoft 365 Empresas são mapeadas às definições do Intune](map-protection-features-to-intune-settings.md)
     
-Veja as seções a seguir sobre como usar o Microsoft 365 Business para proteger os dados de sua organização em PCs e dispositivos móveis.
+Consulte as seguintes secções sobre como utilizar o Microsoft 365 Business para proteger os dados da sua organização em Computadores e dispositivos móveis.
   
 ## <a name="manage-mobile-devices"></a>Gerir dispositivos móveis
 
@@ -48,7 +50,7 @@ Veja as seções a seguir sobre como usar o Microsoft 365 Business para proteger
     
 - [Configurar as definições de proteção de aplicações para dispositivos Android ou iOS](app-protection-settings-for-android-and-ios.md)
     
-    Para garantir que isso funcionou, consulte as configurações de proteção do [aplicativo Validate em um dispositivo Android ou iOS.](validate-settings-on-android-or-ios.md) 
+    Para se certificar de que isto funcionou, consulte as definições de proteção de [aplicações de Validação num dispositivo Android ou iOS](validate-settings-on-android-or-ios.md). 
     
 - [Remover dados empresariais de dispositivos](remove-company-data.md)
     
@@ -60,11 +62,11 @@ Veja as seções a seguir sobre como usar o Microsoft 365 Business para proteger
     
 - [Configurar as definições de proteção para dispositivos Windows 10](protection-settings-for-windows-10-pcs.md)
     
-    Para garantir que isso funcionasse, consulte as configurações de proteção do [dispositivo Validate em dispositivos Windows 10.](validate-settings-on-windows-10-pcs.md) 
+    Para se certificar de que isto funcionou, consulte as definições de proteção do [dispositivo De validação nos dispositivos Do Windows 10](validate-settings-on-windows-10-pcs.md). 
     
 - [Configurar as definições de proteção de aplicações para dispositivos Windows 10](protection-settings-for-windows-10-devices.md)
     
-    Para garantir que isso funcionou, consulte as configurações de proteção do [aplicativo Validate em PCs do Windows 10.](validate-protection-settings-on-windows-10-pcs.md) 
+    Para se certificar de que isto funcionou, consulte as definições de proteção de [aplicações do Windows 10](validate-protection-settings-on-windows-10-pcs.md). 
     
 - [Remover dados empresariais de dispositivos](remove-company-data.md)
     
@@ -86,9 +88,9 @@ Os seguintes tópicos descrevem como pode utilizar o Windows AutoPilot no Micros
     
 - [Sobre as definições do Perfil AutoPilot](autopilot-profile-settings.md)
     
-## <a name="set-up-and-prerequisite-information"></a>Configuração e informações pré-requisito
+## <a name="set-up-and-prerequisite-information"></a>Configurar e pré-requisitos de informação
 
-- [Pré-requisitos para proteger dados em dispositivos com a Microsoft 365 Business](pre-requisites-for-data-protection.md)
+- [Pré-requisitos para proteger dados em dispositivos com o Microsoft 365 Business](pre-requisites-for-data-protection.md)
     
 - [Configurar o Microsoft 365 Business com o assistente de configuração](set-up.md)
     

@@ -1,5 +1,7 @@
 ---
-title: Validar as configurações de proteção do aplicativo em dispositivos Android ou iOS
+title: Valide as definições de proteção de aplicativos em dispositivos Android ou iOS
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -20,28 +22,28 @@ search.appverid:
 - MET150
 ms.assetid: f3433b6b-02f7-447f-9d62-306bf03638b0
 description: Learn how to validate the Microsoft 365 Business app protection settings in your Android or iOS devices.
-ms.openlocfilehash: 3879084b42e8c00cc4abcd86c1a3d6761c0697a6
-ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
+ms.openlocfilehash: 47ce137f785c595992886c756ad85b80957272fe
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38718905"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41594981"
 ---
-# <a name="validate-app-protection-settings-on-android-or-ios-devices"></a>Validar as configurações de proteção do aplicativo em dispositivos Android ou iOS
+# <a name="validate-app-protection-settings-on-android-or-ios-devices"></a>Valide as definições de proteção de aplicativos em dispositivos Android ou iOS
 
-Siga as instruções nas seguintes seções para validar as configurações de proteção do aplicativo em dispositivos Android ou iOS.
+Siga as instruções nas seguintes secções para validar as definições de proteção de aplicações em dispositivos Android ou iOS.
   
 ## <a name="android"></a>Android
   
-### <a name="check-that-the-app-protection-settings-are-working-on-user-devices"></a>Verifique se as configurações de proteção do aplicativo estão funcionando em dispositivos do usuário
+### <a name="check-that-the-app-protection-settings-are-working-on-user-devices"></a>Verifique se as definições de proteção de aplicações estão a funcionar em dispositivos de utilizador
 
 Depois de [definir as configurações das aplicações para dispositivos Android](app-protection-settings-for-android-and-ios.md) para proteger as aplicações, pode seguir estes passos para verificar se as definições que escolheu estão a funcionar. 
   
-Primeiro, certifique-se de que a política se aplica ao aplicativo em que você vai validá-lo.
+Em primeiro lugar, certifique-se de que a apólice se aplica à aplicação na qual a vai validar.
   
 1. No [centro de administração](https://portal.office.com) do Microsoft 365 Business, aceda a **Políticas** \> **Editar política**.
     
-2. Escolha a política de **aplicativos para Android** para as configurações que você criou na configuração ou outra política que você criou e verifique se ela é aplicada para o Outlook, por exemplo. 
+2. Escolha **a política de Aplicação para Android** para as definições que criou na configuração, ou outra política que criou, e verifique se é aplicada para o Outlook, por exemplo. 
     
     ![Shows all the apps for which this policy protects files.](media/b3be3ddd-f683-4073-8d7a-9c639a636a2c.png)
   
@@ -49,25 +51,25 @@ Primeiro, certifique-se de que a política se aplica ao aplicativo em que você 
 
 No painel **Editar política**, selecione **Editar** junto a **Controlo do acesso a documentos do Office**. Expanda a secção **Gerir a forma como os utilizadores acedem a ficheiros do Office em dispositivos móveis** e certifique-se de que a opção **Exigir um PIN ou impressão digital para aceder às aplicações do Office** está definida como **Ativada**.
   
-![Certifique-se de que o Requer um PIN ou impressão digital para acessar aplicativos do Office está definido para on.](media/f37eb5b2-7e26-49fb-9bd6-d955d196bacf.png)
+![Certifique-se de que o Requer um PIN ou uma impressão digital para aceder às aplicações do Office está definido para On.](media/f37eb5b2-7e26-49fb-9bd6-d955d196bacf.png)
   
 1. No dispositivo Android do utilizador, abra o Outlook e inicie sessão com as credenciais do Microsoft 365 Business do utilizador.
     
-2. Você também será solicitado a digitar um PIN ou usar uma impressão digital.
+2. Também será solicitado a introduzir um PIN ou a utilizar uma impressão digital.
     
     ![Enter a PIN on your Android device to access Office apps.](media/9e8ecfee-8122-4a3a-8918-eece80344310.png)
   
 ### <a name="validate-reset-pin-after-number-of-failed-attempts"></a>Verificar a opção para repor o PIN após um número de tentativas falhadas
 
-No painel de **políticas de eitamento,** escolha **eitir** ao lado do controle de acesso de documentos do **Office,** expandir **a forma como os usuários acessam os arquivos do Office em dispositivos móveis**e certifique-se de que o PIN de **redefinição após o número de tentativas fracassadas** seja definido em algum número. Este é 5 por padrão. 
+No painel de **política edite,** escolha **Editar** ao lado do controlo de acesso de **documentos do Office,** expandir **Gerir a forma como os utilizadores acedem aos ficheiros do Office em dispositivos móveis,** e certifique-se de que **o Reset PIN após o número de tentativas falhadas** está definido para algum número. Este é 5 por defeito. 
   
 1. No dispositivo Android do utilizador, abra o Outlook e inicie sessão com as credenciais do Microsoft 365 Business do utilizador.
     
-2. Introduza um PIN incorreto tantas vezes quanto for especificado pela política. Você verá uma solicitação que afirma o limite de **tentativa PIN alcançado** para redefinir o PIN. 
+2. Introduza um PIN incorreto tantas vezes quanto for especificado pela política. Verá uma solicitação que indica **pin tente limite atingido** para redefinir o PIN. 
     
     ![After too many incorrect PIN attempts, you need to reset your PIN.](media/fca6fcb4-bb5c-477f-af5e-5dc937e8b835.png)
   
-3. Prima **Repor PIN**. Você será solicitado a entrar com as credenciais microsoft 365 business do usuário e, em seguida, obrigado a definir um novo PIN.
+3. Prima **Repor PIN**. Será solicitado a iniciar sessão com as credenciais de negócio si mesmos microsoft 365, e depois obrigado a definir um novo PIN.
     
 ### <a name="validate-force-users-to-save-all-work-files-to-onedrive-for-business"></a>Verificar a opção para forçar os utilizadores a guardar todos os ficheiros de trabalho no OneDrive para Empresas
 
@@ -81,7 +83,7 @@ No painel **Editar política**, selecione **Editar** junto a **Proteção contra
     
     ![Tap the down arrow next to an attachment to try to save it.](media/b22573bb-91ce-455f-84fa-8feb2846b117.png)
   
-    Você verá **não pode salvar para dispositivo** na parte inferior da tela. 
+    Não pode **ser que se atire na** parte inferior do ecrã. 
     
     ![Warning text that indicates cannot save a file locally to an Android.](media/52ca3f3d-7ed0-4a52-9621-4872da6ea9c5.png)
   
@@ -90,7 +92,7 @@ No painel **Editar política**, selecione **Editar** junto a **Proteção contra
   
 ### <a name="validate-require-user-to-sign-in-again-if-office-apps-have-been-idle-for-a-specified-time"></a>Verificar a opção para exigir que o utilizador inicie sessão novamente caso as aplicações do Office estejam inativas durante um período de tempo específico
 
-No painel de **políticas de eitamento,** escolha **eitir eita** ao lado do controle de acesso de documentos do **Office,** expanda **a forma como os usuários acessam os arquivos do Office em dispositivos móveis**e certifique-se de que os usuários exigem que os usuários entrem novamente depois que os aplicativos do Office **estiverem ociosos** para se definirem para algum número de minutos. Isso é 30 minutos por padrão. 
+No painel de **política edite,** escolha **Editar** ao lado do controlo de acesso de **documentos do Office,** expandir **Gerir a forma como os utilizadores acedem aos ficheiros do Office em dispositivos móveis,** e certifique-se de que os utilizadores voltam a fazer o início depois de as aplicações do Office terem sido **inativas,** está definida para alguns minutos. São 30 minutos por defeito. 
   
 1. No dispositivo Android do utilizador, abra o Outlook e inicie sessão com as credenciais do Microsoft 365 Business do utilizador e, se lhe for pedido, introduza um PIN.
     
@@ -98,7 +100,7 @@ No painel de **políticas de eitamento,** escolha **eitir eita** ao lado do cont
     
 3. Access Outlook no dispositivo Android novamente.
     
-4. Você será solicitado a inserir seu PIN antes de acessar o Outlook novamente.
+4. Será solicitado a introduzir o seu PIN antes de poder aceder novamente ao Outlook.
     
 ### <a name="validate-protect-work-files-with-encryption"></a>Verificar a opção para proteger ficheiros de trabalho com encriptação
 
@@ -106,7 +108,7 @@ No painel **Editar política**, selecione **Editar** junto a **Proteção contra
   
 1. No dispositivo Android do utilizador, abra o Outlook e inicie sessão com as credenciais do Microsoft 365 Business do utilizador e, se lhe for pedido, introduza um PIN.
     
-2. Abra um e-mail que contém alguns anexos de arquivos de imagem.
+2. Abra um e-mail que contenha alguns anexos de ficheiros de imagem.
     
 3. Toque no ícone de seta para baixo junto às informações do anexo para guardá-lo.
     
@@ -120,17 +122,17 @@ No painel **Editar política**, selecione **Editar** junto a **Proteção contra
     
     ![An encrypted image file in the Gallery app.](media/25936414-bd7e-421d-824e-6e59b877722d.png)
   
-## <a name="ios"></a>Ios
+## <a name="ios"></a>iOS
   
 ### <a name="check-that-the-app-protection-settings-are-working-on-user-devices"></a>Verificar se as definições de proteção de aplicações estão a funcionar nos dispositivos dos utilizadores
 
 Depois de [definir as configurações das aplicações para dispositivos iOS](app-protection-settings-for-android-and-ios.md) para proteger as aplicações, pode seguir estes passos para verificar se as definições que escolheu estão a funcionar. 
   
-Primeiro, certifique-se de que a política se aplica ao aplicativo em que você vai validá-lo.
+Em primeiro lugar, certifique-se de que a apólice se aplica à aplicação na qual a vai validar.
   
 1. No [centro de administração](https://portal.office.com) do Microsoft 365 Business, aceda a **Políticas** \> **Editar política**.
     
-2. Escolha a política de **aplicativos para iOS** para as configurações que você criou na configuração ou outra política que você criou e verifique se ela é aplicada para o Outlook, por exemplo. 
+2. Escolha a política de **Aplicação para iOS** para as definições que criou na configuração, ou outra política que criou, e verifique se é aplicada para o Outlook, por exemplo. 
     
     ![Shows all the apps for which this policy protects files.](media/842441b8-e7b1-4b86-9edd-d94d1f77b6f4.png)
   
@@ -138,25 +140,25 @@ Primeiro, certifique-se de que a política se aplica ao aplicativo em que você 
 
 No painel **Editar política**, selecione **Editar** junto a **Controlo do acesso a documentos do Office**. Expanda a secção **Gerir a forma como os utilizadores acedem a ficheiros do Office em dispositivos móveis** e certifique-se de que a opção **Exigir um PIN ou impressão digital para aceder às aplicações do Office** está definida como **Ativada**.
   
-![Certifique-se de que o Requer um PIN ou impressão digital para acessar aplicativos do Office está definido para on.](media/f37eb5b2-7e26-49fb-9bd6-d955d196bacf.png)
+![Certifique-se de que o Requer um PIN ou uma impressão digital para aceder às aplicações do Office está definido para On.](media/f37eb5b2-7e26-49fb-9bd6-d955d196bacf.png)
   
 1. No dispositivo iOS do utilizador, abra o Outlook e inicie sessão com as credenciais do Microsoft 365 Business do utilizador.
     
-2. Você também será solicitado a digitar um PIN ou usar uma impressão digital.
+2. Também será solicitado a introduzir um PIN ou a utilizar uma impressão digital.
     
     ![Enter a PIN on your IOS device to access Office apps.](media/06fc5cf3-9f19-4090-b23c-14bb59805b7a.png)
   
 ### <a name="validate-reset-pin-after-number-of-failed-attempts"></a>Verificar a opção para repor o PIN após um número de tentativas falhadas
 
-No painel de **políticas de eitamento,** escolha **eitir** ao lado do controle de acesso de documentos do **Office,** expandir **a forma como os usuários acessam os arquivos do Office em dispositivos móveis**e certifique-se de que o PIN de **redefinição após o número de tentativas fracassadas** seja definido em algum número. Este é 5 por padrão. 
+No painel de **política edite,** escolha **Editar** ao lado do controlo de acesso de **documentos do Office,** expandir **Gerir a forma como os utilizadores acedem aos ficheiros do Office em dispositivos móveis,** e certifique-se de que **o Reset PIN após o número de tentativas falhadas** está definido para algum número. Este é 5 por defeito. 
   
 1. No dispositivo iOS do utilizador, abra o Outlook e inicie sessão com as credenciais do Microsoft 365 Business do utilizador.
     
-2. Introduza um PIN incorreto tantas vezes quanto for especificado pela política. Você verá uma solicitação que afirma o limite de **tentativa PIN alcançado** para redefinir o PIN. 
+2. Introduza um PIN incorreto tantas vezes quanto for especificado pela política. Verá uma solicitação que indica **pin tente limite atingido** para redefinir o PIN. 
     
     ![After too many incorrect PIN attempts, you need to reset your PIN.](media/fab5c089-a4a5-4e8d-8c95-b8eed1dfa262.png)
   
-3. Prima **OK**. Você será solicitado a entrar com as credenciais microsoft 365 business do usuário e, em seguida, obrigado a definir um novo PIN.
+3. Prima **OK**. Será solicitado a iniciar sessão com as credenciais de negócio si mesmos microsoft 365, e depois obrigado a definir um novo PIN.
     
 ### <a name="validate-force-users-to-save-all-work-files-to-onedrive-for-business"></a>Verificar a opção para forçar os utilizadores a guardar todos os ficheiros de trabalho no OneDrive para Empresas
 
@@ -170,21 +172,21 @@ No painel **Editar política**, selecione **Editar** junto a **Proteção contra
     
     ![Tap the Save option after you open an attachment to try to save it.](media/b419b070-1530-4f14-86a8-8d89933a2b25.png)
   
-3. Deverá ver apenas uma opção para o OneDrive para Empresas. Se não, toque **na conta adicionar** e selecione O **OneDrive para negócios** a partir da tela da conta de armazenamento **adicionar.** Introduza as credenciais do Microsoft 365 Business do utilizador final para iniciar sessão quando lhe for pedido. 
+3. Deverá ver apenas uma opção para o OneDrive para Empresas. Caso contrário, toque em **Adicionar Conta** e selecione **OneDrive para Negócios** a partir do ecrã **da Conta de Armazenamento Adicionar.** Introduza as credenciais do Microsoft 365 Business do utilizador final para iniciar sessão quando lhe for pedido. 
     
     Toque em **Guardar** e selecione **OneDrive para Empresas**.
     
 ### <a name="validate-require-user-to-sign-in-again-if-office-apps-have-been-idle-for-a-specified-time"></a>Verificar a opção para exigir que o utilizador inicie sessão novamente caso as aplicações do Office estejam inativas durante um período de tempo específico
 
-No painel de **políticas de eitamento,** escolha **eitir eita** ao lado do controle de acesso de documentos do **Office,** expanda **a forma como os usuários acessam os arquivos do Office em dispositivos móveis**e certifique-se de que os usuários exigem que os usuários entrem novamente depois que os aplicativos do Office **estiverem ociosos** para se definirem para algum número de minutos. Isso é 30 minutos por padrão. 
+No painel de **política edite,** escolha **Editar** ao lado do controlo de acesso de **documentos do Office,** expandir **Gerir a forma como os utilizadores acedem aos ficheiros do Office em dispositivos móveis,** e certifique-se de que os utilizadores voltam a fazer o início depois de as aplicações do Office terem sido **inativas,** está definida para alguns minutos. São 30 minutos por defeito. 
   
 1. No dispositivo iOS do utilizador, abra o Outlook e inicie sessão com as credenciais do Microsoft 365 Business do utilizador e, se lhe for pedido, introduza um PIN.
     
 2. Já deverá ver a caixa de entrada do Outlook. Não faça alterações ao dispositivo iOS durante, pelo menos, 30 minutos (ou outro período de tempo superior ao especificado na política). Provavelmente, o ecrã do dispositivo ficará mais escuro.
     
-3. Acesse o Outlook no dispositivo iOS novamente.
+3. Acesso Outlook no dispositivo iOS novamente.
     
-4. Você será solicitado a inserir seu PIN antes de acessar o Outlook novamente.
+4. Será solicitado a introduzir o seu PIN antes de poder aceder novamente ao Outlook.
     
 ### <a name="validate-protect-work-files-with-encryption"></a>Verificar a opção para proteger ficheiros de trabalho com encriptação
 
@@ -192,7 +194,7 @@ No painel **Editar política**, selecione **Editar** junto a **Proteção contra
   
 1. No dispositivo iOS do utilizador, abra o Outlook e inicie sessão com as credenciais do Microsoft 365 Business do utilizador e, se lhe for pedido, introduza um PIN.
     
-2. Abra um e-mail que contém alguns anexos de arquivos de imagem.
+2. Abra um e-mail que contenha alguns anexos de ficheiros de imagem.
     
 3. Toque no anexo e, em seguida, toque na opção **Guardar** por baixo do mesmo. 
     

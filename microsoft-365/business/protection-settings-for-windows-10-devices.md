@@ -1,5 +1,7 @@
 ---
 title: Configurar as definições de proteção de aplicações para dispositivos Windows 10
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -24,13 +26,13 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 02e74022-44af-414b-9d74-0ebf5c2197f0
-description: Saiba como criar uma política de gerenciamento de aplicativos e proteger arquivos de trabalho em dispositivos Windows 10.
-ms.openlocfilehash: ca6d789e0242975a0395e6cf5653d3f43f819801
-ms.sourcegitcommit: 5d11f516e78ea4a74145e19ba2300f0792c8bac1
+description: Saiba como criar uma política de gestão de aplicações e proteja ficheiros de trabalho em dispositivos Windows 10.
+ms.openlocfilehash: 703f63fc1c90966eb8412886e82670af3e9d6f62
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38715258"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593542"
 ---
 # <a name="set-application-protection-settings-for-windows-10-devices"></a>Configurar as definições de proteção de aplicações para dispositivos Windows 10
 
@@ -38,29 +40,29 @@ ms.locfileid: "38715258"
 
 Se os seus utilizadores tiverem dispositivos Windows 10 pessoais, nos quais realizam tarefas profissionais, também pode proteger os seus dados nesses dispositivos.
   
-1. Vá para o centro <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>de administração em . 
+1. Vá ao centro de <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>administração em . 
     
-2. No nav esquerdo, escolha **políticas** \> dos **dispositivos** \> **adicione.**
+2. No v à esquerda, escolha **Políticas de Dispositivos** \> **** \> **Adicionar**.
 
 3. No painel **Adicionar política**, introduza um nome exclusivo para esta política. 
     
 4. Em **Tipo de política**, selecione **Gestão de Aplicações para Windows 10**.
     
-5. No **tipo dispositivo,** escolha **pessoal** ou de propriedade **da empresa.**
+5. No **tipo de Dispositivo,** escolha **pessoal** ou propriedade **da empresa**.
     
 6. A opção **Encriptar ficheiros de trabalho** é ativada automaticamente. 
     
 7. Defina **Impedir que os utilizadores copiem os dados da empresa para ficheiros pessoais e obrigá-los a guardar os ficheiros de trabalho no OneDrive para Empresas** como **Ativado** se não pretender que os utilizadores guardem ficheiros de trabalho nos respetivos PCs. 
     
-9. Expandir **os dados de recuperação em dispositivos Windows**. Recomendamos que você **** ligá-lo .
+9. Expandir **dados de recuperação em dispositivos Windows**. Recomendamos que **ligue.**
     
-    Antes de poder aceder à localização do certificado de Agente de Recuperação de Dados, tem de criar um. Para obter instruções, consulte criar e verificar um certificado de agente de recuperação de dados (Dra) do Sistema de [Arquivos criptografados (EFS).](https://go.microsoft.com/fwlink/p/?linkid=853700)
+    Antes de poder aceder à localização do certificado de Agente de Recuperação de Dados, tem de criar um. Para obter instruções, consulte Criar e verificar um certificado de Agente de Recuperação de [Dados (EFS) do Sistema de Ficheiros Encriptadores (EFS).](https://go.microsoft.com/fwlink/p/?linkid=853700)
     
-    Por predefinição, os ficheiros de trabalho são encriptados com uma chave secreta que é armazenada no dispositivo e é associada ao perfil do utilizador. Apenas o utilizador pode abrir e desencriptar o ficheiro. No entanto, se um dispositivo for perdido ou um utilizador for removido, um ficheiro pode ficar bloqueado num estado encriptado. Um administrador pode usar o certificado de Agente de Recuperação de Dados (DRA) para descriptografar o arquivo.
+    Por predefinição, os ficheiros de trabalho são encriptados com uma chave secreta que é armazenada no dispositivo e é associada ao perfil do utilizador. Apenas o utilizador pode abrir e desencriptar o ficheiro. No entanto, se um dispositivo for perdido ou um utilizador for removido, um ficheiro pode ficar bloqueado num estado encriptado. Um administrador pode usar o certificado do Agente de Recuperação de Dados (DRA) para desencriptar o ficheiro.
     
     ![Browse to Data Recovery Agent certificate.](media/7d7d664f-b72f-4293-a3e7-d0fa7371366c.png)
   
-10. Expanda proteger locais adicionais de **rede e nuvem** se você quiser adicionar domínios adicionais ou locais on-line do SharePoint para garantir que os arquivos em todos os aplicativos listados sejam protegidos. Se precisar de introduzir mais do que um item em cada campo, utilize ponto e vírgula (;) entre os itens.
+10. Expandir **Proteja localizações adicionais** de rede e cloud se pretender adicionar domínios adicionais ou localizações Do SharePoint Online para garantir que os ficheiros em todas as aplicações listadas estão protegidos. Se precisar de introduzir mais do que um item em cada campo, utilize ponto e vírgula (;) entre os itens.
     
     ![Expand Protect additional network and cloud locations, and enter domains or SharePoint Online sites you own.](media/7afaa0c7-ba53-456d-8c61-312c45e09625.png)
   

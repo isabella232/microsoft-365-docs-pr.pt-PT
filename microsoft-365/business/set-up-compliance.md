@@ -1,5 +1,7 @@
 ---
 title: Aumentar a proteção contra ameaças para o Microsoft 365 Business
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -17,57 +19,57 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-description: Configure recursos de conformidade para evitar a perda de dados e rotular dados confidenciais.
-ms.openlocfilehash: 6fae95e8c5e6d133e3163dbdfd3c09cfede11382
-ms.sourcegitcommit: 5d11f516e78ea4a74145e19ba2300f0792c8bac1
+description: Configurar as funcionalidades de conformidade para evitar a perda de dados e os dados sensíveis à etiqueta.
+ms.openlocfilehash: 09619de03aafde37106fb3942890b457c488ad43
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38715128"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593411"
 ---
-# <a name="set-up-compliance-features"></a>Configurar recursos de conformidade
+# <a name="set-up-compliance-features"></a>Configurar funcionalidades de conformidade
 
-Seu Microsoft 365 Business vem com recursos para proteger seus dados e dispositivos e ajudá-lo a manter as informações confidenciais dos seus clientes seguras.
+O Seu Microsoft 365 Business vem com funcionalidades para proteger os seus dados e dispositivos e ajudá-lo a manter as informações sensíveis dos seus e dos seus clientes seguras.
 
-## <a name="set-up-dlp-features"></a>Configurar recursos de DLP
+## <a name="set-up-dlp-features"></a>Configurar as funcionalidades dLP
 
-Veja [criar uma política de DLP a partir de um modelo](https://support.office.com/article/59414438-99f5-488b-975c-5023f2254369) para um exemplo sobre como criar uma política para proteger contra informações de identificação pessoal (PII). 
+Consulte [Criar uma política de DLP](https://support.office.com/article/59414438-99f5-488b-975c-5023f2254369) a partir de um modelo para um exemplo sobre como criar uma política de proteção contra informações pessoalmente identificáveis (PII). 
   
-DLP vem com muitos modelos de política pronto-a-uso para muitos locais diferentes. Por exemplo, dados financeiros da Austrália, Canada Personal Information Act, Dados Financeiros dos EUA e assim por diante. Veja [o que os modelos](https://support.office.com/article/c2e588d3-8f4f-4937-a286-8c399f28953a) de política do DLP incluem para uma lista completa. Todos esses modelos podem ser habilitados semelhante sagaz. 
+DLP vem com muitos modelos de política prontos a usar para muitos locais diferentes. Por exemplo, Australia Financial Data, Canada Personal Information Act, Dados Financeiros dos EUA, e assim por diante. Veja [o que os modelos de política do DLP incluem](https://support.office.com/article/c2e588d3-8f4f-4937-a286-8c399f28953a) para uma lista completa. Todos estes modelos podem ser ativados semelhantes ao exemplo do modelo PII. 
   
-## <a name="set-up-email-retention-with-exchange-online-archiving"></a>Configure retenção de e-mail com arquivamento on-line de intercâmbio
+## <a name="set-up-email-retention-with-exchange-online-archiving"></a>Configurar a retenção de e-mails com o Arquivo Online de Troca
 
- Os recursos da licença **de arquivamento on-line** de intercâmbio ajudam a manter os padrões regulatórios e de conformidade, preservando o conteúdo de e-mail para o eDiscovery. Ele também ajuda a reduzir o risco se houver uma ação judicial, e fornece uma maneira de recuperar dados após uma violação de segurança ou quando você precisa recuperar itens excluídos. Você pode usar o litígio para preservar todo o conteúdo de um usuário ou usar políticas de retenção para personalizar o que deseja preservar.
+ **As** funcionalidades de licença de arquivo online exchange ajudam a manter a conformidade e os padrões regulamentares preservando o conteúdo de e-mail para eDiscovery. Também ajuda a reduzir o seu risco se houver um processo judicial, e fornece uma maneira de recuperar dados após uma violação de segurança ou quando precisa de recuperar itens apagados. Pode utilizar litígios para preservar todo o conteúdo do utilizador ou utilizar políticas de retenção para personalizar o que pretende preservar.
   
-**Contenção:** Você pode preservar todo o conteúdo da caixa de correio, incluindo itens excluídos, colocando toda a caixa de correio de um usuário no porão de litígio. 
+**Detenção de litígios:** Pode preservar todos os conteúdos da caixa de correio, incluindo itens eliminados, colocando toda a caixa de correio de um utilizador em espera de litígios. 
     
-Para colocar uma caixa de correio em espera contencioso, no centro de administração:
+Para colocar uma caixa de correio em espera de litígios, no centro de Administração:
     
-1. No nav esquerdo, vá para **usuários** \> **ativos.**
+1. Na navegação à esquerda, vá aos **utilizadores** \> **ativos.**
     
-2. Selecione um usuário cuja caixa de correio você deseja colocar em espera contencioso. No painel do usuário, expanda **as configurações**do correio e, ao lado de **mais configurações,** escolha as propriedades da **Eit Exchange.**
+2. Selecione um utilizador cuja caixa de correio pretende colocar em espera de litígios. No painel do utilizador, expandir **as definições de Correio**, e ao lado de mais **configurações,** escolha **propriedades de Edição Exchange**.
     
-3. Na página da caixa de correio para o usuário, escolha os recursos de caixa de correio ** ** na navegação esquerda e, em seguida, escolha o link **Habilitar** a **retenção de Litígio.**
+3. Na página da caixa de correio para o utilizador, escolha as funcionalidades da caixa de correio ** no v ' à esquerda e, em seguida, escolha o link **Enable** sob **a porção de Litígios**.
     
-4. No **litígio mantenha** a caixa de diálogo, você pode especificar a duração do litígio de retenção no campo de duração de **retenção de litígios.** Deixe o campo vazio se você quiser colocar um porão infinito. Você também pode adicionar notas e direcionar o proprietário da caixa de correio para um site que você pode ter que explicar mais sobre o litígio. \>**Salvar**.
+4. Na **** caixa de diálogo, pode especificar a duração do processo no campo de duração do **processo.** Deixe o campo vazio se quiser colocar um porão infinito. Também pode adicionar notas e direcionar o proprietário da caixa de correio para um site que poderá ter de explicar mais sobre o processo. \>**Salvar.**
     
-**Retenção:** Você pode habilitar políticas de retenção personalizadas, por exemplo, preservar por um período de tempo específico ou excluir conteúdo permanentemente no final do período de retenção. Para saber mais, veja [a visão geral das políticas de retenção.](https://support.office.com/article/5e377752-700d-4870-9b6d-12bfc12d2423)
+**Retenção:** Pode permitir que políticas de retenção personalizadas, por exemplo, preservem por um período de tempo específico ou apaguem conteúdos permanentemente no final do período de retenção. Para saber mais, consulte [a visão geral das políticas de retenção.](https://support.office.com/article/5e377752-700d-4870-9b6d-12bfc12d2423)
 
-## <a name="set-up-sensitivity-labels"></a>Criar rótulos de sensibilidade
+## <a name="set-up-sensitivity-labels"></a>Configurar rótulos de sensibilidade
 
-Os rótulos de sensibilidade vêm com o Plano 1 de Proteção de Informações Azure (AIP) e ajudam a classificar e, opcionalmente, protegem seus documentos e e-mails, aplicando rótulos. Os rótulos podem ser aplicados automaticamente por administradores que definem regras e condições, manualmente pelos usuários ou usando uma combinação em que os usuários recebem recomendações.
+As etiquetas de sensibilidade vêm com o Plano 1 de Proteção de Informação Azure (AIP) e ajudam-no a classificar e a proteger opcionalmente os seus documentos e e-mails, aplicando etiquetas. As etiquetas podem ser aplicadas automaticamente por administradores que definem regras e condições, manualmente pelos utilizadores, ou utilizando uma combinação em que os utilizadores recebem recomendações.
 
-Para configurar rótulos de sensibilidade, veja [criar e gerenciar vídeos](https://support.office.com/article/2fb96b54-7dd2-4f0c-ac8d-170790d4b8b9) de rótulos de sensibilidade.
+Para configurar etiquetas de sensibilidade, veja criar e gerir o vídeo das etiquetas de [sensibilidade.](https://support.office.com/article/2fb96b54-7dd2-4f0c-ac8d-170790d4b8b9)
 
 
 
-### <a name="install-the-azure-information-protection-client-manually"></a>Instale o cliente de Proteção de Informações do Azure manualmente
+### <a name="install-the-azure-information-protection-client-manually"></a>Instale manualmente o cliente de Proteção de Informação Do Azure
 
 Para instalar manualmente o cliente AIP:
 
-1. Baixe **AzinfoProtection_UL.exe** do centro de download da [Microsoft](https://www.microsoft.com/download/details.aspx?id=53018).
+1. Baixe **AzinfoProtection_UL.exe** do centro de [descarregamento](https://www.microsoft.com/download/details.aspx?id=53018)da Microsoft .
  
-2. Você pode verificar se a instalação funcionou visualizando um documento do Word e certificando-se de que a opção **de sensibilidade** está disponível na guia **Home.**
-<br/>![Guia de proteção drop-down em um documento do Word.](media/word-sensitivity.png)
+2. Pode verificar se a instalação funcionou visualizando um documento Word e certificando-se de que a opção **Sensibilidade** está disponível no separador **Home.**
+<br/>![A questão da proteção cai num documento word.](media/word-sensitivity.png)
 
-Para mais informações, [consulte instale o cliente.](https://docs.microsoft.com/azure/information-protection/infoprotect-tutorial-step3)
+Para mais informações, consulte [Instalar o cliente.](https://docs.microsoft.com/azure/information-protection/infoprotect-tutorial-step3)

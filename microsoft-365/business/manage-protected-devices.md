@@ -1,5 +1,7 @@
 ---
 title: Gerir dispositivos protegidos com o Microsoft 365 Business
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: sirkkuw
 manager: scotv
@@ -23,19 +25,19 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 018a2a96-3811-4b5d-b751-3b6330b34256
-description: Aprenda a redefinir ou limpar um dispositivo que é gerenciado por meio de políticas de proteção.
-ms.openlocfilehash: ef3b8ed0e3b3f8b9136d3929bce1b835309498c7
-ms.sourcegitcommit: 9a057e70637dcfe06d4f729a96c02be989cf9e25
+description: Aprenda a repor ou a limpar um dispositivo que seja gerido através de políticas de proteção.
+ms.openlocfilehash: b022d9076b60b0d29771b2ba8f7afc0435bda096
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38633335"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593847"
 ---
 # <a name="manage-protected-devices-with-microsoft-365-business"></a>Gerir dispositivos protegidos com o Microsoft 365 Business
 
-Depois que um usuário conecta seu dispositivo à sua organização, inscrevendo-se com sua conta de trabalho no dispositivo ou em aplicativos do Office no dispositivo, você pode proteger o dispositivo com as políticas que você configura. Os dispositivos conectados estão listados na página dos **dispositivos.** Se um dispositivo for perdido ou roubado, pode geri-lo nesta página para remover os dados da empresa. Também pode repor as definições de fábrica de dispositivos Windows 10 para apagar todas as definições personalizadas. 
+Depois de um utilizador ligar o seu dispositivo à sua organização, inserindo-se com a sua conta de trabalho no dispositivo ou nas aplicações do Office no dispositivo, pode proteger o dispositivo com as políticas que configura. Os dispositivos conectados estão listados na página **dispositivos.** Se um dispositivo for perdido ou roubado, pode geri-lo nesta página para remover os dados da empresa. Também pode repor as definições de fábrica de dispositivos Windows 10 para apagar todas as definições personalizadas. 
 
-Para obter mais informações sobre as tarefas que você pode usar para gerenciar dispositivos, veja esses artigos: 
+Para obter mais informações sobre as tarefas que pode utilizar para gerir dispositivos, consulte estes artigos: 
   
 [Remover dados empresariais de dispositivos](remove-company-data.md)
   

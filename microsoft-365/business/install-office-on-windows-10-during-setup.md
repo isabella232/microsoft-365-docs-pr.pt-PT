@@ -1,5 +1,7 @@
 ---
 title: Instalar o Office no Windows 10 durante a configuração
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: sirkkuw
 manager: scotv
@@ -21,18 +23,18 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 5ffd5327-a83a-4d53-94d6-22ba2f9fd090
-description: Saiba agora a implantar automaticamente os dispositivos Office para Windows 10 durante a configuração.
-ms.openlocfilehash: 7b58fd3db6c6f15effe2bc4876903a9f480366b1
-ms.sourcegitcommit: c5ca71d6feb0f033b50ccd4de816fd59b0925007
+description: Aprenda agora a implementar automaticamente o Office para dispositivos Windows 10 durante a configuração.
+ms.openlocfilehash: 8a631d3976ae3bce82d59d84e38a14405010ab02
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "39831629"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593867"
 ---
 # <a name="install-office-on-windows-10-during-setup"></a>Instalar o Office no Windows 10 durante a configuração
 
-![Banner que https://aka.ms/aboutM365previewapontam para .](media/m365admincenterchanging.png)
+![Banner que https://aka.ms/aboutM365previewaponta para .](media/m365admincenterchanging.png)
 
-Esta definição está desativada por predefinição. Você pode ligá-lo para garantir que os usuários tenham a versão mais recente do Office em todos os seus dispositivos Windows 10, mas primeiro verifique se todos os pré-requisitos são atendidos. Os usuários devem ser licenciados para o Microsoft 365 Business para esta configuração para empurrar o software para o dispositivo, além de outros requisitos descritos na implantação do [cliente Prepare for Office pela Microsoft 365 Business](prepare-for-office-client-deployment.md).
+Esta definição está desativada por predefinição. Pode ligá-lo para garantir que os utilizadores possuem a versão mais recente do Office em todos os seus dispositivos Windows 10, mas primeiro verificar se todos os pré-requisitos são cumpridos. Os utilizadores devem ser licenciados para o Microsoft 365 Business para esta definição para empurrar o software para o dispositivo, além de outros requisitos descritos na Implementação do [cliente Prepare para Office pela Microsoft 365 Business](prepare-for-office-client-deployment.md).
   
-Recomendamos que você aceite a configuração padrão durante a configuração.
+Recomendamos que aceite a definição predefinida durante a configuração.

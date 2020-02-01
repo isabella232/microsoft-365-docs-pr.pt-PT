@@ -1,5 +1,7 @@
 ---
-title: Pré-requisitos para proteger dados em dispositivos com a Microsoft 365 Business
+title: Pré-requisitos para proteger dados em dispositivos com o Microsoft 365 Business
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -17,17 +19,17 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 7770e280-3a6c-436f-a157-b008a2744f51
-description: Conheça os pré-requisitos para a criação de sua organização com o Microsoft 365 Business.
-ms.openlocfilehash: 874a85859e315ef17e10fdd8094860e1e6bf2560
-ms.sourcegitcommit: 2c2248b03f7753d64490f2f7e56ec644a235b65a
+description: Conheça os pré-requisitos para a instalação da sua organização com o Microsoft 365 Business.
+ms.openlocfilehash: 3ca0433faaaeacbe6e0d2c88c820ebad19afec51
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "38640547"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593645"
 ---
-# <a name="prerequisites-for-protecting-data-on-devices-with-microsoft-365-business"></a>Pré-requisitos para proteger dados em dispositivos com a Microsoft 365 Business
+# <a name="prerequisites-for-protecting-data-on-devices-with-microsoft-365-business"></a>Pré-requisitos para proteger dados em dispositivos com o Microsoft 365 Business
 
-O primeiro passo na criação de sua organização com o Microsoft 365 Business é garantir que você possa atender aos pré-requisitos.
+O primeiro passo para a criação da sua organização com o Microsoft 365 Business é garantir que pode cumprir os pré-requisitos.
   
 ## <a name="prerequisites"></a>Pré-requisitos
 
@@ -35,12 +37,12 @@ O primeiro passo na criação de sua organização com o Microsoft 365 Business 
     
     [Atualizar dispositivos Windows para a Atualização para Criativos do Windows Pro](upgrade-to-windows-pro-creators-update.md)
     
-    Se você estiver executando o Windows 10 Home, então você deve **comprar** o Windows 10 Pro. Veja [a atualização do Windows 10 Home para o Windows 10 Pro](https://support.office.com/article/0aee10c1-4d34-43ee-a325-579c6c2df90e?ui=en-US&rs=en-US&ad=US) para obter instruções. 
+    Se estiver a executar o Windows 10 Home, então tem de **comprar** o Windows 10 Pro. Consulte a [atualização do Windows 10 Home para o Windows 10 Pro](https://support.office.com/article/0aee10c1-4d34-43ee-a325-579c6c2df90e?ui=en-US&rs=en-US&ad=US) para obter instruções. 
     
-- Remover dispositivos de soluções de gerenciamento móvel (Mobile Iron, AirWatch, e assim por diante). Você inscreverá todas as pessoas em sua organização no gerenciamento móvel Microsoft 365 Business.
+- Remova os dispositivos de soluções de gestão móvel (Ferro Móvel, AirWatch, e assim por diante). Vai inscrever todas as pessoas da sua organização na gestão móvel do Microsoft 365 Business.
     
 - Apple iOS 8.0 e posterior
     
-    Google Android 4.0 e posterior (incluindo o Samsung KNOX Standard 4.0 e posterior). Para mais informações, consulte [dispositivos suportados pela Intune.](https://go.microsoft.com/fwlink/p/?linkid=852307)
+    Google Android 4.0 e posterior (incluindo o Samsung KNOX Standard 4.0 e posterior). Para mais informações, consulte [os dispositivos suportados intune](https://go.microsoft.com/fwlink/p/?linkid=852307).
     
-- Se você tiver aplicativos do Office existentes em computadores de usuário, leia para a instalação do [cliente do Office](prepare-for-office-client-deployment.md) entender as etapas que talvez você precise tomar antes que você possa configurar o Microsoft 365 Business para instalar o Office 2016 em computadores de usuário. 
+- Se tiver aplicações existentes no Office nos computadores dos utilizadores, leia [prepare-se para](prepare-for-office-client-deployment.md) a instalação do cliente do Office para entender as medidas que poderá ter de tomar antes de poder configurar o Microsoft 365 Business para instalar o Office 2016 nos computadores dos utilizadores. 

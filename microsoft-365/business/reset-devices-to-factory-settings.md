@@ -1,5 +1,7 @@
 ---
 title: Repor as definições de fábrica de dispositivos Windows 10
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -19,13 +21,13 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: c4db6caf-74df-4734-b1dd-53e371c7a3c3
-description: 'Saiba como usar o Microsoft 365 Business para redefinir seus dispositivos Windows 10. '
-ms.openlocfilehash: 867b87b488ec13c7b84a9eb810a076fbb6da545d
-ms.sourcegitcommit: 5d11f516e78ea4a74145e19ba2300f0792c8bac1
+description: 'Saiba como utilizar o Microsoft 365 Business para redefinir os seus dispositivos Windows 10. '
+ms.openlocfilehash: b5039693640a17e531296d019117a9f40bf98a7f
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38715168"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593482"
 ---
 # <a name="reset-windows-10-devices-to-their-factory-settings"></a>Repor as definições de fábrica de dispositivos Windows 10
 
@@ -33,11 +35,11 @@ ms.locfileid: "38715168"
 
 A reposição das definições de fábrica reverte um dispositivo para as definições originais que este tinha quando foi adquirido. Todas as aplicações e dados no dispositivo que foram instalados após a compra são removidos. Pode utilizar o Microsoft 365 Business para repor as definições de fábrica nos dispositivos Windows 10 geridos por si.
   
-1. Vá para o centro <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>de administração em .
+1. Vá ao centro de <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>administração em .
     
-2. No nav esquerdo, escolha **dispositivos** \> **controla.**
+2. Na navegação à esquerda, escolha **Dispositivos** \> **Gerir**.
 
-3. Na página **gerenciar,** verifique a caixa de seleção ao lado do dispositivo que você deseja remover dados e, em seguida, no **Drop-down gerenciar** escolher **reset fábrica**.
+3. Na página **'Gerir',** verifique a caixa de verificação ao lado do dispositivo de que pretende remover os dados e, em seguida, na **reset 'Reproduzir',** escolha **'Gerir'.**
     
 4. No painel **Quer mesmo repor as definições de fábrica nos dispositivos abaixo**, selecione **Confirmar** \> **Fechar**.
     

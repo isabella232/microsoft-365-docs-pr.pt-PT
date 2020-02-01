@@ -1,5 +1,7 @@
 ---
-title: Criar políticas de acesso condicional para as campanhas da Microsoft 365
+title: Criar políticas de acesso condicional para campanhas da Microsoft 365
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -20,42 +22,42 @@ search.appverid:
 - BCS160
 - MET150
 - MOE150
-description: Saiba como configurar políticas de acesso condicional para as campanhas Microsoft 365.
-ms.openlocfilehash: aebdb733c2dd9a05947335ad4f151104d801568e
-ms.sourcegitcommit: 6a413a65b8c2e10cea08f0a15635b28a1362a582
+description: Saiba como criar políticas de acesso condicional para as Campanhas Microsoft 365.
+ms.openlocfilehash: 335fbd7e771b1595e1846529daed76e5ddd3a8f5
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38718835"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593391"
 ---
 # <a name="set-up-conditional-access-policies"></a>Criar políticas de acesso condicional
 
-[As](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) políticas de acesso condicional adicionam segurança adicional substancial. A Microsoft fornece um conjunto de políticas de acesso condicional de base que são recomendadas para todos os clientes. As políticas de base são um conjunto de políticas predefinidas que ajudam a proteger as organizações contra muitos ataques comuns. Esses ataques comuns podem incluir spray de senha, repetição e phishing.
+[As](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) políticas de acesso condicional acrescentam uma segurança adicional substancial. A Microsoft fornece um conjunto de políticas de acesso condicional de base que são recomendadas para todos os clientes. As políticas de base são um conjunto de políticas predefinidas que ajudam a proteger as organizações contra muitos ataques comuns. Estes ataques comuns podem incluir spray de senha, repetição e phishing.
 
-Essas políticas exigem que os administradores e usuários insiram uma segunda forma de autenticação (chamada autenticação multifator, ou MFA) quando determinadas condições forem atendidas. Por exemplo, se um usuário estiver se inscrevendo de um país diferente, o login pode ser considerado arriscado e o usuário deve fornecer uma forma adicional de autenticação. 
+Estas políticas exigem que os administradores e utilizadores introduzam uma segunda forma de autenticação (chamada autenticação multifactor, ou MFA) quando determinadas condições são satisfeitas. Por exemplo, se um utilizador estiver a iniciar sessão a partir de um país diferente, o inserido pode ser considerado arriscado e o utilizador deve fornecer uma forma adicional de autenticação. 
 
-Atualmente, as políticas de base incluem o seguinte:
-- **Exigir mfa para administradores** &ndash; requer multi-fator de autenticação para as funções de administrador mais privilegiados, incluindo administrador global.
-- **A proteção** &ndash; do usuário final requer autenticação multifator para usuários somente quando um login é arriscado. 
-- **Bloqueie aplicativos legados** &ndash; de autenticação de clientes mais antigos e alguns novos aplicativos não usam protocolos de autenticação mais novos e mais seguros. Esses aplicativos mais antigos podem ignorar as políticas de acesso condicional e obter acesso não autorizado ao seu ambiente. Esta política bloqueia o acesso de clientes que não suportam o acesso condicional. 
-- **Exigir o MFA para gerenciamento** &ndash; de serviços requer autenticação multifator para acesso a ferramentas de gerenciamento, incluindo o portal Azure (onde você configura as políticas de base). 
+Atualmente, as políticas de base incluem:
+- **Exigir MFA para administradores** &ndash; requer autenticação multi-factor para as funções de administrador mais privilegiada, incluindo administrador global.
+- **A proteção** &ndash; final do utilizador requer a autenticação de vários fatores para os utilizadores apenas quando um inseri-lo é arriscado. 
+- **Autenticação** &ndash; legado O legado das aplicações de clientes mais antigos e algumas novas aplicações não utilizam protocolos de autenticação mais recentes, mais seguros e seguros. Estas aplicações mais antigas podem contornar as políticas de acesso condicional e obter acesso não autorizado ao seu ambiente. Esta política bloqueia o acesso de clientes que não suportam acesso condicional. 
+- **Exigir MFA para gestão** &ndash; de serviçorequer autenticação de vários fatores para o acesso a ferramentas de gestão, incluindo portal Azure (onde configura políticas de base). 
 
-A Microsoft recomenda que você habilite todas essas políticas básicas. Depois que essas políticas forem ativadas, os administradores e os usuários serão solicitados a se cadastrar na autenticação do Azure Multii-Factor.
+A Microsoft recomenda que ative todas estas políticas de base. Após a ativação destas políticas, os administradores e utilizadores serão solicitados a registar-se para autenticação Azure Multii-Factor.
 
-Para obter mais informações sobre essas políticas, veja quais são as políticas de [base?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)
+Para obter mais informações sobre estas políticas, veja [quais são as políticas de base?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)
 
 
 ## <a name="set-up-baseline-policies"></a>Criar políticas de base
 
-1. Vá para o [portal Azure](https://portal.azure.com)e, em seguida, navegue para o **Azure Active Directory** \> **Conditional Access**.
+1. Vá ao [portal Azure,](https://portal.azure.com)e depois navegue até ao **Acesso Condicional**do **Diretório** \> Ativo Azure.
     
-    As políticas básicas estão listadas na página. <br/> <br/>
-    ![Página que lista as políticas básicas para acesso condicional.](media/baslinepolicies.png)
-1. Veja as seguintes instruções específicas para cada política:
+    As políticas de base estão listadas na página. <br/> <br/>
+    ![Página que lista políticas de base para acesso condicional.](media/baslinepolicies.png)
+1. Consulte as seguintes instruções específicas para cada política:
 
   - [Exigir MFA para administradores](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)
-- [Exigir MFA para usuários](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users)  
- - [Bloquear a autenticação herdada](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth)
+- [Exigir MFA para utilizadores](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users)  
+ - [Autenticação do legado do bloco](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth)
   - [Exigir MFA para gestão de serviços](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-azure)
 
-Você pode configurar muitas políticas adicionais, como a exigência de aplicativos de clientes aprovados. Para mais informações, consulte a Documentação de [Acesso Condicional.](https://docs.microsoft.com/azure/active-directory/conditional-access/)
+Pode configurar muitas políticas adicionais, tais como exigir aplicações de clientes aprovadas. Para mais informações, consulte a Documentação de [Acesso Condicional.](https://docs.microsoft.com/azure/active-directory/conditional-access/)

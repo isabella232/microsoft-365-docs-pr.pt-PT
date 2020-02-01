@@ -1,5 +1,7 @@
 ---
 title: Inscreva-se no Microsoft 365 Business
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -21,76 +23,76 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-description: Saiba como comprar e se inscrever no Microsoft 365 Business.
-ms.openlocfilehash: d755931b6383a15376d3a875a9cf1ed93e9f4a63
-ms.sourcegitcommit: c5ca71d6feb0f033b50ccd4de816fd59b0925007
+description: Saiba como comprar e inscrever-se no Microsoft 365 Business.
+ms.openlocfilehash: 63bff3d34df017d1c7cc437ef050d53623e76aa9
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "39831249"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41594254"
 ---
 # <a name="sign-up-for-microsoft-365-business"></a>Inscreva-se no Microsoft 365 Business
 
-Para descobrir o que o Microsoft 365 Business inclui, assista a um [vídeo curto](https://go.microsoft.com/fwlink/?linkid=2109651) e veja o [Resumo](microsoft-365-business-overview.md).
+Para saber o que o Microsoft 365 Business inclui, veja um [pequeno vídeo](https://go.microsoft.com/fwlink/?linkid=2109651) e veja a [visão geral](microsoft-365-business-overview.md).
 
 Há três maneiras de obter o Microsoft 365 Business:
-- **Compre o Microsoft 365 Business e complete sua própria configuração:** Para comprar o Microsoft 365 Business on-line, [siga os passos abaixo.](#sign-up-steps)
-- **Para parceiros**da Microsoft: se você é um parceiro, veja [o Get Microsoft 365 Business do Microsoft Partner Center](get-microsoft-365-business.md#get-microsoft-365-business-from-microsoft-partner-center).
-- **Obter ajuda em uma loja da Microsoft:** Vá para uma [Microsoft Store](https://go.microsoft.com/fwlink/?linkid=2109652). As lojas da Microsoft podem ajudá-lo com perguntas sobre planos, ajudá-lo a comprar um plano que se adapte às suas necessidades de negócios e ajudá-lo a concluir sua configuração.
+- **Compre o Microsoft 365 Business e complete a sua própria configuração**: Para comprar o Microsoft 365 Business online, [siga os passos abaixo](#sign-up-steps).
+- **Para os parceiros**da Microsoft : Se for um parceiro, consulte [o Get Microsoft 365 Business do Microsoft Partner Center](get-microsoft-365-business.md#get-microsoft-365-business-from-microsoft-partner-center).
+- **Obtenha ajuda numa loja**da Microsoft : Dirija-se a uma [Microsoft Store](https://go.microsoft.com/fwlink/?linkid=2109652). As lojas da Microsoft podem ajudá-lo com questões sobre planos, ajudá-lo a comprar um plano que se adapte às necessidades do seu negócio e ajudá-lo a completar a sua configuração.
 
 **Precisa de algo diferente?** É possível:
-- [Atualize seu plano do Office 365 para o Microsoft 365 Business](migrate-to-microsoft-365-business.md).
-- [Receba uma avaliação gratuita](https://go.microsoft.com/fwlink/p/?linkid=2102309) do Microsoft 365 Business por um mês.
-- [Inscreva-se no Office 365 Business Premium](https://go.microsoft.com/fwlink/p/?LinkID=510935) se precisar de um plano com menos recursos. Descubra o que cada plano de negócios inclui em [products.office.com](https://go.microsoft.com/fwlink/?linkid=2109397).
-- [Inscreva-se para um plano](https://go.microsoft.com/fwlink/?linkid=2109398) de casa ou família, se você não está comprando para um negócio. 
+- [Atualize o seu plano office 365 para o Microsoft 365 Business](migrate-to-microsoft-365-business.md).
+- [Obtenha um teste gratuito](https://go.microsoft.com/fwlink/p/?linkid=2102309) do Microsoft 365 Business por um mês.
+- [Inscreva-se no Office 365 Business Premium](https://go.microsoft.com/fwlink/p/?LinkID=510935) se precisar de um plano com menos funcionalidades. Descubra o que cada plano de negócios inclui no [products.office.com.](https://go.microsoft.com/fwlink/?linkid=2109397)
+- [Inscreva-se num plano](https://go.microsoft.com/fwlink/?linkid=2109398) de casa ou família se não estiver a comprar para um negócio. 
 
-## <a name="sign-up-steps"></a>Inscreva-se em etapas
+## <a name="sign-up-steps"></a>Inscreva passos
 
-Assista a este vídeo para uma rápida visão geral do processo de inscrição.<br><br>
+Veja este vídeo para uma visão geral rápida do processo de inscrição.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3znhX] 
 
-Se você achou este vídeo útil, confira a série de [treinamento completo para pequenas empresas e as novas para a Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+Caso tenha considerado este vídeo útil, consulte a [série de formação completa para pequenas empresas e as novidades do Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
-Para se inscrever e comprar o Microsoft 365 para sua empresa, complete as seguintes etapas:
+Para se inscrever e comprar o Microsoft 365 para o seu negócio, complete os seguintes passos:
 
-1. No [Microsoft 365 para página de negócios,](https://go.microsoft.com/fwlink/?linkid=2109654)selecione **Ver planos & preços**. 
-2. Na próxima página, descubra o custo mensal e, em seguida, desça a página para saber mais sobre o que está incluído no Microsoft 365 Business. a Microsoft 365 Business, selecione **Comprar agora**.
-3. No Obrigado por escolher a página **de negócios do Microsoft 365,** insira suas informações para começar.
-4. Na **etapa 1,** digite um endereço de e-mail que você já usa. Este pode ser o seu endereço de e-mail de trabalho atual ou qualquer endereço que você deseja que a Microsoft use para se comunicar com você durante a configuração. É também o endereço onde enviaremos informações sobre sua conta e renovações. Em seguida, selecione, **configure a conta.**
-5. Na **etapa 2,** digite seu nome, número de telefone comercial, nome da empresa e localização. Seu País ou Região determina os serviços exatos que você recebe da Microsoft e não pode ser alterado depois de concluir essa etapa. Selecione **Seguinte**.
+1. Na [microsoft 365 para página de negócios,](https://go.microsoft.com/fwlink/?linkid=2109654)selecione **Ver planos & preços**. 
+2. Na página seguinte, descubra o custo mensal e, em seguida, percorra a página para saber mais sobre o que está incluído no Microsoft 365 Business. No Microsoft 365 Business, **selecione Comprar agora**.
+3. No Thank you por escolher a página **de Negócios do Microsoft 365,** insira as suas informações para começar.
+4. Na **etapa 1,** insira um endereço de e-mail que já utiliza. Este pode ser o seu endereço de e-mail de trabalho atual ou qualquer endereço que queira que a Microsoft utilize para comunicar consigo durante a configuração. É também o endereço onde lhe enviaremos informações sobre a sua conta e renovações. Em seguida, selecione, **Configurar a conta**.
+5. No **passo 2,** insira o seu nome, número de telefone de negócios, nome da empresa e localização. O seu País ou Região determina os serviços exatos que recebe da Microsoft, e não pode ser alterado depois de completar este passo. Selecione **Seguinte**.
     > [!NOTE]
-    > Nós mostramos o nome da sua empresa no centro de administração; é aqui que você gerencia usuários, licenças da Microsoft 365 e assim por diante. Também incluímos em qualquer site interno (SharePoint) URLs.
-6. No **passo 3**:
+    > Apresentamos o nome da sua empresa no centro de administração; é aqui que gere si 365 utilizadores, licenças e assim por diante. Também incluímos em quaisquer URLs de site internos (SharePoint).
+6. No **passo 3:**
 
-    1. Prove que você não é um robô! Selecione **qualquer texto me** ou me **chamar,** e digite um número onde podemos alcançá-lo. Selecione **enviar código** de verificação e você receberá um texto ou chamada imediatamente. Insira seu código e **selecione Verifique**.
-    2. Em seguida, decida se comprar um novo nome de domínio ou obter um temporário:
+    1. Prova que não és um robot! Selecione **envie-me um sms** ou **ligue-me**e introduza um número onde possamos contactá-lo. Selecione Enviar Código de **Verificação** e receberá imediatamente um texto ou chamada. Introduza o seu código e selecione **Verificar**.
+    2. Em seguida, decida se compra um novo nome de domínio ou obter um temporário:
 
-        - **Eu não tenho um nome de domínio** 
+        - **Não tenho um nome de domínio.** 
         
-            Se o seu endereço de e-mail não incluir o nome do seu negócio e se você não tiver um site que use seu nome comercial, você pode comprar facilmente um domínio agora. Selecione **Comprar um novo nome**de domínio e digite o nome do seu negócio. Por exemplo, se a sua empresa se chama *ContosoSkis,* tente entrar Contosokis.com, Contososkis.org ou Contososkis.biz. Em seguida, selecione **a disponibilidade de verificação** para ver se o domínio escolhido está disponível. Você pode tentar várias opções antes de tomar uma decisão. Se o seu nome de domínio estiver disponível, informaremos o custo e a faturar diretamente com seu novo plano. 
+            Se o seu endereço de e-mail não incluir o seu nome de negócio e se não tiver um web site que use o seu nome de negócio, pode facilmente comprar um domínio agora. Selecione **Comprar um novo nome**de domínio e insira o nome do seu negócio. Por exemplo, se a sua empresa se chama *ContosoSkis,* tente entrar Contosokis.com, Contososkis.org ou Contososkis.biz. Em seguida, selecione **Verificar a disponibilidade** para ver se o seu domínio escolhido está disponível. Pode tentar várias opções antes de tomar uma decisão. Se o seu nome de domínio estiver disponível, informá-lo-emos do custo e da conta diretamente com o seu novo plano. 
        
             > [!TIP]
-            > se você não tem certeza qual extensão de domínio escolher para seu novo domínio (por exemplo, .com ou .org), [consulte comprar um nome](https://go.microsoft.com/fwlink/?linkid=2109700) de domínio
+            > se não tiver a certeza de qual extensão de domínio escolher para o seu novo domínio (por exemplo, .com ou .org), consulte [Comprar um nome](https://go.microsoft.com/fwlink/?linkid=2109700) de domínio
         
-        - **Eu não tenho certeza, ou eu tenho um nome de domínio já** 
+        - **Não tenho a certeza, ou já tenho um nome de domínio.** 
         
-             Escolha **obter um domínio da Microsoft por enquanto.** Isso não custa nada, e mais tarde você pode obter um nome personalizado para o seu negócio, ou se conectar a um que você já possui. Vamos mostrar-lhe como.
+             Escolha **Obter um domínio microsoft por enquanto**. Isto não custa nada, e mais tarde pode obter um nome personalizado para o seu negócio, ou ligar-se a um que já possui. Vamos mostrar-lhe como.
 
-    3. Selecione **em seguida** para criar sua identificação do usuário e endereço de e-mail de negócios. Digite o nome (também chamado de pseudônimo) que você deseja usar. Por exemplo, Robert Young pode usar RobY ou RobYoung como um pseudônimo de trabalho. Adicione uma senha e selecione **inscreva-se.** Faça uma anota da sua senha. Enviaremos um e-mail para o endereço que você inseriu na etapa 1 para lembrá-lo de sua identificação do usuário.
-7. No **passo 4**: 
+    3. Selecione **Next** para criar o seu ID de utilizador e endereço de e-mail de negócios. Introduza o nome (também chamado de pseudónimo) que pretende utilizar. Por exemplo, Robert Young pode usar RobY ou RobYoung como pseudónimo de trabalho. Adicione uma palavra-passe e **selecione Iniciar sessão**. Tome nota da sua senha. Enviaremos um e-mail para o endereço que inseriu no passo 1 para lembrá-lo do seu ID do utilizador.
+7. No **passo 4:** 
 
-    1. Decida quantas pessoas em seu negócio precisam de uma licença Microsoft 365 ou deixe o **número de usuários** definido para 1 por enquanto e adicione mais pessoas mais tarde. 
-    2. Selecione faturamento mensal ou anual, verifique o custo total e selecione **Next**. 
-    3. Adicione os detalhes do seu cartão de crédito. Se o endereço da empresa não corresponder ao endereço do seu cartão de crédito, precisaremos do endereço da empresa também. O endereço da empresa determina quais impostos você paga e quais serviços estão disponíveis. Para mais informações sobre impostos, veja [que imposto eu vou ser cobrado?](https://go.microsoft.com/fwlink/?linkid=2109701). .
-    4. Selecione **a ordem de lugar.** Leva um curto período de tempo para a Microsoft terminar a criação de um novo plano.
+    1. Decida quantas pessoas no seu negócio precisam de uma licença Microsoft 365, ou deixe o **Número de utilizadores** definido para 1 por enquanto e adicione mais pessoas mais tarde. 
+    2. Selecione faturação mensal ou anual, verifique o custo total e selecione **Next**. 
+    3. Adicione os dados do seu cartão de crédito. Se o endereço da sua empresa não corresponder ao endereço do seu cartão de crédito, também precisaremos do seu endereço da empresa. O endereço da sua empresa determina quais os impostos que paga e quais os serviços disponíveis. Para mais informações sobre impostos, veja [que impostos serei cobrado?](https://go.microsoft.com/fwlink/?linkid=2109701)
+    4. Selecione **A ordem de lugar**. A Microsoft demora pouco tempo a terminar a criação de um novo plano.
 
 ## <a name="whats-next"></a>What's next?
 
-Selecione **A configuração** de ir para concluir outras etapas, como adicionar mais segurança para proteger seus negócios e baixar aplicativos do Office como Word e Excel.
+Selecione **Ir configurar** para completar outros passos, tais como adicionar mais segurança para proteger o seu negócio, e baixar aplicações do Office como Word e Excel.
 
-Para obter ajuda com a configuração, consulte [a configuração](set-up.md).
+Para obter ajuda com a configuração, consulte a [configuração.](set-up.md)
 
-## <a name="see-also"></a>See also
+## <a name="see-also"></a>Consulte também
 
-[Microsoft 365 Vídeos de treinamento de negócios](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Vídeos de formação do Microsoft 365 Business](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

@@ -1,5 +1,7 @@
 ---
 title: Estados do dispositivo
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -21,13 +23,13 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: c3ac23c5-d4b4-4b1b-b7ce-ea759521bf8c
-description: Saiba mais sobre os estados de dispositivos no Microsoft 365 Business.
-ms.openlocfilehash: b55e6a5d538ec28d195225e93797cea27afd2e8b
-ms.sourcegitcommit: 8193b7da5b1a415835d02ca96883c351df7326ed
+description: Conheça os estados do dispositivo no Microsoft 365 Business.
+ms.openlocfilehash: 02b4eebac62a48e3ddd53d362db2d60067ac05eb
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38320214"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593977"
 ---
 # <a name="device-states"></a>Estados do dispositivo
 
@@ -41,12 +43,12 @@ Os dispositivos na lista **Ações de dispositivos** (Página principal de admin
 |Extinção pendente  <br/> |O Microsoft 365 Business está a preparar-se para remover dados empresariais do dispositivo.  <br/> |
 |Extinção em curso  <br/> |O Microsoft 365 Business está a remover dados empresariais do dispositivo.  <br/> |
 |Falha na extinção  <br/> | A ação de remoção de dados empresariais falhou.  <br/> |
-|Aposentar-se cancelado  <br/> |A ação de aposentadoria foi cancelada.  <br/> |
+|Aposentadoria cancelada  <br/> |A ação de reforma foi cancelada.  <br/> |
 |Eliminação dos dados pendente  <br/> |A aguardar o início da reposição de fábrica.  <br/> |
 |Eliminação dos dados em curso  <br/> |A reposição de fábrica foi emitida.  <br/> |
-|Falha ao limpar  <br/> |Não poderia fazer reset fábrica.  <br/> |
+|Falha ao limpar  <br/> |Não podia fazer o reset da fábrica.  <br/> |
 |Limpeza cancelada  <br/> |A limpeza da fábrica foi cancelada.  <br/> |
-|Mau Estado de Funcionamento  <br/> |Uma ação está pendente (ou em andamento), mas o dispositivo não faz o check-in por mais de 30 dias.  <br/> |
+|Mau Estado de Funcionamento  <br/> |Está pendente uma ação (ou em curso), mas o dispositivo não faz o check-in há mais de 30 dias.  <br/> |
 |Eliminação pendente  <br/> |A ação de eliminação está pendente.  <br/> |
 |Detetado  <br/> |O Microsoft 365 Business detetou o dispositivo.  <br/> |
    

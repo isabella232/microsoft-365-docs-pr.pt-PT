@@ -1,5 +1,7 @@
 ---
 title: Remover dados da empresa de dispositivos
+f1.keywords:
+- NOCSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -19,13 +21,13 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 80bdae57-f8bc-4e40-a58c-956007117ecb
-description: 'Saiba como usar o Microsoft 365 Business para remover dados da empresa de dispositivos de usuário ou PCs do Windows. '
-ms.openlocfilehash: 59e94a08e149a5cb119aabbbe816ccd2f4a9f9fb
-ms.sourcegitcommit: 5d11f516e78ea4a74145e19ba2300f0792c8bac1
+description: 'Saiba como utilizar o Microsoft 365 Business para remover os dados da empresa de dispositivos de utilizador ou Computadores Windows. '
+ms.openlocfilehash: ff0ad9d7f22f9bb1b21ee15fe383c6994896a9a8
+ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38715238"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41593502"
 ---
 # <a name="remove-company-data-from-devices"></a>Remover dados da empresa de dispositivos
 
@@ -35,17 +37,17 @@ ms.locfileid: "38715238"
 
 Pode utilizar o Microsoft 365 Business para remover dados empresariais que os seus utilizadores têm nos respetivos [dispositivos](app-protection-settings-for-android-and-ios.md) ou [PCs com Windows](protection-settings-for-windows-10-devices.md) protegidos pelo Microsoft 365. **Se remover dados empresariais de um dispositivo, não poderá restaurá-los posteriormente**. 
   
-1. Vá para o centro <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>de administração em .
+1. Vá ao centro de <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>administração em .
     
-2. No nav esquerdo, escolha **dispositivos** \> **controla.**  
+2. No v nav esquerdo, escolha **Dispositivos** \> **Gerir**.  
   
-3. Na página **gerenciar,** escolha ou pesquise um usuário com os dados que deseja remover e escolha o nome. 
+3. Na página **'Gerir',** escolha ou procure um utilizador que queira remover e escolha o nome. 
     
-4. No próximo painel, selecione o dispositivo ou dispositivos da lista de **dispositivos.** No painel do dispositivo que abre, você pode optar por redefinir o dispositivo para as configurações da fábrica ou remover os dados da empresa, dependendo do tipo do dispositivo. 
+4. No painel seguinte, selecione o dispositivo ou dispositivos da lista **de Dispositivos.** No painel do dispositivo que abre, pode optar por redefinir o dispositivo para as definições de fábrica ou remover os dados da empresa, dependendo do tipo de dispositivo. 
     
-    ![No painel de dados da empresa remover, selecione o dispositivo a partir do qual você deseja remover os dados.](media/resetorremove.png)
+    ![No painel de dados da empresa de remoção, selecione o dispositivo a partir do qual pretende remover os dados.](media/resetorremove.png)
   
-5. No painel de confirmação, escolha **Confirmar** \> **Fechar**.
+5. No painel de confirmação, escolha **Confirmar** \> **Perto**.
     
 
 
