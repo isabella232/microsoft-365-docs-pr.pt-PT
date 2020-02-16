@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: Passos que atualizam o seu negócio do Office 365 Business Premium para o Microsoft 365 Business.
-ms.openlocfilehash: 0732f76e5bd8540e5954bd7ea7b88061326901b5
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: e17ac2658c7276ba4a77de371847343866815c42
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593685"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42065297"
 ---
 # <a name="upgrade-to-microsoft-365-business-from-office-365-business-premium"></a>Upgrade para Microsoft 365 Business a partir do Office 365 Business Premium
 
@@ -51,11 +51,11 @@ Compre as suas licenças seguindo estes passos no [novo centro de administraçã
 1. Assine no centro de <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>administração em .
 2. Vá ao painel de navegação e selecione **Produtos de Faturação** \> **& Serviços**. Encontre a subscrição do Office 365 e selecione-a para ver os detalhes. 
 
-    ![Uma imagem mostra como encontrar e selecionar a sua subscrição no centro de administração.](media/FindYourSubscription.png)
+    ![Uma imagem mostra como encontrar e selecionar a sua subscrição no centro de administração.](../media/FindYourSubscription.png)
 
 3. Na página seguinte, selecione **Upgrade**. 
 
-      ![Uma imagem mostra onde selecionar Upgrade no centro de administração.](media/SelectUpgrade.png)
+      ![Uma imagem mostra onde selecionar Upgrade no centro de administração.](../media/SelectUpgrade.png)
 
   > [!NOTE]
   > Se vir uma mensagem que diga que atualizar a **sua subscrição não é suportado com licenciamento baseado em grupo no Azure Ative Directory,** pode ignorá-lo com segurança a menos que tenha uma organização muito grande. As organizações que escolheram esta opção estarão cientes de que estão a usar o licenciamento baseado em grupo.

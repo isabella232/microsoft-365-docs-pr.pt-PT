@@ -24,12 +24,12 @@ search.appverid:
 - MET150
 ms.assetid: fae8819d-7235-495f-9f07-d016f545887f
 description: Saiba como validar as definições de proteção de aplicações microsoft 365 Business em dispositivos Windows 10.
-ms.openlocfilehash: e3cd0a1927e0b81c9a97d26196603086b9ea2293
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: 1762382aec00a80e006cf38b66c28d02c0c25989
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41594961"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42056697"
 ---
 # <a name="validate-device-protection-settings-on-windows-10-pcs"></a>Valide as definições de proteção do dispositivo em PCs do Windows 10
 
@@ -39,23 +39,23 @@ Depois de configurar as políticas dos [dispositivos,](protection-settings-for-w
   
 1. Vá às **opções** \> de \> **reinício** do \> **Windows** Update **e &amp; ** confirme que todas as definições estão acinzentadas. 
     
-    ![Todas as opções de Reinício estão cinzentas.](media/31308da9-18b0-47c5-bbf6-d5fa6747c376.png)
+    ![Todas as opções de Reinício estão cinzentas.](../media/31308da9-18b0-47c5-bbf6-d5fa6747c376.png)
   
 2. Vá a **Definições** \> **De &amp; segurança** \> As **opções avançadas** **do Windows Update** \> e confirme que todas as definições estão acinzentadas. 
     
-    ![As opções de atualizações do Windows Advanced estão todas cinzentas.](media/049cf281-d503-4be9-898b-c0a3286c7fc2.png)
+    ![As opções de atualizações do Windows Advanced estão todas cinzentas.](../media/049cf281-d503-4be9-898b-c0a3286c7fc2.png)
   
 3. Vá a **Definições** \> **De atualização &amp; ** De **atualização** \> \> As **opções** \> avançadas do Windows **Escolha como as atualizações são entregues**.
     
     Confirme que pode ver a mensagem (em vermelho) de que algumas configurações são ocultadas ou geridas pela sua organização, e todas as opções estão cinzentas.
     
-    ![Escolha como as atualizações são entregues a página indica que as definições são ocultadas ou geridas pela sua organização.](media/6b3e37c5-da41-4afd-9983-b4f406216b59.png)
+    ![Escolha como as atualizações são entregues a página indica que as definições são ocultadas ou geridas pela sua organização.](../media/6b3e37c5-da41-4afd-9983-b4f406216b59.png)
   
 4. Para abrir o Centro de Segurança do Windows Defender, vá a **Definições** \> **de segurança &amp; ** \> **O Windows Defender** \> clique em **definições de** \> ** &amp; proteção** ** &amp; ** \> contra vírus do Centro de Segurança do Windows Defender . 
     
 5. Verifique se todas as opções estão cinzentas. 
     
-    ![As definições de proteção contra vírus e ameaças estão acinzentadas.](media/9ca68d40-a5d9-49d7-92a4-c581688b5926.png)
+    ![As definições de proteção contra vírus e ameaças estão acinzentadas.](../media/9ca68d40-a5d9-49d7-92a4-c581688b5926.png)
   
 ## <a name="related-topics"></a>Tópicos Relacionados
 

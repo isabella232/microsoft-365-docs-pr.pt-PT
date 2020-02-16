@@ -22,16 +22,16 @@ search.appverid:
 - MET150
 ms.assetid: 80bdae57-f8bc-4e40-a58c-956007117ecb
 description: 'Saiba como utilizar o Microsoft 365 Business para remover os dados da empresa de dispositivos de utilizador ou Computadores Windows. '
-ms.openlocfilehash: ff0ad9d7f22f9bb1b21ee15fe383c6994896a9a8
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: 338ce030cb37a6cbd4a1f63c33dc6866bef93c24
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593502"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42064916"
 ---
 # <a name="remove-company-data-from-devices"></a>Remover dados da empresa de dispositivos
 
-[![Etiqueta que informa que o centro de administração está a mudar e que pode encontrar mais detalhes em aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
+[![Etiqueta que informa que o centro de administração está a mudar e que pode encontrar mais detalhes em aka.ms/aboutM365preview.](../media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
 ## <a name="remove-company-data"></a>Remover dados da empresa
 
@@ -45,7 +45,7 @@ Pode utilizar o Microsoft 365 Business para remover dados empresariais que os se
     
 4. No painel seguinte, selecione o dispositivo ou dispositivos da lista **de Dispositivos.** No painel do dispositivo que abre, pode optar por redefinir o dispositivo para as definições de fábrica ou remover os dados da empresa, dependendo do tipo de dispositivo. 
     
-    ![No painel de dados da empresa de remoção, selecione o dispositivo a partir do qual pretende remover os dados.](media/resetorremove.png)
+    ![No painel de dados da empresa de remoção, selecione o dispositivo a partir do qual pretende remover os dados.](../media/resetorremove.png)
   
 5. No painel de confirmação, escolha **Confirmar** \> **Perto**.
     

@@ -22,16 +22,16 @@ search.appverid:
 - MET150
 ms.assetid: c4db6caf-74df-4734-b1dd-53e371c7a3c3
 description: 'Saiba como utilizar o Microsoft 365 Business para redefinir os seus dispositivos Windows 10. '
-ms.openlocfilehash: b5039693640a17e531296d019117a9f40bf98a7f
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: 4350b208341a51447153b415d2cb225697a11e1b
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593482"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42064838"
 ---
 # <a name="reset-windows-10-devices-to-their-factory-settings"></a>Repor as definições de fábrica de dispositivos Windows 10
 
-[![Etiqueta que informa que o centro de administração está a mudar e que pode encontrar mais detalhes em aka.ms/aboutM365preview.](media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
+[![Etiqueta que informa que o centro de administração está a mudar e que pode encontrar mais detalhes em aka.ms/aboutM365preview.](../media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
 
 A reposição das definições de fábrica reverte um dispositivo para as definições originais que este tinha quando foi adquirido. Todas as aplicações e dados no dispositivo que foram instalados após a compra são removidos. Pode utilizar o Microsoft 365 Business para repor as definições de fábrica nos dispositivos Windows 10 geridos por si.
   

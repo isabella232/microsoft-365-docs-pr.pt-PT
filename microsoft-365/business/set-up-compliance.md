@@ -20,12 +20,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Configurar as funcionalidades de conformidade para evitar a perda de dados e os dados sensíveis à etiqueta.
-ms.openlocfilehash: 09619de03aafde37106fb3942890b457c488ad43
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: d569ff8d84faf82881035f0ed54e5d175605776f
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593411"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42064717"
 ---
 # <a name="set-up-compliance-features"></a>Configurar funcionalidades de conformidade
 
@@ -70,6 +70,6 @@ Para instalar manualmente o cliente AIP:
 1. Baixe **AzinfoProtection_UL.exe** do centro de [descarregamento](https://www.microsoft.com/download/details.aspx?id=53018)da Microsoft .
  
 2. Pode verificar se a instalação funcionou visualizando um documento Word e certificando-se de que a opção **Sensibilidade** está disponível no separador **Home.**
-<br/>![A questão da proteção cai num documento word.](media/word-sensitivity.png)
+<br/>![A questão da proteção cai num documento word.](../media/word-sensitivity.png)
 
 Para mais informações, consulte [Instalar o cliente.](https://docs.microsoft.com/azure/information-protection/infoprotect-tutorial-step3)
