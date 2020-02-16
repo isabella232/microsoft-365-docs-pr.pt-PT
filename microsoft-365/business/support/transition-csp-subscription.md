@@ -11,12 +11,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business, Microsoft 365, SMB, assinatura CSP de transição
 ms.date: 11/01/2017
-ms.openlocfilehash: 4aadfa24bec8728c7e011ac6da48a8e30516e145
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.openlocfilehash: 7d8e04a0136f86d3c4bb51208081fd1dcbecf59d
+ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41595051"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42057322"
 ---
 # <a name="transition-a-microsoft-365-business-csp-subscription"></a>Transição de uma subscrição de CSP empresarial da Microsoft 365
 
@@ -29,33 +29,33 @@ Se tiver uma subscrição cSP de Pré-visualização de Empresas Microsoft 365, 
 
     As subscrições da empresa serão listadas.
 
-    ![Assinaturas do cliente no Partner Center](images/pc_customer_subscriptions_1.png)
+    ![Assinaturas do cliente no Partner Center](../../media/pc_customer_subscriptions_1.png)
     
 3. Na página de **Subscrições** da empresa, selecione **Adicionar subscrição**.
 4. Na nova página de **subscrição,** selecione **Small business** e, em seguida, selecione **Microsoft 365 Business** da lista.
 5. Adicione o número de licenças e, em seguida, selecione **Seguinte: Reveja** para rever a subscrição e, em seguida, selecione **Enviar**.
 
-    ![Reveja a nova subscrição do Microsoft 365 Business](images/pc_customer_reviewnewsubscription.png)
+    ![Reveja a nova subscrição do Microsoft 365 Business](../../media/pc_customer_reviewnewsubscription.png)
 
     As **subscrições baseadas em Licença** mostrarão o Microsoft **365 Business Preview** e o Microsoft **365 Business**. Suspenderá a subscrição de Pré-visualização em seguida.
 
 6. Selecione **Microsoft 365 Business Preview**.
 7. Na página **de Pré-visualização do Microsoft 365,** selecione **Suspended** para suspender a subscrição de Pré-visualização.
 
-    ![Suspenda a subscrição de Pré-visualização de negócios da Microsoft 365](images/pc_customer_m365bpreview_suspend.png)
+    ![Suspenda a subscrição de Pré-visualização de negócios da Microsoft 365](../../media/pc_customer_m365bpreview_suspend.png)
 
 8. Selecione **Submeter** para confirmar.
 
     Na página **De Assinaturas,** confirme que o estado de **pré-visualização do Microsoft 365** mostra **suspenso**.
 
-    ![Confirme que o estado de subscrição de Pré-visualização está suspenso](images/pc_customer_m365bpreview_suspend_confirm.png)
+    ![Confirme que o estado de subscrição de Pré-visualização está suspenso](../../media/pc_customer_m365bpreview_suspend_confirm.png)
 
 9. Opcionalmente, também pode validar o contrato de licença. To do this, follow these steps:
     1. Selecione **Utilizadores e licenças** na página de **Subscrições** da empresa.
     2. Na página **Utilizadores e licenças,** selecione um utilizador.
     3. Na página do utilizador, consulte a secção **de licenças de Atribuição** e confirme que mostra o Microsoft **365 Business**.
 
-        ![Confirme que a licença de negócio si da Microsoft 365 é atribuída ao utilizador](images/pc_customer_userslicenses_m365b_validate.png)
+        ![Confirme que a licença de negócio si da Microsoft 365 é atribuída ao utilizador](../../media/pc_customer_userslicenses_m365b_validate.png)
 
 ## <a name="impact-to-customers-and-users-during-and-after-transition"></a>Impacto para clientes e utilizadores durante e após a transição
 
