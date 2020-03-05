@@ -30,11 +30,11 @@ search.appverid:
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Descubra os passos de configuração para o Microsoft 365 Business, incluindo a adição de um domínio e utilizadores, definindo políticas de segurança e muito mais.
 ms.openlocfilehash: 4535a32b579b91b6c2bb0e64ec95904be6c08fce
-ms.sourcegitcommit: d6c871bf3f94d9299d22695f5dbaf25dc1bd6ff9
+ms.sourcegitcommit: 6c8edbc54b193e964cf93aec48c51cb79231f1d9
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 03/05/2020
-ms.locfileid: "42417302"
+ms.locfileid: "42543945"
 ---
 # <a name="set-up-microsoft-365-business-in-the-setup-wizard"></a>Configurar o Microsoft 365 Business no assistente de configuração
 
