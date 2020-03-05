@@ -20,17 +20,18 @@ ms.custom:
 - Core_O365Admin_Migration
 - MSB365
 - OKR_SMB_M365
+- MARVEL_SEO_MAR
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Conheça os passos de configuração do Microsoft 365 Business, desde a subscrição, à adição de um domínio e utilizadores, à configuração de políticas de segurança, e muito mais.
-ms.openlocfilehash: 4c9c3ee4c45625cebe5d19eb03fcb6d90eb9243e
-ms.sourcegitcommit: ab916c216053999c9c4ef4838217e82cd861f23f
+ms.openlocfilehash: 75ef784a886de754e7550d9e86af1242209346dd
+ms.sourcegitcommit: d6c871bf3f94d9299d22695f5dbaf25dc1bd6ff9
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/04/2020
-ms.locfileid: "42415571"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42417232"
 ---
 # <a name="overview-of-setup"></a>Visão geral da configuração
 
