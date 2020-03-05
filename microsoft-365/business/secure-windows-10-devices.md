@@ -24,13 +24,13 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 21e5551f-fa35-4f13-9418-f80d668b6a2b
-description: 'Saiba mais sobre o padrão e outras definições para proteger os dispositivos do Windows 10. '
-ms.openlocfilehash: 9560bb4e299dba8f92d435a64670261b0e7e0290
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+description: Saiba configurar as definições da política de dispositivos predefinidos que qualquer dispositivo do Windows 10 receberá ao iniciar sessão no seu trabalho ou conta escolar.
+ms.openlocfilehash: fa780aa24dadab39b97dcbb298eee709f81ca42f
+ms.sourcegitcommit: ab916c216053999c9c4ef4838217e82cd861f23f
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593451"
+ms.lasthandoff: 03/04/2020
+ms.locfileid: "42415641"
 ---
 # <a name="secure-windows-10-devices"></a>Proteger dispositivos Windows 10
 
