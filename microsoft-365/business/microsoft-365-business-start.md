@@ -21,17 +21,18 @@ ms.custom:
 - OKR_SMB_M365
 - TRN_M365B
 - OKR_SMB_Videos
+- MARVEL_SEO_MAR
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
-description: Aprenda a configurar o Microsoft 365 Business.
-ms.openlocfilehash: 5491486c2bf8da1ee38fcd986d5ecd682d57c82e
-ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
+description: Saiba mais sobre o Microsoft 365 Business, como configurar e como preparar os dispositivos e Computadores dos seus utilizadores para garantir que estão protegidos pelo Microsoft 365 Business.
+ms.openlocfilehash: f6fd73762c0b57777c19d32886f758875e2e7e6a
+ms.sourcegitcommit: 41c0bc5cf50f4ca63b4286d1ea0f58ab82984b7a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42065623"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42547737"
 ---
 # <a name="get-started-with-microsoft-365-business"></a>Introdução ao Microsoft 365 Business
 
@@ -97,7 +98,7 @@ Se a sua organização utilizar o Diretório Ativo do Windows Server no local, p
 Se mantiver um Diretório Ativo local que contenha alguns recursos no local (como partilhas de ficheiros e impressoras), pode dar aos seus dispositivos ad-ad-join ing estão a aceder a esses recursos seguindo os passos aqui: [Aceder aos recursos no local a partir de um dispositivo azure ad-join no Microsoft 365 Business](access-resources.md). ****
   
   
-## <a name="contact-support"></a>Contacte o suporte
+## <a name="contact-support"></a>Contactar o suporte
 
  **Se precisar de contactar o suporte:**
   

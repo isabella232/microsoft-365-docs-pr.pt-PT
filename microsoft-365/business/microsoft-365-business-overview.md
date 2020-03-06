@@ -22,17 +22,18 @@ ms.custom:
 - OKR_SMB_M365
 - TRN_M365B
 - OKR_SMB_Videos
+- MARVEL_SEO_MAR
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
-description: Saiba mais sobre o Microsoft 365 Business.
-ms.openlocfilehash: bfda6801bee526084ad11ead819fcd04787d17ce
-ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
+description: Saiba mais sobre o Microsoft 365 Business, um serviço de subscrição que inclui o Office 365 mais proteção avançada para o seu negócio contra ameaças cibernéticas.
+ms.openlocfilehash: 508262daa9367ebd3b973a7a519fbb953d719fb1
+ms.sourcegitcommit: 41c0bc5cf50f4ca63b4286d1ea0f58ab82984b7a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42065663"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42547857"
 ---
 # <a name="overview-of-microsoft-365-business"></a>Visão geral do Microsoft 365 Business
 

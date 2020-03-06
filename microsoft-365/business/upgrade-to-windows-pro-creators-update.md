@@ -19,17 +19,18 @@ ms.custom:
 - OKR_SMB_M365
 - TRN_M365B
 - OKR_SMB_Videos
+- MARVEL_SEO_MAR
 search.appverid:
 - MET150
 - MOE150
 ms.assetid: ffc4d886-9e1d-453d-a0d0-2f62f18635e2
-description: 'Saiba como atualizar os dispositivos windows para o Windows 10 Pro. '
-ms.openlocfilehash: 60ffb507e2a572d0ca52d7adf2db70ea6cb446f2
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+description: Descubra várias formas de atualizar os seus dispositivos Windows para o Windows 10 Pro para usufruir de funcionalidades de segurança e rede de negócios mais avançadas.
+ms.openlocfilehash: 0668945d107be7abc0698035fa458e1c805c7201
+ms.sourcegitcommit: 41c0bc5cf50f4ca63b4286d1ea0f58ab82984b7a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41594194"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42547497"
 ---
 # <a name="upgrade-windows-devices-to-windows-10-pro"></a>Atualizar dispositivos Windows para Windows 10 Pro
 

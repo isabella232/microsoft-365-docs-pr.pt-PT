@@ -18,17 +18,18 @@ ms.custom:
 - MiniMaven
 - MSB365
 - OKR_SMB_M365
+- MARVEL_SEO_MAR
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 5abfef7b-5957-484a-b06b-a7c55e013e44
-description: Saiba como comprar o Microsoft 365 Business no Microsoft Partner Center.
-ms.openlocfilehash: ba6aa806e3e628e8c3478abb57c4529e4f5692bf
-ms.sourcegitcommit: 6c8edbc54b193e964cf93aec48c51cb79231f1d9
+description: Descubra as suas opções de compra do Microsoft 365 Business e instruções passo a passo para adquiri-lo no Microsoft Partner Center.
+ms.openlocfilehash: decfd3b99ebd0134715d721287057b7131a8f066
+ms.sourcegitcommit: 41c0bc5cf50f4ca63b4286d1ea0f58ab82984b7a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
 ms.lasthandoff: 03/05/2020
-ms.locfileid: "42543925"
+ms.locfileid: "42547817"
 ---
 # <a name="get-microsoft-365-business"></a>Obter o Microsoft 365 Empresas
 
