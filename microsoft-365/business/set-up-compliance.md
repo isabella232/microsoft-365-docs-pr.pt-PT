@@ -16,20 +16,21 @@ ms.custom:
 - MiniMaven
 - MSB365
 - OKR_SMB_M365
+- MARVEL_SEO_MAR
 search.appverid:
 - BCS160
 - MET150
-description: Configurar as funcionalidades de conformidade para evitar a perda de dados e os dados sensíveis à etiqueta.
-ms.openlocfilehash: d569ff8d84faf82881035f0ed54e5d175605776f
-ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
+description: Configurar funcionalidades de conformidade para evitar a perda de dados e ajudar a manter as informações sensíveis dos seus clientes e dos seus clientes seguras.
+ms.openlocfilehash: 4c8efc4ca96f2db7bc4d1592ad3fdc85dfb6b3b5
+ms.sourcegitcommit: 26e4d5091583765257b7533b5156daa373cd19fe
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42064717"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42550063"
 ---
 # <a name="set-up-compliance-features"></a>Configurar funcionalidades de conformidade
 
-O Seu Microsoft 365 Business vem com funcionalidades para proteger os seus dados e dispositivos e ajudá-lo a manter as informações sensíveis dos seus e dos seus clientes seguras.
+O Seu Microsoft 365 Business vem com funcionalidades para proteger os seus dados e dispositivos e ajudá-lo a manter as informações sensíveis dos seus clientes e dos seus clientes seguras.
 
 ## <a name="set-up-dlp-features"></a>Configurar as funcionalidades dLP
 

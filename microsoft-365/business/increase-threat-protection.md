@@ -16,16 +16,17 @@ ms.custom:
 - MiniMaven
 - MSB365
 - OKR_SMB_M365
+- MARVEL_SEO_MAR
 search.appverid:
 - BCS160
 - MET150
-description: Criar o Office 365 Advanced Threat Protection e salvaguardar dados sensíveis.
-ms.openlocfilehash: 191e1ad301e12ae45fe3a5d6d990d2357c5d0bab
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+description: Criar o Office 365 Advanced Threat Protection e salvaguardar dados sensíveis contra phishing, malware e outras ameaças.
+ms.openlocfilehash: 9d7bae60091c87fa0246a697f2a49e1cbc6e2f06
+ms.sourcegitcommit: 26e4d5091583765257b7533b5156daa373cd19fe
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593887"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42550363"
 ---
 # <a name="increase-threat-protection"></a>Aumentar a proteção contra ameaças
 

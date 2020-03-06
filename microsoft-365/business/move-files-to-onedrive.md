@@ -23,12 +23,12 @@ search.appverid:
 - MET150
 ms.assetid: eb8244aa-a302-481a-b2b5-d34e88b18ec7
 description: Saiba como pode mover os seus ficheiros de trabalho pessoais e ficheiros de empresa seletivas para o OneDrive for Business em apenas alguns passos fáceis.
-ms.openlocfilehash: 2f4e21096570e1b830a7a8ceee87d652abb9448f
-ms.sourcegitcommit: 41c0bc5cf50f4ca63b4286d1ea0f58ab82984b7a
+ms.openlocfilehash: 837ec8bb01ed78e7a13ee802afaf845c80544f5d
+ms.sourcegitcommit: 26e4d5091583765257b7533b5156daa373cd19fe
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42547757"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42550273"
 ---
 # <a name="move-files-to-onedrive-for-business"></a>Mover ficheiros para o OneDrive para Empresas
 
@@ -51,6 +51,6 @@ Se um utilizador utilizar um computador com muitos ficheiros pessoais, deverá m
     
 Também pode utilizar uma ferramenta de terceiros, como a ForensiT, para transferir o perfil do utilizador e ficheiros importantes. Também deve carregar os ficheiros resultantes para o OneDrive para Empresas.
   
-## <a name="see-also"></a>Consulte também
+## <a name="for-more-on-setting-up-and-using-microsoft-365-business"></a>Para mais informações sobre a configuração e utilização do Microsoft 365 Business
 
 [Vídeos de formação do Microsoft 365 Business](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)

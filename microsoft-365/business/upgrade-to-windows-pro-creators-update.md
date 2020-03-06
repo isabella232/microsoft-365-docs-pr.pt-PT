@@ -24,13 +24,13 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: ffc4d886-9e1d-453d-a0d0-2f62f18635e2
-description: Descubra várias formas de atualizar os seus dispositivos Windows para o Windows 10 Pro para usufruir de funcionalidades de segurança e rede de negócios mais avançadas.
-ms.openlocfilehash: 0668945d107be7abc0698035fa458e1c805c7201
-ms.sourcegitcommit: 41c0bc5cf50f4ca63b4286d1ea0f58ab82984b7a
+description: Descubra formas de atualizar os seus dispositivos Windows para o Windows 10 Pro para utilizar funcionalidades de segurança e rede de negócios mais avançadas.
+ms.openlocfilehash: 541169571fb9f58c7f75f610546ec250ffd40afb
+ms.sourcegitcommit: 26e4d5091583765257b7533b5156daa373cd19fe
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42547497"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42549943"
 ---
 # <a name="upgrade-windows-devices-to-windows-10-pro"></a>Atualizar dispositivos Windows para Windows 10 Pro
 
@@ -59,6 +59,6 @@ Consulte [a configuração de dispositivos Windows para os utilizadores do Micro
   
 Consulte a [Configuração de dispositivos móveis para os utilizadores do Microsoft 365 Business](set-up-mobile-devices.md) para completar a configuração de dispositivos Android e iOS. 
   
-## <a name="see-also"></a>Consulte também
+## <a name="for-more-on-setting-up-and-using-microsoft-365-business"></a>Para mais informações sobre a configuração e utilização do Microsoft 365 Business
 
 [Vídeos de formação do Microsoft 365 Business](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
