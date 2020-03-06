@@ -19,45 +19,46 @@ ms.custom:
 - OKR_SMB_M365
 - TRN_M365B
 - OKR_SMB_Videos
+- MARVEL_SEO_MAR
 search.appverid:
 - MET150
 - MOE150
 ms.assetid: ffc4d886-9e1d-453d-a0d0-2f62f18635e2
-description: 'Saiba como atualizar os dispositivos windows para o Windows 10 Pro. '
-ms.openlocfilehash: 60ffb507e2a572d0ca52d7adf2db70ea6cb446f2
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+description: Descubra várias formas de atualizar os seus dispositivos Windows para o Windows 10 Pro para usufruir de funcionalidades de segurança e rede de negócios mais avançadas.
+ms.openlocfilehash: 0668945d107be7abc0698035fa458e1c805c7201
+ms.sourcegitcommit: 41c0bc5cf50f4ca63b4286d1ea0f58ab82984b7a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41594194"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42547497"
 ---
-# <a name="upgrade-windows-devices-to-windows-10-pro"></a><span data-ttu-id="7053d-103">Atualizar dispositivos Windows para Windows 10 Pro</span><span class="sxs-lookup"><span data-stu-id="7053d-103">Upgrade Windows devices to Windows 10 Pro</span></span>
+# <a name="upgrade-windows-devices-to-windows-10-pro"></a><span data-ttu-id="b48d8-103">Atualizar dispositivos Windows para Windows 10 Pro</span><span class="sxs-lookup"><span data-stu-id="b48d8-103">Upgrade Windows devices to Windows 10 Pro</span></span>
 
-<span data-ttu-id="7053d-104">Veja um pequeno vídeo sobre a atualização dos dispositivos Windows para o Windows 10 Pro.</span><span class="sxs-lookup"><span data-stu-id="7053d-104">Watch a short video about upgrading Windows devices to Windows 10 Pro.</span></span><br><br>
+<span data-ttu-id="b48d8-104">Veja um pequeno vídeo sobre a atualização dos dispositivos Windows para o Windows 10 Pro.</span><span class="sxs-lookup"><span data-stu-id="b48d8-104">Watch a short video about upgrading Windows devices to Windows 10 Pro.</span></span><br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3t58j] 
 
-<span data-ttu-id="7053d-105">Caso tenha considerado este vídeo útil, consulte a [série de formação completa para pequenas empresas e as novidades do Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).</span><span class="sxs-lookup"><span data-stu-id="7053d-105">If you found this video helpful, check out the [complete training series for small businesses and those new to Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).</span></span>
+<span data-ttu-id="b48d8-105">Caso tenha considerado este vídeo útil, consulte a [série de formação completa para pequenas empresas e as novidades do Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).</span><span class="sxs-lookup"><span data-stu-id="b48d8-105">If you found this video helpful, check out the [complete training series for small businesses and those new to Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).</span></span>
 
-## <a name="upgrade-to-windows-10-pro"></a><span data-ttu-id="7053d-106">Upgrade para Windows 10 Pro</span><span class="sxs-lookup"><span data-stu-id="7053d-106">Upgrade to Windows 10 Pro</span></span>
+## <a name="upgrade-to-windows-10-pro"></a><span data-ttu-id="b48d8-106">Upgrade para Windows 10 Pro</span><span class="sxs-lookup"><span data-stu-id="b48d8-106">Upgrade to Windows 10 Pro</span></span>
   
-<span data-ttu-id="7053d-107">Para fazer o upgrade para o Windows 10 Pro, tem várias opções.</span><span class="sxs-lookup"><span data-stu-id="7053d-107">To upgrade to Windows 10 Pro, you have several options.</span></span> <span data-ttu-id="7053d-108">É possível:</span><span class="sxs-lookup"><span data-stu-id="7053d-108">You can:</span></span>
+<span data-ttu-id="b48d8-107">Para fazer o upgrade para o Windows 10 Pro, tem várias opções.</span><span class="sxs-lookup"><span data-stu-id="b48d8-107">To upgrade to Windows 10 Pro, you have several options.</span></span> <span data-ttu-id="b48d8-108">É possível:</span><span class="sxs-lookup"><span data-stu-id="b48d8-108">You can:</span></span>
     
-- <span data-ttu-id="7053d-109">Instale a atualização a partir do &ndash; [site de descarregamento](https://go.microsoft.com/fwlink/?LinkID=836951 ) de software da Microsoft Selecione esta opção se o dispositivo em que está sintetizado estiver no mesmo dispositivo que aquele que pretende atualizar.</span><span class="sxs-lookup"><span data-stu-id="7053d-109">Install the upgrade from the [Microsoft Software Download site](https://go.microsoft.com/fwlink/?LinkID=836951 ) &ndash; Select this option if the device that you're logged in is on the same device as the one you want to update.</span></span> 
+- <span data-ttu-id="b48d8-109">Instale a atualização a partir do &ndash; [site de descarregamento](https://go.microsoft.com/fwlink/?LinkID=836951 ) de software da Microsoft Selecione esta opção se o dispositivo em que está sintetizado estiver no mesmo dispositivo que aquele que pretende atualizar.</span><span class="sxs-lookup"><span data-stu-id="b48d8-109">Install the upgrade from the [Microsoft Software Download site](https://go.microsoft.com/fwlink/?LinkID=836951 ) &ndash; Select this option if the device that you're logged in is on the same device as the one you want to update.</span></span> 
 
-    - <span data-ttu-id="7053d-110">A partir do site de descarregamento de software, clique em **'Actualizar' agora** para iniciar a atualização do dispositivo para a Atualização de Criadores Pro do Windows 10.</span><span class="sxs-lookup"><span data-stu-id="7053d-110">From the software download site, click **Update now** to start upgrading the device to Windows 10 Pro Creators Update.</span></span> 
+    - <span data-ttu-id="b48d8-110">A partir do site de descarregamento de software, clique em **'Actualizar' agora** para iniciar a atualização do dispositivo para a Atualização de Criadores Pro do Windows 10.</span><span class="sxs-lookup"><span data-stu-id="b48d8-110">From the software download site, click **Update now** to start upgrading the device to Windows 10 Pro Creators Update.</span></span> 
     
-- <span data-ttu-id="7053d-111">Crie um meio de instalação utilizando a [ferramenta](https://go.microsoft.com/fwlink/?LinkID=836960) &ndash; de criação de mídia Selecione esta opção para criar um suporte de instalação de atualização de atualização do Windows 10 Pro Creators (pen drive USB ou ficheiro ISO) para instalar o Windows 10 num PC diferente daquele que está a utilizar.</span><span class="sxs-lookup"><span data-stu-id="7053d-111">Create an installation media using the [Media Creation Tool](https://go.microsoft.com/fwlink/?LinkID=836960) &ndash; Select this option to create a Windows 10 Pro Creators Update installation media (USB flash drive or ISO file) to install Windows 10 on a PC that's different from the one you're using.</span></span>
+- <span data-ttu-id="b48d8-111">Crie um meio de instalação utilizando a [ferramenta](https://go.microsoft.com/fwlink/?LinkID=836960) &ndash; de criação de mídia Selecione esta opção para criar um suporte de instalação de atualização de atualização do Windows 10 Pro Creators (pen drive USB ou ficheiro ISO) para instalar o Windows 10 num PC diferente daquele que está a utilizar.</span><span class="sxs-lookup"><span data-stu-id="b48d8-111">Create an installation media using the [Media Creation Tool](https://go.microsoft.com/fwlink/?LinkID=836960) &ndash; Select this option to create a Windows 10 Pro Creators Update installation media (USB flash drive or ISO file) to install Windows 10 on a PC that's different from the one you're using.</span></span>
 
-    - <span data-ttu-id="7053d-112">Leia as instruções sobre como utilizar a ferramenta e crie os meios de instalação.</span><span class="sxs-lookup"><span data-stu-id="7053d-112">Read the instructions on how to use the tool and create your installation media.</span></span> 
+    - <span data-ttu-id="b48d8-112">Leia as instruções sobre como utilizar a ferramenta e crie os meios de instalação.</span><span class="sxs-lookup"><span data-stu-id="b48d8-112">Read the instructions on how to use the tool and create your installation media.</span></span> 
 
 > [!NOTE]
-> <span data-ttu-id="7053d-113">Se tiver dispositivos Windows a executar o Windows 7 Pro, Windows 8 Pro ou Windows 8.1 Pro, a subscrição do Microsoft 365 Business dá-lhe direito a uma atualização do Windows Pro 10.</span><span class="sxs-lookup"><span data-stu-id="7053d-113">If you have Windows devices running Windows 7 Pro, Windows 8 Pro, or Windows 8.1 Pro, your Microsoft 365 Business subscription entitles you to a Windows Pro 10 upgrade.</span></span>
+> <span data-ttu-id="b48d8-113">Se tiver dispositivos Windows a executar o Windows 7 Pro, Windows 8 Pro ou Windows 8.1 Pro, a subscrição do Microsoft 365 Business dá-lhe direito a uma atualização do Windows Pro 10.</span><span class="sxs-lookup"><span data-stu-id="b48d8-113">If you have Windows devices running Windows 7 Pro, Windows 8 Pro, or Windows 8.1 Pro, your Microsoft 365 Business subscription entitles you to a Windows Pro 10 upgrade.</span></span>
     
-<span data-ttu-id="7053d-114">Consulte [a configuração de dispositivos Windows para os utilizadores do Microsoft 365 Business](set-up-windows-devices.md) para completar a configuração dos dispositivos Windows 10.</span><span class="sxs-lookup"><span data-stu-id="7053d-114">See [Set up Windows devices for Microsoft 365 Business users](set-up-windows-devices.md) to complete setting up Windows 10 devices.</span></span> 
+<span data-ttu-id="b48d8-114">Consulte [a configuração de dispositivos Windows para os utilizadores do Microsoft 365 Business](set-up-windows-devices.md) para completar a configuração dos dispositivos Windows 10.</span><span class="sxs-lookup"><span data-stu-id="b48d8-114">See [Set up Windows devices for Microsoft 365 Business users](set-up-windows-devices.md) to complete setting up Windows 10 devices.</span></span> 
   
-<span data-ttu-id="7053d-115">Consulte a [Configuração de dispositivos móveis para os utilizadores do Microsoft 365 Business](set-up-mobile-devices.md) para completar a configuração de dispositivos Android e iOS.</span><span class="sxs-lookup"><span data-stu-id="7053d-115">See [Set up mobile devices for Microsoft 365 Business users](set-up-mobile-devices.md) to complete setting up Android and iOS devices.</span></span> 
+<span data-ttu-id="b48d8-115">Consulte a [Configuração de dispositivos móveis para os utilizadores do Microsoft 365 Business](set-up-mobile-devices.md) para completar a configuração de dispositivos Android e iOS.</span><span class="sxs-lookup"><span data-stu-id="b48d8-115">See [Set up mobile devices for Microsoft 365 Business users](set-up-mobile-devices.md) to complete setting up Android and iOS devices.</span></span> 
   
-## <a name="see-also"></a><span data-ttu-id="7053d-116">Consulte também</span><span class="sxs-lookup"><span data-stu-id="7053d-116">See also</span></span>
+## <a name="see-also"></a><span data-ttu-id="b48d8-116">Consulte também</span><span class="sxs-lookup"><span data-stu-id="b48d8-116">See also</span></span>
 
-[<span data-ttu-id="7053d-117">Vídeos de formação do Microsoft 365 Business</span><span class="sxs-lookup"><span data-stu-id="7053d-117">Microsoft 365 Business training videos</span></span>](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[<span data-ttu-id="b48d8-117">Vídeos de formação do Microsoft 365 Business</span><span class="sxs-lookup"><span data-stu-id="b48d8-117">Microsoft 365 Business training videos</span></span>](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
