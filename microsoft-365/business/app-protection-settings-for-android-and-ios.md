@@ -24,12 +24,12 @@ search.appverid:
 - MET150
 ms.assetid: 6f2b80b4-81c3-4714-a7bc-ae69313e8a33
 description: Saiba como criar, editar ou eliminar uma política de gestão de aplicações e proteja ficheiros de trabalho em dispositivos Android ou iOS.
-ms.openlocfilehash: f4366230805c50fe82183431e3bd2bdfa9fddd68
-ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
+ms.openlocfilehash: 0adb103ac3bef72e340c1f5daf54a6b8a184d85c
+ms.sourcegitcommit: fce0d5cad32ea60a08ff001b228223284710e2ed
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42068659"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "42894286"
 ---
 # <a name="set-app-protection-settings-for-android-or-ios-devices"></a>Configurar as definições de proteção de aplicações para dispositivos Android ou iOS
 
@@ -39,7 +39,7 @@ ms.locfileid: "42068659"
 
 1. Vá ao centro de <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>administração em . 
     
-2. Na navegação à esquerda, escolha Políticas de **Dispositivos** \> **** \> **Adicionar**.
+2. Na navegação à esquerda, escolha Políticas de **Dispositivos** \> **Policies** \> **Adicionar**.
   
 3. No painel **Adicionar política**, introduza um nome exclusivo para esta política. 
     
@@ -99,4 +99,4 @@ As seguintes definições estão disponíveis para gerir como os utilizadores ac
 |Repor o PIN quando o início de sessão falha este número de vezes  <br/> |Para impedir um utilizador não autorizado de adivinhar um PIN aleatoriamente, o PIN será reposto após o número de tentativas incorretas que especificar.  <br/> |
 |Exigir que o utilizador inicie a sessão novamente após as aplicações do Office estarem inativas durante  <br/> |Esta definição determina quanto tempo um utilizador pode ficar inativo antes de ser solicitado a iniciar sessão novamente.  <br/> |
 |Negar o acesso a ficheiros de trabalho em dispositivos desbloqueados por jailbreak ou rooting  <br/> |Alguns utilizadores podem ter um dispositivo desbloqueado através de jailbreak ou rooting. Isto significa que o utilizador pode modificar o sistema operativo, o que pode tornar o dispositivo mais suscetível a software maligno. Estes dispositivos são bloqueados quando esta definição se encontra **Ativada**.  <br/> |
-|Permitir que os utilizadores copiem conteúdos das aplicações do Office para aplicações pessoais  <br/> |Permitimos isso por padrão, mas se a definição estiver **on,** o utilizador pode copiar informações num ficheiro de trabalho para um ficheiro pessoal. Se a definição estiver **desligada,** o utilizador não poderá copiar informações de uma conta de trabalho para uma aplicação pessoal ou conta pessoal.  <br/> |
+|Não permita que os utilizadores copiem conteúdo de aplicações do Office em aplicações pessoais  <br/> |Permitimos isso por padrão, mas se a definição estiver **on,** o utilizador pode copiar informações num ficheiro de trabalho para um ficheiro pessoal. Se a definição estiver **desligada,** o utilizador não poderá copiar informações de uma conta de trabalho para uma aplicação pessoal ou conta pessoal.  <br/> |
