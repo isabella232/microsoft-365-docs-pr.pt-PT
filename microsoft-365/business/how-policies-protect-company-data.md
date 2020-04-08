@@ -27,10 +27,10 @@ search.appverid:
 ms.assetid: 665485be-2389-4f1d-9ef8-dbef19c6acdf
 description: Para proteger os dados da empresa sobre os dispositivos pessoais dos utilizadores, utilize políticas que visem dispositivos específicos e grupos de segurança.
 ms.openlocfilehash: c33d228fef5e138f94810faf1174ea3243277f4d
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+ms.sourcegitcommit: 053d42480d8aa3792ecb0027ddd53d383a029474
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/29/2020
+ms.lasthandoff: 04/07/2020
 ms.locfileid: "41593907"
 ---
 # <a name="how-policies-in-microsoft-365-business-protect-company-data"></a>Como as políticas no Microsoft 365 Business protegem os dados da empresa
