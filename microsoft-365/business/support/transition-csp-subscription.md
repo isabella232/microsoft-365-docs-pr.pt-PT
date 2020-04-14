@@ -1,5 +1,5 @@
 ---
-title: Transição de uma subscrição de CSP empresarial da Microsoft 365 
+title: Transição de uma subscrição de CSP empresarial da Microsoft 365
 description: Descubra como pode transitar uma subscrição de CSP empresarial Microsoft 365 da pré-visualização para a disponibilidade geral (GA).
 author: jasongroce
 f1.keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business, Microsoft 365, SMB, assinatura CSP de transição
 ms.date: 11/01/2017
-ms.openlocfilehash: 77b7b474a5ad17db58e283ea61b074c959905d1b
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+ms.openlocfilehash: 0a30d80ad5217868fec81866ab1dc41013917e99
+ms.sourcegitcommit: dbbdeca5a6cd048e1bde9e820a8b8a0d6022c7a2
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42560786"
+ms.lasthandoff: 04/14/2020
+ms.locfileid: "43504113"
 ---
 # <a name="transition-a-microsoft-365-business-csp-subscription"></a>Transição de uma subscrição de CSP empresarial da Microsoft 365
 
