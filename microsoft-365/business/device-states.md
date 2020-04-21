@@ -24,13 +24,13 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: c3ac23c5-d4b4-4b1b-b7ce-ea759521bf8c
-description: Conheça os vários estados do dispositivo na lista de ações do Dispositivo em casa da Admin no Microsoft 365 Business.
-ms.openlocfilehash: bed1610814ca0d60adb4b4b3d0018e3e7e6d763f
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+description: Conheça os vários estados do dispositivo na lista de ações do Dispositivo em casa da Admin na Microsoft 365 para negócios.
+ms.openlocfilehash: 1a66e76dd3a74428923292427b01551db2449e48
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42560826"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43627252"
 ---
 # <a name="device-states"></a>Estados do dispositivo
 
@@ -40,9 +40,9 @@ Os dispositivos na lista **Ações de dispositivos** (Página principal de admin
   
 |**Estado**|**Descrição**|
 |:-----|:-----|
-|Gerido pelo Intune  <br/> |Gerido pelo Microsoft 365 Business.  <br/> |
-|Extinção pendente  <br/> |O Microsoft 365 Business está a preparar-se para remover dados empresariais do dispositivo.  <br/> |
-|Extinção em curso  <br/> |O Microsoft 365 Business está a remover dados empresariais do dispositivo.  <br/> |
+|Gerido pelo Intune  <br/> |Gerido pelo Microsoft 365 Business Premium.  <br/> |
+|Extinção pendente  <br/> |O Microsoft 365 Business Premium está a preparar-se para remover os dados da empresa do dispositivo.  <br/> |
+|Extinção em curso  <br/> |O Microsoft 365 Business Premium está neste momento a remover os dados da empresa do dispositivo.  <br/> |
 |Falha na extinção  <br/> | A ação de remoção de dados empresariais falhou.  <br/> |
 |Aposentadoria cancelada  <br/> |A ação de reforma foi cancelada.  <br/> |
 |Eliminação dos dados pendente  <br/> |A aguardar o início da reposição de fábrica.  <br/> |
@@ -51,5 +51,5 @@ Os dispositivos na lista **Ações de dispositivos** (Página principal de admin
 |Limpeza cancelada  <br/> |A limpeza da fábrica foi cancelada.  <br/> |
 |Mau Estado de Funcionamento  <br/> |Está pendente uma ação (ou em curso), mas o dispositivo não faz o check-in há mais de 30 dias.  <br/> |
 |Eliminação pendente  <br/> |A ação de eliminação está pendente.  <br/> |
-|Detetado  <br/> |O Microsoft 365 Business detetou o dispositivo.  <br/> |
+|Detetado  <br/> |O Microsoft 365 Business Premium detetou o dispositivo.  <br/> |
    

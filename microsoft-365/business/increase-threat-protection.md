@@ -1,5 +1,5 @@
 ---
-title: Aumentar a proteção contra ameaças para o Microsoft 365 Business
+title: Aumentar a proteção contra ameaças para a Microsoft 365 para negócios
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -21,18 +21,18 @@ search.appverid:
 - BCS160
 - MET150
 description: Criar o Office 365 Advanced Threat Protection e salvaguardar dados sensíveis contra phishing, malware e outras ameaças.
-ms.openlocfilehash: 17425de3f6e0022945899a559cf88575b6315a56
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+ms.openlocfilehash: 2dd75b20bf203b9b8f0cdefb2459c45d1d0ccec1
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42561616"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43627132"
 ---
 # <a name="increase-threat-protection"></a>Aumentar a proteção contra ameaças
 
 Este artigo ajuda-o a aumentar a proteção na sua subscrição Microsoft 365 para proteger contra phishing, malware e outras ameaças. Estas recomendações são adequadas para organizações com uma necessidade acrescida de segurança, como escritórios de advocacia e clínicas de saúde.
 
-Antes de começar, verifique o seu Office 365 Secure Score. O Office 365 Secure Score analisa a segurança da sua organização office 365 com base nas suas atividades regulares e configurações de segurança, e atribui uma pontuação. Comece por tomar nota da sua pontuação atual. Para aumentar a sua pontuação, complete as ações recomendadas neste artigo. O objetivo não é alcançar a pontuação máxima, mas estar atento a oportunidades para proteger o seu ambiente que não afetam negativamente a produtividade dos seus utilizadores. 
+Antes de começar, verifique o seu Office 365 Secure Score. O Office 365 Secure Score analisa a segurança da sua organização com base nas suas atividades regulares e configurações de segurança e atribui uma pontuação. Comece por tomar nota da sua pontuação atual. Para aumentar a sua pontuação, complete as ações recomendadas neste artigo. O objetivo não é alcançar a pontuação máxima, mas estar atento a oportunidades para proteger o seu ambiente que não afetam negativamente a produtividade dos seus utilizadores. 
 
 Para mais informações, consulte [o Microsoft Secure Score](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score).
 
@@ -42,7 +42,7 @@ O ambiente do Office 365 ou Microsoft 365 inclui proteção contra malware. Pode
   
 1. Vá [https://protection.office.com](https://protection.office.com) e assine com as credenciais da sua conta administrativa. 
     
-2. No Office 365 &amp; Security Compliance Center, no painel de navegação à esquerda, sob gestão de **ameaças,** escolha **Política** \> **Anti-Malware**.
+2. No Centro &amp; de Conformidade de Segurança, no painel de navegação à esquerda, sob **gestão**de ameaças, escolha **Política** \> **Anti-Malware**.
     
 3. Clique duas vezes na política de predefinição para editar esta política em toda a empresa.
     
@@ -130,7 +130,7 @@ Para criar uma política anti-phishing ATP, assista a este pequeno vídeo de [tr
   
 1. Aceda a [https://protection.office.com](https://protection.office.com). 
     
-2. No Office 365 &amp; Security Compliance Center, no painel de navegação à esquerda, sob **gestão de ameaças,** escolha **Política**.
+2. No Centro &amp; de Conformidade de Segurança, no painel de navegação à esquerda, sob **gestão de ameaças,** escolha **Política**.
     
 3. Na página **Política,** escolha **anti-phishing ATP.**
     
@@ -160,7 +160,7 @@ Para criar uma política de ligação segura ATP, ou assista [a este pequeno ví
   
 1. Vá [https://protection.office.com](https://protection.office.com)para e inscreva-se na sua conta de administração. 
     
-2. No Office 365 &amp; Security Compliance Center, no painel de navegação à esquerda, sob **gestão de ameaças,** escolha **Política**.
+2. No Centro &amp; de Conformidade de Segurança, no painel de navegação à esquerda, sob **gestão de ameaças,** escolha **Política**.
     
 3. Na página Política, escolha **anexos seguros ATP**.
     
@@ -183,8 +183,6 @@ Para criar uma política de ligação segura ATP, ou assista [a este pequeno ví
    
 Para mais informações, consulte a configuração das [políticas anti-phishing ATP 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-anti-phishing-policies)
   
-
-
 ## <a name="protect-against-phishing-attacks-with-atp-safe-links"></a>Proteja contra ataques de phishing com ligações seguras ATP
 
 Por vezes, os hackers escondem sites maliciosos em links em e-mails ou outros ficheiros. O Office 365 ATP Safe Links (ATP Safe Links), parte do Office 365 Advanced Threat Protection, pode ajudar a proteger a sua organização, fornecendo verificação de tempo de clique de endereços web (URLs) em mensagens de correio eletrónico e documentos do Office. A proteção é definida através das políticas ATP Safe Links.
@@ -199,7 +197,7 @@ Para configurar atp safe links, assista a este pequeno vídeo de [treino,](https
   
 1. Vá [https://protection.office.com](https://protection.office.com)para e inscreva-se na sua conta de administração. 
     
-2. No Office 365 &amp; Security Compliance Center, no painel de navegação à esquerda, sob **gestão de ameaças,** escolha **Política**.
+2. No Centro &amp; de Conformidade de Segurança, no painel de navegação à esquerda, sob **gestão de ameaças,** escolha **Política**.
     
 3. Na página Política, escolha **LINKS Seguros ATP**.
     
@@ -207,7 +205,7 @@ Para modificar a política de incumprimento:
   
 1. Na página de links Safe, ao abrigo de **Políticas aplicáveis a toda a organização,** selecione a política **Padrão.** 
     
-2. Em **Definições aplicáveis a conteúdos exceto e-mail**, selecione **Office 365 ProPlus, Office for iOS e Android**.
+2. Em **Definições aplicáveis a conteúdos exceto e-mail**, selecione **Aplicações Microsoft 365 para empresa, Office for iOS e Android**.
     
 3. Selecione **Guardar**. 
     

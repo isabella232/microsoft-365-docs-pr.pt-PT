@@ -24,13 +24,13 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 0f7b1d7c-4086-4331-8534-45d7886f9f34
-description: Saiba como carregar dispositivos usando o AutoPilot no Microsoft 365 Business. Pode atribuir um perfil a um dispositivo ou a um grupo de dispositivos.
-ms.openlocfilehash: 640e4af7cccde83c87d90a875c1d44dead7255ca
-ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
+description: Saiba como carregar dispositivos usando o AutoPilot no Microsoft 365 Business Premium. Pode atribuir um perfil a um dispositivo ou a um grupo de dispositivos.
+ms.openlocfilehash: f2a7f801ae471352595a36b355a874b2de653326
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42065994"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43627400"
 ---
 # <a name="create-and-edit-autopilot-devices"></a>Criar e editar dispositivos AutoPilot
 
@@ -44,7 +44,7 @@ Os dispositivos devem satisfazer estes requisitos:
     
 - Novos dispositivos que não passaram pela experiência do Windows fora da caixa
 
-1. No centro de Administração de Negócios Microsoft 365, escolha **Dispositivos** \> **AutoPilot**.
+1. No centro de administração da Microsoft 365, escolha **Dispositivos** \> **AutoPilot**.
   
 2. Na página **AutoPilot,** escolha o \> separador **Dispositivos** **Adicionar dispositivos**.
     

@@ -20,16 +20,16 @@ search.appverid:
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: Saiba como aceder a recursos no local, como linha de aplicações de negócios, partilhas de ficheiros e impressoras de um dispositivo Azure Ative Directory que se juntou ao Windows 10.
-ms.openlocfilehash: 653b53d29e84bbdc91273cb78b9b8407c0f6a209
-ms.sourcegitcommit: 053d42480d8aa3792ecb0027ddd53d383a029474
+ms.openlocfilehash: c1e04e5ca0d36c32a55a9819140356db5093e3a1
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "41593239"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43627460"
 ---
-# <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business"></a>Acesso aos recursos no local a partir de um dispositivo azure ad-join no Microsoft 365 Business
+# <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business-premium"></a>Acesso aos recursos no local a partir de um dispositivo azure ad-join no Microsoft 365 Business Premium
 
-Qualquer dispositivo Windows 10 que seja o Azure Ative Directory aderiu tem acesso a todos os recursos baseados na nuvem, como as suas aplicações office 365, e pode ser protegido pelo Microsoft 365 Business. Também pode permitir o acesso a recursos no local, como aplicações de linha de negócios (LOB), partilhas de ficheiros e impressoras. Para permitir o acesso, utilize o [Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect) para sincronizar o seu Diretório Ativo no local com o Diretório Ativo Azure. 
+Qualquer dispositivo Windows 10 que seja o Azure Ative Directory junto tem acesso a todos os recursos baseados na nuvem, como as suas aplicações Microsoft 365, e pode ser protegido pelo Microsoft 365 Business Premium. Também pode permitir o acesso a recursos no local, como aplicações de linha de negócios (LOB), partilhas de ficheiros e impressoras. Para permitir o acesso, utilize o [Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect) para sincronizar o seu Diretório Ativo no local com o Diretório Ativo Azure. 
 
 Para saber mais, consulte Introdução à gestão de [dispositivos no Diretório Ativo Azure.](https://docs.microsoft.com/azure/active-directory/device-management-introduction)
 Os passos também são resumidos nas seguintes secções.
@@ -43,9 +43,9 @@ Complete os seguintes passos para permitir que o Azure AD da sua organização t
   
 1. Para sincronizar os seus utilizadores, grupos e contactos do Diretório Ativo local para o Diretório Ativo Azure, execute o assistente de sincronização do Diretório e o Azure AD Connect, conforme descrito na sincronização do diretório para o [Office 365](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846).
     
-2. Depois de concluída a sincronização do diretório, certifique-se de que os dispositivos Windows 10 da sua organização são Azure AD. Este passo é feito individualmente em cada dispositivo do Windows 10. Consulte a [configuração de dispositivos Windows para utilizadores do Microsoft 365 Business](set-up-windows-devices.md) para obter mais detalhes. 
+2. Depois de concluída a sincronização do diretório, certifique-se de que os dispositivos Windows 10 da sua organização são Azure AD. Este passo é feito individualmente em cada dispositivo do Windows 10. Consulte a [configuração de dispositivos Windows para utilizadores do Microsoft 365 Business Premium](set-up-windows-devices.md) para obter mais detalhes. 
     
-3. Uma vez que os dispositivos Do Windows 10 são AD Azure, cada utilizador deve reiniciar os seus dispositivos e iniciar sessão com as suas credenciais De Negócios Microsoft 365. Todos os dispositivos têm agora acesso aos recursos no local também.
+3. Uma vez que os dispositivos Do Windows 10 são AD Azure, cada utilizador deve reiniciar os seus dispositivos e iniciar sessão com as suas credenciais Microsoft 365 Business Premium. Todos os dispositivos têm agora acesso aos recursos no local também.
     
 Não são necessárias medidas adicionais para ter acesso aos recursos no local para dispositivos ligados à AD Azure. Esta funcionalidade está incorporada no Windows 10. 
 

@@ -1,5 +1,5 @@
 ---
-title: Como as políticas no Microsoft 365 Business protegem os dados da empresa
+title: Como as políticas na Microsoft 365 para proteger os dados da empresa
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -26,14 +26,14 @@ search.appverid:
 - MOE150
 ms.assetid: 665485be-2389-4f1d-9ef8-dbef19c6acdf
 description: Para proteger os dados da empresa sobre os dispositivos pessoais dos utilizadores, utilize políticas que visem dispositivos específicos e grupos de segurança.
-ms.openlocfilehash: c33d228fef5e138f94810faf1174ea3243277f4d
-ms.sourcegitcommit: 053d42480d8aa3792ecb0027ddd53d383a029474
+ms.openlocfilehash: aa7447ae4547ba3180d5d5ebbe18e2840947a1d5
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "41593907"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43627152"
 ---
-# <a name="how-policies-in-microsoft-365-business-protect-company-data"></a>Como as políticas no Microsoft 365 Business protegem os dados da empresa
+# <a name="how-policies-in-microsoft-365-for-business-protect-company-data"></a>Como as políticas na Microsoft 365 para proteger os dados da empresa
 
 As políticas que criar são específicas para o tipo de dispositivo em causa e podem ser aplicadas a grupos de utilizadores específicos. Isto significa que pode criar uma política aplicável aos seus executivos e outra aplicável às restantes pessoas da organização.
   
