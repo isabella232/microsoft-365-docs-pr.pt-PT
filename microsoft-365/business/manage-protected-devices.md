@@ -1,5 +1,5 @@
 ---
-title: Gerir dispositivos protegidos com o Microsoft 365 Business
+title: Gerir dispositivos protegidos com a Microsoft 365 para negócios
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -27,21 +27,21 @@ search.appverid:
 - MOE150
 ms.assetid: 018a2a96-3811-4b5d-b751-3b6330b34256
 description: Aprenda a remover os dados da empresa de dispositivos geridos através de políticas de proteção, bem como redefinir os dispositivos Do Windows 10 para as suas definições de fábrica.
-ms.openlocfilehash: 97c9751d020d7f2aecb1e64718721c1ca25189e1
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+ms.openlocfilehash: 180887dca3226512ab558e98d2b5a78da3521e53
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42561526"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43634294"
 ---
-# <a name="manage-protected-devices-with-microsoft-365-business"></a><span data-ttu-id="9d2af-103">Gerir dispositivos protegidos com o Microsoft 365 Business</span><span class="sxs-lookup"><span data-stu-id="9d2af-103">Manage protected devices with Microsoft 365 Business</span></span>
+# <a name="manage-protected-devices-with-microsoft-365-for-business"></a><span data-ttu-id="fa665-103">Gerir dispositivos protegidos com a Microsoft 365 para negócios</span><span class="sxs-lookup"><span data-stu-id="fa665-103">Manage protected devices with Microsoft 365 for business</span></span>
 
-<span data-ttu-id="9d2af-104">Depois de um utilizador ligar o seu dispositivo à sua organização, inserindo-se com a sua conta de trabalho no dispositivo ou nas aplicações do Office no dispositivo, pode proteger o dispositivo com as políticas que configura.</span><span class="sxs-lookup"><span data-stu-id="9d2af-104">After a user connects their device to your organization by signing in with their work account to the device or to Office apps on the device, you can protect the device with the policies you set up.</span></span> <span data-ttu-id="9d2af-105">Os dispositivos conectados estão listados na página **dispositivos.**</span><span class="sxs-lookup"><span data-stu-id="9d2af-105">Connected devices are listed on the **Devices** page.</span></span> <span data-ttu-id="9d2af-106">Se um dispositivo for perdido ou roubado, pode geri-lo nesta página para remover os dados da empresa.</span><span class="sxs-lookup"><span data-stu-id="9d2af-106">If a device is lost or stolen, you can manage it from this page to remove any company data.</span></span> <span data-ttu-id="9d2af-107">Também pode repor as definições de fábrica de dispositivos Windows 10 para apagar todas as definições personalizadas.</span><span class="sxs-lookup"><span data-stu-id="9d2af-107">You can also reset Windows 10 devices to their factory settings to wipe out any custom settings.</span></span> 
+<span data-ttu-id="fa665-104">Depois de um utilizador ligar o seu dispositivo à sua organização, inserindo-se com a sua conta de trabalho no dispositivo ou nas aplicações do Office no dispositivo, pode proteger o dispositivo com as políticas que configura.</span><span class="sxs-lookup"><span data-stu-id="fa665-104">After a user connects their device to your organization by signing in with their work account to the device or to Office apps on the device, you can protect the device with the policies you set up.</span></span> <span data-ttu-id="fa665-105">Os dispositivos conectados estão listados na página **dispositivos.**</span><span class="sxs-lookup"><span data-stu-id="fa665-105">Connected devices are listed on the **Devices** page.</span></span> <span data-ttu-id="fa665-106">Se um dispositivo for perdido ou roubado, pode geri-lo nesta página para remover os dados da empresa.</span><span class="sxs-lookup"><span data-stu-id="fa665-106">If a device is lost or stolen, you can manage it from this page to remove any company data.</span></span> <span data-ttu-id="fa665-107">Também pode repor as definições de fábrica de dispositivos Windows 10 para apagar todas as definições personalizadas.</span><span class="sxs-lookup"><span data-stu-id="fa665-107">You can also reset Windows 10 devices to their factory settings to wipe out any custom settings.</span></span> 
 
-<span data-ttu-id="9d2af-108">Para obter mais informações sobre as tarefas que pode utilizar para gerir dispositivos, consulte estes artigos:</span><span class="sxs-lookup"><span data-stu-id="9d2af-108">For more information on the tasks you can use to manage devices, see these articles:</span></span> 
+<span data-ttu-id="fa665-108">Para obter mais informações sobre as tarefas que pode utilizar para gerir dispositivos, consulte estes artigos:</span><span class="sxs-lookup"><span data-stu-id="fa665-108">For more information on the tasks you can use to manage devices, see these articles:</span></span> 
   
-[<span data-ttu-id="9d2af-109">Remover dados empresariais de dispositivos</span><span class="sxs-lookup"><span data-stu-id="9d2af-109">Remove company data from devices</span></span>](remove-company-data.md)
+[<span data-ttu-id="fa665-109">Remover dados empresariais de dispositivos</span><span class="sxs-lookup"><span data-stu-id="fa665-109">Remove company data from devices</span></span>](remove-company-data.md)
   
-[<span data-ttu-id="9d2af-110">Repor as definições de fábrica de dispositivos Windows 10</span><span class="sxs-lookup"><span data-stu-id="9d2af-110">Reset Windows 10 devices to their factory settings</span></span>](reset-devices-to-factory-settings.md)
+[<span data-ttu-id="fa665-110">Repor as definições de fábrica de dispositivos Windows 10</span><span class="sxs-lookup"><span data-stu-id="fa665-110">Reset Windows 10 devices to their factory settings</span></span>](reset-devices-to-factory-settings.md)
   
 
