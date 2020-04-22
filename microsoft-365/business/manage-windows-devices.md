@@ -1,5 +1,5 @@
 ---
-title: Ativar a gestão, por parte do Microsoft 365 Business, de dispositivos associados ao domínio Windows 10
+title: Ativar dispositivos Windows 10 unidos pelo domínio para ser gerido pelo Microsoft 365 para negócios
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -24,16 +24,16 @@ search.appverid:
 - MET150
 ms.assetid: 9b4de218-f1ad-41fa-a61b-e9e8ac0cf993
 description: Saiba como permitir que o Microsoft 365 proteja os dispositivos locais do Windows 10 em apenas alguns passos.
-ms.openlocfilehash: 625eb7ac344b060409101d650ff30044d073f5bf
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+ms.openlocfilehash: 431c1be74723e156befb13ffe1ed98b48b9a23cb
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42561466"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43633289"
 ---
-# <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business"></a>Ativar a gestão, por parte do Microsoft 365 Business, de dispositivos associados ao domínio Windows 10
+# <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-for-business"></a>Ativar dispositivos Windows 10 unidos pelo domínio para ser gerido pelo Microsoft 365 para negócios
 
-Se a sua organização utilizar o Diretório Ativo do Windows Server no local, pode configurar o Microsoft 365 Business para proteger os seus dispositivos Windows 10, mantendo ao mesmo tempo o acesso aos recursos no local que requerem autenticação local.
+Se a sua organização utilizar o Diretório Ativo do Windows Server no local, pode configurar o Microsoft 365 para proteger os seus dispositivos Windows 10, mantendo ao mesmo tempo o acesso aos recursos no local que requerem autenticação local.
 Para configurar esta proteção, pode implementar **dispositivos ad ad ad híbridos Azure**. Estes dispositivos juntam-se tanto ao diretório ativo no local como ao seu Diretório Ativo Azure.
 
 Este vídeo descreve os passos para configurar isto para o cenário mais comum, que também é detalhado nos passos que se seguem.
@@ -56,9 +56,9 @@ Antes de sincronizar os seus utilizadores e computadores do domínio de diretór
 Para sincronizar os seus utilizadores, grupos e contactos do Diretório Ativo local em Azure Ative Directory, instale o Azure Ative Directory Connect e instale sincronização de diretórios. Consulte a [sincronização do diretório para o Office 365](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846) para saber mais.
 
 > [!NOTE]
-> Os passos são exatamente os mesmos para o Microsoft 365 Business. 
+> Os passos são exatamente os mesmos para a Microsoft 365 para negócios. 
 
-À medida que configura as suas opções para O Azure AD Connect, recomendamos que ative a **Sincronização**de Passwords, **Um Único Sinal**perfeito e a funcionalidade de redação de **palavra-passe,** que também é suportada no Microsoft 365 Business.
+À medida que configura as suas opções para O Azure AD Connect, recomendamos que ative a **Sincronização**de Passwords, O Único Sinal perfeito **sem emenda,** e a funcionalidade de redação de **palavras-passe,** que também é suportada no Microsoft 365 para negócios.
 
 > [!NOTE]
 > Existem alguns passos adicionais para a reescrita de palavra-passe para além da caixa de verificação no Azure AD Connect. Para mais informações, consulte [Como: configurar a reescrita da palavra-passe](https://docs.microsoft.com/azure/active-directory/authentication/howto-sspr-writeback). 

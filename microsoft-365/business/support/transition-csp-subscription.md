@@ -13,12 +13,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Business, Microsoft 365, SMB, assinatura CSP de transição
 ms.date: 11/01/2017
-ms.openlocfilehash: 0a30d80ad5217868fec81866ab1dc41013917e99
-ms.sourcegitcommit: dbbdeca5a6cd048e1bde9e820a8b8a0d6022c7a2
+ms.openlocfilehash: da56ce5bc70dfed5a3e86c739ef3c940b4ac1511
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43504113"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43635070"
 ---
 # <a name="transition-a-microsoft-365-business-csp-subscription"></a>Transição de uma subscrição de CSP empresarial da Microsoft 365
 
@@ -91,7 +91,7 @@ A tabela que se segue resume o impacto nas políticas de gestão de aplicações
 | **Redefinir PIN quando o login falhar** | Acesso restrito a apps | Sem restrição de acesso ao nível de aplicações |
 | **Exigir que os utilizadores voltem a fazer o insessão depois de as aplicações do Office terem ficado inativas** | Inscrição necessária | Não é necessário iniciar sessão |
 | **Negar o acesso a ficheiros de trabalho em dispositivos desbloqueados por jailbreak ou rooting** | Os ficheiros de trabalho não podem ser acedidos em dispositivos encadeçados/enraizados | Os ficheiros de trabalho podem ser acedidos em dispositivos encadeçados/enraizados |
-| **Permitir que os utilizadores copiem conteúdo de aplicações do Office para aplicações pessoais** | Cópia/pasta restrita a aplicações disponíveis como parte da subscrição do Microsoft 365 Business | Cópia/pasta disponível para todas as aplicações |
+| **Permitir que os utilizadores copiem conteúdo de aplicações do Office para aplicações pessoais** | Cópia/pasta restrita a aplicações disponíveis como parte da subscrição do Microsoft 365 | Cópia/pasta disponível para todas as aplicações |
 
 ## <a name="windows-10-pc-impacts-upon-subscription-expiration"></a>Windows 10 PC impacta na expiração da subscrição
 

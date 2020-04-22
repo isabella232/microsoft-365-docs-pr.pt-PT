@@ -21,13 +21,13 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: fae8819d-7235-495f-9f07-d016f545887f
-description: Valide as definições de proteção de aplicações do Microsoft 365 Business em dispositivos Windows 10 e verifique que os utilizadores não podem copiar dados da empresa para ficheiros pessoais ou aplicações não geridas.
-ms.openlocfilehash: 5b798e0335188543fc308553f71085bcde8b7752
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+description: Valide as definições de proteção de aplicações Do Microsoft 365 Business Premium em dispositivos Windows 10 e verifique que os utilizadores não podem copiar dados da empresa para ficheiros pessoais ou aplicações não geridas.
+ms.openlocfilehash: 20b2e43ae53486c046440ff1066d241ec9661888
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42560846"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43635750"
 ---
 # <a name="validate-app-protection-settings-on-windows-10-pcs"></a>Verificar definições de proteção de aplicações em PCs Windows 10
 
@@ -37,7 +37,7 @@ Depois de [configurar as políticas de proteção de aplicações](protection-se
   
  **Verificar definições de ligação**
   
-1. Depois de iniciar sessão com as credenciais Microsoft 365 Business e de estabelecer ligação ao Azure AD conforme descrito em [Configurar dispositivos Windows para utilizadores do Microsoft 365 Empresas](set-up-windows-devices.md), aceda a **Definições do Windows** \> **Contas** \> **Aceder a profiss./escolar**. Selecione **Ligado ao Azure AD de \<nome do inquilino\>** e, em seguida, selecione **Informações**.
+1. Depois de iniciar sessão com credenciais Microsoft 365 Business Premium e ligar-se ao Azure AD conforme descrito na Configuração de [dispositivos Windows para utilizadores Microsoft 365 Business Premium](set-up-windows-devices.md), vá para as contas **de Definições** \> **Accounts** \> do Windows **O trabalho ou a escola**. Selecione **Ligado ao Azure AD de \<nome do inquilino\>** e, em seguida, selecione **Informações**.
     
     ![Click or tap Info on the Connected to Azure AD dialog.](../media/a36ede2b-d1a0-4d4e-8ea7-af39b4b63890.png)
   
@@ -47,7 +47,7 @@ Depois de [configurar as políticas de proteção de aplicações](protection-se
   
  **Verifique se não pode colar os dados da empresa numa aplicação não gerida**
   
-1. Abra a versão do Outlook 2016 que foi instalada pelo Microsoft 365 Business.
+1. Open Outlook 2016 que foi instalado pelo Microsoft 365 Business Premium.
     
 2. Abra um e-mail e copie alguns conteúdos do mesmo.
     
@@ -67,7 +67,7 @@ Depois de [configurar as políticas de proteção de aplicações](protection-se
     
 2. Em **Aceder a profiss./escolar**, selecione **Ligar**.
     
-3. Introduza a sua credencial Microsoft 365 Business na caixa de diálogo **Configurar uma conta escolar ou profissional** \> **Iniciar sessão**.
+3. Insira a sua credencial Microsoft 365 Business Premium na **Configuração de um diálogo** \> de conta de trabalho ou de conta escolar **.**
     
 4. Na página **Aceder a profiss./escolar**, selecione a opção **Conta escolar ou profissional** e, em seguida, selecione **Informações**.
     
@@ -79,7 +79,7 @@ Depois de [configurar as políticas de proteção de aplicações](protection-se
   
  **Verifique se não pode colar os dados da empresa numa aplicação não gerida**
   
-1. Abra o Outlook 2016, adicione a sua conta Microsoft 365 Business se necessário e inicie sessão com as suas credenciais Microsoft 365 Business.
+1. Abra o Outlook 2016 e adicione a sua conta Microsoft 365 Business Premium se necessário e inscreva-se com as suas credenciais Microsoft 365 Business Premium.
     
 2. Abra um e-mail e copie alguns conteúdos do mesmo.
     

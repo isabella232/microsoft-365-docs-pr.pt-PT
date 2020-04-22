@@ -21,25 +21,25 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: bd66c26c-73a4-45a8-8642-3ea4ee7cd89d
-description: Saiba mais sobre o padrão e outras definições disponíveis no Microsoft 365 Business para proteger os dispositivos do Windows 10.
-ms.openlocfilehash: 1b424fe6a85ad23b2914ea29f47d1dc16b333c94
-ms.sourcegitcommit: 3dd9944a6070a7f35c4bc2b57df397f844c3fe79
+description: Saiba mais sobre o padrão e outras definições disponíveis no Microsoft 365 para garantir dispositivos Windows 10.
+ms.openlocfilehash: a3b7f0a8572a215491b32101a30c306b54571b6f
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42064976"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43633023"
 ---
 # <a name="set-device-protection-settings-for-windows-10-pcs"></a>Configurar as definições de proteção de dispositivos para PCs Windows 10
 
 ## <a name="secure-windows-10-devices"></a>Proteger dispositivos Windows 10
 
-Veja um vídeo sobre como proteger os dispositivos com Windows 10 com Microsoft 365 Business:
+Veja um vídeo sobre como proteger dispositivos Do Windows 10 com o Microsoft 365 para negócios:
   
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/a5734146-620a-4cec-8618-536b3ca37972?autoplay=false]
   
 1. Vá ao centro de <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>administração em . 
     
-2. No v à esquerda, escolha **Políticas de Dispositivos** \> **** \> **Adicionar**.
+2. No v à esquerda, escolha **Políticas de Dispositivos** \> **Policies** \> **Adicionar**.
   
 3. No painel **Adicionar política**, introduza um nome exclusivo para esta política. 
     
@@ -59,7 +59,7 @@ Veja um vídeo sobre como proteger os dispositivos com Windows 10 com Microsoft 
 
 Por predefinição, todas as definições estão **Ativadas**. As seguintes definições estão disponíveis.
   
-Para obter mais informações, consulte [Como é que as funcionalidades de proteção no Microsoft 365 Empresas são mapeadas para as definições do Intune](map-protection-features-to-intune-settings.md). 
+Para mais informações, consulte [como é que as funcionalidades de proteção no mapa Microsoft 365 Premium e as definições intune](map-protection-features-to-intune-settings.md). 
   
 |||
 |:-----|:-----|

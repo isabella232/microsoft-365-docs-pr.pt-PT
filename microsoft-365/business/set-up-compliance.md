@@ -1,5 +1,5 @@
 ---
-title: Aumentar a proteção contra ameaças para o Microsoft 365 Business
+title: Aumentar a proteção contra ameaças para o Microsoft 365 Business Premium
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -21,16 +21,16 @@ search.appverid:
 - BCS160
 - MET150
 description: Configurar funcionalidades de conformidade para evitar a perda de dados e ajudar a manter as informações sensíveis dos seus clientes e dos seus clientes seguras.
-ms.openlocfilehash: 6f4520b052c2e7acb8748d3c9d6e26777cb56d4b
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+ms.openlocfilehash: e0d853223c7e6f455cba6e68ad173b137992d863
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42561246"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43635130"
 ---
 # <a name="set-up-compliance-features"></a>Configurar funcionalidades de conformidade
 
-O Seu Microsoft 365 Business vem com funcionalidades para proteger os seus dados e dispositivos e ajudá-lo a manter as informações sensíveis dos seus clientes e dos seus clientes seguras.
+O Microsoft 365 Business Premium vem com funcionalidades para proteger os seus dados e dispositivos e ajudá-lo a manter as informações sensíveis dos seus clientes e dos seus clientes seguras.
 
 ## <a name="set-up-dlp-features"></a>Configurar as funcionalidades dLP
 
@@ -52,7 +52,7 @@ Para colocar uma caixa de correio em espera de litígios, no centro de Administr
     
 3. Na página da caixa de correio para o utilizador, escolha as funcionalidades da caixa de correio ** no v ' à esquerda e, em seguida, escolha o link **Enable** sob **a porção de Litígios**.
     
-4. Na **** caixa de diálogo, pode especificar a duração do processo no campo de duração do **processo.** Deixe o campo vazio se quiser colocar um porão infinito. Também pode adicionar notas e direcionar o proprietário da caixa de correio para um site que poderá ter de explicar mais sobre o processo. \>**Salvar.**
+4. Na **litigation hold** caixa de diálogo, pode especificar a duração do processo no campo de duração do **processo.** Deixe o campo vazio se quiser colocar um porão infinito. Também pode adicionar notas e direcionar o proprietário da caixa de correio para um site que poderá ter de explicar mais sobre o processo. \>**Salvar.**
     
 **Retenção:** Pode permitir que políticas de retenção personalizadas, por exemplo, preservem por um período de tempo específico ou apaguem conteúdos permanentemente no final do período de retenção. Para saber mais, consulte [a visão geral das políticas de retenção.](https://support.office.com/article/5e377752-700d-4870-9b6d-12bfc12d2423)
 

@@ -1,5 +1,5 @@
 ---
-title: Gerir o Microsoft 365 Business
+title: Gerir o Microsoft 365 para negócios
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -20,33 +20,33 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 27ff1678-865a-4707-8145-e1155aa815d6
-description: Aprenda a gerir tarefas de administração relacionadas com o Microsoft 365 Business, dispositivos móveis, PCs windows 10 e muitas dessas tarefas.
-ms.openlocfilehash: 41b627b0bb7cbb009832d3e7c45e44ceb8a8fdcd
-ms.sourcegitcommit: 1c91b7b24537d0e54d484c3379043db53c1aea65
+description: Aprenda a gerir o Microsoft 365 para tarefas de administração relacionadas com negócios, dispositivos móveis, PCs windows 10 e muitas dessas tarefas.
+ms.openlocfilehash: 5e6d4633410d4aa38ad1eebcab3405f57f5b2446
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41593787"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43633269"
 ---
-# <a name="manage-microsoft-365-business"></a>Gerir o Microsoft 365 Business
+# <a name="manage-microsoft-365-for-business"></a>Gerir o Microsoft 365 para negócios
 
-## <a name="general-microsoft-365-business-admin-tasks"></a>Tarefas gerais de administração do Microsoft 365 Empresas
+## <a name="general-microsoft-365-for-business-admin-tasks"></a>General Microsoft 365 para tarefas de administração de negócios
 
-A maioria dos [conteúdos administrativos](https://docs.microsoft.com/office365/admin/admin-home) do Office 365 para negócios também se aplica ao Microsoft 365 Business.
+A maioria dos [conteúdos administrativos](https://docs.microsoft.com/office365/admin/admin-home) do Office 365 também se aplica à Microsoft 365 para negócios.
 
-- [Adicione mais utilizadores ao Microsoft 365 Business](add-users-m365b.md)
+- [Adicione mais utilizadores ao Microsoft 365 para negócios](add-users-m365b.md)
     
 - [Ver políticas e dispositivos](view-policies-and-devices.md)
     
-- [Funcionalidades de segurança do Microsoft 365 Business](security-features.md)
+- [Microsoft 365 para funcionalidades de segurança empresarial](security-features.md)
     
-- [Como é que as funcionalidades de proteção no Microsoft 365 Empresas são mapeadas às definições do Intune](map-protection-features-to-intune-settings.md)
+- [Como é que as funcionalidades de proteção no Microsoft 365 para o mapa de negócios para as definições intune](map-protection-features-to-intune-settings.md)
     
-Consulte as seguintes secções sobre como utilizar o Microsoft 365 Business para proteger os dados da sua organização em Computadores e dispositivos móveis.
+Consulte as seguintes secções sobre como utilizar o Microsoft 365 para as empresas para proteger os dados da sua organização em Computadores e dispositivos móveis.
   
 ## <a name="manage-mobile-devices"></a>Gerir dispositivos móveis
 
-- [Configurar dispositivos móveis para utilizadores do Microsoft 365 Empresas](set-up-mobile-devices.md)
+- [Configurar dispositivos móveis para o Microsoft 365 para utilizadores empresariais](set-up-mobile-devices.md)
     
 - [Configurar as definições de proteção de aplicações para dispositivos Android ou iOS](app-protection-settings-for-android-and-ios.md)
     
@@ -56,9 +56,9 @@ Consulte as seguintes secções sobre como utilizar o Microsoft 365 Business par
     
 ## <a name="manage-windows-10-pcs"></a>Gerir PCs com Windows 10
 
-- [Configurar dispositivos Windows para utilizadores do Microsoft 365 Empresas](set-up-windows-devices.md)
+- [Configurar dispositivos Windows para microsoft 365 para utilizadores empresariais](set-up-windows-devices.md)
 
-    Antes de instalar automaticamente o Office, consulte [Preparar a implementação do cliente do Office pelo Microsoft 365 Empresas](prepare-for-office-client-deployment.md). 
+    Leia [Prepare-se para a implementação do cliente do Office pela Microsoft 365 para negócios](prepare-for-office-client-deployment.md) antes de instalar automaticamente o Office. 
     
 - [Configurar as definições de proteção para dispositivos Windows 10](protection-settings-for-windows-10-pcs.md)
     
@@ -74,7 +74,7 @@ Consulte as seguintes secções sobre como utilizar o Microsoft 365 Business par
     
 ### <a name="use-autopilot-to-deploy-windows-10-devices"></a>Utilizar o AutoPilot para implementar dispositivos com Windows 10
 
-Os seguintes tópicos descrevem como pode utilizar o Windows AutoPilot no Microsoft 365 Business para pré-configurar dispositivos com o Windows 10.
+Os seguintes tópicos descrevem como pode utilizar o Windows AutoPilot no Microsoft 365 para configurar os dispositivos Windows 10.
   
 - [Utilizar o guia passo a passo para adicionar perfis e dispositivos Autopilot](add-autopilot-devices-and-profile.md)
     
@@ -90,12 +90,12 @@ Os seguintes tópicos descrevem como pode utilizar o Windows AutoPilot no Micros
     
 ## <a name="set-up-and-prerequisite-information"></a>Configurar e pré-requisitos de informação
 
-- [Pré-requisitos para proteger dados em dispositivos com o Microsoft 365 Business](pre-requisites-for-data-protection.md)
+- [Pré-requisitos para proteger dados em dispositivos com microsoft 365 para negócios](pre-requisites-for-data-protection.md)
     
-- [Configurar o Microsoft 365 Business com o assistente de configuração](set-up.md)
+- [Configurar o Microsoft 365 para negócios utilizando o assistente de configuração](set-up.md)
     
-- [Migrar para o Microsoft 365 Empresas](migrate-to-microsoft-365-business.md)
+- [Migrar para a Microsoft 365 para negócios](migrate-to-microsoft-365-business.md)
     
-- [Ativar a gestão, por parte do Microsoft 365 Business, de dispositivos associados ao domínio Windows 10](manage-windows-devices.md)
+- [Ativar dispositivos Windows 10 unidos pelo domínio para ser gerido pelo Microsoft 365 para negócios](manage-windows-devices.md)
     
 - [Funcionalidades de segurança adicionais](security-features.md#additional-security-features)
