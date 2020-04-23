@@ -1,5 +1,5 @@
 ---
-title: Visão geral do Microsoft 365 Business
+title: Descrição geral do Microsoft 365 Empresas Premium
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -27,94 +27,94 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
-description: Saiba mais sobre o Microsoft 365 Business, um serviço de subscrição que inclui o Office 365 mais proteção avançada para o seu negócio contra ameaças cibernéticas.
-ms.openlocfilehash: fccd0403131d8afe41608c4a195b53db959e7e91
-ms.sourcegitcommit: e525bcf073a61e1350484719a0c3ceb6ff0d8db1
-ms.translationtype: MT
+description: Conheça o Microsoft 365 Empresas Premium, um serviço de subscrição que inclui aplicações de produtividade do Office e proteção avançada contra ciberameaças para empresas.
+ms.openlocfilehash: 14f6acdec79323d1dfff836ba945bb3c29059a3e
+ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43153824"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43633229"
 ---
-# <a name="overview-of-microsoft-365-business"></a>Visão geral do Microsoft 365 Business
+# <a name="overview-of-microsoft-365-business-premium"></a>Descrição geral do Microsoft 365 Empresas Premium
 
-## <a name="what-is-microsoft-365-business"></a>O que é o Microsoft 365 Business
+## <a name="what-is-microsoft-365-business-premium"></a>O que é o Microsoft 365 Empresas Premium
 
-O Microsoft 365 Business é um serviço de subscrição que inclui ferramentas de produtividade do Office 365 e capacidades avançadas para ajudar a proteger o seu negócio contra ameaças cibernéticas, proteger os seus dados e gerir dispositivos.
+O Microsoft 365 Empresas Premium (anteriormente designado Microsoft 365 Empresas) é um serviço de subscrição abrangente para empresas com menos de 300 colaboradores. Integra os seus serviços e aplicações de produtividade do Office favoritos e ferramentas de colaboração como o Microsoft Teams, com segurança avançada e funcionalidades de gestão de dispositivos.
 
-Veja este vídeo para uma visão geral rápida do Microsoft 365 Business.<br><br>
+Veja este vídeo para uma breve descrição geral do Microsoft 365 Empresas Premium.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
-Caso tenha considerado este vídeo útil, consulte a [série de formação completa para pequenas empresas e as novidades do Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816). 
+Caso tenha considerado este vídeo útil, veja a [série de formação completa para pequenas empresas e as novidades do Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816). 
 
-O Microsoft 365 Business destina-se a até 300 licenças. Se precisar de mais licenças, consulte a documentação da [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986) para obter mais informações.
+O Microsoft 365 Empresas Premium foi concebido para um máximo de 300 licenças. Caso necessite de mais licenças, consulte a documentação sobre o [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986) para obter mais informações.
 
-Consulte a descrição do [serviço de negócios microsoft 365](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) para toda a lista de funcionalidades.
+Consulte a [descrição de serviço do Microsoft 365 Empresas Premium](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) para obter a lista completa de funcionalidades.
   
-## <a name="small-business-security-needs"></a>Necessidades de segurança das pequenas empresas
+## <a name="small-business-security-needs"></a>Necessidades de segurança de pequenas empresas
 
-Os seus dados de negócio podem ser comprometidos de muitas formas. Você e os seus utilizadores podem comprometer a segurança da sua organização quando iniciar sessão com credenciais comprometidas ou ver dados da organização em diferentes dispositivos e aplicações. Mais especificamente, a sua organização está em risco de:
+Os seus dados empresariais podem ser comprometidos de muitas formas. Você e os restantes utilizadores podem comprometer a segurança da organização ao iniciar sessão com credenciais comprometidas ou ver dados da organização em diferentes dispositivos e aplicações. Mais especificamente, a segurança da organização pode estar em risco devido a:
 
-- Credenciais de inscrição comprometidas ou fracas.
-- Dispositivo comprometido com um pino fraco ou um dispositivo do utilizador.
-- Utilizadores que possam copiar/colar/guardar os dados da sua organização para aplicações pessoais.
-- Utilizadores que instalam e utilizam aplicações de terceiros com fraca segurança.
-- Vulnerabilidades de e-mail, incluindo partilha de dados sensíveis, tentativas de phishing, malware, e assim por diante.
-- Quando as pessoas que não devem, podem aceder a documentos com informações sensíveis.
+- Credenciais de início de sessão comprometidas ou fracas.
+- Dispositivos comprometidos com pins fracos ou dispositivos pertencentes aos utilizadores.
+- Utilizadores que podem copiar/colar/guardar os dados da organização para aplicações pessoais.
+- Utilizadores que instalam e utilizam aplicações de terceiros com segurança fraca.
+- Vulnerabilidades de e-mail, incluindo partilha de dados confidenciais, tentativas de phishing, malware e outras.
+- Acesso a documentos com informações confidenciais por parte de pessoas que não o deviam ter.
 
-O Microsoft 365 Business ajuda a salvaguardar os seus dados em cada um destes casos. As funcionalidades de segurança que protegem os seus dados de negócio são detalhadas na figura seguinte.
+O Microsoft 365 Empresas Premium ajuda a proteger os dados em todas estas situações. As funcionalidades de segurança que protegem os dados empresariais estão descritas na seguinte imagem.
 
-![Um número que mostra como o M365B protege o seu negócio.](../media/m365businessvalueadd.png)
+![Uma imagem que mostra como o M365E protege as empresas.](../media/m365businessvalueadd.png)
 
-## <a name="how-your-data-and-devices-are-protected"></a>Como os seus dados e dispositivos estão protegidos
+## <a name="how-your-data-and-devices-are-protected"></a>Como os dados e serviços são protegidos
 
-O Microsoft 365 Business ajuda a **defender-se contra ameaças:**
+O Microsoft 365 Empresas Premium fornece **proteção contra ameaças** ao:
 
-- Digitalizar links em e-mails e documentos em tempo real para bloquear sites inseguros (ATP Safe Links).
+- Analisar ligações em e-mails e documentos em tempo real para bloquear sites inseguros (Ligações Seguras da ATP).
 
-- Realizar análises avançadas de anexos de e-mail num ambiente de caixa de areia para detetar malware recentemente desenvolvido (ANEXOS Seguros ATP). 
+- Realizar uma análise avançada de anexos de e-mail num ambiente de sandbox para detetar malware criado recentemente (Anexos Seguros da ATP). 
 
-- Permitir políticas anti-phishing que utilizam modelos de aprendizagem automática e deteção de imitação para fornecer proteção contra ataques avançados (inteligência anti-phishing ATP). 
+- Ativar políticas de anti-phishing que utilizam modelos de aprendizagem automática e deteção de usurpação de identidade para fornecer proteção contra ataques avançados (inteligência anti-phishing da ATP). 
 
-- Criação de políticas avançadas que desativem o acesso a partir de locais não confiáveis ou contornem a autenticação multifactor de locais fidedignos, como a sua rede de escritórios (Autenticação Multi-Factor Azure, incluindo IPs fidedignos, e Acesso Condicional). 
+- Configurar políticas avançadas que desativam o acesso a partir de localizações não fidedignas ou ignoram a autenticação multifator em localizações fidedignas, como a rede do seu escritório (MFA do Azure, incluindo IPs fidedignos e Acesso Condicional). 
 
-- Impor a proteção contra malware em todos os dispositivos Windows 10 da sua organização e proteger ficheiros em pastas do sistema chave a partir de alterações feitas pelo ransomware (Windows Defender)
+- Aplicar proteção contra malware em todos os dispositivos com Windows 10 da organização e proteger ficheiros em pastas importantes do sistema contra alterações feitas por ransomware (Windows Defender)
 
-Os seus **dados de negócio estão protegidos** por:
+Os **dados empresariais são protegidos** ao:
 
-- Utilização de deteção automática para ajudar a evitar que informações sensíveis, como números de Segurança Social ou cartões de crédito, vazem fora do seu negócio (prevenção de perdas de dados). 
+- Utilizar deteção automática para ajudar a impedir a fuga de informações confidenciais como números da Segurança Social ou de cartões de crédito para fora da empresa (prevenção de perda de dados). 
 
-- Encriptar e-mails sensíveis para que possa comunicar de forma segura com clientes ou outras pessoas fora da sua organização. Isto garante que apenas o destinatário pretendido pode ler a mensagem (Encriptação de mensagens do Office 365).
+- Encriptar e-mails confidenciais para que possa comunicar em segurança com clientes ou outras pessoas externas à organização. Esta funcionalidade garante que apenas o destinatário pretendido pode ler a mensagem (Encriptação de Mensagens do Office 365).
 
-- Controlar quem tem acesso à informação da empresa aplicando restrições como **Não Copiar** e **Não Enviar** Por email e documentos (Azure Information Protection, Plano 1).
+- Controlar quem tem acesso a informações da empresa ao aplicar restrições como **Não Copiar** e **Não Reencaminhar** a e-mails e documentos (Azure Information Protection, Plano 1).
 
-- Habilitar o arquivo ilimitado de nuvens para que possa reter todos os e-mails da sua organização, incluindo as caixas de correio de antigos funcionários (Exchange Online Archiving).
+- Ativar o arquivo ilimitado na nuvem para que possa guardar todos os e-mails da organização, incluindo as caixas de correio de ex-colaboradores (Arquivo do Exchange Online).
 
-Os seus **dispositivos estão protegidos** por:
+Os seus **dispositivos são protegidos** ao:
 
-- Controlar quais os dispositivos e utilizadores que podem aceder aos dados do Office 365, com opções para impedir os utilizadores de iniciars sessão a partir de computadores domésticos, aplicações não aprovadas ou fora do horário de trabalho (Acesso Condicional).
+- Controlar que dispositivos e utilizadores podem aceder aos dados Microsoft, com opções para impedir os utilizadores de iniciar sessão a partir de computadores domésticos e aplicações não aprovadas ou fora do horário de expediente (Acesso Condicional).
 
-- Aplicação de políticas de segurança para proteger dados empresariais em dispositivos iOS e Android. Por exemplo, pode exigir que os utilizadores forneçam um PIN ou uma impressão digital para aceder a dados empresariais e encriptar dados em dispositivos móveis (proteção de aplicações para aplicações móveis do Office).
+- Aplicar políticas de segurança para proteger dados empresariais em dispositivos iOS e Android. Por exemplo, pode exigir que os utilizadores forneçam um PIN ou uma impressão digital para aceder a dados empresariais e pode encriptar dados em dispositivos móveis (Proteção de aplicações do Office para dispositivos móveis).
 
-- Manter documentos empresariais, e-mails e outros dados dentro de aplicações móveis aprovadas do Office e impedir os colaboradores de os guardar em aplicações e locais não autorizados (proteção de aplicações móveis do Office).
+- Manter documentos, e-mails e outros dados empresariais em aplicações do Office para dispositivos móveis aprovadas e impedir os colaboradores de os guardar em aplicações e localizações não autorizadas (Proteção de aplicações do Office para dispositivos móveis).
 
-- Limpar remotamente os dados empresariais de dispositivos perdidos ou roubados sem afetar informações pessoais (Limpeza seletiva Intune).
+- Limpar remotamente os dados empresariais de dispositivos perdidos ou roubados sem afetar informações pessoais (limpeza seletiva do Intune).
 
-- Utilizando controlos simplificados para gerir as políticas de todos os PCs do Windows 10 na sua empresa, aplicando a encriptação BitLocker e instalando automaticamente atualizações críticas do Windows (implementar políticas de atualização do Windows).
+- Utilizar controlos simplificados para gerir as políticas de todos os PCs com Windows 10 na empresa, impor encriptação do BitLocker e instalar automaticamente atualizações críticas do Windows (Impor políticas de atualização do Windows).
 
-Para ver a lista completa de funcionalidades de segurança, consulte as funcionalidades de [segurança do Microsoft 365 Business](security-features.md). Depois de configurar o [Microsoft 365 Business,](set-up.md)consulte o aumento da [proteção contra ameaças](increase-threat-protection.md) e [configurar funcionalidades](set-up-compliance.md) de conformidade para começar com as funcionalidades de segurança que não estão incluídas como parte da configuração guiada. Leia também [as 10 melhores formas de garantir os planos de Negócios do Office 365 e microsoft 365](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) para uma boa visão geral sobre como estabelecer proteções contra criminosos virtuais e hackers.
+Para ver a lista completa de funcionalidades de segurança, consulte [Funcionalidades de segurança do Microsoft 365 Empresas Premium](security-features.md). Após [configurar o Microsoft 365 Empresas Premium](set-up.md), consulte [Aumentar a proteção contra ameaças](increase-threat-protection.md) e [Configurar funcionalidades de conformidade](set-up-compliance.md) para começar a utilizar as funcionalidades de segurança que não estão incluídas na configuração orientada. Consulte também o artigo [Top 10 ways to secure Office 365 and Microsoft 365 Business Premium plans](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) (As principais 10 formas de proteger os planos do Office 365 e Microsoft 365 Empresas Premium) para aprender a configurar as proteções contra cibercriminosos e hackers.
 
-## <a name="get-microsoft-365-business"></a>Obter o Microsoft 365 Empresas
+## <a name="get-microsoft-365-business-premium"></a>Obter o Microsoft 365 Empresas Premium
 
-- Se tiver um parceiro, obterão o Microsoft 365 Business: Obtenha o [Microsoft 365 Business do Microsoft Partner Center](get-microsoft-365-business.md#get-microsoft-365-business-from-microsoft-partner-center).
+- Se tiver um parceiro, este obterá o Microsoft 365 Empresas Premium: [Obter o Microsoft 365 Empresas Premium a partir do Centro de Parceiros da Microsoft](get-microsoft-365-business.md).
 
-- Se não tiver um parceiro e quiser obter o Microsoft 365 Business, pode [comprá-lo aqui](https://www.microsoft.com/microsoft-365/business) e seguir as instruções [de inscrição.](sign-up.md)
+- Se não tiver um parceiro e quiser obter o Microsoft 365 Empresas Premium, poderá [comprá-lo aqui](https://www.microsoft.com/microsoft-365/business) e seguir as instruções de [inscrição](sign-up.md).
 
-- Também pode dirigir-se a uma [Microsoft Store](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=gm_fy18_hol_bopis_feature3&CustomerIntent=Consumer) para comprar o Microsoft 365 Business e obter ajuda de configuração.
+- Também pode ir a uma [Microsoft Store](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=gm_fy18_hol_bopis_feature3&CustomerIntent=Consumer) para comprar o Microsoft 365 Empresas Premium e obter ajuda com a configuração.
 
     > [!NOTE]
-    > Este link é apenas para lojas nos EUA
+    > Esta ligação apenas apresenta lojas nos EUA
 
 ## <a name="see-also"></a>Consulte também
 
-[Vídeos de formação do Microsoft 365 Business](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Vídeos de formação do Microsoft 365 Empresas Premium](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
