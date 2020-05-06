@@ -27,12 +27,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Saiba mais sobre o Microsoft 365 para negócios, como configurar e como preparar os dispositivos e Computadores dos seus utilizadores para garantir que estão protegidos pela Microsoft 365 para negócios.
-ms.openlocfilehash: 17b142fb704d1b0be088a649490e751effb19517
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: 8754c470cb6369f0814f953288be130fa49cea86
+ms.sourcegitcommit: 5476c2578400894640ae74bfe8e93c3319f685bd
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43633209"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44048091"
 ---
 # <a name="get-started-with-microsoft-365-for-business"></a>Começar com a Microsoft 365 para negócios
 
@@ -44,7 +44,7 @@ Veja este vídeo para uma visão geral rápida do Microsoft 365 para negócios.<
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
-O Microsoft 365 para negócios destina-se a até 300 licenças. Se precisar de mais licenças, consulte a documentação da [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986) para obter mais informações. 
+O Microsoft 365 para negócios destina-se a até 300 licenças. Caso necessite de mais licenças, consulte a documentação sobre o [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986) para obter mais informações. 
   
 ## <a name="get-microsoft-365-for-business"></a>Obtenha o Microsoft 365 para negócios
 
@@ -64,7 +64,7 @@ Veja este vídeo para uma visão geral do Microsoft 365 para configuração de n
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FYSM] 
 
-Caso tenha considerado este vídeo útil, consulte a [série de formação completa para pequenas empresas e as novidades do Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+Caso tenha considerado este vídeo útil, veja a [série de formação completa para pequenas empresas e as novidades do Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
   
 ### <a name="1-set-up-microsoft-365-for-business-admin"></a>1: Configurar o Microsoft 365 para negócios (Administrador)
@@ -83,7 +83,7 @@ Inscreva-se no [Microsoft 365 admin center](https://portal.office.com/adminporta
     
     - Utilize o assistente de sincronização de diretório para sincronizar os seus utilizadores na nuvem. Siga os passos em Configuração da sincronização do diretório para que o [Microsoft 365](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846) complete este processo. Depois de sincronizar os seus utilizadores na nuvem, terá de desligar a sincronização do diretório para o [Office 365](https://support.office.com/article/ee5f861e-bd48-4267-83d1-a4ead4b4a00d).
     
-    Também terá de dar a cada utilizador que tenha sido adicionado desta forma uma licença para o Microsoft 365 para negócios. Pode fazê-lo no assistente de [configuração](set-up.md) ou pode [atribuir licenças aos utilizadores no Microsoft 365 para negócios](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC).
+    Também terá de dar a cada utilizador que tenha sido adicionado desta forma uma licença para o Microsoft 365 para negócios. Pode fazê-lo no assistente de [configuração](set-up.md) ou pode [atribuir licenças aos utilizadores no Microsoft 365 para negócios](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
     
 ### <a name="2-prepare-mobile-devices"></a>2: Preparar dispositivos móveis
 
