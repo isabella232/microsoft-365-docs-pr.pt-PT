@@ -21,12 +21,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Configurar funcionalidades de conformidade para evitar a perda de dados e ajudar a manter as informações sensíveis dos seus clientes e dos seus clientes seguras.
-ms.openlocfilehash: e0d853223c7e6f455cba6e68ad173b137992d863
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: 523d020587bcf16e46263b88ee7654b9c786e7a2
+ms.sourcegitcommit: 5476c2578400894640ae74bfe8e93c3319f685bd
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43635130"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44048071"
 ---
 # <a name="set-up-compliance-features"></a>Configurar funcionalidades de conformidade
 
@@ -54,7 +54,7 @@ Para colocar uma caixa de correio em espera de litígios, no centro de Administr
     
 4. Na **litigation hold** caixa de diálogo, pode especificar a duração do processo no campo de duração do **processo.** Deixe o campo vazio se quiser colocar um porão infinito. Também pode adicionar notas e direcionar o proprietário da caixa de correio para um site que poderá ter de explicar mais sobre o processo. \>**Salvar.**
     
-**Retenção:** Pode permitir que políticas de retenção personalizadas, por exemplo, preservem por um período de tempo específico ou apaguem conteúdos permanentemente no final do período de retenção. Para saber mais, consulte [a visão geral das políticas de retenção.](https://support.office.com/article/5e377752-700d-4870-9b6d-12bfc12d2423)
+**Retenção:** Pode permitir que políticas de retenção personalizadas, por exemplo, preservem por um período de tempo específico ou apaguem conteúdos permanentemente no final do período de retenção. Para saber mais, consulte [a visão geral das políticas de retenção.](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
 
 ## <a name="set-up-sensitivity-labels"></a>Configurar rótulos de sensibilidade
 
