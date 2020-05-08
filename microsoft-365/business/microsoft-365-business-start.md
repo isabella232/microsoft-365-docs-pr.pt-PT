@@ -27,12 +27,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Saiba mais sobre o Microsoft 365 para negócios, como configurar e como preparar os dispositivos e Computadores dos seus utilizadores para garantir que estão protegidos pela Microsoft 365 para negócios.
-ms.openlocfilehash: 8754c470cb6369f0814f953288be130fa49cea86
-ms.sourcegitcommit: 5476c2578400894640ae74bfe8e93c3319f685bd
+ms.openlocfilehash: a470f015857117d3cbbc15255e8d815438222509
+ms.sourcegitcommit: 46644f9778bc70ab6d62783e0a1e60ba2eccc27f
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "44048091"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "44165795"
 ---
 # <a name="get-started-with-microsoft-365-for-business"></a>Começar com a Microsoft 365 para negócios
 
@@ -79,9 +79,9 @@ Inscreva-se no [Microsoft 365 admin center](https://portal.office.com/adminporta
     
     Se estiver **a mover-se permanentemente de um Diretório Ativo local para a nuvem,** pode ir ao centro de administração da Microsoft 365 e utilizar o assistente de configuração para adicionar os seus utilizadores manualmente, ou pode fazer uma sincronização única com o Azure AD Connect. Existem duas formas de o fazer: 
     
-    - Se também tiver um servidor Exchange 2010, Exchange 2013 ou Exchange 2016, pode utilizar o Minimal Hybrid para migrar rapidamente caixas de correio para o [Office 365](https://support.office.com/article/fdecceed-0702-4af3-85be-f2a0013937ef). Os passos híbridos mínimos incluem uma sincronização única de utilizadores para a AD Azure, e a migração por e-mail de in-instalações para a nuvem. Após a migração por e-mail estar completa, a sincronização do diretório é automaticamente desligada quando utiliza este método.
+    - Se também tiver um servidor Exchange 2010, Exchange 2013 ou Exchange 2016, pode utilizar o Minimal Hybrid para migrar rapidamente caixas de correio para o [Office 365](https://docs.microsoft.com/Exchange/mailbox-migration/use-minimal-hybrid-to-quickly-migrate). Os passos híbridos mínimos incluem uma sincronização única de utilizadores para a AD Azure, e a migração por e-mail de in-instalações para a nuvem. Após a migração por e-mail estar completa, a sincronização do diretório é automaticamente desligada quando utiliza este método.
     
-    - Utilize o assistente de sincronização de diretório para sincronizar os seus utilizadores na nuvem. Siga os passos em Configuração da sincronização do diretório para que o [Microsoft 365](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846) complete este processo. Depois de sincronizar os seus utilizadores na nuvem, terá de desligar a sincronização do diretório para o [Office 365](https://support.office.com/article/ee5f861e-bd48-4267-83d1-a4ead4b4a00d).
+    - Utilize o assistente de sincronização de diretório para sincronizar os seus utilizadores na nuvem. Siga os passos em Configuração da sincronização do diretório para que o [Microsoft 365](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization) complete este processo. Depois de sincronizar os seus utilizadores na nuvem, terá de desligar a sincronização do diretório para o [Office 365](https://docs.microsoft.com/office365/enterprise/turn-off-directory-synchronization).
     
     Também terá de dar a cada utilizador que tenha sido adicionado desta forma uma licença para o Microsoft 365 para negócios. Pode fazê-lo no assistente de [configuração](set-up.md) ou pode [atribuir licenças aos utilizadores no Microsoft 365 para negócios](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
     
@@ -104,7 +104,7 @@ Se mantiver um Diretório Ativo local que contenha alguns recursos no local (com
   
 - Contacte o seu parceiro.
     
-- Como Microsoft 365 para administração de negócios, você tem acesso à nossa equipe de apoio ao cliente: ** [Suporte de contato para produtos empresariais - Admin Help](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b)**
+- Como Microsoft 365 para administração de negócios, você tem acesso à nossa equipe de apoio ao cliente: ** [Suporte de contato para produtos empresariais - Admin Help](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products)**
     
 ## <a name="see-also"></a>Consulte também
 

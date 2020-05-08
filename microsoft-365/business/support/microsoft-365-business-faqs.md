@@ -12,12 +12,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Empresas Premium, Microsoft 365, PME, FAQ, perguntas mais frequentes, respostas, empresas
 ms.date: 06/08/2018
-ms.openlocfilehash: 2ace43e0a3bab466d102740434b2a126fb8e099d
-ms.sourcegitcommit: b6c4b514b2cb6739af949780d7e2a5a5c8dcc161
-ms.translationtype: HT
+ms.openlocfilehash: 68e085313b0344f9e48ddfa9124c1d2d7297ae45
+ms.sourcegitcommit: 7f307b4f583b602f11f69adae46d7f3bf6982c65
+ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43900696"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44065841"
 ---
 # <a name="microsoft-365-business-premium-frequently-asked-questions"></a>Perguntas mais frequentes sobre o Microsoft 365 Empresas Premium
 
@@ -130,7 +130,7 @@ Os clientes que pretendam usufruir de todas as potencialidades do Microsoft 365 
 ## <a name="deployment"></a>Implementação
 
 ### <a name="what-should-customers-consider-when-planning-a-microsoft-365-business-premium-deployment"></a>O que os clientes devem considerar ao planear uma implementação do Microsoft 365 Empresas Premium? 
-O caminho mais direto para uma implementação bem-sucedida do Microsoft 365 Empresas Premium é através do envolvimento com um Parceiro Microsoft. Eles têm uma vasta formação e experiência com uma grande variedade de cenários de clientes e estão mais preparados para compreender o seu ambiente e necessidades. Os clientes que tenham uma equipa de TI experiente podem usar a <a href="https://support.office.com/article/496e690b-b75d-4ff5-bf34-cc32905d0364" target="_blank">Introdução ao Microsoft 365 Empresas Premium</a> para os ajudar na implementação do Microsoft 365 Empresas Premium. 
+O caminho mais direto para uma implementação bem-sucedida do Microsoft 365 Empresas Premium é através do envolvimento com um Parceiro Microsoft. Eles têm uma vasta formação e experiência com uma grande variedade de cenários de clientes e estão mais preparados para compreender o seu ambiente e necessidades. Os clientes que tenham uma equipa de TI experiente podem usar a <a href="https://docs.microsoft.com/microsoft-365/business/microsoft-365-business-overview" target="_blank">Introdução ao Microsoft 365 Empresas Premium</a> para os ajudar na implementação do Microsoft 365 Empresas Premium. 
 
 ### <a name="does-microsoft-365-business-premium-include-the-full-capabilities-of-microsoft-intune"></a>O Microsoft 365 Empresas Premium inclui todas as funcionalidades do Microsoft Intune? 
 Sim, os subscritores do Microsoft 365 Empresas Premium estão licenciados para utilizar todas as funcionalidades do Intune para iOS, Android, MacOS e outras funcionalidades de gestão de dispositivos em várias plataformas. As funcionalidades não disponíveis na consola de gestão simplificada no Microsoft 365 Empresas Premium, como gestão de aplicações de terceiros e configuração de perfis WiFi ou certificados VPN, podem ser geridas na consola completa do Intune. 

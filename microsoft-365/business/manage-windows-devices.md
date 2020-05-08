@@ -24,12 +24,12 @@ search.appverid:
 - MET150
 ms.assetid: 9b4de218-f1ad-41fa-a61b-e9e8ac0cf993
 description: Saiba como permitir que o Microsoft 365 proteja os dispositivos locais do Windows 10 em apenas alguns passos.
-ms.openlocfilehash: 431c1be74723e156befb13ffe1ed98b48b9a23cb
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: adc125c32fe5aa56be8c17c07f28316602a36594
+ms.sourcegitcommit: 46644f9778bc70ab6d62783e0a1e60ba2eccc27f
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43633289"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "44165815"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-for-business"></a>Ativar dispositivos Windows 10 unidos pelo domínio para ser gerido pelo Microsoft 365 para negócios
 
@@ -53,7 +53,7 @@ Antes de sincronizar os seus utilizadores e computadores do domínio de diretór
 
 ## <a name="2-install-and-configure-azure-ad-connect"></a>2. Instale e configure a Ligação AD Azure
 
-Para sincronizar os seus utilizadores, grupos e contactos do Diretório Ativo local em Azure Ative Directory, instale o Azure Ative Directory Connect e instale sincronização de diretórios. Consulte a [sincronização do diretório para o Office 365](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846) para saber mais.
+Para sincronizar os seus utilizadores, grupos e contactos do Diretório Ativo local em Azure Ative Directory, instale o Azure Ative Directory Connect e instale sincronização de diretórios. Consulte a [sincronização do diretório para o Office 365](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization) para saber mais.
 
 > [!NOTE]
 > Os passos são exatamente os mesmos para a Microsoft 365 para negócios. 
