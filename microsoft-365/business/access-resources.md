@@ -20,12 +20,12 @@ search.appverid:
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: Saiba como aceder a recursos no local, como linha de aplicações de negócios, partilhas de ficheiros e impressoras de um dispositivo Azure Ative Directory que se juntou ao Windows 10.
-ms.openlocfilehash: c1e04e5ca0d36c32a55a9819140356db5093e3a1
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: 980efbf09349cc0203ac50ae5e028c008d5694ca
+ms.sourcegitcommit: 46644f9778bc70ab6d62783e0a1e60ba2eccc27f
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43627460"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "44165907"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business-premium"></a>Acesso aos recursos no local a partir de um dispositivo azure ad-join no Microsoft 365 Business Premium
 
@@ -41,7 +41,7 @@ Os passos também são resumidos nas seguintes secções.
 
 Complete os seguintes passos para permitir que o Azure AD da sua organização tenha acesso aos recursos no local.
   
-1. Para sincronizar os seus utilizadores, grupos e contactos do Diretório Ativo local para o Diretório Ativo Azure, execute o assistente de sincronização do Diretório e o Azure AD Connect, conforme descrito na sincronização do diretório para o [Office 365](https://support.office.com/article/1b3b5318-6977-42ed-b5c7-96fa74b08846).
+1. Para sincronizar os seus utilizadores, grupos e contactos do Diretório Ativo local para o Diretório Ativo Azure, execute o assistente de sincronização do Diretório e o Azure AD Connect, conforme descrito na sincronização do diretório para o [Office 365](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization).
     
 2. Depois de concluída a sincronização do diretório, certifique-se de que os dispositivos Windows 10 da sua organização são Azure AD. Este passo é feito individualmente em cada dispositivo do Windows 10. Consulte a [configuração de dispositivos Windows para utilizadores do Microsoft 365 Business Premium](set-up-windows-devices.md) para obter mais detalhes. 
     
