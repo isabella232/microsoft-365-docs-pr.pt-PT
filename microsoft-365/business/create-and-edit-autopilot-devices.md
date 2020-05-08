@@ -25,40 +25,40 @@ search.appverid:
 - MOE150
 ms.assetid: 0f7b1d7c-4086-4331-8534-45d7886f9f34
 description: Saiba como carregar dispositivos usando o AutoPilot no Microsoft 365 Business Premium. Pode atribuir um perfil a um dispositivo ou a um grupo de dispositivos.
-ms.openlocfilehash: f2a7f801ae471352595a36b355a874b2de653326
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: 83c027cfe019e037518c4ca13eb331e5300fc2c1
+ms.sourcegitcommit: 46644f9778bc70ab6d62783e0a1e60ba2eccc27f
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43627400"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "44165867"
 ---
-# <a name="create-and-edit-autopilot-devices"></a><span data-ttu-id="80d49-104">Criar e editar dispositivos AutoPilot</span><span class="sxs-lookup"><span data-stu-id="80d49-104">Create and edit AutoPilot devices</span></span>
+# <a name="create-and-edit-autopilot-devices"></a><span data-ttu-id="e66d3-104">Criar e editar dispositivos AutoPilot</span><span class="sxs-lookup"><span data-stu-id="e66d3-104">Create and edit AutoPilot devices</span></span>
 
-## <a name="upload-a-list-of-devices"></a><span data-ttu-id="80d49-105">Carregar uma lista de dispositivos</span><span class="sxs-lookup"><span data-stu-id="80d49-105">Upload a list of devices</span></span>
+## <a name="upload-a-list-of-devices"></a><span data-ttu-id="e66d3-105">Carregar uma lista de dispositivos</span><span class="sxs-lookup"><span data-stu-id="e66d3-105">Upload a list of devices</span></span>
 
-<span data-ttu-id="80d49-106">Pode utilizar o [guia Passo a passo](add-autopilot-devices-and-profile.md) para carregar dispositivos, mas também pode carregar dispositivos no separador **Dispositivos.**</span><span class="sxs-lookup"><span data-stu-id="80d49-106">You can use the [Step-by-step guide](add-autopilot-devices-and-profile.md) to upload devices, but you can also upload devices in the **Devices** tab.</span></span> 
+<span data-ttu-id="e66d3-106">Pode utilizar o [guia Passo a passo](add-autopilot-devices-and-profile.md) para carregar dispositivos, mas também pode carregar dispositivos no separador **Dispositivos.**</span><span class="sxs-lookup"><span data-stu-id="e66d3-106">You can use the [Step-by-step guide](add-autopilot-devices-and-profile.md) to upload devices, but you can also upload devices in the **Devices** tab.</span></span> 
   
-<span data-ttu-id="80d49-107">Os dispositivos devem satisfazer estes requisitos:</span><span class="sxs-lookup"><span data-stu-id="80d49-107">Devices must meet these requirements:</span></span>
+<span data-ttu-id="e66d3-107">Os dispositivos devem satisfazer estes requisitos:</span><span class="sxs-lookup"><span data-stu-id="e66d3-107">Devices must meet these requirements:</span></span>
   
-- <span data-ttu-id="80d49-108">Windows 10, versão 1703 ou mais tarde</span><span class="sxs-lookup"><span data-stu-id="80d49-108">Windows 10, version 1703 or later</span></span>
+- <span data-ttu-id="e66d3-108">Windows 10, versão 1703 ou mais tarde</span><span class="sxs-lookup"><span data-stu-id="e66d3-108">Windows 10, version 1703 or later</span></span>
     
-- <span data-ttu-id="80d49-109">Novos dispositivos que não passaram pela experiência do Windows fora da caixa</span><span class="sxs-lookup"><span data-stu-id="80d49-109">New devices that haven't been through Windows out-of-box experience</span></span>
+- <span data-ttu-id="e66d3-109">Novos dispositivos que não passaram pela experiência do Windows fora da caixa</span><span class="sxs-lookup"><span data-stu-id="e66d3-109">New devices that haven't been through Windows out-of-box experience</span></span>
 
-1. <span data-ttu-id="80d49-110">No centro de administração da Microsoft 365, escolha **Dispositivos** \> **AutoPilot**.</span><span class="sxs-lookup"><span data-stu-id="80d49-110">In the Microsoft 365 admin center, choose **Devices** \> **AutoPilot**.</span></span>
+1. <span data-ttu-id="e66d3-110">No centro de administração da Microsoft 365, escolha **Dispositivos** \> **AutoPilot**.</span><span class="sxs-lookup"><span data-stu-id="e66d3-110">In the Microsoft 365 admin center, choose **Devices** \> **AutoPilot**.</span></span>
   
-2. <span data-ttu-id="80d49-111">Na página **AutoPilot,** escolha o \> separador **Dispositivos** **Adicionar dispositivos**.</span><span class="sxs-lookup"><span data-stu-id="80d49-111">On the **AutoPilot** page, choose the **Devices** tab \> **Add devices**.</span></span>
+2. <span data-ttu-id="e66d3-111">Na página **AutoPilot,** escolha o \> separador **Dispositivos** **Adicionar dispositivos**.</span><span class="sxs-lookup"><span data-stu-id="e66d3-111">On the **AutoPilot** page, choose the **Devices** tab \> **Add devices**.</span></span>
     
     ![In the Devices tab, choose Add devices.](../media/6ba81e22-c873-40ad-8a72-ce64d15ea6ba.png)
   
-3. <span data-ttu-id="80d49-113">No painel **adicionar dispositivos,** navegue para um [ficheiro CSV da lista de dispositivos](https://support.office.com/article/932e3676-2491-49f0-9177-d893d2f5276e) que preparou \> **Save** \> **Close**.</span><span class="sxs-lookup"><span data-stu-id="80d49-113">On the **Add devices** panel, browse to a [Device list CSV file](https://support.office.com/article/932e3676-2491-49f0-9177-d893d2f5276e) that you prepared \> **Save** \> **Close**.</span></span>
+3. <span data-ttu-id="e66d3-113">No painel **adicionar dispositivos,** navegue para um [ficheiro CSV da lista de dispositivos](https://docs.microsoft.com/microsoft-365/admin/misc/device-list) que preparou \> **Save** \> **Close**.</span><span class="sxs-lookup"><span data-stu-id="e66d3-113">On the **Add devices** panel, browse to a [Device list CSV file](https://docs.microsoft.com/microsoft-365/admin/misc/device-list) that you prepared \> **Save** \> **Close**.</span></span>
     
-    <span data-ttu-id="80d49-114">Pode obter esta informação do seu fornecedor de hardware, ou pode utilizar o [script Get-WindowsAutoPilotInfo PowerShell](https://www.powershellgallery.com/packages/Get-WindowsAutoPilotInfo) para gerar um ficheiro CSV.</span><span class="sxs-lookup"><span data-stu-id="80d49-114">You can get this information from your hardware vendor, or you can use the [Get-WindowsAutoPilotInfo PowerShell script](https://www.powershellgallery.com/packages/Get-WindowsAutoPilotInfo) to generate a CSV file.</span></span> 
+    <span data-ttu-id="e66d3-114">Pode obter esta informação do seu fornecedor de hardware, ou pode utilizar o [script Get-WindowsAutoPilotInfo PowerShell](https://www.powershellgallery.com/packages/Get-WindowsAutoPilotInfo) para gerar um ficheiro CSV.</span><span class="sxs-lookup"><span data-stu-id="e66d3-114">You can get this information from your hardware vendor, or you can use the [Get-WindowsAutoPilotInfo PowerShell script](https://www.powershellgallery.com/packages/Get-WindowsAutoPilotInfo) to generate a CSV file.</span></span> 
     
-## <a name="assign-a-profile-to-a-device-or-a-group-of-devices"></a><span data-ttu-id="80d49-115">Atribuir um perfil a um dispositivo ou a um grupo de dispositivos</span><span class="sxs-lookup"><span data-stu-id="80d49-115">Assign a profile to a device or a group of devices</span></span>
+## <a name="assign-a-profile-to-a-device-or-a-group-of-devices"></a><span data-ttu-id="e66d3-115">Atribuir um perfil a um dispositivo ou a um grupo de dispositivos</span><span class="sxs-lookup"><span data-stu-id="e66d3-115">Assign a profile to a device or a group of devices</span></span>
 
-1. <span data-ttu-id="80d49-116">Na página **Prepare o Windows,** escolha o separador **Dispositivos** e selecione a caixa de verificação ao lado de um ou mais dispositivos.</span><span class="sxs-lookup"><span data-stu-id="80d49-116">On the **Prepare Windows** page, choose the **Devices** tab, and select the check box next to one or more devices.</span></span> 
+1. <span data-ttu-id="e66d3-116">Na página **Prepare o Windows,** escolha o separador **Dispositivos** e selecione a caixa de verificação ao lado de um ou mais dispositivos.</span><span class="sxs-lookup"><span data-stu-id="e66d3-116">On the **Prepare Windows** page, choose the **Devices** tab, and select the check box next to one or more devices.</span></span> 
     
-2. <span data-ttu-id="80d49-117">No painel **Dispositivo**, selecione um perfil a partir do menu pendente **Perfil atribuído**.</span><span class="sxs-lookup"><span data-stu-id="80d49-117">On the **Device** panel, select a profile from the **Assigned profile** drop-down.</span></span> 
+2. <span data-ttu-id="e66d3-117">No painel **Dispositivo**, selecione um perfil a partir do menu pendente **Perfil atribuído**.</span><span class="sxs-lookup"><span data-stu-id="e66d3-117">On the **Device** panel, select a profile from the **Assigned profile** drop-down.</span></span> 
     
-    <span data-ttu-id="80d49-118">Se ainda não tiver perfis, consulte a secção [Criar e editar perfis AutoPilot](create-and-edit-autopilot-profiles.md) para obter instruções.</span><span class="sxs-lookup"><span data-stu-id="80d49-118">If you don't have any profiles yet, see [Create and edit AutoPilot profiles](create-and-edit-autopilot-profiles.md) for instructions.</span></span> 
+    <span data-ttu-id="e66d3-118">Se ainda não tiver perfis, consulte a secção [Criar e editar perfis AutoPilot](create-and-edit-autopilot-profiles.md) para obter instruções.</span><span class="sxs-lookup"><span data-stu-id="e66d3-118">If you don't have any profiles yet, see [Create and edit AutoPilot profiles](create-and-edit-autopilot-profiles.md) for instructions.</span></span> 
     
