@@ -17,17 +17,18 @@ ms.custom:
 - MiniMaven
 - MSB365
 - OKR_SMB_M365
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 6b70fa27-d171-4593-8ecf-f78bb4ed2e99
 description: Ver políticas e ações de dispositivos ao iniciar sessão na Microsoft 365 para negócios com credenciais de administração global.
-ms.openlocfilehash: e514b48c17de492bd1eaa75b48418ce0f2ff493e
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: f65365584d8b05f4df012d9f5727a74c33c06ae8
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43635690"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44403576"
 ---
 # <a name="view-and-manage-policies-and-devices"></a>Ver e gerir políticas e dispositivos
 
@@ -35,8 +36,8 @@ ms.locfileid: "43635690"
 
 ## <a name="view-and-edit-device-policies"></a>Ver e editar políticas de dispositivos
 
-1.  Vá ao centro de <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>administração em .
-2. Na navegação à esquerda, escolha **Políticas** **de Dispositivos** \> .
+1.  Vá ao centro de administração em <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> .
+2. Na navegação à esquerda, escolha Políticas **de Dispositivos** \> **Policies**.
 
     Nesta página, pode criar, editar, alterar grupo de destino ou apagar uma política.
 
