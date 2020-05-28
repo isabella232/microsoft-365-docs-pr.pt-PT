@@ -22,18 +22,19 @@ ms.custom:
 - MSB365
 - OKR_SMB_M365
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: 02e74022-44af-414b-9d74-0ebf5c2197f0
 description: Saiba como criar uma política de gestão de aplicações e proteja ficheiros de trabalho nos dispositivos pessoais do Windows 10 dos seus utilizadores.
-ms.openlocfilehash: bbfb07302f2d77f7e66301723d176cf053f79cc1
-ms.sourcegitcommit: 217de0fc54cbeaea32d253f175eaf338cd85f5af
+ms.openlocfilehash: c3e003205da30fa79069946960ef00e4195f0cbc
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42561346"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44386543"
 ---
 # <a name="set-application-protection-settings-for-windows-10-devices"></a>Configurar as definições de proteção de aplicações para dispositivos Windows 10
 
@@ -41,9 +42,9 @@ ms.locfileid: "42561346"
 
 Se os seus utilizadores tiverem dispositivos Windows 10 pessoais, nos quais realizam tarefas profissionais, também pode proteger os seus dados nesses dispositivos.
   
-1. Vá ao centro de <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>administração em . 
+1. Vá ao centro de administração em <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> . 
     
-2. No v à esquerda, escolha **Políticas de Dispositivos** \> **** \> **Adicionar**.
+2. No v à esquerda, escolha **Políticas de Dispositivos** \> **Policies** \> **Adicionar**.
 
 3. No painel **Adicionar política**, introduza um nome exclusivo para esta política. 
     
