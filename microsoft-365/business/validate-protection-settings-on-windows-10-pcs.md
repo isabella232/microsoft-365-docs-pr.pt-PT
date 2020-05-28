@@ -17,17 +17,18 @@ ms.custom:
 - Core_O365Admin_Migration
 - MSB365
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: fae8819d-7235-495f-9f07-d016f545887f
 description: Valide as definições de proteção de aplicações Do Microsoft 365 Business Premium em dispositivos Windows 10 e verifique que os utilizadores não podem copiar dados da empresa para ficheiros pessoais ou aplicações não geridas.
-ms.openlocfilehash: 20b2e43ae53486c046440ff1066d241ec9661888
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: 589d2fc25cc1425a775523595881660cc03e152e
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43635750"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44403396"
 ---
 # <a name="validate-app-protection-settings-on-windows-10-pcs"></a>Verificar definições de proteção de aplicações em PCs Windows 10
 
@@ -37,11 +38,11 @@ Depois de [configurar as políticas de proteção de aplicações](protection-se
   
  **Verificar definições de ligação**
   
-1. Depois de iniciar sessão com credenciais Microsoft 365 Business Premium e ligar-se ao Azure AD conforme descrito na Configuração de [dispositivos Windows para utilizadores Microsoft 365 Business Premium](set-up-windows-devices.md), vá para as contas **de Definições** \> **Accounts** \> do Windows **O trabalho ou a escola**. Selecione **Ligado ao Azure AD de \<nome do inquilino\>** e, em seguida, selecione **Informações**.
+1. Depois de iniciar sessão com credenciais Microsoft 365 Business Premium e ligar-se ao Azure AD conforme descrito na Configuração de [dispositivos Windows para utilizadores Microsoft 365 Business Premium](set-up-windows-devices.md), vá para as contas **de Definições do Windows** \> **Accounts** \> **O trabalho ou a escola**. Escolha **Ligado ao \<tenant name\> Azure AD**e, em seguida, escolha **Info**.
     
     ![Click or tap Info on the Connected to Azure AD dialog.](../media/a36ede2b-d1a0-4d4e-8ea7-af39b4b63890.png)
   
-2. Na página de \<nome\> do inquilino **gerida,** pode ver a **informação de Ligação** que inclui um Endereço de Servidor de **Gestão** como o mostrado na figura seguinte. 
+2. Na página **Managed by** \<tenant name\> page, pode ver a **informação de Ligação** que inclui um Endereço de Servidor de **Gestão** como o mostrado na figura seguinte. 
     
     ![Managed by page shows connection info of the device manager URL.](../media/47515a8e-2d0c-4bea-99f0-6b2545b88a11.png)
   
@@ -63,11 +64,11 @@ Depois de [configurar as políticas de proteção de aplicações](protection-se
 
  **Verificar definições de ligação**
   
-1. No seu dispositivo pessoal do Windows 10, onde está registado como utilizador local, aceda às **Definições do Windows**e clique ou toque em **Contas** \> Aceder ao **trabalho ou à escola.**
+1. No seu dispositivo pessoal do Windows 10, onde está registado como utilizador local, aceda às **Definições do Windows**e clique ou toque em **Contas** Aceder ao trabalho ou \> **à escola.**
     
 2. Em **Aceder a profiss./escolar**, selecione **Ligar**.
     
-3. Insira a sua credencial Microsoft 365 Business Premium na **Configuração de um diálogo** \> de conta de trabalho ou de conta escolar **.**
+3. Insira a sua credencial Microsoft 365 Business Premium na **Configuração de um diálogo** de conta de trabalho ou de conta escolar \> **.**
     
 4. Na página **Aceder a profiss./escolar**, selecione a opção **Conta escolar ou profissional** e, em seguida, selecione **Informações**.
     

@@ -19,17 +19,18 @@ ms.custom:
 - MSB365
 - OKR_SMB_M365
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 9b4de218-f1ad-41fa-a61b-e9e8ac0cf993
 description: Saiba como permitir que o Microsoft 365 proteja os dispositivos locais do Windows 10 em apenas alguns passos.
-ms.openlocfilehash: adc125c32fe5aa56be8c17c07f28316602a36594
-ms.sourcegitcommit: 46644f9778bc70ab6d62783e0a1e60ba2eccc27f
+ms.openlocfilehash: e7f83e620fbb43a478dba98f78d5f471a541aea7
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/08/2020
-ms.locfileid: "44165815"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44403064"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-for-business"></a>Ativar dispositivos Windows 10 unidos pelo domínio para ser gerido pelo Microsoft 365 para negócios
 

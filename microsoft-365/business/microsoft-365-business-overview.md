@@ -23,17 +23,18 @@ ms.custom:
 - TRN_M365B
 - OKR_SMB_Videos
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Conheça o Microsoft 365 Empresas Premium, um serviço de subscrição que inclui aplicações de produtividade do Office e proteção avançada contra ciberameaças para empresas.
-ms.openlocfilehash: 14f6acdec79323d1dfff836ba945bb3c29059a3e
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: 61f4c34ade180717486ce889162947afe9be7ba6
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43633229"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44402260"
 ---
 # <a name="overview-of-microsoft-365-business-premium"></a>Descrição geral do Microsoft 365 Empresas Premium
 

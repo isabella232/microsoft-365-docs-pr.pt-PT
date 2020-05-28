@@ -18,17 +18,18 @@ ms.custom:
 - MSB365
 - OKR_SMB_M365
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Conheça as funcionalidades de segurança que vêm com o Microsoft 365 Business Premium para ajudar a salvaguardar os seus dados em Computadores, telefones e tablets.
-ms.openlocfilehash: f6aef84afc76217161dee6b68d626128e0cc15b2
-ms.sourcegitcommit: 46644f9778bc70ab6d62783e0a1e60ba2eccc27f
+ms.openlocfilehash: 839b5481e27591e1762a0d8eb5623f279d6d22dd
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/08/2020
-ms.locfileid: "44165763"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44402720"
 ---
 # <a name="microsoft-365-business-premium-security-and-compliance-features"></a>Funcionalidades de segurança e conformidade do Microsoft 365 Business Premium
 
@@ -109,7 +110,7 @@ A subscrição do Microsoft 365 Business Premium inclui funcionalidades que o aj
 
    O Microsoft 365 Business Premium inclui todas as funcionalidades do Plano de [Proteção de Informação Azure 1](https://go.microsoft.com/fwlink/p/?linkid=871407). Com este plano, pode criar **etiquetas de sensibilidade** que lhe permitam controlar o acesso a informações sensíveis em e-mail e documentos, com controlos como "Não encaminhar" e "Não copiar". Também pode classificar informações sensíveis como "Confidenciais" e especificar como as informações classificadas podem ser partilhadas fora e dentro do negócio. A encriptação de nível empresarial é fácil de aplicar a e-mails e documentos para manter a sua informação privada. Também pode instalar o complemento de cliente de Proteção de Informação Azure para aplicações do Office. Para mais informações, consulte [o cliente de rotulagem unificado](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history)da Azure Information Protection . Para etiquetas de sensibilidade, instale o **AzInfoProtection_UL.exe**.
 
-Pode gerir estas funcionalidades &amp; no Centro de Conformidade de Segurança e no centro de administração Intune. Com o tempo, os controlos simplificados serão adicionados ao centro de administração da Microsoft 365.
+Pode gerir estas funcionalidades no Centro de Conformidade de Segurança &amp; e no centro de administração Intune. Com o tempo, os controlos simplificados serão adicionados ao centro de administração da Microsoft 365.
   
     
 ## <a name="faq"></a>FAQ
@@ -118,7 +119,7 @@ Pode gerir estas funcionalidades &amp; no Centro de Conformidade de Segurança e
   
 Sim, estas funcionalidades estão disponíveis em todos os mercados onde o Microsoft 365 Business Premium é vendido.
   
-### <a name="how-do-i-find-the-security-amp-compliance-center"></a>Como encontro o &amp; Centro de Conformidade de Segurança?
+### <a name="how-do-i-find-the-security-amp-compliance-center"></a>Como encontro o Centro de &amp; Conformidade de Segurança?
   
 1. [Inscreva-se no Microsoft 365 Business Premium](https://portal.microsoft.com/) utilizando as suas credenciais de administração. 
     
@@ -126,4 +127,4 @@ Sim, estas funcionalidades estão disponíveis em todos os mercados onde o Micro
     
     ![Na navegação à esquerda no centro de administração da Microsoft 365, escolha centros de administração.](../media/fa4484f8-c637-45fd-a7bd-bdb3abfd6c03.png)
   
-3. Escolha o Compliance de &amp; **Segurança &amp; ** para ir ao Centro de Conformidade de Segurança.
+3. Escolha o ** &amp; Compliance de Segurança** para ir ao Centro de Conformidade de &amp; Segurança.
