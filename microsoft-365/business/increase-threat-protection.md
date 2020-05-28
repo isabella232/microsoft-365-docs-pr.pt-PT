@@ -17,16 +17,17 @@ ms.custom:
 - MSB365
 - OKR_SMB_M365
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 description: Criar o Office 365 Advanced Threat Protection e salvaguardar dados sensíveis contra phishing, malware e outras ameaças.
-ms.openlocfilehash: 748868b07ac8759a66bac3c6b4165509270426a6
-ms.sourcegitcommit: 6007dbe2cf758c683de399f94023122c678bcada
+ms.openlocfilehash: 6fa4d1595c379aaccf3a0cbfca020fbd32376fb9
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44224477"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44400876"
 ---
 # <a name="increase-threat-protection"></a>Aumentar a proteção contra ameaças
 

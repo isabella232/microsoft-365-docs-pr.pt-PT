@@ -20,18 +20,19 @@ ms.custom:
 - MSB365
 - OKR_SMB_M365
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: 5cf7139e-cfa1-4765-8aad-001af1c74faa
 description: Aprenda a criar um perfil AutoPilot e aplicá-lo num dispositivo, bem como editar ou eliminar um perfil ou remover um perfil de um dispositivo.
-ms.openlocfilehash: a6e02ab56faeb08718a9831657b55cff0356a4ec
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: e58418813ed0b4d23a5fa7e1d23aae33d8850e7f
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43627380"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44400980"
 ---
 # <a name="create-and-edit-autopilot-profiles"></a>Criar e editar perfis AutoPilot
 
@@ -41,7 +42,7 @@ Um perfil aplica-se a um dispositivo ou grupo de dispositivos.
   
 1. No centro de administração da Microsoft 365, escolha **Dispositivos** \> **AutoPilot**.
   
-2. Na página **AutoPilot,** **Profiles** escolha o \> separador Perfis **Criar perfil**.
+2. Na página **AutoPilot,** escolha o separador **Perfis** \> **Criar perfil**.
     
 3. Na página de **perfil Criar,** introduza um nome para o perfil que o ajude a identificá-lo, por exemplo, marketing. Ligue a definição que deseja e, em seguida, escolha **Guardar**. Para obter mais informações sobre as definições de perfil autoPilot, consulte as definições de [perfil autopilot](autopilot-profile-settings.md).
     
@@ -53,7 +54,7 @@ Depois de criar um perfil, pode aplicá-lo a um dispositivo ou a um grupo de dis
   
 1. Na página **Preparar Windows**, selecione o separador **Dispositivos**. 
     
-2. Selecione a caixa de verificação ao lado de um nome de dispositivo e, no painel **dispositivo,** escolha um perfil da lista \> de abandono do **perfil atribuído** **Save**.
+2. Selecione a caixa de verificação ao lado de um nome de dispositivo e, no painel **dispositivo,** escolha um perfil da lista de abandono do **perfil atribuído** \> **Save**.
     
     ![In the Device panel, select an Assigned profile to apply it.](../media/ed0ce33f-9241-4403-a5de-2dddffdc6fb9.png)
   
@@ -65,7 +66,7 @@ Depois de atribuir um perfil a um dispositivo, pode atualizá-lo, mesmo se já t
 
 1. Na página **Preparar Windows**, selecione o separador **Perfis**. 
     
-2. Selecione a caixa de verificação ao lado de um nome \> de dispositivo e, no painel **Profile,** atualize qualquer uma das definições disponíveis **Guardar**.
+2. Selecione a caixa de verificação ao lado de um nome de dispositivo e, no painel **Profile,** atualize qualquer uma das definições disponíveis \> **Guardar**.
     
     Se o fizer antes de um utilizador ligar o dispositivo à Internet, o perfil será aplicado no processo de configuração.
     
@@ -73,7 +74,7 @@ Depois de atribuir um perfil a um dispositivo, pode atualizá-lo, mesmo se já t
 
 1. Na página **Preparar Windows**, selecione o separador **Perfis**. 
     
-2. Selecione a caixa de verificação ao lado de um nome de dispositivo e, no painel **profile,** selecione Eliminar o **perfil** \> **Save**.
+2. Selecione a caixa de verificação ao lado de um nome de dispositivo e, no painel **profile,** **selecione Eliminar** o perfil \> **Save**.
     
     Quando eliminar um perfil, o mesmo será removido do dispositivo ou grupo de dispositivos ao qual estava atribuído.
     
@@ -81,5 +82,5 @@ Depois de atribuir um perfil a um dispositivo, pode atualizá-lo, mesmo se já t
 
 1. Na página **Preparar Windows**, selecione o separador **Dispositivos**. 
     
-2. Selecione a caixa de verificação ao lado de um nome de dispositivo \> e, no painel **dispositivo,** escolha **nenhuma** da lista de abandono do **perfil atribuído** **Save**.
+2. Selecione a caixa de verificação ao lado de um nome de dispositivo e, no painel **dispositivo,** escolha **nenhuma** da lista de abandono do **perfil atribuído** \> **Save**.
     

@@ -16,17 +16,18 @@ ms.custom:
 - MSB365
 - OKR_SMB_M365
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 7770e280-3a6c-436f-a157-b008a2744f51
 description: Conheça os requisitos para a configuração da sua organização com o Microsoft 365 para negócios e proteção de dados de trabalho nos dispositivos dos seus utilizadores.
-ms.openlocfilehash: 02f7d32f0cd6ddcedcf21ea62bac7898e4c0f15a
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: e170f7ca4fb8373c9070bcbfc1783138c20422c1
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43633125"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44401348"
 ---
 # <a name="prerequisites-for-protecting-data-on-devices-with-microsoft-365-for-business"></a>Pré-requisitos para proteger dados em dispositivos com microsoft 365 para negócios
 

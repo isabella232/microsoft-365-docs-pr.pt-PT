@@ -18,18 +18,19 @@ ms.custom:
 - MSB365
 - OKR_SMB_M365
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 - MOE150
 ms.assetid: be5b6d90-3344-4c5e-bf40-5733eb845beb
 description: Saiba como utilizar o Windows AutoPilot para configurar novos dispositivos Windows 10 para o seu negócio, para que estejam prontos para uso dos colaboradores.
-ms.openlocfilehash: de14012ebf9e7cdd22e41505f316ab665773c670
-ms.sourcegitcommit: 46644f9778bc70ab6d62783e0a1e60ba2eccc27f
+ms.openlocfilehash: efcb5442b34d2d42275cedc30e71ac98c7ea1266
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/08/2020
-ms.locfileid: "44165887"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44401100"
 ---
 # <a name="use-the-step-by-step-guide-to-add-autopilot-devices-and-profile"></a>Utilizar o guia passo a passo para adicionar perfis e dispositivos Autopilot
 
@@ -49,7 +50,7 @@ Os dispositivos devem satisfazer estes requisitos:
 
 Se ainda não criou grupos de dispositivos ou perfis, a melhor maneira de começar é utilizando o guia passo a passo. Também pode [adicionar dispositivos](create-and-edit-autopilot-devices.md) e [atribuir-lhes perfis](create-and-edit-autopilot-profiles.md) sem utilizar o guia. 
   
-1. Vá ao centro de <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>administração em .
+1. Vá ao centro de administração em <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> .
 
 2. No painel de navegação à esquerda, escolha **Dispositivos** \> **AutoPilot**.
 

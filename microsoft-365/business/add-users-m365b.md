@@ -21,17 +21,18 @@ ms.custom:
 - TRN_M365B
 - OKR_SMB_Videos
 - seo-marvel-mar
+- AdminSurgePortfolio
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 96153102-1db1-4df8-bca5-38cea80b65ce
 description: Aprenda os passos para adicionar facilmente novos utilizadores, proteger os seus dispositivos e atribuir funções no Microsoft 365 Business Premium.
-ms.openlocfilehash: d57f7470d53a6c80e04872726c634f67f091fb0d
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: 9d2efe62ed1c48df5c10a765b8d3499934e6aebd
+ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43627480"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "44401080"
 ---
 # <a name="add-more-users"></a>Adicionar mais utilizadores
 
@@ -41,12 +42,12 @@ Veja um pequeno vídeo sobre a adição de um utilizador. <br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FOfN] 
 
-Caso tenha considerado este vídeo útil, consulte a [série de formação completa para pequenas empresas e as novidades do Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+Caso tenha considerado este vídeo útil, veja a [série de formação completa para pequenas empresas e as novidades do Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
 Para adicionar um utilizador:
 
-1. Vá ao centro de <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a>administração em . 
-2. No painel de navegação à esquerda, escolha **utilizadores Ativos** **de Utilizadores** \> .
+1. Vá ao centro de administração em <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> . 
+2. No painel de navegação à esquerda, escolha utilizadores Ativos de **Utilizadores** \> **Active users**.
 3. Na página **de utilizadores Ativos,** escolha **Adicionar um utilizador**.
 4. No novo painel de **utilizadores,** digite as informações necessárias. 
   
