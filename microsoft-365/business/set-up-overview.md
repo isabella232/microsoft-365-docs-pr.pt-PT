@@ -26,13 +26,13 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
-description: Conheça os passos de configuração do Microsoft 365 Business Premium, desde a subscrição, à adição de um domínio e utilizadores, à criação de políticas de segurança, e muito mais.
-ms.openlocfilehash: 80243fac6ca2efcfca030b6ee1c1113c026a80ce
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+description: Aprenda os passos de configuração para o Microsoft 365 Business Premium, desde a subscrição, até adicionar um domínio e utilizadores, até à configuração de políticas de segurança, e muito mais.
+ms.openlocfilehash: 4670344263ceb64a32962dfa6eb9c1644e61541d
+ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44402984"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44470531"
 ---
 # <a name="overview-of-setup"></a>Visão geral da configuração
 
@@ -42,56 +42,56 @@ Veja um pequeno vídeo sobre a configuração do Microsoft 365 Business Premium.
 
 Caso tenha considerado este vídeo útil, veja a [série de formação completa para pequenas empresas e as novidades do Microsoft 365](https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
-A maioria dos passos de configuração podem ser feitos no assistente de configuração, mas as outras opções também estão listadas.
+A maioria dos passos de configuração pode ser feito no assistente de configuração, mas as outras opções também estão listadas.
 
-## <a name="step-1-add-your-domain-and-users"></a>Passo 1: Adicione o seu domínio e os utilizadores
+## <a name="step-1-add-your-domain-and-users"></a>Passo 1: Adicione o seu domínio e os seus utilizadores
 
-   - **[Adicione o seu domínio](set-up.md#add-your-domain-to-personalize-sign-in)** (se comprou o seu domínio durante a [inscrição,](sign-up.md)este passo já está feito.)
+   - **[Adicione o seu domínio](set-up.md#add-your-domain-to-personalize-sign-in)** (se comprou o seu domínio durante [a inscrição,](sign-up.md)este passo já está feito.)
 
-    - **Adicione utilizadores**. Pode adicionar utilizadores de qualquer uma das três formas:
-        - No [feiticeiro.](set-up.md#add-users-in-the-wizard)
-        - Utilize a sincronização do diretório para [adicionar utilizadores utilizando o Azure AD Connect](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization) se tiver um diretório Ativo no local.
+   - **Adicione os utilizadores**. Pode adicionar utilizadores de qualquer uma das três formas:
+        - No [assistente.](set-up.md#add-users-in-the-wizard)
+        - Utilize a sincronização do diretório para [adicionar utilizadores utilizando o Azure AD Connect](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization) se tiver um diretório ativo no local.
         - Também pode [adicionar utilizadores mais tarde](add-users-m365b.md) no centro de administração.
 ## <a name="step-2-set-up-security-policies-and-configure-devices"></a>Passo 2: Configurar políticas de segurança e configurar dispositivos 
 
-  - Utilize o assistente de [configuração](set-up.md#protect-your-organization) para configurar as políticas do dispositivo. 
-  - Também pode adicioná-los mais ou editá-los mais tarde no [centro de administração](view-policies-and-devices.md) e no [portal Intune](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal).
-  - O assistente de configuração também criará definições básicas de proteção contra ameaças e prevenção de perdas de dados.
+  - Utilize o [assistente de configuração](set-up.md#protect-your-organization) para configurar as políticas do dispositivo. 
+  - Também pode adicionar mais ou editá-los mais tarde no [centro de administração](view-policies-and-devices.md) e no [portal Intune.](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal)
+  - O assistente de configuração também configurará definições básicas de proteção contra ameaças e prevenção de perdas de dados.
   
   Além das definições de segurança no assistente de configuração, pode aumentar a sua segurança adicionando as seguintes definições:
 
-- **Proteção por e-mail de malware**
-- **ATP anti-phishing**
+- **Proteção de malware de e-mail**
+- **Anti-phishing ATP**
 - **Arquivo do Exchange Online**
 - **Proteção da Informação Azure (Plano 1)**
 
-Para começar, consulte aumentar a [proteção contra ameaças](increase-threat-protection.md) e [configurar as funcionalidades de conformidade.](set-up-compliance.md)
+Para começar, consulte [aumentar a proteção contra ameaças](increase-threat-protection.md) e [configurar funcionalidades de conformidade](set-up-compliance.md).
 
-Consulte também [as 10 melhores formas de garantir o seu Microsoft 365 Business Premium](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) para um roteiro das melhores práticas de segurança.
+Consulte também [as 10 melhores formas de garantir o microsoft 365 Business Premium](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) para um roteiro de boas práticas de segurança.
 
-## <a name="step-3-set-up-and-manage-windows-10-devices"></a>Passo 3: Configurar e gerir dispositivos windows 10
+## <a name="step-3-set-up-and-manage-windows-10-devices"></a>Passo 3: Configurar e gerir dispositivos do Windows 10
 
-Depois de executar o assistente de configuração, vai querer procectar todos os computadores Windwos 10 da sua organização.
+Depois de executar o assistente de configuração, vai querer proctitar todos os computadores Windwos 10 da sua organização.
   
 - O Windows 10 Pro é um [pré-requisito](pre-requisites-for-data-protection.md) para o Microsoft 365 Business Premium, mas se tiver o Windows 7 Pro, Windows 8 Pro ou Windows 8.1 Pro, a sua subscrição dá-lhe direito a um [upgrade para o Windows 10 Pro](https://docs.microsoft.com/microsoft-365/business/upgrade-to-windows-pro-creators-update).
-- Siga os passos em [Computadores Seguros do Windows 10](secure-win-10-pcs.md) para definir políticas para dispositivos Windows 10.
+- Siga os passos em [PCs seguros do Windows 10](secure-win-10-pcs.md) para configurar políticas para dispositivos Windows 10.
 
-Quando se junta a um dispositivo Windows 10 para o Azure AD, as políticas definidas para computadores Windows 10 são aplicadas ao mesmo. Para mais informações, consulte [A configuração de dispositivos Windows para utilizadores do Microsoft 365](set-up-windows-devices.md).
+Quando se junta um dispositivo Do Windows 10 ao Azure AD, as políticas que definiu para computadores Windows 10 são aplicadas ao mesmo. Para obter mais informações, consulte [configurar dispositivos Windows para utilizadores microsoft 365](set-up-windows-devices.md).
 
-## <a name="step-4-install-microsoft-365-apps-for-business"></a>Passo 4: Instale as Aplicações Microsoft 365 para negócios
-- Pode instalar automaticamente o Office nos dispositivos Windows utilizando o assistente de [configuração](set-up.md#deploy-office-365-client-apps).
-- Deixe os utilizadores [instalarem aplicações do Office](https://docs.microsoft.com/office365/admin/setup/install-applications) para Windows e dispositivos.
+## <a name="step-4-install-microsoft-365-apps-for-business"></a>Passo 4: Instalar aplicações microsoft 365 para negócios
+- Pode instalar automaticamente o Office nos dispositivos Windows utilizando o [assistente de configuração](set-up.md#deploy-office-365-client-apps).
+- Deixe que os utilizadores [instalem aplicações do Office](https://docs.microsoft.com/office365/admin/setup/install-applications) para Windows e dispositivos.
      
 ## <a name="advanced"></a>Avançado
-- **Utilize o Autopilot para configurar novos dispositivos**
+- **Use o Autopilot para configurar novos dispositivos**
             
-     Pode utilizar o [Windows Autopilot](add-autopilot-devices-and-profile.md) para configurar automaticamente **novos** dispositivos Windows 10 para um utilizador, mas pode ser mais fácil conseguir um [parceiro](https://www.microsoft.com/solution-providers/search) que possa fazê-lo por si. Também pode ir à [Microsoft Store](https://go.microsoft.com/fwlink/?linkid=874598)e pedir a um especialista em tecnologia na nuvem que crie novos dispositivos que adquira.
+     Pode utilizar [o Windows Autopilot](add-autopilot-devices-and-profile.md) para configurar automaticamente **novos** dispositivos Windows 10 para um utilizador, mas pode ser mais fácil obter um [parceiro](https://www.microsoft.com/solution-providers/search) que possa fazê-lo por si. Também pode ir à [Microsoft Store](https://go.microsoft.com/fwlink/?linkid=874598)e pedir a um especialista em tecnologia na nuvem para configurar novos dispositivos que compra.
 
 - **Acesso aos recursos no local**
 
-     - Se a sua organização utilizar o Diretório Ativo do Windows Server no local, pode configurar o Microsoft 365 Business Premium para proteger os seus dispositivos Windows 10, mantendo ao mesmo tempo o acesso aos recursos no local que requerem autenticação local. Siga os passos em dispositivos Enable [do Windows 10 que serão geridos pelo Microsoft 365 Business Premium](manage-windows-devices.md) para configurar este. Este é o método preferido, e os dispositivos neste estado são chamados dispositivos híbridos Azure AD.
+     - Se a sua organização utilizar o Windows Server Ative Directory no local, pode configurar o Microsoft 365 Business Premium para proteger os seus dispositivos Windows 10, mantendo ao mesmo tempo o acesso a recursos no local que requerem autenticação local. Siga os passos em [Ativar dispositivos do Windows 10 que se juntam ao domínio para serem geridos pelo Microsoft 365 Business Premium](manage-windows-devices.md) para configurar isto. Este é o método preferido, e os dispositivos neste estado são chamados dispositivos híbridos Azure AD.
 
-    - Se o seu negócio tiver um Diretório Ativo local que contenha alguns recursos no local (como ações de ficheiros e impressoras), pode dar aos seus dispositivos ad-ad-join acesso a esses recursos seguindo os passos aqui: [Aceder aos recursos no local a partir de um dispositivo azure ad-join no Microsoft 365 Business Premium](access-resources.md).
+    - Se o seu negócio tiver um Ative Directory local que contenha alguns recursos no local (como partilhas de ficheiros e impressoras), pode dar aos seus dispositivos AD ad-ad a estes recursos seguindo os passos aqui: [Aceda aos recursos no local a partir de um dispositivo aderido a Ad AZure no Microsoft 365 Business Premium.](access-resources.md)
 
 ## <a name="see-also"></a>Consulte também
 

@@ -27,21 +27,23 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 52089919-9a5e-475f-a49a-f65369487861
-description: 'Conheça a configuração padrão e adicione políticas de gestão de aplicações para proteger os dados da empresa nos dispositivos móveis pessoais dos utilizadores. '
-ms.openlocfilehash: 1d76b8fde6db4cf99d29fcfff000c20f0e7c18fe
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+description: 'Saiba mais sobre a configuração padrão e adicione políticas de gestão de aplicações para proteger os dados da empresa nos dispositivos móveis pessoais dos utilizadores. '
+ms.openlocfilehash: 6dd6bc5c16ffbbd6ed62f16ad11e1eeb8e06a193
+ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44401288"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44470913"
 ---
 # <a name="protect-work-files-on-devices"></a>Proteger ficheiros de trabalho em dispositivos
 
-No mundo de hoje, os utilizadores estão ligados aos seus dispositivos, e à medida que a vida pessoal e profissional colidem, os dados da sua empresa podem acabar no dispositivo pessoal de um funcionário. As definições que configurar aqui podem ajudá-lo a retomar o controlo e a proteger ficheiros de trabalho sem afetar quaisquer definições ou dados pessoais dos utilizadores.
+Este artigo aplica-se ao Microsoft 365 Business Premium.
+
+No mundo de hoje, os utilizadores estão ligados aos seus dispositivos, e à medida que a vida pessoal e profissional colidem, os dados da sua empresa podem acabar no dispositivo pessoal de um colaborador. As definições que configurar aqui podem ajudá-lo a retomar o controlo e a proteger ficheiros de trabalho sem afetar quaisquer definições ou dados pessoais dos utilizadores.
   
 ## <a name="configuring-policies-during-setup"></a>Configurar políticas durante a configuração
 
-Durante a configuração, serão adicionadas três políticas de gestão de aplicações, uma para cada tipo de dispositivo: Android, iOS e Windows 10. Cada política tem as mesmas definições e aplicam-se a todos os utilizadores. As políticas são ativadas quando o utilizador ligar a sua conta profissional ao telemóvel.
+Durante a configuração, serão adicionadas três políticas de gestão de aplicações, uma para cada tipo de dispositivo: Android, iOS e Windows 10. Cada política tem as mesmas definições e aplica-se a todos os utilizadores. As políticas são ativadas quando o utilizador ligar a sua conta profissional ao telemóvel.
   
 Recomendamos que aceite a configuração predefinida durante o processo de configuração. Depois de a configuração estar concluída, poderá adicionar mais políticas que lhe permitam ajustar a configuração e aplicar diferentes níveis de controlo para grupos de utilizadores específicos.
   

@@ -29,14 +29,16 @@ search.appverid:
 - MOE150
 ms.assetid: 02e74022-44af-414b-9d74-0ebf5c2197f0
 description: Saiba como criar uma política de gestão de aplicações e proteja ficheiros de trabalho nos dispositivos pessoais do Windows 10 dos seus utilizadores.
-ms.openlocfilehash: c3e003205da30fa79069946960ef00e4195f0cbc
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: df10470c6bd7aad2f35700a267c4d24d949f569c
+ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44386543"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44470873"
 ---
 # <a name="set-application-protection-settings-for-windows-10-devices"></a>Configurar as definições de proteção de aplicações para dispositivos Windows 10
+
+Este artigo aplica-se ao Microsoft 365 Business Premium.
 
 ## <a name="create-an-app-management-policy-for-windows-10"></a>Criar uma política de gestão de aplicações para Windows 10
 
@@ -44,27 +46,27 @@ Se os seus utilizadores tiverem dispositivos Windows 10 pessoais, nos quais real
   
 1. Vá ao centro de administração em <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> . 
     
-2. No v à esquerda, escolha **Políticas de Dispositivos** \> **Policies** \> **Adicionar**.
+2. No navegador esquerdo, escolha **Políticas de Dispositivos** \> **Policies** \> **Adicionar**.
 
 3. No painel **Adicionar política**, introduza um nome exclusivo para esta política. 
     
 4. Em **Tipo de política**, selecione **Gestão de Aplicações para Windows 10**.
     
-5. No **tipo de Dispositivo,** escolha **pessoal** ou propriedade **da empresa**.
+5. Sob **o tipo dispositivo**, escolha **pessoal** ou **empresa própria.**
     
 6. A opção **Encriptar ficheiros de trabalho** é ativada automaticamente. 
     
 7. Defina **Impedir que os utilizadores copiem os dados da empresa para ficheiros pessoais e obrigá-los a guardar os ficheiros de trabalho no OneDrive para Empresas** como **Ativado** se não pretender que os utilizadores guardem ficheiros de trabalho nos respetivos PCs. 
     
-9. Expandir **dados de recuperação em dispositivos Windows**. Recomendamos que **ligue.**
+9. Expandir **Recuperar dados em dispositivos Windows**. Recomendamos que **o**ligue.
     
-    Antes de poder aceder à localização do certificado de Agente de Recuperação de Dados, tem de criar um. Para obter instruções, consulte Criar e verificar um certificado de Agente de Recuperação de [Dados (EFS) do Sistema de Ficheiros Encriptadores (EFS).](https://go.microsoft.com/fwlink/p/?linkid=853700)
+    Antes de poder aceder à localização do certificado de Agente de Recuperação de Dados, tem de criar um. Para obter instruções, consulte [Criar e verificar um certificado de Agente de Recuperação de Dados (EFS) do Sistema de Recolha de Dados encriptante (EFS).](https://go.microsoft.com/fwlink/p/?linkid=853700)
     
-    Por predefinição, os ficheiros de trabalho são encriptados com uma chave secreta que é armazenada no dispositivo e é associada ao perfil do utilizador. Apenas o utilizador pode abrir e desencriptar o ficheiro. No entanto, se um dispositivo for perdido ou um utilizador for removido, um ficheiro pode ficar bloqueado num estado encriptado. Um administrador pode usar o certificado do Agente de Recuperação de Dados (DRA) para desencriptar o ficheiro.
+    Por predefinição, os ficheiros de trabalho são encriptados com uma chave secreta que é armazenada no dispositivo e é associada ao perfil do utilizador. Apenas o utilizador pode abrir e desencriptar o ficheiro. No entanto, se um dispositivo for perdido ou um utilizador for removido, um ficheiro pode ficar bloqueado num estado encriptado. Um administrador pode usar o certificado de Agente de Recuperação de Dados (DRA) para desencriptar o ficheiro.
     
     ![Browse to Data Recovery Agent certificate.](../media/7d7d664f-b72f-4293-a3e7-d0fa7371366c.png)
   
-10. Expandir **Proteja localizações adicionais** de rede e cloud se pretender adicionar domínios adicionais ou localizações Do SharePoint Online para garantir que os ficheiros em todas as aplicações listadas estão protegidos. Se precisar de introduzir mais do que um item em cada campo, utilize ponto e vírgula (;) entre os itens.
+10. **Expanda-se Proteger localizações adicionais de rede e nuvem** se pretender adicionar domínios adicionais ou localizações online do SharePoint para garantir que os ficheiros em todas as aplicações listadas estão protegidos. Se precisar de introduzir mais do que um item em cada campo, utilize ponto e vírgula (;) entre os itens.
     
     ![Expand Protect additional network and cloud locations, and enter domains or SharePoint Online sites you own.](../media/7afaa0c7-ba53-456d-8c61-312c45e09625.png)
   

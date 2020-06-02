@@ -26,17 +26,19 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 21e5551f-fa35-4f13-9418-f80d668b6a2b
-description: Saiba configurar as definições da política de dispositivos predefinidos que qualquer dispositivo do Windows 10 receberá ao iniciar sessão no seu trabalho ou conta escolar.
-ms.openlocfilehash: 7714a6e47de8a254d836ca2e158b92907b87f8c3
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+description: Saiba como configurar as definições da política do dispositivo predefinido que qualquer dispositivo Do Windows 10 receberá ao iniciar sessão na sua conta de trabalho ou escola.
+ms.openlocfilehash: 03ae86861ddb0cb83cd39b7834f19e01bf3e99e2
+ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44402740"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44470633"
 ---
 # <a name="secure-windows-10-devices"></a>Proteger dispositivos Windows 10
 
-As definições que configurar aqui fazem parte da política de dispositivos predefinida para o Windows 10. Todos os utilizadores que conectem um dispositivo Windows 10, incluindo dispositivos móveis e Computadores, ao iniciarem sessão com a sua conta de trabalho receberão automaticamente estas definições. Recomendamos que aceite a política predefinida durante a configuração e que adicione políticas destinadas a grupos de utilizadores específicos mais tarde.
+Este artigo aplica-se ao Microsoft 365 Business Premium.
+
+As definições que configurar aqui fazem parte da política de dispositivos predefinida para o Windows 10. Todos os utilizadores que liguem um dispositivo Windows 10, incluindo dispositivos móveis e Computadores, ao iniciar sessão com a sua conta de trabalho receberão automaticamente estas definições. Recomendamos que aceite a política predefinida durante a configuração e que adicione políticas destinadas a grupos de utilizadores específicos mais tarde.
   
 ## <a name="settings-to-secure-windows-10-devices"></a>Definições para proteger dispositivos Windows 10
 
@@ -49,7 +51,7 @@ Por predefinição, todas as definições estão **Ativadas**. As seguintes defi
 |Ajudar a proteger os PCs contra ameaças baseadas na Web no Microsoft Edge  <br/> |Ativa as definições no Microsoft Edge que ajudam a proteger os utilizadores contra transferências e sites maliciosos.  <br/> |
 |Desligar o ecrã do dispositivo quando estiver inativo durante este período de tempo  <br/> |Garante que os dados da empresa são protegidos se um utilizador estiver inativo. É possível que um utilizador esteja a trabalhar num local público, como um café e se afaste ou distraia por um momento, deixando o dispositivo vulnerável a olhares alheios. Esta definição permite-lhe controlar quanto tempo um utilizador pode estar inativo antes de o ecrã se desligar.  <br/> |
 |Permitir que os utilizadores transfiram aplicações da Microsoft Store  <br/> |Permite que os utilizadores transfiram e instalem aplicações da Microsoft Store. As aplicações incluem tudo, desde jogos a ferramentas de produtividade, pelo que deixamos esta definição **Ativada**, embora a possa desativar para garantir uma segurança adicional.  <br/> |
-|Permitir que os utilizadores acedam à Cortana  <br/> |A Cortana pode ser bastante útil! A Cortana pode ligar ou desligar as definições para si, dar instruções e certificar-se de que está a tempo de marcar consultas, por isso mantemos esta definição **por** defeito.  <br/> |
+|Permitir que os utilizadores acedam à Cortana  <br/> |A Cortana pode ser bastante útil! Cortana pode ligar ou desligar as definições para si, dar instruções e certificar-se de que está a tempo para marcações, por isso mantemos esta definição **por** predefinição.  <br/> |
 |Permitir que os utilizadores recebam sugestões e anúncios da Microsoft acerca do Windows  <br/> |As sugestões do Windows podem ser úteis e ajudar a orientar os utilizadores quando são lançadas novas versões.  <br/> |
 |Manter os dispositivos Windows 10 atualizados automaticamente  <br/> |Garante que os dispositivos Windows 10 recebem automaticamente as atualizações mais recentes.  <br/> |
    

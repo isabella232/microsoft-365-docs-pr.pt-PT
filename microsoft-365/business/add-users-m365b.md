@@ -27,14 +27,16 @@ search.appverid:
 - MET150
 ms.assetid: 96153102-1db1-4df8-bca5-38cea80b65ce
 description: Aprenda os passos para adicionar facilmente novos utilizadores, proteger os seus dispositivos e atribuir funções no Microsoft 365 Business Premium.
-ms.openlocfilehash: 9d2efe62ed1c48df5c10a765b8d3499934e6aebd
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: bb5c3ffe29448437b6c369fc770281aca3355ee7
+ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44401080"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44471225"
 ---
 # <a name="add-more-users"></a>Adicionar mais utilizadores
+
+Este artigo aplica-se ao Microsoft 365 Business Premium.
 
 ## <a name="add-new-users"></a>Adicionar novos utilizadores
 
@@ -47,17 +49,17 @@ Caso tenha considerado este vídeo útil, veja a [série de formação completa 
 Para adicionar um utilizador:
 
 1. Vá ao centro de administração em <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> . 
-2. No painel de navegação à esquerda, escolha utilizadores Ativos de **Utilizadores** \> **Active users**.
-3. Na página **de utilizadores Ativos,** escolha **Adicionar um utilizador**.
-4. No novo painel de **utilizadores,** digite as informações necessárias. 
+2. No painel de navegação à esquerda, escolha **utilizadores ativos dos** \> **Utilizadores.**
+3. Na página de **utilizadores Ative,** escolha **Adicionar um utilizador**.
+4. No novo painel **de utilizadores,** digite as informações necessárias. 
   
-    Pode introduzir mais informações em informações de **contacto,** escolher como definir a palavra-passe sob a definição de **Palavra-passe** e atribuir funções em **Funções**.
+    Pode introduzir mais informações sob **informações de contacto,** escolher como define a palavra-passe na definição **de Palavra-passe** e atribuir funções em **Funções**.
       
     ![Enter user information in the New user card](../media/f04d39ca-48be-4868-8330-8552a4754c8b.png)
       
-    Na secção de licenças do Produto, defina a definição da licença de produto **Microsoft 365 Business Premium** para **On**.
+    Na secção de licenças de produto, defina a definição de licença de produto **Microsoft 365 Business Premium** para **On**.
       
     ![Set the license setting to On position](../media/7404f7f7-93bc-44a3-9ffb-4208b5b17402.png)
   
-Para obter mais informações sobre a adição de utilizadores, consulte [Adicionar utilizadores individualmente ou a granel](https://docs.microsoft.com/office365/admin/add-users/add-users).
+Para obter mais informações sobre a adição de utilizadores, consulte [adicionar os utilizadores individualmente ou a granel.](https://docs.microsoft.com/office365/admin/add-users/add-users)
   
