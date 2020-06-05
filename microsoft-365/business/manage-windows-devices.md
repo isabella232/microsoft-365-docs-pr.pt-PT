@@ -1,7 +1,7 @@
 ---
 title: Permitir que dispositivos Windows 10 unidos por domínio sejam geridos pela Microsoft 365 para negócios
 f1.keywords:
-- NOCSH
+- CSH
 ms.author: sirkkuw
 author: Sirkkuw
 manager: scotv
@@ -23,14 +23,13 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-ms.assetid: 9b4de218-f1ad-41fa-a61b-e9e8ac0cf993
 description: Saiba como permitir que o Microsoft 365 proteja os dispositivos locais do Windows 10, aderidos ao Active-Directory, em apenas alguns passos.
-ms.openlocfilehash: 7bfe5da8701a17712fa249eac99a22b8d5a1b2d1
-ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
+ms.openlocfilehash: 857651081fb10856d28dd419333ebef655388407
+ms.sourcegitcommit: e6e704cbd9a50fc7db1e6a0cf5d3f8c6cbb94363
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44471053"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "44564958"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business-premium"></a>Permitir que dispositivos Windows 10 unidos por domínio sejam geridos pelo Microsoft 365 Business Premium
 
@@ -42,48 +41,92 @@ Este vídeo descreve os passos para como configurar isto para o cenário mais co
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3C9hO]
   
 
-## <a name="1-prepare-for-directory-synchronization"></a>1. Preparar para a sincronização do diretório 
+## <a name="before-you-get-started-make-sure-you-complete-these-steps"></a>Antes de começar, certifique-se de completar estes passos:
+- Sincronizar os utilizadores para Azure AD com Azure AD Connect.
+- Sincronização completa da Unidade Organizacional de Ligação Azure (OU).
+- Certifique-se de que todos os utilizadores de domínio sincronizados têm licenças para o Microsoft 365 Business Premium.
 
-Antes de sincronizar os seus utilizadores e computadores a partir do domínio do Diretório Ativo local, [reveja Prepare-se para sincronização de diretórios para o Office 365](https://docs.microsoft.com/office365/enterprise/prepare-for-directory-synchronization). Em particular:
+Consulte [os utilizadores de domínio sincronizados com a Microsoft](manage-domain-users.md) para os passos.
 
-   - Certifique-se de que não existem duplicados no seu diretório para os seguintes atributos: **correio,** **proxyAddresses**e **userPrincipalName**. Estes valores devem ser únicos e quaisquer duplicados devem ser removidos.
-   
-   - Recomendamos que configuure o atributo **userPrincipalName** (UPN) para cada conta de utilizador local para corresponder ao endereço de e-mail primário que corresponde ao utilizador licenciado microsoft 365. Por exemplo: *mary.shelley@contoso.com* em vez *de mary@contoso.local*
-   
-   - Se o domínio ative Directory terminar num sufixo não-encaminhável como *.local* ou *.lan*, em vez de um sufixo de internet rotable como *.com* ou *.org*, ajuste o sufixo UPN das contas de utilizador locais primeiro como descrito na [Prepare um domínio não-encaminhável para sincronização de diretórios](https://docs.microsoft.com/office365/enterprise/prepare-a-non-routable-domain-for-directory-synchronization). 
+## <a name="1-verify-mdm-authority-in-intune"></a>1. Verificar a Autoridade MDM em Intune
 
-## <a name="2-install-and-configure-azure-ad-connect"></a>2. Instalar e configurar a Azure AD Connect
+Vá a portal.azure.com e no topo da pesquisa de página para Intune.
+Na página Microsoft Intune, selecione **a inscrição** do Dispositivo e na página **'Vista Geral'** certifique-se de que **a autoridade MDM** é **Intune**.
 
-Para sincronizar os seus utilizadores, grupos e contactos do Diretório Ativo local no Azure Ative Directory, instale o Azure Ative Directory Connect e crie sincronização de diretórios. Consulte [a sincronização do diretório configurado para o Office 365](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization) para saber mais.
+- Se **a autoridade do MDM** não for **nenhuma,** clique na **autoridade do MDM** para defini-la para **Intune**.
+- Se **a autoridade do MDM** for o Microsoft Office **365,** vá aos **Devices**  >  **dispositivos de inscrição** de dispositivos e use o diálogo **da autoridade Add MDM** no direito de adicionar a autoridade **Intune MDM** (o diálogo da Autoridade add **MDM** só está disponível se a **Autoridade MDM** estiver definida para o Microsoft Office 365).
 
-> [!NOTE]
-> Os passos são exatamente os mesmos para o Microsoft 365 para negócios. 
+## <a name="2-verify-azure-ad-is-enabled-for-joining-computers"></a>2. Verifique se a Azure AD está ativada para unir computadores
 
-Ao configurar as suas opções para Azure AD Connect, recomendamos que ative a **sincronização de passwords**, **o Sign-On único sem emenda**e a funcionalidade de writeback de **palavra-passe,** que também é suportada no Microsoft 365 para negócios.
+- Vá ao centro de administração <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a> e selecione **Azure Ative Directory** (selecione Mostrar tudo se o Diretório Ativo Azure não estiver visível) na lista de **centros de administração.** 
+- No **centro de administração Azure Ative,** vá ao **Azure Ative Directory,** escolha **Dispositivos** e, em seguida, **configurações do Dispositivo**.
+- Verifique se**os utilizadores podem juntar-se a dispositivos para Azure AD** está ativado 
+    1. Para ativar todos os utilizadores, desa um pouco de **tudo**.
+    2. Para permitir utilizadores específicos, desatado para **selecionar** para permitir um grupo específico de utilizadores.
+        - Adicione os utilizadores de domínio desejado sincronizados em Azure AD a um [grupo de segurança](../admin/create-groups/create-groups.md).
+        - Escolha **Grupos Selecionados** para ativar o âmbito do utilizador MDM para esse grupo de segurança.
 
-> [!NOTE]
-> Existem alguns passos adicionais para a gravação de palavras-passe para além da caixa de verificação no Azure AD Connect. Para obter mais informações, consulte [Como-a-fazer: configurar a gravação da palavra-passe](https://docs.microsoft.com/azure/active-directory/authentication/howto-sspr-writeback). 
+## <a name="3-verify-azure-ad-is-enabled-for-mdm"></a>3. Verifique se a Azure AD está ativada para o MDM
 
-## <a name="3-configure-hybrid-azure-ad-join"></a>3. Configurar híbrido Azure Ad Join
+- Vá ao centro de administração <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">https://admin.microsoft.com</a> e selecione **Endpoint Managemen**t (selecione **Mostrar tudo** se **o Endpoint Manager** não estiver visível)
+- No **centro de administração do Microsoft Endpoint Manager,** aceda a **Inscrições**  >  **Windows**  >  Automáticas de**Inscrição**  >  **no**Windows do Windows .
+- Verifique se o âmbito do utilizador DO MDM está ativado.
 
-Antes de ativar os dispositivos do Windows 10 para serem híbridos Azure AD, certifique-se de que cumpre os seguintes requisitos:
+    1. Para inscrever todos os computadores, descreva para **All** para inscrever automaticamente todos os computadores de utilizador que se unem ao Azure AD e aos novos computadores quando os utilizadores adicionarem uma conta de trabalho ao Windows.
+    2. Definir para **Alguns** para inscrever os computadores de um grupo específico de utilizadores.
+        -  Adicione os utilizadores de domínio desejado sincronizados em Azure AD a um [grupo de segurança](../admin/create-groups/create-groups.md).
+        -  Escolha **Grupos Selecionados** para ativar o âmbito do utilizador MDM para esse grupo de segurança.
 
-   - Estás a executar a versão mais recente do Azure AD Connect.
+## <a name="4-set-up-service-connection-point-scp"></a>4. Configurar o ponto de ligação de serviço (SCP)
 
-   - A ligação AD AD azure sincronizou todos os objetos de computador dos dispositivos que pretende ser híbrido Azure AD ligados. Se os objetos do computador pertencerem a unidades organizacionais específicas (OU), certifique-se de que estas OUs estão definidas para sincronização em Azure AD connect também.
+Estes passos são simplificados a partir da [configuração híbrida azure ad join](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-managed-domains#configure-hybrid-azure-ad-join). Para completar os passos, precisa de utilizar o Azure AD Connect e as suas palavras-passe de administração global e de administração de administração do Microsoft 365 Business Premium.
 
-Para registar os dispositivos existentes do Windows 10 unidos como Híbrido Azure AD aderiu, siga os passos no [Tutorial: Configure híbrido Azure Ative Directy junte-se a domínios geridos](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-managed-domains#configure-hybrid-azure-ad-join). Isto permite que o seu Ative Directory existente no local se junte aos computadores windows 10 e os torne em nuvem.
-    
-## <a name="4-enable-automatic-enrollment-for-windows-10"></a>4. Permitir a inscrição automática para o Windows 10
+1.  Inicie o Azure AD Connect e, em seguida, selecione **Configure**.
+2.  Na página **de tarefas adicionais,** selecione **opções do dispositivo configurar**e, em seguida, selecione **Seguinte**.
+3.  Na página **'Vista Geral',** selecione **Seguinte**.
+4.  Na página **Connect to Azure AD,** insira as credenciais de um administrador global para o Microsoft 365 Business Premium.
+5.  Na página de opções do **Dispositivo,** selecione **Configure Hybrid Azure AD ,** e, em seguida, selecione **Next**.
+6.  Na página **SCP,** para cada floresta onde deseja Azure AD Connect para configurar o SCP, complete os seguintes passos e, em seguida, selecione **Seguinte**:
+    - Verifique a caixa ao lado do nome da floresta. A floresta deve ser o seu nome de domínio AD.
+    - Sob a coluna **Serviço de Autenticação,** abra o dropdown e selecione o nome de domínio correspondente (deve haver apenas uma opção).
+    - **Selecione Adicionar** para introduzir as credenciais de administrador de domínio.  
+7.  Na página de **sistemas operativos do Dispositivo,** selecione apenas dispositivos ligados ao domínio do Windows 10 ou posteriormente ligados ao domínio.
+8.  Na página **Pronto para configurar,** selecione **Configurar**.
+9.  Na página completa da **Configuração,** selecione **Sair**.
 
- Para inscrever automaticamente dispositivos Windows 10 para gestão de dispositivos móveis no Intune, consulte [inscrever automaticamente um dispositivo Windows 10 utilizando a Política de Grupo](https://docs.microsoft.com/windows/client-management/mdm/enroll-a-windows-10-device-automatically-using-group-policy). Pode definir a Política de Grupo a nível de computador local, ou para operações a granel, pode utilizar os modelos de Consola de Gestão de Políticas de Grupo e ADMX para criar esta definição de Política de Grupo no seu Controlador de Domínio.
 
-## <a name="5-configure-seamless-single-sign-on"></a>5. Configurar um único sinal sem emenda
+## <a name="5-create-a-gpo-for-intune-enrollment--admx-method"></a>5. Criar um GPO para inscrição intune – método ADMX
 
-  O Seamless SSO assina automaticamente os utilizadores nos seus recursos em nuvem Microsoft 365 quando utilizam computadores corporativos. Basta implementar uma das duas opções de Política de Grupo descritas no [Azure Ative Directory Seamless Single Sign-On: Quick start](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-quick-start#step-2-enable-the-feature). A opção **Política de Grupo** não permite que os utilizadores alterem as suas definições, enquanto a opção De Preferência de Política de **Grupo** define os valores, mas também os deixa configuráveis pelo utilizador.
+Utilização . Arquivo de modelo ADMX.
 
-## <a name="6-set-up-windows-hello-for-business"></a>6. Configurar o Windows Hello para o Negócio
+1.  Inicie sessão no servidor AD, procure e abra **Server Manager**  >  **Tools**  >  **gestão de políticas do Grupo**de Ferramentas do Gestor do Servidor .
+2.  Selecione o nome de domínio em **Domínios** e clique com o botão direito **Objetos de Política** de Grupo para selecionar **Novos**.
+3.  Dê ao novo GPO um nome, por exemplo , "*Cloud_Enrollment*" e, em seguida, selecione **OK**.
+4.  Clique com o botão direito no novo GPO em **Objetos de Política de Grupo** e selecione **Editar**.
+5.  No Editor de **Gestão de Políticas**de Grupo, aceda a políticas **de configuração de computador**  >  **Policies**  >  **Modelos Administrativos**De Componentes do  >  **Windows**  >  **.**
+6. Clique com o botão direito **Ativar a inscrição automática de MDM utilizando credenciais AD Ad predefinidas** e, em seguida, selecione **Enabled**  >  **Enabled OK**. Feche a janela do editor.
 
- O Windows Hello for Business substitui as palavras-passe por uma autenticação forte de dois fatores (2FA) para iniciar sessão num computador local. Um fator é um par de chave assimétrica, e o outro é um PIN ou outro gesto local, como impressão digital ou reconhecimento facial se o seu dispositivo o suportar. Recomendamos que substitua as palavras-passe por 2FA e Windows Hello para Negócios sempre que possível.
+> [!IMPORTANT]
+> Se não vir a política Ative a **inscrição automática de MDM utilizando credenciais AD predefinidas**, consulte [obter os modelos administrativos mais recentes](#get-the-latest-administrative-templates).
 
-Para configurar o Hybrid Windows Hello for Business, reveja o [fundo híbrido Windows Hello for Business Prerequisites](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-key-trust-prereqs). Em seguida, siga as instruções em [Configurar Híbrido Windows Hello for Business key trust settings](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-key-whfb-settings). 
+## <a name="6-deploy-the-group-policy"></a>6. Implementar a Política de Grupo
+
+1.  No Gestor do Servidor, em **"Domínios** > objetos de Política de Grupo", selecione o GPO do Passo 3 acima, por exemplo "Cloud_Enrollment".
+2.  Selecione o **separador Âmbito** para o seu GPO.
+3.  No separador Scope da GPO, clique com o botão direito no link para o domínio em **Links**.
+4.  Selecione **Aplicada** para implementar o GPO e, em seguida, **OK** no ecrã de confirmação.
+
+## <a name="get-the-latest-administrative-templates"></a>Obtenha os mais recentes modelos administrativos
+
+Se não vir a política Ative a **inscrição automática de MDM utilizando credenciais AD predefinidas**, pode ser porque não tem o ADMX instalado para o Windows 10, a versão 1803, a versão 1809 ou a versão 1903. Para corrigir o problema, siga estes passos (Nota: o mais recente MDM.admx é compatível com o contrário):
+
+1.  Download: [Modelos Administrativos (.admx) para Windows 10 May 2019 Update (1903)](https://www.microsoft.com/download/details.aspx?id=58495&WT.mc_id=rss_alldownloads_all).
+2.  Instale a embalagem no Controlador de Domínio Primário (PDC).
+3.  Navegar, dependendo da versão para a pasta: **C:\Program Files (x86)\Microsoft Group Policy\Windows 10 maio 2019 Update (1903) v3**.
+4.  Rebatize a pasta **Definições de Política** no caminho acima para **Definições de Políticas**.
+5.  **Copiar Pasta dedefinições de cópia** para **C:\Windows\SYSVOL\domain\Policies**. 
+    -   Se planeia utilizar uma loja de política central para todo o seu domínio, adicione o conteúdo das Definições de Política.
+6.  Reinicie o Controlador de Domínio Primário para que a política esteja disponível. Este procedimento funcionará para qualquer versão futura também.
+
+Neste momento, deverá ser capaz de ver a política Ativar a **inscrição automática de MDM utilizando credenciais AD predefinidas** disponíveis.
+
