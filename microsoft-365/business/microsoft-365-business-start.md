@@ -28,12 +28,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Saiba mais sobre o Microsoft 365 para o negócio, como conecê-lo e como preparar os dispositivos e computadores dos seus utilizadores para garantir que estão protegidos pela Microsoft 365 para o negócio.
-ms.openlocfilehash: 08a956cc7e68bbba74d29bafaab77065be1321ce
-ms.sourcegitcommit: 3ddcf08e8deec087df1fe524147313f1cb12a26d
+ms.openlocfilehash: aedcf78f10707dbe6a1d1527effea7d56283dce0
+ms.sourcegitcommit: 5b769f74bcc76ac8d38aad815d1728824783cd9f
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/02/2020
-ms.locfileid: "45022123"
+ms.lasthandoff: 07/08/2020
+ms.locfileid: "45080049"
 ---
 # <a name="get-started-with-microsoft-365-for-business"></a>Começa com a Microsoft 365 para negócios
 
@@ -80,9 +80,9 @@ Inscreva-se no [Microsoft 365 admin center](https://portal.office.com/adminporta
     
     Se estiver **a mover-se permanentemente de um Ative Directory local para a nuvem,** pode ir ao centro de administração microsoft 365 e utilizar o assistente de configuração para adicionar os seus utilizadores manualmente, ou pode fazer uma sincronização única com o Azure AD Connect. Existem duas formas de o fazer: 
     
-    - Se também tiver um servidor Exchange 2010, Exchange 2013 ou Exchange 2016, pode [utilizar o Minimal Hybrid para migrar rapidamente caixas de correio de câmbio para o Office 365](https://docs.microsoft.com/Exchange/mailbox-migration/use-minimal-hybrid-to-quickly-migrate). Os passos híbridos mínimos incluem uma sincronização única dos utilizadores para a Azure AD, e a migração por e-mail de instalações para a nuvem. Após a migração de e-mail estar concluída, a sincronização do diretório é automaticamente desligada quando utiliza este método.
+    - Se também tiver um servidor Exchange 2010, Exchange 2013 ou Exchange 2016, pode [utilizar o Minimal Hybrid para migrar rapidamente caixas de correio de Troca para o Microsoft 365](https://docs.microsoft.com/Exchange/mailbox-migration/use-minimal-hybrid-to-quickly-migrate). Os passos híbridos mínimos incluem uma sincronização única dos utilizadores para a Azure AD, e a migração por e-mail de instalações para a nuvem. Após a migração de e-mail estar concluída, a sincronização do diretório é automaticamente desligada quando utiliza este método.
     
-    - Utilize o assistente de sincronização de diretórios para sincronizar os seus utilizadores na nuvem. Siga os passos na [sincronização de diretórios configurar para a Microsoft 365](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization) concluir este processo. Depois de sincronizar os seus utilizadores na nuvem, terá de desligar a [sincronização do diretório para o Office 365](https://docs.microsoft.com/office365/enterprise/turn-off-directory-synchronization).
+    - Utilize o assistente de sincronização de diretórios para sincronizar os seus utilizadores na nuvem. Siga os passos na [sincronização de diretórios configurar para a Microsoft 365](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization) concluir este processo. Depois de sincronizar os seus utilizadores na nuvem, terá de desligar a sincronização do [diretório para o Microsoft 365](https://docs.microsoft.com/office365/enterprise/turn-off-directory-synchronization).
     
     Também terá de dar a cada utilizador que foi adicionado desta forma uma licença para o Microsoft 365 para negócios. Pode fazê-lo no [assistente de configuração](set-up.md) ou pode [atribuir licenças aos utilizadores.](../admin/manage/assign-licenses-to-users.md)
     
