@@ -29,12 +29,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Conheça o Microsoft 365 Empresas Premium, um serviço de subscrição que inclui aplicações de produtividade do Office e proteção avançada contra ciberameaças para empresas.
-ms.openlocfilehash: 6cff2fe62111e0d3ee99f406d0be83db0a119b09
-ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
+ms.openlocfilehash: 50b1fec21593bd22577e07e000cedb89dfd90f66
+ms.sourcegitcommit: f7566dd6010744c72684efdc37f4471672330b61
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "44786180"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138234"
 ---
 # <a name="overview-of-microsoft-365-business-premium"></a>Descrição geral do Microsoft 365 Empresas Premium
 
@@ -110,11 +110,6 @@ Para ver a lista completa de funcionalidades de segurança, consulte [Funcionali
 - Se tiver um parceiro, este obterá o Microsoft 365 Empresas Premium: [Obter o Microsoft 365 Empresas Premium a partir do Centro de Parceiros da Microsoft](get-microsoft-365-business.md).
 
 - Se não tiver um parceiro e quiser obter o Microsoft 365 Empresas Premium, poderá [comprá-lo aqui](https://www.microsoft.com/microsoft-365/business) e seguir as instruções de [inscrição](sign-up.md).
-
-- Também pode ir a uma [Microsoft Store](https://www.microsoft.com/store/locations/find-a-store?icid=gm_fy18_hol_bopis_feature3&CustomerIntent=Consumer) para comprar o Microsoft 365 Empresas Premium e obter ajuda com a configuração.
-
-    > [!NOTE]
-    > Esta ligação apenas apresenta lojas nos EUA
 
 ## <a name="see-also"></a>Consulte também
 
