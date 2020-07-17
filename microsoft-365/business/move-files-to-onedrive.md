@@ -50,7 +50,7 @@ Se um utilizador utilizar um computador com muitos ficheiros pessoais, deverá m
     
 3. Selecione **Carregar**![Upload](../media/d9b963b8-10af-42e2-953d-360301b83d3c.png) na barra de menus e procure os ficheiros que pretende guardar. 
     
-To transfer the user profile and important files, you can also use a third-party tool, such as ForensiT. You should upload the resulting files in OneDrive for Business also.
+Também pode utilizar uma ferramenta de terceiros, como a ForensiT, para transferir o perfil do utilizador e ficheiros importantes. Também deve carregar os ficheiros resultantes para o OneDrive para Empresas.
   
 ## <a name="for-more-on-setting-up-and-using-microsoft-365-for-business"></a>Para mais informações sobre a configuração e utilização do Microsoft 365 para negócios
 

@@ -67,7 +67,7 @@ Para um novo dispositivo a executar a Atualização para Criativos do Windows 10
     
 3. Conclua a configuração do dispositivo Windows 10.
     
-   Once you're done, the user will be connected to your organization's Azure AD. See [Verify the device is connected to Azure AD](#verify-the-device-is-connected-to-azure-ad) to make sure. 
+   Quando terminar, o utilizador estará ligado ao Azure AD da sua organização. Consulte [Verificar se o dispositivo está ligado ao Azure AD](#verify-the-device-is-connected-to-azure-ad) para garantir que o dispositivo está ligado. 
   
 ### <a name="for-a-device-already-set-up-and-running-windows-10-pro"></a>Para um dispositivo que já esteja configurado e a executar o Windows 10 Pro
 
@@ -97,7 +97,7 @@ Para um novo dispositivo a executar a Atualização para Criativos do Windows 10
   
 6. Na página da **organização certifique-se de** que esta é a sua página de organização, verifique se a informação está correta e clique em **'Juntar-se'**
   
-   On the **You're all set!** page, click **Done**.
+   Na página **Está pronto!**, clique em **Concluído**.
   
    ![On the Make sure this is your organization screen, click Join](../media/c749c0a2-5191-4347-a451-c062682aa1fb.png)
   
