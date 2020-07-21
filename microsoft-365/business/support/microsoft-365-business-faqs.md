@@ -13,12 +13,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Empresas Premium, Microsoft 365, PME, FAQ, perguntas mais frequentes, respostas, empresas
 ms.date: 06/08/2018
-ms.openlocfilehash: a2feb91ddcd2d95da28c3363d983b382cf2aa6dc
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: 30437825a896acb470b23cb8f68ea36235ee80c8
+ms.sourcegitcommit: 5f980a9eb5aca61cf3662ef0bc65dec215e21656
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44403456"
+ms.lasthandoff: 07/20/2020
+ms.locfileid: "45185982"
 ---
 # <a name="microsoft-365-business-premium-frequently-asked-questions"></a>Perguntas mais frequentes sobre o Microsoft 365 Empresas Premium
 
@@ -137,9 +137,9 @@ O caminho mais direto para uma implementação bem-sucedida do Microsoft 365 Emp
 Sim, os subscritores do Microsoft 365 Empresas Premium estão licenciados para utilizar todas as funcionalidades do Intune para iOS, Android, MacOS e outras funcionalidades de gestão de dispositivos em várias plataformas. As funcionalidades não disponíveis na consola de gestão simplificada no Microsoft 365 Empresas Premium, como gestão de aplicações de terceiros e configuração de perfis WiFi ou certificados VPN, podem ser geridas na consola completa do Intune. 
   
 
-### <a name="does-azure-active-directory-azure-ad-premium-p1-come-with-microsoft-365-business"></a>O Azure Active Directory Domain Services (Azure AD) Premium P1 vem com o Microsoft 365 Empresas? 
+### <a name="does-azure-active-directory-azure-ad-premium-p1-come-with-microsoft-365-business-premium"></a>O Azure Ative Directory (Azure AD) Premium P1 vem com o Microsoft 365 Business Premium? 
 
-Anteriormente, o Microsoft 365 Empresas tinha um subconjunto de funcionalidades do Plano 1 do Azure AD Premium, incluindo acesso condicional, reposição de palavra-passe personalizada e autenticação multifator. Estamos agora a lançar a licença P1 do Azure AD Premium para subscritores do Microsoft 365 Empresas, inicialmente para novos clientes e depois para os subscritores atuais. Para mais informações, consulte a [Descrição do Serviço Microsoft 365 Empresas](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) e este [blogue](https://techcommunity.microsoft.com/t5/small-and-medium-business-blog/azure-active-directory-premium-p1-is-coming-to-microsoft-365/ba-p/1275496).
+Sim, o Azure AD Premium P1 está incluído no Microsoft Business Premium.
  
  
 ### <a name="does-microsoft-365-business-premium-allow-customers-to-manage-macs"></a>A Microsoft 365 Empresas Premium permite que os clientes façam a gestão de Macs? 
