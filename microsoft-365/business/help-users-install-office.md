@@ -27,12 +27,12 @@ search.appverid:
 - MET150
 ms.assetid: cbc6bfe5-565a-4fb8-95f0-b06e7b74ac46
 description: Ajude os seus utilizadores a instalarem aplicações do Office em dispositivos Windows 10 e a instalar facilmente o Office nos PCs do Windows 10 a partir do centro de administração microsoft 365.
-ms.openlocfilehash: 9c670ba6727d47276291b1d1ba35b6431a293200
-ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
+ms.openlocfilehash: 680c1c4e43a037c6afd109220090f387b207f8b1
+ms.sourcegitcommit: d39694d7b2c98350b0d568dfd03fa0ef44ed4c1d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "45081893"
+ms.lasthandoff: 08/10/2020
+ms.locfileid: "46601989"
 ---
 # <a name="help-your-users-install-office-on-windows-10-devices"></a>Ajude os seus utilizadores a instalarem o Office em dispositivos Windows 10
 
@@ -60,8 +60,7 @@ Caso tenha considerado este vídeo útil, veja a [série de formação completa 
     
 4. No **Email dos utilizadores um link para descarregar** painel do Office, selecione os utilizadores que pretende enviar e-mail e, em seguida, enviar **e-mail para utilizadores selecionados**.
 
-    
-      :::image type="content" source="../media/sendemailtousers.png" alt-text="Selecione os utilizadores para enviar e-mail com link de descarregamento do Office.":::
+   ![Selecione os utilizadores para enviar e-mail com link de descarregamento do Office.](../media/sendemailtousers.png)
 
 ## <a name="for-more-on-setting-up-and-using-microsoft-365-business-premium"></a>Para mais informações sobre a configuração e utilização do Microsoft 365 Business Premium
 
