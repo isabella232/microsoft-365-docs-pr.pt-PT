@@ -23,23 +23,18 @@ search.appverid:
 - BCS160
 - MET150
 description: Saiba como proteger os PCs do Windows 10 depois de ter criado o Microsoft 365 Business Premium.
-ms.openlocfilehash: f18447db445bf051a44b99053d41e10f3ed34fc3
-ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
+ms.openlocfilehash: a70fcd330fe6ef330fac08512aded4d8913313d5
+ms.sourcegitcommit: 1780359234abdf081097c8064438d415da92fb85
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "45081877"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46778390"
 ---
 # <a name="secure-windows-10-computers"></a>Computadores Secure Windows 10
 
 Este artigo aplica-se ao Microsoft 365 Business Premium.
 
 Depois de [configurar](set-up.md) o Microsoft 365 Business Premium, está na altura de proteger os computadores do Windows 10 no seu org contra roubos e ameaças maliciosas como vírus e malware.
-Veja este vídeo para uma visão geral de como configurar políticas para proteger os seus computadores Windows 10.<br><br>
-
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4kcAF] 
-
-Caso tenha considerado este vídeo útil, veja a [série de formação completa para pequenas empresas e as novidades do Microsoft 365](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
 ## <a name="to-secure-your-windows-10-pcs"></a>Para proteger os seus Computadores Windows 10
 
@@ -49,6 +44,10 @@ Caso tenha considerado este vídeo útil, veja a [série de formação completa 
 
     No topo da página, escolha **Começar a trabalhar.**
 
-4. Na definição do Windows 10, selecione as opções que pretende ligar. Para obter mais informações sobre as definições, consulte [dispositivos Secure Windows 10](secure-windows-10-devices.md). 
-5. Escolha quem na sua organização para aplicar a política e, em seguida, escolha **Guardar alterações**.
+4. No **painel de computadores Secure your Windows 10,** selecione as opções que pretende ligar. Para obter mais informações sobre as definições, consulte [dispositivos Secure Windows 10](secure-windows-10-devices.md). 
+    
+    Para a maioria das organizações, as opções aqui oferecem um bom nível de segurança, no entanto, se a sua organização tiver necessidades de segurança mais complexas, também pode utilizar linhas de segurança pré-definidas para proteger os seus dispositivos Windows 10. Para obter mais informações, consulte [as linhas de segurança para dispositivos Windows 10.](https://docs.microsoft.com/mem/intune/protect/security-baselines)   
 
+1. Escolha **Aplicar as definições**.
+
+    Estas definições serão aplicadas a todos os utilizadores da sua organização. Para configurar diferentes políticas para diferentes grupos de segurança, consulte [definições de proteção do dispositivo para computadores windows 10](protection-settings-for-windows-10-pcs.md).
