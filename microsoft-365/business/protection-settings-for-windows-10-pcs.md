@@ -1,5 +1,5 @@
 ---
-title: Configurar as definições de proteção de dispositivos para PCs Windows 10
+title: Editar ou criar definições de proteção de dispositivos para computadores windows 10
 f1.keywords:
 - NOCSH
 ms.author: sirkkuw
@@ -22,32 +22,30 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: bd66c26c-73a4-45a8-8642-3ea4ee7cd89d
-description: Saiba mais sobre o padrão e outras definições disponíveis no Microsoft 365 para que as empresas fixem dispositivos Windows 10.
-ms.openlocfilehash: af3f58ba13a1011e65be45337c63ff714bfdaf0c
-ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
+description: Saiba mais sobre as definições disponíveis no Microsoft 365 para que as empresas fixem dispositivos Windows 10.
+ms.openlocfilehash: bd992113403c7134fb32bc6cced5bf216843241b
+ms.sourcegitcommit: abf63669daf12993ad3353e4b578f41c8910b20f
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44470853"
+ms.lasthandoff: 08/27/2020
+ms.locfileid: "47289161"
 ---
-# <a name="set-device-protection-settings-for-windows-10-pcs"></a>Configurar as definições de proteção de dispositivos para PCs Windows 10
+# <a name="edit-or-create-device-protection-settings-for-windows-10-pcs"></a>Editar ou criar definições de proteção de dispositivos para computadores windows 10
 
 Este artigo aplica-se ao Microsoft 365 Business Premium.
 
-## <a name="secure-windows-10-devices"></a>Proteger dispositivos Windows 10
+Depois de ter configurado as definições de proteção padrão do Windows na página 'Configurar', pode adicionar novas que se apliquem a todos os utilizadores ou a um conjunto de utilizadores. Também pode editar qualquer um dos que criou.
 
-Veja um vídeo sobre como proteger dispositivos Windows 10 com o Microsoft 365 para negócios:
+## <a name="create-protection-settings-for-windows-10-devices"></a>Criar definições de proteção para dispositivos Windows 10
+
+Veja um vídeo sobre como proteger dispositivos Windows 10 com o Microsoft 365 Business Premium:
   
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/a5734146-620a-4cec-8618-536b3ca37972?autoplay=false]
   
 1. Vá ao centro de administração em <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> . 
-    
 2. No navegador esquerdo, escolha **Políticas de Dispositivos** \> **Policies** \> **Adicionar**.
-  
 3. No painel **Adicionar política**, introduza um nome exclusivo para esta política. 
-    
 4. Em **Tipo de política**, selecione **Configuração de Dispositivos Windows 10**.
-    
 5. Expanda a janela **Proteger Dispositivos Windows 10** \> configure as definições da forma que pretende. Para mais informações, consulte [as definições disponíveis.](#available-settings) 
     
     Pode sempre utilizar a ligação **Repor predefinições** para regressar à predefinição. 
@@ -55,9 +53,15 @@ Veja um vídeo sobre como proteger dispositivos Windows 10 com o Microsoft 365 p
     ![Add policy pane with Windows 10 Device configuration selected](../media/fa9e2dc2-7eae-4c96-af34-765a1f641ecf.png)
   
 6. Em seguida, decida **Quem irá ver estas definições?** Se não quiser utilizar o grupo de segurança predefinido, **Todos os Utilizadores**, selecione **Alterar**, procure o grupo de segurança que irá obter essas definições \> **Selecionar**.
-    
 7. Por fim, selecione **Concluído** para guardar a política e atribuí-la aos dispositivos. 
-    
+
+## <a name="edit-windows-10-protection-settings"></a>Editar as definições de proteção do Windows 10
+ 
+1. Vá ao centro de administração em <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> .     
+2. No navegador esquerdo, escolha **Políticas de** \> **Dispositivos** .
+1. Escolha uma política de dispositivos Windows existente e, em seguida, **edite**.
+1. Escolha **Editar** ao lado de uma definição que pretende alterar e, em seguida, **Guardar**.
+
 ## <a name="available-settings"></a>Definições disponíveis
 
 Por predefinição, todas as definições estão **Ativadas**. As seguintes definições estão disponíveis.
