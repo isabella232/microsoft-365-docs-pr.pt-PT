@@ -23,24 +23,24 @@ search.appverid:
 - MET150
 - MOE150
 description: Sincronizar os utilizadores controlados pelo domínio com o Microsoft 365 para o negócio.
-ms.openlocfilehash: af9cb7c9b2b639edc2375679a73ab41c4cf6de71
-ms.sourcegitcommit: 5b769f74bcc76ac8d38aad815d1728824783cd9f
+ms.openlocfilehash: 9495d893eb6870ef7c417a78f921296bfc0e6705
+ms.sourcegitcommit: 555d756c69ac9031d1fb928f2e1f9750beede066
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45081909"
+ms.lasthandoff: 08/29/2020
+ms.locfileid: "47306455"
 ---
 # <a name="synchronize-domain-users-to-microsoft-365"></a>Sincronizar os utilizadores de domínio para o Microsoft 365
 
 ## <a name="1-prepare-for-directory-synchronization"></a>1. Preparar para a sincronização do diretório 
 
-Antes de sincronizar os seus utilizadores e computadores a partir do domínio do Diretório Ativo local, [reveja Prepare-se para sincronização de diretórios para o Microsoft 365](https://docs.microsoft.com/office365/enterprise/prepare-for-directory-synchronization). Em particular:
+Antes de sincronizar os seus utilizadores e computadores a partir do domínio do Diretório Ativo local, [reveja Prepare-se para sincronização de diretórios para o Microsoft 365](https://docs.microsoft.com/microsoft-365/enterprise/prepare-for-directory-synchronization). Em particular:
 
    - Certifique-se de que não existem duplicados no seu diretório para os seguintes atributos: **correio,** **proxyAddresses**e **userPrincipalName**. Estes valores devem ser únicos e quaisquer duplicados devem ser removidos.
    
    - Recomendamos que configuure o atributo **userPrincipalName** (UPN) para cada conta de utilizador local para corresponder ao endereço de e-mail primário que corresponde ao utilizador licenciado microsoft 365. Por exemplo: *mary.shelley@contoso.com* em vez *de mary@contoso.local*
    
-   - Se o domínio ative Directory terminar num sufixo não-encaminhável como *.local* ou *.lan*, em vez de um sufixo de internet rotable como *.com* ou *.org*, ajuste o sufixo UPN das contas de utilizador locais primeiro como descrito na [Prepare um domínio não-encaminhável para sincronização de diretórios](https://docs.microsoft.com/office365/enterprise/prepare-a-non-routable-domain-for-directory-synchronization). 
+   - Se o domínio ative Directory terminar num sufixo não-encaminhável como *.local* ou *.lan*, em vez de um sufixo de internet rotable como *.com* ou *.org*, ajuste o sufixo UPN das contas de utilizador locais primeiro como descrito na [Prepare um domínio não-encaminhável para sincronização de diretórios](https://docs.microsoft.com/microsoft-365/enterprise/prepare-a-non-routable-domain-for-directory-synchronization). 
 
 O **Run IdFix** no quarto passo (4) abaixo, também certificar-se-á de que o seu Ative Directory está pronto para sincronização de dir.
 
@@ -59,7 +59,7 @@ Para sincronizar os seus utilizadores, grupos e contactos do Diretório Ativo lo
  5. Siga os passos do assistente para descarregar o Azure AD Connect e use-o para sincronizar os seus utilizadores controlados pelo domínio para o Microsoft 365.
 
 
-Consulte [a sincronização de diretórios configurar para o Microsoft 365](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization) para saber mais.
+Consulte [a sincronização de diretórios configurar para o Microsoft 365](https://docs.microsoft.com/microsoft-365/enterprise/set-up-directory-synchronization) para saber mais.
 
 Ao configurar as suas opções para Azure AD Connect, recomendamos que ative a **sincronização de passwords**, **o Sign-On único sem emenda**e a funcionalidade de writeback de **palavra-passe,** que também é suportada no Microsoft 365 para negócios.
 

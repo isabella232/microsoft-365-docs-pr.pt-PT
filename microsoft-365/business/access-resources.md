@@ -21,12 +21,12 @@ search.appverid:
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: Saiba como obter acesso a recursos no local, como linha de aplicações empresariais, partilhas de ficheiros e impressoras de um Azure Ative Directory que aderiu ao dispositivo Windows 10.
-ms.openlocfilehash: 9615ecc9469992d3e5a7479f4799c610db11fb41
-ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
+ms.openlocfilehash: 9b83781afee746b06bbdf90962de0f55ffbcb118
+ms.sourcegitcommit: 555d756c69ac9031d1fb928f2e1f9750beede066
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44471257"
+ms.lasthandoff: 08/29/2020
+ms.locfileid: "47307499"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business-premium"></a>Aceder aos recursos no local a partir de um dispositivo AD AD Azure no Microsoft 365 Business Premium
 
@@ -44,7 +44,7 @@ Os passos são também resumidos nas seguintes secções.
 
 Complete os seguintes passos para permitir que os dispositivos Azure AD da sua organização tenham acesso aos recursos no local.
   
-1. Para sincronizar os seus utilizadores, grupos e contactos do Diretório Ativo local para o Azure Ative Directory, executar o assistente de sincronização do Diretório e a Azure AD Connect, conforme descrito na [sincronização do diretório configurado para o Office 365](https://docs.microsoft.com/office365/enterprise/set-up-directory-synchronization).
+1. Para sincronizar os seus utilizadores, grupos e contactos do Diretório Ativo local para o Azure Ative Directory, executar o assistente de sincronização do Diretório e a Azure AD Connect, conforme descrito na [sincronização do diretório configurado para o Office 365](https://docs.microsoft.com/microsoft-365/enterprise/set-up-directory-synchronization).
     
 2. Depois de concluída a sincronização do diretório, certifique-se de que os dispositivos windows 10 da sua organização estão unidos a Azure AD. Este passo é feito individualmente em cada dispositivo Windows 10. Consulte [os dispositivos Windows para os utilizadores Do Microsoft 365 Business Premium](set-up-windows-devices.md) para obter mais detalhes. 
     
@@ -52,7 +52,7 @@ Complete os seguintes passos para permitir que os dispositivos Azure AD da sua o
     
 Não são necessárias medidas adicionais para ter acesso aos recursos no local para dispositivos aderidos a Azure AD. Esta funcionalidade encontra-se integrada no Windows 10. 
 
-Se tiver planos para iniciar sessão no dispositivo AADJ que não seja o método de senha Como PIN/Bio-métrica via login credencial WHFB e, em seguida, aceder a recursos no local (partilhas,impressoras.. etc), por favor, sigahttps://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-aadj-sso-base
+Se tiver planos para iniciar sessão no dispositivo AADJ que não seja o método de senha Como PIN/Bio-métrica via login credencial WHFB e, em seguida, aceder a recursos no local (partilhas,impressoras.. etc), por favor, siga https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-aadj-sso-base
   
 Se a sua organização não estiver pronta para implantar na configuração do dispositivo azure AD descrita acima, considere configurar a [configuração do dispositivo AD AD Ad Hybrid Azure](manage-windows-devices.md).
   
