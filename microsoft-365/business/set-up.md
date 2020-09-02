@@ -30,20 +30,16 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Descubra os passos de configuração do Microsoft 365 Business Premium, incluindo a adição de um domínio e utilizadores, configurando políticas de segurança, e muito mais.
-ms.openlocfilehash: efa7934ece0dfeac3c4b20daa37da6f1160901e7
-ms.sourcegitcommit: 5b769f74bcc76ac8d38aad815d1728824783cd9f
+ms.openlocfilehash: cc20637d7a78bd34ecb61a4ed46eb06d564d63df
+ms.sourcegitcommit: 25afc0c34edc7f8a5eb389d8c701175256c58ec8
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45081901"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "47324502"
 ---
 # <a name="set-up-microsoft-365-business-premium-in-the-setup-wizard"></a>Configurar o Microsoft 365 Business Premium no assistente de configuração
 
 Veja este vídeo para uma visão geral da configuração do Microsoft 365 Business Premium.<br><br>
-
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FYSM] 
-
-Caso tenha considerado este vídeo útil, veja a [série de formação completa para pequenas empresas e as novidades do Microsoft 365](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
 
 ## <a name="add-your-domain-users-and-set-up-policies"></a>Adicione o seu domínio, utilizadores e configurar políticas
 
