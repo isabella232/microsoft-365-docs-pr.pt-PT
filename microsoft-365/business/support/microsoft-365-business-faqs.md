@@ -13,12 +13,12 @@ localization_priority: Normal
 audience: microsoft-business 
 keywords: Microsoft 365 Empresas Premium, Microsoft 365, PME, FAQ, perguntas mais frequentes, respostas, empresas
 ms.date: 07/21/2020
-ms.openlocfilehash: 614da177df9250045ca3cc18c0b071e0aa43b7ec
-ms.sourcegitcommit: d988faa292c2661ffea43c7161aef92b2b4b99bc
+ms.openlocfilehash: e056f0c33aec180080a0d4e27e182d2d98877e6e
+ms.sourcegitcommit: 13ae76220b4ad688438a5d1031a6e1b5300ffa23
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "46560805"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47775091"
 ---
 # <a name="microsoft-365-business-premium-frequently-asked-questions"></a>Perguntas mais frequentes sobre o Microsoft 365 Empresas Premium
 
@@ -157,7 +157,7 @@ Todos os suplementos que podem ser adicionados ao Microsoft 365 Empresas podem s
 Sim, pode comprar uma subscrição do Business Voice. [Business Voice](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice) é uma solução de telefonia projetada para pequenas e médias empresas de até 300 utilizadores que agregam Sistema De Telefone, Audio Conferencing, um Plano de Chamada Doméstica, e muito mais. As capacidades do Sistema Telefónico que obtém incluem correio de voz, identificação de chamadas, parque de chamadas, reencaminhamento de chamadas, assistentes de automóveis e filas de chamadas. <br> Para saber se o Business Voice está disponível no seu país ou região, consulte [a disponibilidade do País e da região para o Business Voice.](https://docs.microsoft.com/microsoftteams/business-voice/country-region-availability) Para obter informações sobre preços, consulte [preços para a Voz do Negócio.](https://go.microsoft.com/fwlink/?linkid=2127221)
  
 ### <a name="can-microsoft-365-business-premium-customers-use--microsoft-defender-advanced-threat-protection"></a>Os clientes Microsoft 365 Business Premium podem utilizar o Microsoft Defender Advanced Threat Protection? 
-Sim, o Microsoft Defender Advanced Threat Protection está disponível como um complemento aos clientes Do Microsoft 365 Business Premium.
+Sim, o Microsoft Defender Advanced Threat Protection está disponível como um complemento ao Microsoft 365 Business Premium quando adquirido num [Microsoft Cloud Solution Provider](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider).
 
 ## <a name="partner-opportunity"></a>Oportunidades dos parceiros
 
