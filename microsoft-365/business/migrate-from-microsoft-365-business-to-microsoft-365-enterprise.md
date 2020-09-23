@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: Saiba como mover o seu negócio de Microsoft 365 Business Premium para o Microsoft 365 E3.
-ms.openlocfilehash: 6a795d96ccae7e054e7e52d4fd60a4e73b3c71dd
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: fbd5c0710bffa92cfc17447094bb9b2683641d5f
+ms.sourcegitcommit: c083602dda3cdcb5b58cb8aa070d77019075f765
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "45081871"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48195525"
 ---
 # <a name="migrate-from-microsoft-365-business-premium-to-microsoft-365-e3"></a>Migrar do Microsoft 365 Business Premium para o Microsoft 365 E3
 
@@ -51,10 +51,10 @@ Esta tabela mostra as diferenças entre o Microsoft 365 Business Premium e o Mic
 |:-------|:-----|:-----|
 | **No local**        | | | 
 | Windows 10    | Negócios windows 10  |     Windows 10 Enterprise E3| 
-| Aplicativos de escritório*    | [Microsoft 365 Apps para negócios](#office-365-business)    | Microsoft 365 Apps para empresa | 
+| Aplicativos de escritório*    | [Microsoft 365 Apps para negócios](#office-365-business)    | Microsoft 365 Apps para empresas | 
 | **Aplicativos de produtividade em nuvem**        | | | 
 | Troca online e outlook    | Limite de armazenamento de 50 GB por caixa de correio e arquivamento ilimitado da Exchange Online    | Limite de armazenamento de 100 GB por caixa de correio e arquivamento ilimitado da Exchange Online | 
-| Equipas    | ![Incluído com Microsoft 365 Business Premium](../media/check-mark.png)    | ![Incluído com Microsoft 365 E3](../media/check-mark.png) | 
+| Teams    | ![Incluído com Microsoft 365 Business Premium](../media/check-mark.png)    | ![Incluído com Microsoft 365 E3](../media/check-mark.png) | 
 | OneDrive para Empresas    | 1 Limite de armazenamento de TB por utilizador    | Ilimitado | 
 | Yammer, SharePoint Online, Planner, Stream    | ![Incluído com Microsoft 365 Business Premium](../media/check-mark.png)    | ![Incluído com Microsoft 365 E3](../media/check-mark.png) | 
 | Outlook Customer Manager, MileIQ    | ![Incluído com Microsoft 365 Business Premium](../media/check-mark.png)    | | 
@@ -79,13 +79,13 @@ Esta tabela mostra as diferenças entre o Microsoft 365 Business Premium e o Mic
 | Enterprise CAL Suite (Exchange, SharePoint, Skype, Windows, Microsoft Endpoint Configuration Manager, Windows Rights Management)| |         ![Incluído com Microsoft 365 E3](../media/check-mark.png) | 
 | **Conformidade**        | | | 
 | Arquivo ilimitado de e-mails    | ![Incluído com Microsoft 365 Business Premium](../media/check-mark.png)    | ![Incluído com Microsoft 365 E3](../media/check-mark.png) | 
-| Compliance Score/Compliance Manager    | ![Incluído com Microsoft 365 Business Premium](../media/check-mark.png)    | ![Incluído com Microsoft 365 E3](../media/check-mark.png) | 
+| Gestor de Conformidade    | ![Incluído com Microsoft 365 Business Premium](../media/check-mark.png)    | ![Incluído com Microsoft 365 E3](../media/check-mark.png) | 
 | eDiscovery    | ![Incluído com Microsoft 365 Business Premium](../media/check-mark.png)    | ![Incluído com Microsoft 365 E3](../media/check-mark.png) | 
 | Em espera e contencioso    | ![Incluído com Microsoft 365 Business Premium](../media/check-mark.png)    | ![Incluído com Microsoft 365 E3](../media/check-mark.png) | 
 | Etiquetas de retenção de registos de mensagens (MRM) e políticas de retenção    | ![Incluído com Microsoft 365 Business Premium](../media/check-mark.png)    | ![Incluído com Microsoft 365 E3](../media/check-mark.png) | 
 ||||
 
-\*Os utilizadores que tenham sido atribuídos a acesso a aplicações SaaS podem ter acesso SSO a até 10 aplicações. Os administradores podem configurar o SSO e alterar o acesso dos utilizadores a diferentes aplicações SaaS, mas o acesso SSO só é permitido para 10 aplicações por utilizador de cada vez. Todas as aplicações do Office 365 são contadas como uma única aplicação.
+\* Os utilizadores que tenham sido atribuídos a acesso a aplicações SaaS podem ter acesso SSO a até 10 aplicações. Os administradores podem configurar o SSO e alterar o acesso dos utilizadores a diferentes aplicações SaaS, mas o acesso SSO só é permitido para 10 aplicações por utilizador de cada vez. Todas as aplicações do Office 365 são contadas como uma única aplicação.
 
 ## <a name="migration"></a>Migração
 
