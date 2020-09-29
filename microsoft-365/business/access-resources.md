@@ -21,12 +21,12 @@ search.appverid:
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: Saiba como obter acesso a recursos no local, como linha de aplicações empresariais, partilhas de ficheiros e impressoras de um Azure Ative Directory que aderiu ao dispositivo Windows 10.
-ms.openlocfilehash: 9b83781afee746b06bbdf90962de0f55ffbcb118
-ms.sourcegitcommit: 555d756c69ac9031d1fb928f2e1f9750beede066
+ms.openlocfilehash: 2144268f5cbab67c39d5902622c61c0c35e6481c
+ms.sourcegitcommit: 15be7822220041c25fc52565f1c64d252e442d89
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/29/2020
-ms.locfileid: "47307499"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48295316"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business-premium"></a>Aceder aos recursos no local a partir de um dispositivo AD AD Azure no Microsoft 365 Business Premium
 
@@ -36,9 +36,6 @@ Qualquer dispositivo do Windows 10 que seja a aderido ao Azure Ative Directory t
 
 Para saber mais, consulte [Introdução à gestão de dispositivos no Azure Ative Directory](https://docs.microsoft.com/azure/active-directory/device-management-introduction).
 Os passos são também resumidos nas seguintes secções.
-
-> [!IMPORTANT]
-> Este procedimento só é aplicável à OAuth e à NTLM. Kerberos não é apoiado.
  
 ## <a name="run-azure-ad-connect"></a>Executar Azure AD Connect
 
