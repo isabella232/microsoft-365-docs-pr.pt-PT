@@ -22,12 +22,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Saiba como mover o seu negócio para o Microsoft 365 Business Premium do Office 365 E3.
-ms.openlocfilehash: f3f3894a2a5cb69f9f91825d89db4f4b857fac5c
-ms.sourcegitcommit: 15be7822220041c25fc52565f1c64d252e442d89
+ms.openlocfilehash: b8aa58f1f050ec6247479ed02e142507a2df45fc
+ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48295296"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "48842166"
 ---
 # <a name="migrating-from-office-365-e3-to-microsoft-365-business-premium"></a>Migrando do Office 365 E3 para o Microsoft 365 Business Premium 
 
@@ -42,7 +42,7 @@ Esta tabela mostra as diferenças entre o Microsoft 365 Business Premium e o Off
 | Funcionalidade    | Suporte no Microsoft 365 Business Premium    | Apoio no Office 365 E3 | 
 |:-------|:-----|:-----|
 | **No local**        | | | 
-| Aplicativos de escritório<sup>1</sup>    | Microsoft 365 Apps para negócios    | Microsoft 365 Apps para empresas | 
+| Aplicativos de escritório<sup>1</sup>    | Microsoft 365 Apps para negócios    | Aplicações Microsoft 365 para empresas | 
 | **Aplicativos de produtividade em nuvem**        | | | 
 | Troca online e outlook    | Limite de armazenamento de 50 GB por caixa de correio e arquivamento online ilimitado de trocas    | Limite de armazenamento de 100 GB por caixa de correio e arquivamento online ilimitado de trocas | 
 | Teams    | ![Incluído com Microsoft 365 Business Premium](../media/check-mark.png)    | ![Incluído com Office 365 E3](../media/check-mark.png) | 
@@ -51,7 +51,7 @@ Esta tabela mostra as diferenças entre o Microsoft 365 Business Premium e o Off
 | StaffHub    | ![Incluído com Microsoft 365 Business Premium](../media/check-mark.png)    | ![Incluído com Office 365 E3](../media/check-mark.png) | 
 | Outlook Customer Manager, MileIQ    | ![Incluído com Microsoft 365 Business Premium](../media/check-mark.png)    | | 
 | **Proteção contra ameaças**        | | | 
-| Office 365 Advanced Threat Protection (ATP) Plano 1 | ![Incluído com Microsoft 365 Business Premium](../media/check-mark.png)    | Não incluído, mas pode ser adicionado em | 
+| Defensor do Gabinete 365 Plano 1 | ![Incluído com Microsoft 365 Business Premium](../media/check-mark.png)    | Não incluído, mas pode ser adicionado em | 
 | **Gestão de identidades**        | | | 
 | Autosserviço de autosserviço reset para contas híbridas Azure Ative Directory (Azure AD), autenticação multi-factor Azure (MFA), Acesso Condicional, writeback de palavra-passe para identidades no local|     ![Incluído com Microsoft 365 Business Premium](../media/check-mark.png)    |  | 
 | **Gestão de dispositivos e aplicativos**        | | |
@@ -122,7 +122,7 @@ O Microsoft 365 Business Premium tem um limite de armazenamento de 50 GB, uma ve
 
 ### <a name="threat-protection"></a>Proteção contra ameaças
 
-Depois de migrar para o Microsoft 365 Business Premium, tem o Office 365 ATP. Consulte [o Office 365 ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) para uma visão geral. Para configurar, consulte [configurar links de segurança ATP,](https://support.microsoft.com/office/61492713-53c2-47da-a6e7-fa97479e97fa) [configurar anexos seguros ATP](https://support.microsoft.com/office/e7e68934-23dc-4b9c-b714-e82e27a8f8a5)e [configurar anti-phishing ATP](https://support.microsoft.com/office/86c425e1-1686-430a-9151-f7176cce4f2c).
+Depois de migrar para o Microsoft 365 Business Premium, tem o Defender para o Office 365. Consulte [o Microsoft Defender para o Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) para obter uma visão geral. Para configurar, consulte [configurar Ligações Seguras,](https://support.microsoft.com/office/61492713-53c2-47da-a6e7-fa97479e97fa) [configurar anexos seguros](https://support.microsoft.com/office/e7e68934-23dc-4b9c-b714-e82e27a8f8a5)e [configurar Anti-phishing no Defender para o Office 365](https://support.microsoft.com/office/86c425e1-1686-430a-9151-f7176cce4f2c).
 
 ### <a name="sensitivity-labels"></a>Etiquetas de confidencialidade
 

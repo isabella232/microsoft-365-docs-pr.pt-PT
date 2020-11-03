@@ -26,12 +26,12 @@ search.appverid:
 - MET150
 ms.assetid: 2d7ff45e-0da0-4caa-89a9-48cabf41f193
 description: Saiba como configurar dispositivos Windows que executam o Windows 10 Pro para utilizadores Do Microsoft 365 Business Premium, permitindo controlos de gestão e segurança centralizados.
-ms.openlocfilehash: 85ac3c964792a132d5699703e543289020e38f57
-ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
+ms.openlocfilehash: c95b9e51c7ec3c440509fe34084d2a030c7f2eec
+ms.sourcegitcommit: e56894917d2aae05705c3b9447388d10e2156183
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "44785858"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "48841265"
 ---
 # <a name="set-up-windows-devices-for-microsoft-365-business-premium-users"></a>Configurar dispositivos Windows para utilizadores Microsoft 365 Business Premium
 
@@ -77,45 +77,45 @@ Para um novo dispositivo a executar a Atualização para Criativos do Windows 10
   
    ![In the Start menu, click Windows Settings icon](../media/74e1ce9a-1554-4761-beb9-330b176e9b9d.png)
   
-2. Nas **Definições**, aceda a **Contas**.
+2. Nas **Definições** , aceda a **Contas**.
   
    ![In Windows Settings, go to Accounts](../media/472fd688-d111-4788-9fbb-56a00fbdc24d.png)
   
-3. Na página **As suas informações**, clique em **Aceder a profiss./escolar** \> **Ligar**.
+3. Na página **As suas informações** , clique em **Aceder a profiss./escolar** \> **Ligar**.
   
    ![Choose Connect under Access work or school](../media/af3a4e3f-f9b9-4969-b3e2-4ef99308090c.png)
   
-4. Na caixa de diálogo **Configurar uma conta escolar ou profissional**, em **Ações alternativas**, selecione **Adicionar este dispositivo ao Azure Active Directory**.
+4. Na caixa de diálogo **Configurar uma conta escolar ou profissional** , em **Ações alternativas** , selecione **Adicionar este dispositivo ao Azure Active Directory**.
   
    ![Click Join this device to Azure Active Directory](../media/fb709a1b-05a9-4750-9cb9-e097f4412cba.png)
   
-5. Na página **Vamos iniciar a sua sessão**, introduza a sua conta escolar ou profissional \> **Seguinte**.
+5. Na página **Vamos iniciar a sua sessão** , introduza a sua conta escolar ou profissional \> **Seguinte**.
   
-   Na página **Introduzir palavra-passe**, introduza a sua palavra-passe \> **Iniciar sessão**.
+   Na página **Introduzir palavra-passe** , introduza a sua palavra-passe \> **Iniciar sessão**.
   
    ![Enter your work or school email on the Let's get you signed in page](../media/f70eb148-b1d2-4ba3-be38-7317eaf0321a.png)
   
-6. Na página da **organização certifique-se de** que esta é a sua página de organização, verifique se a informação está correta e clique em **'Juntar-se'**
+6. Na página da **organização certifique-se de que esta é** a sua página de organização, verifique se a informação está correta e escolha **'Juntar-se'.**
   
-   Na página **Está pronto!**, clique em **Concluído**.
+   No **You're all set!** página, chosse **Done**.
   
-   ![On the Make sure this is your organization screen, click Join](../media/c749c0a2-5191-4347-a451-c062682aa1fb.png)
+   ![No the Certifique-se de que este é o seu ecrã de organização, escolha Junte-se](../media/c749c0a2-5191-4347-a451-c062682aa1fb.png)
   
 Se tiver carregado ficheiros para o OneDrive para Empresas, sincronize-os novamente. Se usou uma ferramenta de terceiros para migrar perfis e ficheiros, também os sincroniza para o novo perfil.
   
 ## <a name="verify-the-device-is-connected-to-azure-ad"></a>Verificar se o dispositivo está ligado ao Azure AD
 
-Para verificar o estado da sincronização, na página **de trabalho de acesso ou página escolar** em **Definições,** clique na área **Ligada a** _ _ para expor \<organization name\> os botões **Informação** e **Desconexão**. Clique em **Informações** para obter o seu estado de sincronização. 
+Para verificar o estado da sincronização, na página **de trabalho de acesso ou escola** em **Definições,** selecione a área **Ligada a** _ _ para expor \<organization name\> os botões **Informação** e **Desconexão**. Escolha **Informação** para obter o seu estado de sincronização. 
   
-Na página Estado de sincronização, clique em Sincronizar para obter as mais recentes políticas de gestão de dispositivos móveis no PC.
+Na página de estado do **Sync,** escolha **o Sync** para obter as mais recentes políticas de gestão de dispositivos móveis no PC.
   
 Para começar a utilizar a conta Microsoft 365 Business Premium, aceda ao **botão** Iniciar o Windows, clique com o botão correto da sua conta corrente e, em seguida, **a conta Switch**. Inicie sessão com o endereço de e-mail e palavra-passe da sua organização.
   
 ![Click Info button to view synchronization status](../media/818f7043-adbf-402a-844a-59d50034911d.png)
   
-## <a name="verify-the-device-is-upgraded-to-windows-10-business"></a>Verificar se o dispositivo foi atualizado para o Windows 10 Business
+## <a name="verify-the-pc-is-upgraded-to-windows-10-business"></a>Verifique se o PC está atualizado para o Windows 10 Business
 
-Verifique se o seu Azure AD aderiu aos dispositivos windows 10 foram atualizados para o Windows 10 Business como parte da subscrição do Microsoft 365 Business Premium.
+Verifique se o seu Azure AD aderiu aos dispositivos windows 10 e está atualizado para o Windows 10 Business como parte da subscrição do Microsoft 365 Business Premium.
   
 1. Aceda a **Definições** \> **Sistema** \> **Acerca de**.
     

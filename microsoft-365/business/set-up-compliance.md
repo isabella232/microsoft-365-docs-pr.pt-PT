@@ -22,12 +22,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Crie funcionalidades de conformidade para evitar a perda de dados e ajude a manter as informações sensíveis dos seus e dos seus clientes seguras.
-ms.openlocfilehash: 18886ff3a0ba5e99e63c70ef083d7a69c75bac91
-ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
+ms.openlocfilehash: 2c95ad3f36df28af2c68cd11192bcfe92dfe29e3
+ms.sourcegitcommit: e56894917d2aae05705c3b9447388d10e2156183
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "44785838"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "48841179"
 ---
 # <a name="set-up-compliance-features"></a>Configurar funcionalidades de conformidade
 
@@ -35,7 +35,7 @@ O Microsoft 365 Business Premium vem com funcionalidades para proteger os seus d
 
 ## <a name="set-up-dlp-features"></a>Configurar funcionalidades DLP
 
-Consulte [Criar uma política DLP a partir de um modelo](https://docs.microsoft.com/microsoft-365/compliance/create-a-dlp-policy-from-a-template) para um exemplo sobre como configurar uma política para proteger contra informações pessoalmente identificáveis (PII). 
+Consulte [Criar uma política DLP a partir de um modelo](https://docs.microsoft.com/microsoft-365/compliance/create-a-dlp-policy-from-a-template) para um exemplo sobre como configurar uma política para proteger contra a perda de dados pessoais. 
   
 DLP vem com muitos modelos de política prontos a usar para muitos locais diferentes. Por exemplo, Australia Financial Data, Canada Personal Information Act, U.S. Financial Data, e assim por diante. Veja [o que os modelos de política do DLP incluem](https://docs.microsoft.com/microsoft-365/compliance/what-the-dlp-policy-templates-include) para uma lista completa. Todos estes modelos podem ser ativados semelhantes ao exemplo do modelo PII. 
   
@@ -49,7 +49,7 @@ Para colocar uma caixa de correio em porão de litígio, no centro de administra
     
 1. No navegador esquerdo, vá aos **Users** \> **utilizadores Utilizadores Ativos**.
     
-2. Selecione um utilizador cuja caixa de correio pretende colocar em espera de litígio. No painel de utilizador, expanda as **definições de Correio**, e ao lado **de mais definições,** escolha **propriedades de Edit Exchange**.
+2. Selecione um utilizador cuja caixa de correio pretende colocar em espera de litígio. No painel de utilizador, expanda as **definições de Correio** , e ao lado **de mais definições,** escolha **propriedades de Edit Exchange**.
     
 3. Na página da caixa de correio para o utilizador, escolha as funcionalidades da caixa de correio ** na navegação esquerda e, em seguida, escolha o link **Enable** no **porão de Contencioso**.
     

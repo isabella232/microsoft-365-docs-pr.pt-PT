@@ -24,12 +24,12 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Conheça as funcionalidades de segurança que vêm com o Microsoft 365 Business Premium para ajudar a salvaguardar os seus dados em Computadores, telefones e tablets.
-ms.openlocfilehash: 5e16d4bf297d363b6f9b44ce854c857e7e5464ed
-ms.sourcegitcommit: 9ce9001aa41172152458da27c1c52825355f426d
+ms.openlocfilehash: 587d80c27f867a387c901d23f4ec05f3c5905bf6
+ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "47357324"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "48843494"
 ---
 # <a name="microsoft-365-business-premium-security-and-compliance-features"></a>Microsoft 365 Business Premium funcionalidades de segurança e conformidade
 
@@ -63,9 +63,9 @@ Pode gerir muitas das funcionalidades de segurança Do Microsoft 365 Business Pr
 
 Funcionalidades avançadas no Microsoft 365 Business Premium estão disponíveis para ajudá-lo a proteger o seu negócio contra ameaças cibernéticas e salvaguardar informações sensíveis.
   
-- **[Escritório 365 Proteção Avançada de Ameaças](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)**
+- **[Microsoft Defender para o Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)**
     
-    Advanced Threat Protection (ATP) ajuda a proteger o seu negócio contra ataques sofisticados de phishing e ransomware projetados para comprometer a informação dos funcionários ou do cliente. As funcionalidades incluem:
+    O Microsoft Defender para o Office 365 ajuda a proteger o seu negócio contra ataques sofisticados de phishing e ransomware concebidos para comprometer a informação dos funcionários ou do cliente. As funcionalidades incluem:
     
   - Digitalização sofisticada de anexos e análise alimentada por IA para detetar e descartar mensagens perigosas.
     
@@ -125,4 +125,4 @@ Sim, estas funcionalidades estão disponíveis em todos os mercados onde o Micro
     
     ![No navegador esquerdo no centro de administração microsoft 365, escolha centros de administração.](../media/fa4484f8-c637-45fd-a7bd-bdb3abfd6c03.png)
   
-3. Escolha ** &amp; a Conformidade de Segurança** para ir ao Centro de Conformidade de &amp; Segurança.
+3. Escolha **&amp; a Conformidade de Segurança** para ir ao Centro de Conformidade de &amp; Segurança.

@@ -21,13 +21,13 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-description: Crie o Office 365 Advanced Threat Protection e proteja dados sensíveis contra phishing, malware e outras ameaças.
-ms.openlocfilehash: d56a5371bc5fc4da22f4625024769cc0325a25ca
-ms.sourcegitcommit: dffb9b72acd2e0bd286ff7e79c251e7ec6e8ecae
+description: Crie o Microsoft Defender para o Office 365 e proteja dados sensíveis contra phishing, malware e outras ameaças.
+ms.openlocfilehash: 2f1a26b5a2c5678871502d441b6ba64c9b011e1c
+ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "47948594"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "48842262"
 ---
 # <a name="increase-threat-protection"></a>Aumentar a proteção contra ameaças
 
@@ -124,21 +124,21 @@ Para criar uma regra de transporte de correio, veja [este pequeno vídeo](https:
 
 ## <a name="protect-your-email-from-phishing-attacks"></a>Proteja o seu e-mail de ataques de phishing
 
-Se configurar um ou mais domínios personalizados para o ambiente Office 365 ou Microsoft 365, pode configurar uma proteção anti-phishing direcionada. A proteção anti-phishing DA ATP, parte do Office 365 Advanced Threat Protection, pode ajudar a proteger a sua organização de ataques de phishing baseados em imitação maliciosa e outros ataques de phishing. Se ainda não configuraste um domínio personalizado, não precisas de fazer isto.
+Se configurar um ou mais domínios personalizados para o ambiente Office 365 ou Microsoft 365, pode configurar uma proteção anti-phishing direcionada. A proteção anti-phishing, parte do Microsoft Defender para o Office 365, pode ajudar a proteger a sua organização de ataques de phishing baseados em imitações maliciosas e outros ataques de phishing. Se ainda não configuraste um domínio personalizado, não precisas de fazer isto.
 
 Recomendamos que inicie com esta proteção criando uma política para proteger os seus utilizadores mais importantes e o seu domínio personalizado.
 
-Para criar uma política anti-phishing ATP, assista  [a este vídeo de treino curto,](https://support.microsoft.com/office/86c425e1-1686-430a-9151-f7176cce4f2c)ou complete os seguintes passos:
+Para criar uma política anti-phishing no Microsoft Defender para o Office 365, veja  [este vídeo de treino curto](https://support.microsoft.com/office/86c425e1-1686-430a-9151-f7176cce4f2c)ou complete os seguintes passos:
 
 1. Aceda a [https://protection.office.com](https://protection.office.com).
 
 2. No &amp; Centro de Conformidade de Segurança, no painel de navegação à esquerda, sob **gestão de ameaças,** escolha **a Política**.
 
-3. Na página **Política,** escolha **anti-phishing ATP.**
+3. Na página **Política,** escolha **Anti-phishing**.
 
 4. Na página **Anti-phishing,** selecione **+ Criar**. Um assistente lança-o através da definição da sua política anti-phishing.
 
-5. Especifique o nome, descrição e configurações da sua política como recomendado na tabela seguinte. Para mais detalhes, consulte [Saiba mais sobre as opções de política anti-phishing ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-anti-phishing-policies).
+5. Especifique o nome, descrição e configurações da sua política como recomendado na tabela seguinte. Para obter mais detalhes, consulte [a política anti-phishing no Microsoft Defender para as opções office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-anti-phishing-policies).
 
 6. Depois de rever as suas definições, escolha **Criar esta política** ou **Guardar,** conforme apropriado.
 
@@ -148,22 +148,22 @@ Para criar uma política anti-phishing ATP, assista  [a este vídeo de treino cu
 |Descrição|Certifique-se de que o pessoal mais importante e o nosso domínio não estão a ser personificados.|
 |Adicionar utilizadores para proteger|**Selecione + Adicione uma condição, o destinatário é**. Digite os nomes de utilizador ou introduza o endereço de e-mail do candidato, gestor de campanha e outros membros importantes do pessoal. Pode adicionar até 20 endereços internos e externos que pretende proteger da personificação.|
 |Adicionar domínios para proteger|**Selecione + Adicione uma condição, o domínio do destinatário é**. Introduza o domínio personalizado associado à subscrição microsoft 365, se tiver definido um. Pode introduzir mais do que um domínio.|
-|Escolha ações|Se o e-mail for enviado por um utilizador personificado: Escolha **redirecionar a mensagem para outro endereço de e-mail**e, em seguida, digitar o endereço de e-mail do administrador de segurança; por exemplo, *Alice <span> <span> @contoso.com*. Se o e-mail for enviado por um domínio personificado: Escolha **a mensagem de quarentena**.|
+|Escolha ações|Se o e-mail for enviado por um utilizador personificado: Escolha **redirecionar a mensagem para outro endereço de e-mail** e, em seguida, digitar o endereço de e-mail do administrador de segurança; por exemplo, *Alice <span> <span> @contoso.com*. Se o e-mail for enviado por um domínio personificado: Escolha **a mensagem de quarentena**.|
 |Inteligência da caixa de correio|Por predefinição, a inteligência da caixa de correio é selecionada quando cria uma nova política anti-phishing. Deixe esta definição **On** para obter os melhores resultados.|
 |Adicionar remetentes e domínios fidedignos|Aqui pode adicionar o seu próprio domínio, ou quaisquer outros domínios fidedignos.|
-|Aplicado a|Selecione **O domínio do destinatário é**. Em **qualquer um destes**, selecione **Escolha**. Selecione **+ Adicionar**. Selecione a caixa de verificação ao lado do nome do domínio, por exemplo, *contoso. <span> <span> com*, na lista e, em seguida, **selecione Add**. Selecione **Feito**.|
+|Aplicado a|Selecione **O domínio do destinatário é**. Em **qualquer um destes** , selecione **Escolha**. Selecione **+ Adicionar**. Selecione a caixa de verificação ao lado do nome do domínio, por exemplo, *contoso. <span> <span> com* , na lista e, em seguida, **selecione Add**. Selecione **Feito**.|
 
-## <a name="protect-against-malicious-attachments-and-files-with-atp-safe-attachments"></a>Proteger contra anexos e ficheiros maliciosos com anexos ATP Safe
+## <a name="protect-against-malicious-attachments-and-files-with-safe-attachments"></a>Proteger contra anexos e ficheiros maliciosos com anexos seguros
 
-As pessoas enviam, recebem e partilham anexos regularmente, tais como documentos, apresentações, folhas de cálculo e muito mais. Nem sempre é fácil dizer se um anexo é seguro ou malicioso apenas olhando para uma mensagem de e-mail. O Office 365 Advanced Threat Protection inclui a proteção do apSA Safe Attachment, mas esta proteção não é ligada por defeito. Recomendamos que crie uma nova regra para começar a utilizar esta proteção. Esta proteção estende-se a ficheiros em SharePoint, OneDrive e Microsoft Teams.
+As pessoas enviam, recebem e partilham anexos regularmente, tais como documentos, apresentações, folhas de cálculo e muito mais. Nem sempre é fácil dizer se um anexo é seguro ou malicioso apenas olhando para uma mensagem de e-mail. O Microsoft Defender para o Office 365 inclui proteção de anexo seguro, mas esta proteção não é ligada por defeito. Recomendamos que crie uma nova regra para começar a utilizar esta proteção. Esta proteção estende-se a ficheiros em SharePoint, OneDrive e Microsoft Teams.
 
-Para criar uma política de fixação segura ATP, veja [este pequeno vídeo](https://support.microsoft.com/office/e7e68934-23dc-4b9c-b714-e82e27a8f8a5)ou complete os seguintes passos:
+Para criar uma política de fixação segura, veja [este pequeno vídeo](https://support.microsoft.com/office/e7e68934-23dc-4b9c-b714-e82e27a8f8a5)ou complete os seguintes passos:
 
 1. Vá [https://protection.office.com](https://protection.office.com) para, e inscreva-se na sua conta de administração.
 
 2. No &amp; Centro de Conformidade de Segurança, no painel de navegação à esquerda, sob **gestão de ameaças,** escolha **a Política**.
 
-3. Na página Política, escolha **anexos seguros ATP.**
+3. Na página Política, escolha **Anexos Seguros.**
 
 4. Na página De anexos Safe, aplique esta proteção de forma geral selecionando a caixa de verificação **DE Turn on ATP para SharePoint, OneDrive e Microsoft Teams.**
 
@@ -181,11 +181,11 @@ Para criar uma política de fixação segura ATP, veja [este pequeno vídeo](htt
 |Redirecione o acessório na deteção|Ativar a reorientação (selecione esta caixa) Introduza a conta de administração ou uma configuração da caixa de correio para quarentena.          Aplique a seleção acima se ocorrer uma verificação de malware para os anexos vezes fora ou se ocorrer erro (selecione esta caixa).|
 |Aplicado a|O domínio do destinatário é . . . selecione o seu domínio.|
 
-Para obter mais informações, consulte [configurar as políticas anti-phishing DO Office 365 ATP.](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-anti-phishing-policies)
+Para obter mais informações, consulte [configurar políticas anti-phishing no Microsoft Defender para o Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-anti-phishing-policies).
 
-## <a name="protect-against-phishing-attacks-with-atp-safe-links"></a>Proteja contra ataques de phishing com LIGAções Seguras ATP
+## <a name="protect-against-phishing-attacks-with-safe-links"></a>Proteja contra ataques de phishing com ligações seguras
 
-Os hackers às vezes escondem sites maliciosos em links em e-mails ou outros ficheiros. O Office 365 ATP Safe Links (ATP Safe Links), parte do Office 365 Advanced Threat Protection, pode ajudar a proteger a sua organização fornecendo a verificação de tempo de clique dos endereços web (URLs) em mensagens de correio eletrónico e documentos do Office. A proteção é definida através das políticas ATP Safe Links.
+Os hackers às vezes escondem sites maliciosos em links em e-mails ou outros ficheiros. As Ligações Seguras, parte do Microsoft Defender para o Office 365, podem ajudar a proteger a sua organização fornecendo a verificação de tempo de clique de endereços web (URLs) em mensagens de e-mail e documentos do Office. A proteção é definida através de políticas de Ligações Seguras.
 
 Recomendamos que faça o seguinte:
 
@@ -193,19 +193,19 @@ Recomendamos que faça o seguinte:
 
 - Adicione uma nova política direcionada a todos os destinatários do seu domínio.
 
-Para configurar o ATP Safe Links, assista [a este vídeo de treino curto,](https://support.microsoft.com/office/61492713-53c2-47da-a6e7-fa97479e97fa)ou complete os seguintes passos:
+Para configurar Ligações Seguras, assista [a este vídeo de treino curto,](https://support.microsoft.com/office/61492713-53c2-47da-a6e7-fa97479e97fa)ou complete os seguintes passos:
 
 1. Vá [https://protection.office.com](https://protection.office.com) para, e inscreva-se na sua conta de administração.
 
 2. No &amp; Centro de Conformidade de Segurança, no painel de navegação à esquerda, sob **gestão de ameaças,** escolha **a Política**.
 
-3. Na página Política, escolha **LINKS SEGUROS ATP**.
+3. Na página Política, escolha **Links Seguros.**
 
 Para modificar a política de incumprimento:
 
 1. Na página 'Links Seguro', ao abrigo **de Políticas aplicáveis a toda a organização,** selecione a política **Padrão.**
 
-2. Em **Definições que se aplicam a conteúdos exceto e-mail**, selecione **Microsoft 365 Apps for enterprise, Office for iOS e Android**.
+2. Em **Definições que se aplicam a conteúdos exceto e-mail** , selecione **Microsoft 365 Apps for enterprise, Office for iOS e Android**.
 
 3. Seleccione **Guardar**.
 
@@ -224,7 +224,7 @@ Para criar uma nova política direcionada a todos os destinatários do seu domí
 |Utilize anexos seguros para digitalizar conteúdo transferível|Selecione esta caixa.|
 |Aplicado a|O domínio do destinatário é . . . selecione o seu domínio.|
 
-Para mais informações, consulte [as ligações seguras ATP do Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links)
+Para mais informações, consulte [Ligações Seguras.](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links)
 
 ## <a name="go-to-intune-admin-center"></a>Vá ao Centro de Administração Intune
 
