@@ -29,12 +29,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Conheça o Microsoft 365 Empresas Premium, um serviço de subscrição que inclui aplicações de produtividade do Office e proteção avançada contra ciberameaças para empresas.
-ms.openlocfilehash: 50b1fec21593bd22577e07e000cedb89dfd90f66
-ms.sourcegitcommit: f7566dd6010744c72684efdc37f4471672330b61
+ms.openlocfilehash: e67ae036bf3ce7811f19c8745838bb51dde073ea
+ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138234"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "48842186"
 ---
 # <a name="overview-of-microsoft-365-business-premium"></a>Descrição geral do Microsoft 365 Empresas Premium
 
@@ -71,11 +71,11 @@ O Microsoft 365 Empresas Premium ajuda a proteger os dados em todas estas situa�
 
 O Microsoft 365 Empresas Premium fornece **proteção contra ameaças** ao:
 
-- Analisar ligações em e-mails e documentos em tempo real para bloquear sites inseguros (Ligações Seguras da ATP).
+- Analisar ligações em e-mails e documentos em tempo real para bloquear sites inseguros (Ligações Seguras).
 
-- Realizar uma análise avançada de anexos de e-mail num ambiente de sandbox para detetar malware criado recentemente (Anexos Seguros da ATP). 
+- Realizar uma análise avançada de anexos de e-mail num ambiente de sandbox para detetar malware criado recentemente (Anexos Seguros). 
 
-- Ativar políticas de anti-phishing que utilizam modelos de aprendizagem automática e deteção de usurpação de identidade para fornecer proteção contra ataques avançados (inteligência anti-phishing da ATP). 
+- Ativar políticas de anti-phishing que utilizam modelos de aprendizagem automática e deteção de usurpação de identidade para fornecer proteção contra ataques avançados (inteligência anti-phishing no Defender para o Office 365). 
 
 - Configurar políticas avançadas que desativam o acesso a partir de localizações não fidedignas ou ignoram a autenticação multifator em localizações fidedignas, como a rede do seu escritório (MFA do Azure, incluindo IPs fidedignos e Acesso Condicional). 
 
