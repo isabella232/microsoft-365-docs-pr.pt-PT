@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: Saiba como mover o seu negócio de Microsoft 365 Business Premium para o Microsoft 365 E3.
-ms.openlocfilehash: 874da0d35759c8af4c3ee2ca4a1bdfa90a91627c
-ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
+ms.openlocfilehash: 2b15d20e3ae1ad0bef871b139e61abf3ba260729
+ms.sourcegitcommit: 34ebec8e2bd54ba3d4ccfd9724797665c965c17f
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48842206"
+ms.lasthandoff: 11/13/2020
+ms.locfileid: "49071433"
 ---
 # <a name="migrate-from-microsoft-365-business-premium-to-microsoft-365-e3"></a>Migrar do Microsoft 365 Business Premium para o Microsoft 365 E3
 
@@ -57,7 +57,7 @@ Esta tabela mostra as diferenças entre o Microsoft 365 Business Premium e o Mic
 | Teams    | ![Incluído com Microsoft 365 Business Premium](../media/check-mark.png)    | ![Incluído com Microsoft 365 E3](../media/check-mark.png) | 
 | OneDrive para Empresas    | 1 Limite de armazenamento de TB por utilizador    | Ilimitado | 
 | Yammer, SharePoint Online, Planner, Stream    | ![Incluído com Microsoft 365 Business Premium](../media/check-mark.png)    | ![Incluído com Microsoft 365 E3](../media/check-mark.png) | 
-| Outlook Customer Manager, MileIQ    | ![Incluído com Microsoft 365 Business Premium](../media/check-mark.png)    | | 
+| MileIQ    | ![Incluído com Microsoft 365 Business Premium](../media/check-mark.png)    | | 
 | **Proteção contra ameaças**        | | | 
 | Capacidades de redução de superfície de ataque    | [Consulte esta lista](#threat-protection) | Gestão empresarial do isolamento baseado em hardware para o Microsoft Edge | 
 | Defensor do Gabinete 365 Plano 1 | ![Incluído com Microsoft 365 Business Premium](../media/check-mark.png)    | Não incluído, mas pode ser adicionado em | 
@@ -106,7 +106,7 @@ Os seus utilizadores podem agora usufruir de armazenamento ilimitado nas caixas 
 Pode começar a usar cloud App Discovery, Azure AD Connect Health e SSO para mais de 10 aplicações.
 
 >[!Note]
->Os utilizadores migrados para o Microsoft 365 E3 já não podem utilizar o Outlook Customer Manager e o MileIQ.
+>Os utilizadores migrados para o Microsoft 365 E3 já não podem utilizar o MileIQ.
 >
 
 <a name="threat-protection"></a>
