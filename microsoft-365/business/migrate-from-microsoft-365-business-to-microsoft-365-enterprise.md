@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: Saiba como mover o seu negócio de Microsoft 365 Business Premium para o Microsoft 365 E3.
-ms.openlocfilehash: 3f840a27cdcf50bba7710681135f6c2e241ad14b
-ms.sourcegitcommit: 001e64f89f9c3cd6bbd4a25459f5bee3b966820c
+ms.openlocfilehash: 3f1bb9591e1bd2bac49326325ce6c8c2d6778497
+ms.sourcegitcommit: c1dd5be42fe0c5dcc7c05817c941edd9076febf8
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "49367061"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "49558250"
 ---
 # <a name="migrate-from-microsoft-365-business-premium-to-microsoft-365-e3"></a>Migrar do Microsoft 365 Business Premium para o Microsoft 365 E3
 
@@ -51,7 +51,7 @@ Esta tabela mostra as diferenças entre o Microsoft 365 Business Premium e o Mic
 |:-------|:-----|:-----|
 | **No local**        | | | 
 | Windows 10    | Negócios windows 10  |     Windows 10 Enterprise E3| 
-| Aplicativos de escritório*    | [Microsoft 365 Apps para negócios](#office-365-business)    | Aplicações Microsoft 365 para empresas | 
+| Aplicativos de escritório*    | [Microsoft 365 Apps para negócios](#office-365-business)    | Microsoft 365 Apps para empresas | 
 | **Aplicativos de produtividade em nuvem**        | | | 
 | Troca online e outlook    | Limite de armazenamento de 50 GB por caixa de correio e arquivamento ilimitado da Exchange Online    | Limite de armazenamento de 100 GB por caixa de correio e arquivamento ilimitado da Exchange Online | 
 | Teams    | ![Incluído com Microsoft 365 Business Premium](../media/check-mark.png)    | ![Incluído com Microsoft 365 E3](../media/check-mark.png) | 
@@ -62,7 +62,7 @@ Esta tabela mostra as diferenças entre o Microsoft 365 Business Premium e o Mic
 | Capacidades de redução de superfície de ataque    | [Consulte esta lista](#threat-protection) | Gestão empresarial do isolamento baseado em hardware para o Microsoft Edge | 
 | Defensor do Gabinete 365 Plano 1 | ![Incluído com Microsoft 365 Business Premium](../media/check-mark.png)    | Não incluído, mas pode ser adicionado em | 
 | **Gestão de identidades**        | | | 
-| Autosserviço de autosserviço reset para contas híbridas Azure Ative Directory (Azure AD), autenticação multi-factor Azure (MFA), Acesso Condicional, writeback de palavra-passe para identidades no local|     ![Incluído com Microsoft 365 Business Premium](../media/check-mark.png)    | ![Incluído com Microsoft 365 E3](../media/check-mark.png) | 
+| Autosserviço de autosserviço reset para contas híbridas Azure Ative Directory (Azure AD), Autenticação de vários fatores AZURE AD (MFA), Acesso Condicional, writeback de palavra-passe para identidades no local|     ![Incluído com Microsoft 365 Business Premium](../media/check-mark.png)    | ![Incluído com Microsoft 365 E3](../media/check-mark.png) | 
 | Cloud App Discovery, Azure AD Connect Health    |     | ![Incluído com Microsoft 365 E3](../media/check-mark.png) | 
 | Azure AD Office 365 apps Single Sign-On (SSO): 10 apps por utilizador (apps Da Gallery SaaS como Salesforce)* | ![Incluído com Microsoft 365 Business Premium](../media/check-mark.png)    | ![Incluído com Microsoft 365 E3](../media/check-mark.png) | 
 | Azure AD Premium 1 SSO: sem limite (aplicações no local através de aplicações AZure AD Application Proxy e aplicações não-galeria usando Self-Service modelos de integração de aplicações)    |     | ![Incluído com Microsoft 365 E3](../media/check-mark.png) | 
