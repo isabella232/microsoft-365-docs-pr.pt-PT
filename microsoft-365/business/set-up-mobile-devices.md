@@ -20,17 +20,18 @@ ms.custom:
 - TRN_M365B
 - OKR_SMB_Videos
 - AdminSurgePortfolio
+- okr_smb
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: d868561b-d340-4c04-a973-e2575d7f09bc
 description: Instale o Office num iPhone ou num telefone Android, e os seus ficheiros de trabalho nas aplicações do Office serão protegidos pelo Microsoft 365 para negócios.
-ms.openlocfilehash: e847a794d34731c22f7a0fca87d246151a6f80a5
-ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
+ms.openlocfilehash: ef18fcce851b8fa1573fd5134bd25fb7d4a3d8f9
+ms.sourcegitcommit: 855719ee21017cf87dfa98cbe62806763bcb78ac
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "44785878"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "49928750"
 ---
 # <a name="set-up-mobile-devices-for-microsoft-365-for-business-users"></a>Configurar dispositivos móveis para o Microsoft 365 para utilizadores empresariais
 
@@ -60,7 +61,7 @@ Quando a instalação estiver concluída, toque no botão **Abrir** para abrir o
   
 ![Screenshot of Outlook with Get Started button](../media/005bedec-ae50-4d75-b3bb-e7cef9e2561c.png)
   
-Introduza o seu endereço de e-mail de trabalho na Conta Adicionar Conta **de Email** \> **Add Account**e, em seguida, insira o Microsoft 365 para obter credenciais de negócio \> **Iniciar sção**.
+Introduza o seu endereço de e-mail de trabalho na Conta Adicionar Conta **de Email** \> e, em seguida, insira o Microsoft 365 para obter credenciais de negócio \> **Iniciar sção**.
   
 ![Sign in to your work account](../media/3cef1fb5-7bec-4d3d-8542-872b731ce19f.png)
   

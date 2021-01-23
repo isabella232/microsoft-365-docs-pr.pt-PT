@@ -21,17 +21,18 @@ ms.custom:
 - OKR_SMB_Videos
 - seo-marvel-mar
 - AdminSurgePortfolio
+- okr_smb
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 2d7ff45e-0da0-4caa-89a9-48cabf41f193
 description: Saiba como configurar dispositivos Windows que executam o Windows 10 Pro para utilizadores Do Microsoft 365 Business Premium, permitindo controlos de gestão e segurança centralizados.
-ms.openlocfilehash: c95b9e51c7ec3c440509fe34084d2a030c7f2eec
-ms.sourcegitcommit: e56894917d2aae05705c3b9447388d10e2156183
+ms.openlocfilehash: b1877d83f113a2ba23d0db374967e0afcd7fe067
+ms.sourcegitcommit: 855719ee21017cf87dfa98cbe62806763bcb78ac
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48841265"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "49928730"
 ---
 # <a name="set-up-windows-devices-for-microsoft-365-business-premium-users"></a>Configurar dispositivos Windows para utilizadores Microsoft 365 Business Premium
 
@@ -77,21 +78,21 @@ Para um novo dispositivo a executar a Atualização para Criativos do Windows 10
   
    ![In the Start menu, click Windows Settings icon](../media/74e1ce9a-1554-4761-beb9-330b176e9b9d.png)
   
-2. Nas **Definições** , aceda a **Contas**.
+2. Nas **Definições**, aceda a **Contas**.
   
    ![In Windows Settings, go to Accounts](../media/472fd688-d111-4788-9fbb-56a00fbdc24d.png)
   
-3. Na página **As suas informações** , clique em **Aceder a profiss./escolar** \> **Ligar**.
+3. Na página **As suas informações**, clique em **Aceder a profiss./escolar** \> **Ligar**.
   
    ![Choose Connect under Access work or school](../media/af3a4e3f-f9b9-4969-b3e2-4ef99308090c.png)
   
-4. Na caixa de diálogo **Configurar uma conta escolar ou profissional** , em **Ações alternativas** , selecione **Adicionar este dispositivo ao Azure Active Directory**.
+4. Na caixa de diálogo **Configurar uma conta escolar ou profissional**, em **Ações alternativas**, selecione **Adicionar este dispositivo ao Azure Active Directory**.
   
    ![Click Join this device to Azure Active Directory](../media/fb709a1b-05a9-4750-9cb9-e097f4412cba.png)
   
-5. Na página **Vamos iniciar a sua sessão** , introduza a sua conta escolar ou profissional \> **Seguinte**.
+5. Na página **Vamos iniciar a sua sessão**, introduza a sua conta escolar ou profissional \> **Seguinte**.
   
-   Na página **Introduzir palavra-passe** , introduza a sua palavra-passe \> **Iniciar sessão**.
+   Na página **Introduzir palavra-passe**, introduza a sua palavra-passe \> **Iniciar sessão**.
   
    ![Enter your work or school email on the Let's get you signed in page](../media/f70eb148-b1d2-4ba3-be38-7317eaf0321a.png)
   
