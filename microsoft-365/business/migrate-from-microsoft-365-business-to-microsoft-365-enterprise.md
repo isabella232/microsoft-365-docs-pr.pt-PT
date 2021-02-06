@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: Saiba como mover o seu negócio de Microsoft 365 Business Premium para o Microsoft 365 E3.
-ms.openlocfilehash: 3f1bb9591e1bd2bac49326325ce6c8c2d6778497
-ms.sourcegitcommit: c1dd5be42fe0c5dcc7c05817c941edd9076febf8
+ms.openlocfilehash: 019a422bb879389f42a32cf30f9a8094f776078a
+ms.sourcegitcommit: eac5d9f759f290d3c51cafaf335a1a1c43ded927
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49558250"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "50126207"
 ---
 # <a name="migrate-from-microsoft-365-business-premium-to-microsoft-365-e3"></a>Migrar do Microsoft 365 Business Premium para o Microsoft 365 E3
 
@@ -145,9 +145,7 @@ O Microsoft 365 Business Premium inclui o Windows 10 Business, que pode instalar
 
 As aplicações microsoft 365 para clientes empresariais instaladas nos seus dispositivos começarão automaticamente a utilizar as funcionalidades das Aplicações Microsoft 365 para empresas. Após a migração, pode agora utilizar:
 
- - Ativação de volume através da Política de Grupo
- - Telemetria de aplicações
- - Atualização de controlos
+ - Apoio à Política de Grupo
  - Folha de cálculo compara e inquiri
  - Inteligência empresarial
 
