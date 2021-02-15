@@ -21,12 +21,12 @@ search.appverid:
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: Saiba como obter acesso a recursos no local, como linha de aplicações empresariais, partilhas de ficheiros e impressoras de um Azure Ative Directory que aderiu ao dispositivo Windows 10.
-ms.openlocfilehash: 22edf0c23d6318e1f70bcb21b2cd697ea0a75da4
-ms.sourcegitcommit: 849b365bd3eaa9f3c3a9ef9f5973ef81af9156fa
+ms.openlocfilehash: fc02fd30f41f25f52e653e750a6bdfd1bd7f800e
+ms.sourcegitcommit: a62ac3c01ba700a51b78a647e2301f27ac437c5a
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49688239"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50233846"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business-premium"></a>Aceder aos recursos no local a partir de um dispositivo AD AD Azure no Microsoft 365 Business Premium
 
@@ -61,6 +61,6 @@ Se o dispositivo Windows a que aD Azure-AD aderiu foi previamente agrupado por d
 
 - Se o dispositivo estiver a utilizar objetos de política de grupo (GPO), alguns GPOs podem não ter um [Fornecedor de Serviço de Configuração](https://docs.microsoft.com/windows/configuration/provisioning-packages/how-it-pros-can-use-configuration-service-providers) comparável (CSP) no Intune. Executar a [ferramenta MMAT](https://www.microsoft.com/download/details.aspx?id=45520) para encontrar CSPs comparáveis para os GPOs existentes.
 
-- Os utilizadores não poderão autenticar aplicações que dependam da autenticação do Ative Directory. Avalie a aplicação legacy e considere atualização para uma app que usa o moderno Auth, se possível.
+- Os utilizadores podem não conseguir autenticar aplicações que dependam da autenticação do Ative Directory. Avalie a aplicação legacy e considere atualização para uma app que usa o moderno Auth, se possível.
 
 - A descoberta da impressora ative do Diretório não vai funcionar. Pode fornecer caminhos de impressora direta para todos os utilizadores ou utilizar [a Impressão Universal.](https://aka.ms/UPDocs)
