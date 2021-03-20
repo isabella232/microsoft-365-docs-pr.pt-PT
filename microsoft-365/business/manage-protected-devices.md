@@ -28,12 +28,12 @@ search.appverid:
 - MOE150
 ms.assetid: 018a2a96-3811-4b5d-b751-3b6330b34256
 description: Aprenda a remover os dados da empresa dos dispositivos geridos através de políticas de proteção, bem como a redefinir os dispositivos do Windows 10 para as suas definições de fábrica.
-ms.openlocfilehash: 88311a2cf08ee0b1ceb4ef3eb599efe5ebccdb05
-ms.sourcegitcommit: a5ed189fa789975f8c3ed39db1d52f2ef7d671aa
+ms.openlocfilehash: 8c5472eada4cded3a6869c031ab902928876095f
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "45101627"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50913220"
 ---
 # <a name="manage-protected-devices-with-microsoft-365-business-premium"></a>Gerir dispositivos protegidos com o Microsoft 365 Business Premium
 
@@ -45,6 +45,4 @@ Para obter mais informações sobre as tarefas que pode utilizar para gerir disp
   
 [Repor as definições de fábrica de dispositivos Windows 10](reset-devices-to-factory-settings.md)
 
-[Adicione um dispositivo gerido](https://docs.microsoft.com/microsoft-365/business/app-protection-settings-for-android-and-ios)
-  
-
+[Adicione um dispositivo gerido](./app-protection-settings-for-android-and-ios.md)

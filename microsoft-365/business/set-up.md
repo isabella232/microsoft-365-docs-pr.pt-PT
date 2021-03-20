@@ -30,12 +30,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Descubra os passos de configuração do Microsoft 365 Business Premium, incluindo a adição de um domínio e utilizadores, configurando políticas de segurança, e muito mais.
-ms.openlocfilehash: e7ebe179c67077dc71ae4873b0711d0e810c701a
-ms.sourcegitcommit: 1b30ac6e05906c8a014b1fed33fc71e1821f6ad2
+ms.openlocfilehash: 5b082e78f3dc4067dcce4a96a8088b2347bc3af4
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "50044736"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50912576"
 ---
 # <a name="set-up-microsoft-365-business-premium-in-the-setup-wizard"></a>Configurar o Microsoft 365 Business Premium no assistente de configuração
 
@@ -67,15 +67,15 @@ Ao comprar o Microsoft 365 Business Premium, tem a opção de utilizar um domín
     ![Screenshot da página De Personalizar o seu sign-in.](../media/adddomain.png)
 
     
-4. Siga os passos no assistente para [criar registos DNS em qualquer fornecedor de hospedagem DNS para o Microsoft 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) que verifique que é dono do domínio. Se conhecer o seu anfitrião de domínio, consulte também as [instruções específicas](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions)do anfitrião .
+4. Siga os passos no assistente para [criar registos DNS em qualquer fornecedor de hospedagem DNS para o Microsoft 365](/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) que verifique que é dono do domínio. Se conhecer o seu anfitrião de domínio, consulte também as [instruções específicas](/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions)do anfitrião .
 
-    Se o seu fornecedor de hospedagem for o GoDaddy ou outro anfitrião ativado com [ligação de domínio,](https://docs.microsoft.com/office365/admin/get-help-with-domains/domain-connect)o processo é fácil e será automaticamente solicitado que faça sessão e deixe a Microsoft autenticar em seu nome.
+    Se o seu fornecedor de hospedagem for o GoDaddy ou outro anfitrião ativado com [ligação de domínio,](/office365/admin/get-help-with-domains/domain-connect)o processo é fácil e será automaticamente solicitado que faça sessão e deixe a Microsoft autenticar em seu nome.
 
     ![Na página GoDaddy Confirm Access, selecione Authorize.](../media/godaddyauth.png)
 
 ### <a name="add-users-and-assign-licenses"></a>Adicionar utilizadores e atribuir licenças
 
-Pode adicionar utilizadores no assistente, mas também pode [adicionar utilizadores mais tarde](add-users-m365b.md) no centro de administração. Além disso, se tiver um controlador de domínio local, pode adicionar utilizadores ao [Azure AD Connect](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express).
+Pode adicionar utilizadores no assistente, mas também pode [adicionar utilizadores mais tarde](../admin/add-users/add-users.md) no centro de administração. Além disso, se tiver um controlador de domínio local, pode adicionar utilizadores ao [Azure AD Connect](/azure/active-directory/hybrid/how-to-connect-install-express).
 
 #### <a name="add-users-in-the-wizard"></a>Adicionar utilizadores no assistente
 
@@ -94,10 +94,10 @@ Qualquer utilizadores que adicione no assistente recebem automaticamente uma lic
   
 Para configurar serviços, tem de atualizar alguns registos no seu anfitrião de DNS ou entidade de registo de domínios.
   
-1. Normalmente, o assistente de configuração deteta a sua entidade de registo e fornece-lhe uma ligação para instruções passo a passo de forma a atualizar os seus registos NS no site da entidade de registo de domínios. Caso não o faça, [altere os serviçais para configurar o Microsoft 365 com qualquer registo de domínio](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar). 
+1. Normalmente, o assistente de configuração deteta a sua entidade de registo e fornece-lhe uma ligação para instruções passo a passo de forma a atualizar os seus registos NS no site da entidade de registo de domínios. Caso não o faça, [altere os serviçais para configurar o Microsoft 365 com qualquer registo de domínio](../admin/get-help-with-domains/change-nameservers-at-any-domain-registrar.md). 
 
-    - Se tiver registos DNS existentes, por exemplo, um web site existente, mas o seu anfitrião DNS está ativado para [a ligação de domínios](https://docs.microsoft.com/office365/admin/get-help-with-domains/domain-connect), escolha **adicionar registos para mim**. Na página **de serviços online,** aceite todas as predefinições e escolha **Seguinte**, e escolha **'Autorizo'** na página do seu anfitrião DNS.
-    - Se tiver registos DNS existentes com outros anfitriões DNS (não habilitados para a ligação de domínios), irá querer gerir os seus próprios registos DNS para garantir que os serviços existentes se mantenham ligados. Consulte [o básico do domínio](https://docs.microsoft.com/office365/admin/get-help-with-domains/dns-basics) para obter mais informações.
+    - Se tiver registos DNS existentes, por exemplo, um web site existente, mas o seu anfitrião DNS está ativado para [a ligação de domínios](/office365/admin/get-help-with-domains/domain-connect), escolha **adicionar registos para mim**. Na página **de serviços online,** aceite todas as predefinições e escolha **Seguinte**, e escolha **'Autorizo'** na página do seu anfitrião DNS.
+    - Se tiver registos DNS existentes com outros anfitriões DNS (não habilitados para a ligação de domínios), irá querer gerir os seus próprios registos DNS para garantir que os serviços existentes se mantenham ligados. Consulte [o básico do domínio](/office365/admin/get-help-with-domains/dns-basics) para obter mais informações.
 
         ![Ativar a página de registos.](../media/activaterecords.png)
 
@@ -105,9 +105,9 @@ Para configurar serviços, tem de atualizar alguns registos no seu anfitrião de
 
 ### <a name="protect-your-organization"></a>Proteja a sua organização 
 
-As políticas configuradas no assistente são aplicadas automaticamente a um [grupo de Segurança](https://docs.microsoft.com/office365/admin/create-groups/compare-groups#security-groups) chamado Todos os *Utilizadores*. Também pode criar grupos adicionais para atribuir políticas no centro de administração.
+As políticas configuradas no assistente são aplicadas automaticamente a um [grupo de Segurança](/office365/admin/create-groups/compare-groups#security-groups) chamado Todos os *Utilizadores*. Também pode criar grupos adicionais para atribuir políticas no centro de administração.
 
-1. Sobre a **proteção do Aumento contra ameaças cibernéticas avançadas,** recomenda-se que aceite os padrãos para permitir que os ficheiros e links [de proteção de ameaças avançadas do Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) e links nas aplicações do Office.
+1. Sobre a **proteção do Aumento contra ameaças cibernéticas avançadas,** recomenda-se que aceite os padrãos para permitir que os ficheiros e links [de proteção de ameaças avançadas do Office 365](../security/office-365-security/office-365-atp.md) e links nas aplicações do Office.
 
     ![Screenshot da página de proteção Aumentar.](../media/increasetreatprotection.png)
 

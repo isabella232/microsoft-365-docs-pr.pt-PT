@@ -27,16 +27,16 @@ search.appverid:
 - MET150
 ms.assetid: cbc6bfe5-565a-4fb8-95f0-b06e7b74ac46
 description: Ajude os seus utilizadores a instalarem aplicações do Office em dispositivos Windows 10 e a instalar facilmente o Office nos PCs do Windows 10 a partir do centro de administração microsoft 365.
-ms.openlocfilehash: 680c1c4e43a037c6afd109220090f387b207f8b1
-ms.sourcegitcommit: d39694d7b2c98350b0d568dfd03fa0ef44ed4c1d
+ms.openlocfilehash: 5337c8ef008c1af79490eb6b6705d450055d24fb
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/10/2020
-ms.locfileid: "46601989"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50913352"
 ---
 # <a name="help-your-users-install-office-on-windows-10-devices"></a>Ajude os seus utilizadores a instalarem o Office em dispositivos Windows 10
 
-[![Etiqueta que informa que o centro de administração está a mudar e que pode encontrar mais detalhes em aka.ms/aboutM365preview.](../media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
+[![Etiqueta que informa que o centro de administração está a mudar e que pode encontrar mais detalhes em aka.ms/aboutM365preview.](../media/m365admincenterchanging.png)](/office365/admin/microsoft-365-admin-center-preview)
 
 Pode instalar o Office nos PCs do Windows 10 a partir do centro de administração Microsoft 365.
   
@@ -56,7 +56,7 @@ Caso tenha considerado este vídeo útil, veja a [série de formação completa 
     > [!NOTE]
     > Pode não ver este cartão se todos os seus utilizadores tiverem instalado aplicações do Office.
   
-3. Na **Ajuda os utilizadores instalam** o seu cartão de aplicações do Office, **escolham Ver**e, em seguida, **começar**.
+3. Na **Ajuda os utilizadores instalam** o seu cartão de aplicações do Office, **escolham Ver** e, em seguida, **começar**.
     
 4. No **Email dos utilizadores um link para descarregar** painel do Office, selecione os utilizadores que pretende enviar e-mail e, em seguida, enviar **e-mail para utilizadores selecionados**.
 

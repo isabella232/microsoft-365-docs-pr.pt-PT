@@ -29,12 +29,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Conheça o Microsoft 365 Empresas Premium, um serviço de subscrição que inclui aplicações de produtividade do Office e proteção avançada contra ciberameaças para empresas.
-ms.openlocfilehash: e67ae036bf3ce7811f19c8745838bb51dde073ea
-ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
+ms.openlocfilehash: aa6e313f0f3db1c3401836c3e1737c219fcf6c3a
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48842186"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50913008"
 ---
 # <a name="overview-of-microsoft-365-business-premium"></a>Descrição geral do Microsoft 365 Empresas Premium
 
@@ -48,9 +48,9 @@ Veja este vídeo para uma breve descrição geral do Microsoft 365 Empresas Prem
   
 Caso tenha considerado este vídeo útil, veja a [série de formação completa para pequenas empresas e as novidades do Microsoft 365](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816). 
 
-O Microsoft 365 Empresas Premium foi concebido para um máximo de 300 licenças. Caso necessite de mais licenças, consulte a documentação sobre o [Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/p/?linkid=860986) para obter mais informações.
+O Microsoft 365 Empresas Premium foi concebido para um máximo de 300 licenças. Caso necessite de mais licenças, consulte a documentação sobre o [Microsoft 365 Enterprise](../enterprise/index.yml) para obter mais informações.
 
-Consulte a [descrição de serviço do Microsoft 365 Empresas Premium](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) para obter a lista completa de funcionalidades.
+Consulte a [descrição de serviço do Microsoft 365 Empresas Premium](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-business-service-description) para obter a lista completa de funcionalidades.
   
 ## <a name="small-business-security-needs"></a>Necessidades de segurança de pequenas empresas
 
@@ -103,7 +103,7 @@ Os seus **dispositivos são protegidos** ao:
 
 - Utilizar controlos simplificados para gerir as políticas de todos os PCs com Windows 10 na empresa, impor encriptação do BitLocker e instalar automaticamente atualizações críticas do Windows (Impor políticas de atualização do Windows).
 
-Para ver a lista completa de funcionalidades de segurança, consulte [Funcionalidades de segurança do Microsoft 365 Empresas Premium](security-features.md). Após [configurar o Microsoft 365 Empresas Premium](set-up.md), consulte [Aumentar a proteção contra ameaças](increase-threat-protection.md) e [Configurar funcionalidades de conformidade](set-up-compliance.md) para começar a utilizar as funcionalidades de segurança que não estão incluídas na configuração orientada. Consulte também o artigo [Top 10 ways to secure Office 365 and Microsoft 365 Business Premium plans](https://docs.microsoft.com/office365/admin/security-and-compliance/secure-your-business-data) (As principais 10 formas de proteger os planos do Office 365 e Microsoft 365 Empresas Premium) para aprender a configurar as proteções contra cibercriminosos e hackers.
+Para ver a lista completa de funcionalidades de segurança, consulte [Funcionalidades de segurança do Microsoft 365 Empresas Premium](security-features.md). Após [configurar o Microsoft 365 Empresas Premium](set-up.md), consulte [Aumentar a proteção contra ameaças](increase-threat-protection.md) e [Configurar funcionalidades de conformidade](set-up-compliance.md) para começar a utilizar as funcionalidades de segurança que não estão incluídas na configuração orientada. Consulte também o artigo [Top 10 ways to secure Office 365 and Microsoft 365 Business Premium plans](/office365/admin/security-and-compliance/secure-your-business-data) (As principais 10 formas de proteger os planos do Office 365 e Microsoft 365 Empresas Premium) para aprender a configurar as proteções contra cibercriminosos e hackers.
 
 ## <a name="get-microsoft-365-business-premium"></a>Obter o Microsoft 365 Empresas Premium
 

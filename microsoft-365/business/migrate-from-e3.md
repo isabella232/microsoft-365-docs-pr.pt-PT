@@ -22,12 +22,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Saiba como mover o seu negócio para o Microsoft 365 Business Premium do Office 365 E3.
-ms.openlocfilehash: eebf78c24ed4bfd1a4fc2d843f37aebbe3d35e31
-ms.sourcegitcommit: c1dd5be42fe0c5dcc7c05817c941edd9076febf8
+ms.openlocfilehash: f655037891bf8ec42e7b927256025c89c9354e98
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49558264"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50912948"
 ---
 # <a name="migrating-from-office-365-e3-to-microsoft-365-business-premium"></a>Migrando do Office 365 E3 para o Microsoft 365 Business Premium 
 
@@ -42,7 +42,7 @@ Esta tabela mostra as diferenças entre o Microsoft 365 Business Premium e o Off
 | Funcionalidade    | Suporte no Microsoft 365 Business Premium    | Apoio no Office 365 E3 | 
 |:-------|:-----|:-----|
 | **No local**        | | | 
-| Aplicativos de escritório<sup>1</sup>    | Microsoft 365 Apps para negócios    | Microsoft 365 Apps para empresas | 
+| Aplicativos de escritório<sup>1</sup>    | Microsoft 365 Apps para negócios    | Aplicações Microsoft 365 para empresas | 
 | **Aplicativos de produtividade em nuvem**        | | | 
 | Troca online e outlook    | Limite de armazenamento de 50 GB por caixa de correio e arquivamento online ilimitado de trocas    | Limite de armazenamento de 100 GB por caixa de correio e arquivamento online ilimitado de trocas | 
 | Teams    | ![Incluído com Microsoft 365 Business Premium](../media/check-mark.png)    | ![Incluído com Office 365 E3](../media/check-mark.png) | 
@@ -95,7 +95,7 @@ Se atualizar todos na sua organização para o Microsoft 365 Business Premium, v
 
 Também pode completar estes passos na página dispositivos:
   
-1. No centro de administração, na navegação à esquerda, vá às Políticas **de Dispositivos.** \> **Policies**
+1. No centro de administração, na navegação à esquerda, vá às Políticas **de Dispositivos.** \> 
     
 2. Na página de políticas do **Dispositivo,** escolha **Adicionar**.
     
@@ -122,8 +122,8 @@ O Microsoft 365 Business Premium tem um limite de armazenamento de 50 GB, uma ve
 
 ### <a name="threat-protection"></a>Proteção contra ameaças
 
-Depois de migrar para o Microsoft 365 Business Premium, tem o Defender para o Office 365. Consulte [o Microsoft Defender para o Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) para obter uma visão geral. Para configurar, consulte [configurar Ligações Seguras,](https://support.microsoft.com/office/61492713-53c2-47da-a6e7-fa97479e97fa) [configurar anexos seguros](https://support.microsoft.com/office/e7e68934-23dc-4b9c-b714-e82e27a8f8a5)e [configurar Anti-phishing no Defender para o Office 365](https://support.microsoft.com/office/86c425e1-1686-430a-9151-f7176cce4f2c).
+Depois de migrar para o Microsoft 365 Business Premium, tem o Defender para o Office 365. Consulte [o Microsoft Defender para o Office 365](../security/office-365-security/office-365-atp.md) para obter uma visão geral. Para configurar, consulte [configurar Ligações Seguras,](https://support.microsoft.com/office/61492713-53c2-47da-a6e7-fa97479e97fa) [configurar anexos seguros](https://support.microsoft.com/office/e7e68934-23dc-4b9c-b714-e82e27a8f8a5)e [configurar Anti-phishing no Defender para o Office 365](https://support.microsoft.com/office/86c425e1-1686-430a-9151-f7176cce4f2c).
 
 ### <a name="sensitivity-labels"></a>Etiquetas de confidencialidade
 
-Para começar a utilizar rótulos de sensibilidade, consulte [a visão geral dos rótulos de sensibilidade](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels) e crie e gere vídeos de [etiquetas de sensibilidade.](https://support.microsoft.com/office/2fb96b54-7dd2-4f0c-ac8d-170790d4b8b9)
+Para começar a utilizar rótulos de sensibilidade, consulte [a visão geral dos rótulos de sensibilidade](../compliance/sensitivity-labels.md) e crie e gere vídeos de [etiquetas de sensibilidade.](https://support.microsoft.com/office/2fb96b54-7dd2-4f0c-ac8d-170790d4b8b9)

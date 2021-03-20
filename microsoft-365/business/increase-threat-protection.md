@@ -22,12 +22,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Crie o Microsoft Defender para o Office 365 e proteja dados sensíveis contra phishing, malware e outras ameaças.
-ms.openlocfilehash: 2f1a26b5a2c5678871502d441b6ba64c9b011e1c
-ms.sourcegitcommit: 815229e39a0f905d9f06717f00dc82e2a028fa7c
+ms.openlocfilehash: 0424fd56e30477f4e8d9e84b7ac78ba6255781fa
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48842262"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50913292"
 ---
 # <a name="increase-threat-protection"></a>Aumentar a proteção contra ameaças
 
@@ -35,7 +35,7 @@ Este artigo ajuda-o a aumentar a proteção na subscrição da Microsoft 365 par
 
 Antes de começar, verifique o seu Office 365 Secure Score. O Office 365 Secure Score analisa a segurança da sua organização com base nas suas atividades regulares e definições de segurança e atribui uma pontuação. Comece por tomar nota da sua pontuação atual. Para aumentar a sua pontuação, complete as ações recomendadas neste artigo. O objetivo não é alcançar a pontuação máxima, mas estar atento a oportunidades para proteger o seu ambiente que não afetam negativamente a produtividade dos seus utilizadores.
 
-Para obter mais informações, consulte [o Microsoft Secure Score](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score).
+Para obter mais informações, consulte [o Microsoft Secure Score](../security/mtp/microsoft-secure-score.md).
 
 ## <a name="raise-the-level-of-protection-against-malware-in-mail"></a>Aumentar o nível de proteção contra malware no correio
 
@@ -57,7 +57,7 @@ O ambiente do Seu Office 365 ou Microsoft 365 inclui proteção contra malware. 
 
 6. **Selecione Save.**
 
-Para obter mais informações, consulte [a proteção anti-malware no EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-malware-protection).
+Para obter mais informações, consulte [a proteção anti-malware no EOP](../security/office-365-security/anti-malware-protection.md).
 
 ## <a name="protect-against-ransomware"></a>Proteja contra ransomware
 
@@ -89,7 +89,7 @@ Para criar uma regra de transporte de correio:
 |Faça o seguinte. . .|Notifique o destinatário com uma mensagem|
 |Fornecer texto de mensagem|Não abra este tipo de ficheiros a pessoas que não conhece, pois podem conter macros com código malicioso.|
 
-Para obter mais informações, consulte:
+Para mais informações, consulte:
 
 - [Ransomware: como reduzir o risco](https://www.microsoft.com/security/blog/2020/04/28/ransomware-groups-continue-to-target-healthcare-critical-services-heres-how-to-reduce-risk/)
 
@@ -138,7 +138,7 @@ Para criar uma política anti-phishing no Microsoft Defender para o Office 365, 
 
 4. Na página **Anti-phishing,** selecione **+ Criar**. Um assistente lança-o através da definição da sua política anti-phishing.
 
-5. Especifique o nome, descrição e configurações da sua política como recomendado na tabela seguinte. Para obter mais detalhes, consulte [a política anti-phishing no Microsoft Defender para as opções office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-anti-phishing-policies).
+5. Especifique o nome, descrição e configurações da sua política como recomendado na tabela seguinte. Para obter mais detalhes, consulte [a política anti-phishing no Microsoft Defender para as opções office 365](../security/office-365-security/set-up-anti-phishing-policies.md).
 
 6. Depois de rever as suas definições, escolha **Criar esta política** ou **Guardar,** conforme apropriado.
 
@@ -151,7 +151,7 @@ Para criar uma política anti-phishing no Microsoft Defender para o Office 365, 
 |Escolha ações|Se o e-mail for enviado por um utilizador personificado: Escolha **redirecionar a mensagem para outro endereço de e-mail** e, em seguida, digitar o endereço de e-mail do administrador de segurança; por exemplo, *Alice <span> <span> @contoso.com*. Se o e-mail for enviado por um domínio personificado: Escolha **a mensagem de quarentena**.|
 |Inteligência da caixa de correio|Por predefinição, a inteligência da caixa de correio é selecionada quando cria uma nova política anti-phishing. Deixe esta definição **On** para obter os melhores resultados.|
 |Adicionar remetentes e domínios fidedignos|Aqui pode adicionar o seu próprio domínio, ou quaisquer outros domínios fidedignos.|
-|Aplicado a|Selecione **O domínio do destinatário é**. Em **qualquer um destes** , selecione **Escolha**. Selecione **+ Adicionar**. Selecione a caixa de verificação ao lado do nome do domínio, por exemplo, *contoso. <span> <span> com* , na lista e, em seguida, **selecione Add**. Selecione **Feito**.|
+|Aplicado a|Selecione **O domínio do destinatário é**. Em **qualquer um destes**, selecione **Escolha**. Selecione **+ Adicionar**. Selecione a caixa de verificação ao lado do nome do domínio, por exemplo, *contoso. <span> <span> com*, na lista e, em seguida, **selecione Add**. Selecione **Feito**.|
 
 ## <a name="protect-against-malicious-attachments-and-files-with-safe-attachments"></a>Proteger contra anexos e ficheiros maliciosos com anexos seguros
 
@@ -181,7 +181,7 @@ Para criar uma política de fixação segura, veja [este pequeno vídeo](https:/
 |Redirecione o acessório na deteção|Ativar a reorientação (selecione esta caixa) Introduza a conta de administração ou uma configuração da caixa de correio para quarentena.          Aplique a seleção acima se ocorrer uma verificação de malware para os anexos vezes fora ou se ocorrer erro (selecione esta caixa).|
 |Aplicado a|O domínio do destinatário é . . . selecione o seu domínio.|
 
-Para obter mais informações, consulte [configurar políticas anti-phishing no Microsoft Defender para o Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-anti-phishing-policies).
+Para obter mais informações, consulte [configurar políticas anti-phishing no Microsoft Defender para o Office 365](../security/office-365-security/set-up-anti-phishing-policies.md).
 
 ## <a name="protect-against-phishing-attacks-with-safe-links"></a>Proteja contra ataques de phishing com ligações seguras
 
@@ -205,7 +205,7 @@ Para modificar a política de incumprimento:
 
 1. Na página 'Links Seguro', ao abrigo **de Políticas aplicáveis a toda a organização,** selecione a política **Padrão.**
 
-2. Em **Definições que se aplicam a conteúdos exceto e-mail** , selecione **Microsoft 365 Apps for enterprise, Office for iOS e Android**.
+2. Em **Definições que se aplicam a conteúdos exceto e-mail**, selecione **Microsoft 365 Apps for enterprise, Office for iOS e Android**.
 
 3. Seleccione **Guardar**.
 
@@ -224,7 +224,7 @@ Para criar uma nova política direcionada a todos os destinatários do seu domí
 |Utilize anexos seguros para digitalizar conteúdo transferível|Selecione esta caixa.|
 |Aplicado a|O domínio do destinatário é . . . selecione o seu domínio.|
 
-Para mais informações, consulte [Ligações Seguras.](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links)
+Para mais informações, consulte [Ligações Seguras.](../security/office-365-security/atp-safe-links.md)
 
 ## <a name="go-to-intune-admin-center"></a>Vá ao Centro de Administração Intune
 
@@ -234,4 +234,4 @@ Para mais informações, consulte [Ligações Seguras.](https://docs.microsoft.c
 
 3. Assim que os resultados aparecerem, selecione o início ao lado do **Microsoft Intune** para torná-lo um favorito e fácil de encontrar mais tarde.
 
-Além do centro de administração, pode utilizar o Intune para se inscrever e gerir os dispositivos da sua organização. Para obter mais informações, consulte [Capabilities por método de inscrição para dispositivos Windows](https://docs.microsoft.com/intune/enrollment/enrollment-method-capab) e [opções de inscrição para dispositivos geridos pela Intune](https://docs.microsoft.com/intune/enrollment-options).
+Além do centro de administração, pode utilizar o Intune para se inscrever e gerir os dispositivos da sua organização. Para obter mais informações, consulte [Capabilities por método de inscrição para dispositivos Windows](/intune/enrollment/enrollment-method-capab) e [opções de inscrição para dispositivos geridos pela Intune](/intune/enrollment-options).

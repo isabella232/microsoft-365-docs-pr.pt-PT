@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: 7770e280-3a6c-436f-a157-b008a2744f51
 description: Conheça os requisitos para configurar a sua organização com o Microsoft 365 para negócios e proteger dados de trabalho nos dispositivos dos seus utilizadores.
-ms.openlocfilehash: 237825d2c2683bb6e71ae2fd31f8a25b1aa85ff7
-ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
+ms.openlocfilehash: c0fca0e038d15b19cb2a37eb5705296ed3da3746
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "44785898"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50912908"
 ---
 # <a name="prerequisites-for-protecting-data-on-devices-with-microsoft-365-for-business"></a>Pré-requisitos para proteger dados em dispositivos com a Microsoft 365 para negócios
 
@@ -47,6 +47,6 @@ O primeiro passo para configurar a sua organização com o Microsoft 365 para ne
     
 - Apple iOS 8.0 e posterior
     
-    Google Android 4.0 e posterior (incluindo o Samsung KNOX Standard 4.0 e posterior). Para obter mais informações, consulte [dispositivos suportados intune](https://go.microsoft.com/fwlink/p/?linkid=852307).
+    Google Android 4.0 e posterior (incluindo o Samsung KNOX Standard 4.0 e posterior). Para obter mais informações, consulte [dispositivos suportados intune](/mem/intune/fundamentals/supported-devices-browsers).
     
-- Se tiver aplicações do Office existentes em computadores de utilizador, leia [prepare-se para](prepare-for-office-client-deployment.md) a instalação do cliente do Office para entender as medidas que poderá ter de tomar antes de poder configurar o Microsoft 365 para a empresa instalar o Office 2016 nos computadores dos utilizadores. 
+- Se tiver aplicações do Office existentes em computadores de utilizador, leia [prepare-se para](prepare-for-office-client-deployment.md) a instalação do cliente do Office para entender as medidas que poderá ter de tomar antes de poder configurar o Microsoft 365 para a empresa instalar o Office 2016 nos computadores dos utilizadores.

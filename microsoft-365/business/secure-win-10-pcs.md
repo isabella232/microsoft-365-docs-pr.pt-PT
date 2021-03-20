@@ -23,12 +23,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Saiba como proteger os PCs do Windows 10 depois de ter criado o Microsoft 365 Business Premium.
-ms.openlocfilehash: 286393779eaa92d33432ff9ad4b21c0a1fb8612c
-ms.sourcegitcommit: 20d1158c54a5058093eb8aac23d7e4dc68054688
+ms.openlocfilehash: 1b843e9ae3fcdb78eb128549f8f3c18badd8eb4e
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "49376283"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50912636"
 ---
 # <a name="secure-windows-10-computers"></a>Computadores Secure Windows 10
 
@@ -46,7 +46,7 @@ Depois de [configurar](set-up.md) o Microsoft 365 Business Premium, está na alt
 
 4. No **painel de computadores Secure your Windows 10,** selecione as opções que pretende ligar. Para obter mais informações sobre as definições, consulte [dispositivos Secure Windows 10](secure-windows-10-devices.md). 
     
-    Para a maioria das organizações, as opções aqui oferecem um bom nível de segurança, no entanto, se a sua organização tiver necessidades de segurança mais complexas, também pode utilizar linhas de segurança pré-definidas para proteger os seus dispositivos Windows 10. Para obter mais informações, consulte [as linhas de segurança para dispositivos Windows 10.](https://docs.microsoft.com/mem/intune/protect/security-baselines)   
+    Para a maioria das organizações, as opções aqui oferecem um bom nível de segurança, no entanto, se a sua organização tiver necessidades de segurança mais complexas, também pode utilizar linhas de segurança pré-definidas para proteger os seus dispositivos Windows 10. Para obter mais informações, consulte [as linhas de segurança para dispositivos Windows 10.](/mem/intune/protect/security-baselines)   
 
 1. Escolha **Aplicar as definições**.
 

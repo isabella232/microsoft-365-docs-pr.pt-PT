@@ -25,12 +25,12 @@ search.appverid:
 - MOE150
 ms.assetid: be5b6d90-3344-4c5e-bf40-5733eb845beb
 description: Saiba como utilizar o Windows AutoPilot para configurar novos dispositivos Windows 10 para o seu negócio para que estejam prontos para uso dos colaboradores.
-ms.openlocfilehash: f263cc90656ae5e7be1a89e3c7f56bfb2d0e3651
-ms.sourcegitcommit: 3b369a44b71540c8b8214ce588a7aa6f47c3bb1e
+ms.openlocfilehash: 75cc51b889f8673de8dba2357c777de47fd0d296
+ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "50099756"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50913508"
 ---
 # <a name="use-the-step-by-step-guide-to-add-autopilot-devices-and-profile"></a>Utilizar o guia passo a passo para adicionar perfis e dispositivos Autopilot
 
@@ -46,7 +46,7 @@ Os dispositivos devem satisfazer estes requisitos:
     
 ## <a name="use-the-setup-guide-to-create-devices-and-profiles"></a>Utilizar o guia de configuração para criar dispositivos e perfis
 
-[![Etiqueta que informa que o centro de administração está a mudar e que pode encontrar mais detalhes em aka.ms/aboutM365preview.](../media/m365admincenterchanging.png)](https://docs.microsoft.com/office365/admin/microsoft-365-admin-center-preview)
+[![Etiqueta que informa que o centro de administração está a mudar e que pode encontrar mais detalhes em aka.ms/aboutM365preview.](../media/m365admincenterchanging.png)](/office365/admin/microsoft-365-admin-center-preview)
 
 Se ainda não criou grupos ou perfis de dispositivos, a melhor maneira de começar é usando o guia passo a passo. Também pode [adicionar dispositivos](create-and-edit-autopilot-devices.md) e [atribuir-lhes perfis](create-and-edit-autopilot-profiles.md) sem utilizar o guia. 
   
@@ -70,7 +70,7 @@ Se ainda não criou grupos ou perfis de dispositivos, a melhor maneira de começ
     
     Pode obter estas informações do seu fornecedor de hardware ou pode utilizar o [script Get-WindowsAutoPilotInfo PowerShell](https://www.powershellgallery.com/packages/Get-WindowsAutoPilotInfo) para gerar um ficheiro CSV. 
     
-    Para obter mais informações, consulte [Ficheiro CSV da lista de dispositivos](https://docs.microsoft.com/microsoft-365/admin/misc/device-list). Também pode transferir um ficheiro de exemplo na página **Carregar um ficheiro .csv com a lista de dispositivos**. 
+    Para obter mais informações, consulte [Ficheiro CSV da lista de dispositivos](../admin/misc/device-list.md). Também pode transferir um ficheiro de exemplo na página **Carregar um ficheiro .csv com a lista de dispositivos**. 
     
 > [!NOTE]
 > Este script utiliza o WMI para recuperar propriedades necessárias para que um cliente registe um dispositivo com o Windows Autopilot. Note que é normal que o ficheiro CSV resultante não recolha um valor de ID do Produto Do Windows (PKID), uma vez que este não é obrigado a registar um dispositivo e o PKID a ser NULO no CSV de saída é totalmente bom. Apenas o número de série e o haxixe de hardware serão povoados.
@@ -94,4 +94,3 @@ Se ainda não criou grupos ou perfis de dispositivos, a melhor maneira de começ
     Selecione **Seguinte**.
     
 6. **Está feito** indica que o perfil que criou (ou escolheu) será aplicado ao grupo de dispositivos que criou através do upload da lista de dispositivos. As definições estarão em vigor quando os utilizadores do dispositivo iniciarem a próxima sposição. Selecione **Fechar**.
-    
