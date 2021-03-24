@@ -30,12 +30,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Descubra os passos de configuração do Microsoft 365 Business Premium, incluindo a adição de um domínio e utilizadores, configurando políticas de segurança, e muito mais.
-ms.openlocfilehash: 5b082e78f3dc4067dcce4a96a8088b2347bc3af4
-ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
+ms.openlocfilehash: 4d49ba7ccdb65691756aaa505d0856deb115595b
+ms.sourcegitcommit: 956176ed7c8b8427fdc655abcd1709d86da9447e
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50912576"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "51052240"
 ---
 # <a name="set-up-microsoft-365-business-premium-in-the-setup-wizard"></a>Configurar o Microsoft 365 Business Premium no assistente de configuração
 
@@ -107,7 +107,7 @@ Para configurar serviços, tem de atualizar alguns registos no seu anfitrião de
 
 As políticas configuradas no assistente são aplicadas automaticamente a um [grupo de Segurança](/office365/admin/create-groups/compare-groups#security-groups) chamado Todos os *Utilizadores*. Também pode criar grupos adicionais para atribuir políticas no centro de administração.
 
-1. Sobre a **proteção do Aumento contra ameaças cibernéticas avançadas,** recomenda-se que aceite os padrãos para permitir que os ficheiros e links [de proteção de ameaças avançadas do Office 365](../security/office-365-security/office-365-atp.md) e links nas aplicações do Office.
+1. Sobre a **proteção do Aumento contra ameaças cibernéticas avançadas,** recomenda-se que aceite os padrãos para permitir que os ficheiros e links [de proteção de ameaças avançadas do Office 365](../security/defender-365-security/defender-for-office-365.md) e links nas aplicações do Office.
 
     ![Screenshot da página de proteção Aumentar.](../media/increasetreatprotection.png)
 

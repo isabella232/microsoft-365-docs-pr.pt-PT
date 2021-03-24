@@ -22,12 +22,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Crie o Microsoft Defender para o Office 365 e proteja dados sensíveis contra phishing, malware e outras ameaças.
-ms.openlocfilehash: 0424fd56e30477f4e8d9e84b7ac78ba6255781fa
-ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
+ms.openlocfilehash: 80ad3767b277e4808b6df4bdd977688794649e11
+ms.sourcegitcommit: 956176ed7c8b8427fdc655abcd1709d86da9447e
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50913292"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "51050852"
 ---
 # <a name="increase-threat-protection"></a>Aumentar a proteção contra ameaças
 
@@ -35,7 +35,7 @@ Este artigo ajuda-o a aumentar a proteção na subscrição da Microsoft 365 par
 
 Antes de começar, verifique o seu Office 365 Secure Score. O Office 365 Secure Score analisa a segurança da sua organização com base nas suas atividades regulares e definições de segurança e atribui uma pontuação. Comece por tomar nota da sua pontuação atual. Para aumentar a sua pontuação, complete as ações recomendadas neste artigo. O objetivo não é alcançar a pontuação máxima, mas estar atento a oportunidades para proteger o seu ambiente que não afetam negativamente a produtividade dos seus utilizadores.
 
-Para obter mais informações, consulte [o Microsoft Secure Score](../security/mtp/microsoft-secure-score.md).
+Para obter mais informações, consulte [o Microsoft Secure Score](../security/defender/microsoft-secure-score.md).
 
 ## <a name="raise-the-level-of-protection-against-malware-in-mail"></a>Aumentar o nível de proteção contra malware no correio
 
@@ -57,7 +57,7 @@ O ambiente do Seu Office 365 ou Microsoft 365 inclui proteção contra malware. 
 
 6. **Selecione Save.**
 
-Para obter mais informações, consulte [a proteção anti-malware no EOP](../security/office-365-security/anti-malware-protection.md).
+Para obter mais informações, consulte [a proteção anti-malware no EOP](../security/defender-365-security/anti-malware-protection.md).
 
 ## <a name="protect-against-ransomware"></a>Proteja contra ransomware
 
@@ -138,7 +138,7 @@ Para criar uma política anti-phishing no Microsoft Defender para o Office 365, 
 
 4. Na página **Anti-phishing,** selecione **+ Criar**. Um assistente lança-o através da definição da sua política anti-phishing.
 
-5. Especifique o nome, descrição e configurações da sua política como recomendado na tabela seguinte. Para obter mais detalhes, consulte [a política anti-phishing no Microsoft Defender para as opções office 365](../security/office-365-security/set-up-anti-phishing-policies.md).
+5. Especifique o nome, descrição e configurações da sua política como recomendado na tabela seguinte. Para obter mais detalhes, consulte [a política anti-phishing no Microsoft Defender para as opções office 365](../security/defender-365-security/set-up-anti-phishing-policies.md).
 
 6. Depois de rever as suas definições, escolha **Criar esta política** ou **Guardar,** conforme apropriado.
 
@@ -181,7 +181,7 @@ Para criar uma política de fixação segura, veja [este pequeno vídeo](https:/
 |Redirecione o acessório na deteção|Ativar a reorientação (selecione esta caixa) Introduza a conta de administração ou uma configuração da caixa de correio para quarentena.          Aplique a seleção acima se ocorrer uma verificação de malware para os anexos vezes fora ou se ocorrer erro (selecione esta caixa).|
 |Aplicado a|O domínio do destinatário é . . . selecione o seu domínio.|
 
-Para obter mais informações, consulte [configurar políticas anti-phishing no Microsoft Defender para o Office 365](../security/office-365-security/set-up-anti-phishing-policies.md).
+Para obter mais informações, consulte [configurar políticas anti-phishing no Microsoft Defender para o Office 365](../security/defender-365-security/set-up-anti-phishing-policies.md).
 
 ## <a name="protect-against-phishing-attacks-with-safe-links"></a>Proteja contra ataques de phishing com ligações seguras
 
@@ -224,7 +224,7 @@ Para criar uma nova política direcionada a todos os destinatários do seu domí
 |Utilize anexos seguros para digitalizar conteúdo transferível|Selecione esta caixa.|
 |Aplicado a|O domínio do destinatário é . . . selecione o seu domínio.|
 
-Para mais informações, consulte [Ligações Seguras.](../security/office-365-security/atp-safe-links.md)
+Para mais informações, consulte [Ligações Seguras.](../security/defender-365-security/safe-links.md)
 
 ## <a name="go-to-intune-admin-center"></a>Vá ao Centro de Administração Intune
 
