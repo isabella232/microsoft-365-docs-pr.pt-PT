@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 ms.assetid: 5b4ba843-24b8-4526-8e1f-f9b9eab89d06
 description: Saiba como mover o seu negócio de Microsoft 365 Business Premium para o Microsoft 365 E3.
-ms.openlocfilehash: 019a422bb879389f42a32cf30f9a8094f776078a
-ms.sourcegitcommit: eac5d9f759f290d3c51cafaf335a1a1c43ded927
+ms.openlocfilehash: 10630671f3deb7eff0ad0f601d301b90743ee35f
+ms.sourcegitcommit: 2a708650b7e30a53d10a2fe3164c6ed5ea37d868
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "50126207"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51164519"
 ---
 # <a name="migrate-from-microsoft-365-business-premium-to-microsoft-365-e3"></a>Migrar do Microsoft 365 Business Premium para o Microsoft 365 E3
 
@@ -51,13 +51,12 @@ Esta tabela mostra as diferenças entre o Microsoft 365 Business Premium e o Mic
 |:-------|:-----|:-----|
 | **No local**        | | | 
 | Windows 10    | Negócios windows 10  |     Windows 10 Enterprise E3| 
-| Aplicativos de escritório*    | [Microsoft 365 Apps para negócios](#office-365-business)    | Microsoft 365 Apps para empresas | 
+| Aplicativos de escritório*    | [Microsoft 365 Apps para negócios](#office-365-business)    | Aplicações Microsoft 365 para empresas | 
 | **Aplicativos de produtividade em nuvem**        | | | 
 | Troca online e outlook    | Limite de armazenamento de 50 GB por caixa de correio e arquivamento ilimitado da Exchange Online    | Limite de armazenamento de 100 GB por caixa de correio e arquivamento ilimitado da Exchange Online | 
 | Teams    | ![Incluído com Microsoft 365 Business Premium](../media/check-mark.png)    | ![Incluído com Microsoft 365 E3](../media/check-mark.png) | 
 | OneDrive para Empresas    | 1 Limite de armazenamento de TB por utilizador    | Ilimitado | 
 | Yammer, SharePoint Online, Planner, Stream    | ![Incluído com Microsoft 365 Business Premium](../media/check-mark.png)    | ![Incluído com Microsoft 365 E3](../media/check-mark.png) | 
-| MileIQ    | ![Incluído com Microsoft 365 Business Premium](../media/check-mark.png)    | | 
 | **Proteção contra ameaças**        | | | 
 | Capacidades de redução de superfície de ataque    | [Consulte esta lista](#threat-protection) | Gestão empresarial do isolamento baseado em hardware para o Microsoft Edge | 
 | Defensor do Gabinete 365 Plano 1 | ![Incluído com Microsoft 365 Business Premium](../media/check-mark.png)    | Não incluído, mas pode ser adicionado em | 
@@ -104,10 +103,6 @@ Não precisa de fazer alterações na sua subscrição ou dados atuais antes de 
 Os seus utilizadores podem agora usufruir de armazenamento ilimitado nas caixas de correio Exchange Online e No OneDrive para pastas Business.
 
 Pode começar a usar cloud App Discovery, Azure AD Connect Health e SSO para mais de 10 aplicações.
-
->[!Note]
->Os utilizadores migrados para o Microsoft 365 E3 já não podem utilizar o MileIQ.
->
 
 <a name="threat-protection"></a>
 ### <a name="threat-protection"></a>Proteção contra ameaças
