@@ -21,12 +21,12 @@ search.appverid:
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: Saiba como obter acesso a recursos no local, como linha de aplicações empresariais, partilhas de ficheiros e impressoras de um Azure Ative Directory que aderiu ao dispositivo Windows 10.
-ms.openlocfilehash: b78509d72cbd9b3c121039c4965625bf5c21c7e0
-ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
+ms.openlocfilehash: 1bca0beb3ccc78e670ad33ce446b9b3f7c372ba7
+ms.sourcegitcommit: 39609c4d8c432c8e7d7a31cb35c8020e5207385b
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50913528"
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51445354"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business-premium"></a>Aceder aos recursos no local a partir de um dispositivo AD AD Azure no Microsoft 365 Business Premium
 
@@ -64,3 +64,7 @@ Se o dispositivo Windows a que aD Azure-AD aderiu foi previamente agrupado por d
 - Os utilizadores podem não conseguir autenticar aplicações que dependam da autenticação do Ative Directory. Avalie a aplicação legacy e considere atualização para uma app que usa o moderno Auth, se possível.
 
 - A descoberta da impressora ative do Diretório não vai funcionar. Pode fornecer caminhos de impressora direta para todos os utilizadores ou utilizar [a Impressão Universal.](/universal-print/)
+
+### <a name="related-articles"></a>Artigos Relacionados
+
+[Pré-requisitos para Azure AD Connect](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-prerequisites)
