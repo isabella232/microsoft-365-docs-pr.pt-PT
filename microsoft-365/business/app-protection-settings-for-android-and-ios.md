@@ -2,8 +2,8 @@
 title: Configurar as definições de proteção de aplicações para dispositivos Android ou iOS
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: Sirkkuw
+ms.author: efrene
+author: efrene
 manager: scotv
 audience: Admin
 ms.topic: article
@@ -25,12 +25,12 @@ search.appverid:
 - MET150
 ms.assetid: 6f2b80b4-81c3-4714-a7bc-ae69313e8a33
 description: Saiba como criar, editar ou eliminar uma política de gestão de aplicações e proteger ficheiros de trabalho em dispositivos Android ou iOS.
-ms.openlocfilehash: 67e7aaec5ff5a28f1e2d489913246c1c15c2f7b6
-ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
+ms.openlocfilehash: 2e157737990c7aca6e87a676e90f62f0d40ad372
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44471205"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51580300"
 ---
 # <a name="set-app-protection-settings-for-android-or-ios-devices"></a>Configurar as definições de proteção de aplicações para dispositivos Android ou iOS
 
@@ -40,7 +40,7 @@ Este artigo aplica-se ao Microsoft 365 Business Premium.
 
 1. Vá ao centro de administração em <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> . 
     
-2. No navegador esquerdo, escolha **Políticas de Dispositivos** \> **Policies** \> **Adicionar**.
+2. No navegador esquerdo, escolha **Políticas de Dispositivos** \>  \> **Adicionar**.
   
 3. No painel **Adicionar política**, introduza um nome exclusivo para esta política. 
     

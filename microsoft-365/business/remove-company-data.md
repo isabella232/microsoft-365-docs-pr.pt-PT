@@ -2,8 +2,8 @@
 title: Remover dados da empresa de dispositivos
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: Sirkkuw
+ms.author: sharik
+author: skjerland
 manager: scotv
 audience: Admin
 ms.topic: article
@@ -24,12 +24,12 @@ search.appverid:
 - MET150
 ms.assetid: 80bdae57-f8bc-4e40-a58c-956007117ecb
 description: Descubra como utilizar o Microsoft 365 para a empresa para remover os dados da empresa que os seus utilizadores têm nos seus dispositivos ou Computadores Windows.
-ms.openlocfilehash: 3a2faf0c5617b5d1e6beccf1e457f8b483820604
-ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
+ms.openlocfilehash: 2e1af384d83937d65fd5c8ae655d228df48422cd
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44470833"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51580000"
 ---
 # <a name="remove-company-data-from-devices"></a>Remover dados da empresa de dispositivos
 

@@ -2,8 +2,8 @@
 title: Configurar dispositivos Windows 10
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: sirkkuw
+ms.author: efrene
+author: efrene
 manager: scotv
 audience: Admin
 ms.topic: conceptual
@@ -27,17 +27,17 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: da60e08e-2547-491a-9c97-94ac6d715623
-description: Saiba configurar as políticas de dispositivos para o Windows 10 que se aplicam a todos os utilizadores da sua organização, garantindo que se conectam de forma segura.
-ms.openlocfilehash: 811e948b33e8d305c88ff3e502c413356178696a
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+description: Saiba como configurar as políticas de dispositivos para o Windows 10 que se aplicam a todos os utilizadores da sua organização, garantindo que se conectam de forma segura.
+ms.openlocfilehash: c7d27b903734f9348471bb7765b88650caeed9d5
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44401020"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51580280"
 ---
 # <a name="configure-windows-10-devices"></a>Configurar dispositivos Windows 10
 
-Durante a configuração, cria uma política de dispositivos para o Windows 10 que se aplica a todos os utilizadores da sua organização. Quando um utilizador faz o inserido numa aplicação do Office no seu dispositivo Windows 10 com o seu trabalho ou conta escolar, as definições que configura são automaticamente aplicadas para se certificar de que o utilizador está a ligar-se de forma segura.
+Durante a configuração, cria uma política de dispositivos para o Windows 10 que se aplica a todos os utilizadores da sua organização. Quando um utilizador entra numa aplicação do Office no seu dispositivo Windows 10 com o seu trabalho ou conta escolar, as definições que configura são automaticamente aplicadas para garantir que o utilizador está a ligar-se de forma segura.
   
 Recomendamos que aceite a configuração predefinida durante o processo de configuração. Após a configuração, pode criar mais políticas e direcioná-las para grupos específicos de utilizadores.
   

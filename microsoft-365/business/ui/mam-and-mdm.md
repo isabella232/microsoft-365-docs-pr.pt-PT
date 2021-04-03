@@ -2,8 +2,8 @@
 title: Qual é a diferença entre a gestão de dispositivos e aplicações
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: Sirkkuw
+ms.author: efrene
+author: efrene
 manager: scotv
 audience: Admin
 ms.topic: conceptual
@@ -22,12 +22,12 @@ search.appverid:
 - MET150
 - MOE150
 description: Saiba as diferenças entre a gestão de dispositivos móveis e a gestão de aplicações móveis, ou MDM e MAM.
-ms.openlocfilehash: ecb06ffc23823df72f9254d881f6b1dc1b781f59
-ms.sourcegitcommit: 2614f8b81b332f8dab461f4f64f3adaa6703e0d6
+ms.openlocfilehash: 44ac5ebf66f4d4e0b057692902f9bc3804aa2e03
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "45081859"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51579888"
 ---
 # <a name="difference-between-mdm-and-mam"></a>Diferença entre MDM e MAM
 

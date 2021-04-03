@@ -2,8 +2,8 @@
 title: Mover ficheiros para o OneDrive para Empresas
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: Sirkkuw
+ms.author: efrene
+author: efrene
 manager: scotv
 audience: Admin
 ms.topic: article
@@ -24,12 +24,12 @@ search.appverid:
 - MET150
 ms.assetid: eb8244aa-a302-481a-b2b5-d34e88b18ec7
 description: Saiba como pode mover os seus ficheiros pessoais de trabalho e ficheiros confidenciais da empresa para o OneDrive for Business em apenas alguns passos fáceis.
-ms.openlocfilehash: 561c9dee1080a50dea695f136df10be8e5d52959
-ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
+ms.openlocfilehash: d6bcf2b41f1052c521fda50557aac4bf6a3800fa
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "44785918"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51580080"
 ---
 # <a name="move-files-to-onedrive-for-business"></a>Mover ficheiros para o OneDrive para Empresas
 

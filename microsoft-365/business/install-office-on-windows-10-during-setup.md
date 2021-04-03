@@ -2,8 +2,8 @@
 title: Instalar o Office no Windows 10 durante a configuração
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: sirkkuw
+ms.author: efrene
+author: efrene
 manager: scotv
 audience: Admin
 ms.topic: conceptual
@@ -26,17 +26,17 @@ search.appverid:
 - MOE150
 ms.assetid: 5ffd5327-a83a-4d53-94d6-22ba2f9fd090
 description: Descubra como, com o Microsoft 365 Business Premium, pode automaticamente certificar-se de que os utilizadores têm a versão mais recente do Office em todos os seus dispositivos Windows 10.
-ms.openlocfilehash: 1ca386f75743178aebaf0bfabbabcb74f4813685
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: d3c62eb42ea73c7af6df6012dbc9488828cd1ba8
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44400844"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51580180"
 ---
 # <a name="install-office-on-windows-10-during-setup"></a>Instalar o Office no Windows 10 durante a configuração
 
-![Banner que aponta para https://aka.ms/aboutM365preview .](../media/m365admincenterchanging.png)
+![Banner que apontam para https://aka.ms/aboutM365preview .](../media/m365admincenterchanging.png)
 
-Esta definição está desativada por predefinição. Pode ligá-lo para garantir que os utilizadores possuem a versão mais recente do Office em todos os seus dispositivos Windows 10, mas primeiro verificar se todos os pré-requisitos são cumpridos. Os utilizadores devem ser licenciados para o Microsoft 365 Business Premium para esta definição para empurrar o software para o dispositivo, além de outros requisitos descritos na Implementação do [cliente Prepare para Office pelo Microsoft 365 Business Premium.](prepare-for-office-client-deployment.md)
+Esta definição está desativada por predefinição. Pode ligá-lo para se certificar de que os utilizadores têm a versão mais recente do Office em todos os seus dispositivos Windows 10, mas primeiro verifique se todos os pré-requisitos são cumpridos. Os utilizadores devem ser licenciados para o Microsoft 365 Business Premium para esta definição para empurrar o software para o dispositivo, além de outros requisitos descritos na [preparação para a implementação do cliente do Office pelo Microsoft 365 Business Premium](prepare-for-office-client-deployment.md).
   
 Recomendamos que aceite a definição predefinida durante a configuração.
