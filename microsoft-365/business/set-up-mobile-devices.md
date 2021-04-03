@@ -2,8 +2,8 @@
 title: Configurar dispositivos móveis para o Microsoft 365 para utilizadores empresariais
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: Sirkkuw
+ms.author: sharik
+author: skjerland
 manager: scotv
 audience: Admin
 ms.topic: article
@@ -26,12 +26,12 @@ search.appverid:
 - MET150
 ms.assetid: d868561b-d340-4c04-a973-e2575d7f09bc
 description: Instale o Office num iPhone ou num telefone Android, e os seus ficheiros de trabalho nas aplicações do Office serão protegidos pelo Microsoft 365 para negócios.
-ms.openlocfilehash: ef18fcce851b8fa1573fd5134bd25fb7d4a3d8f9
-ms.sourcegitcommit: 855719ee21017cf87dfa98cbe62806763bcb78ac
+ms.openlocfilehash: fefec17344d199ced230907fbaa85d98198cfb94
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49928750"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51578173"
 ---
 # <a name="set-up-mobile-devices-for-microsoft-365-for-business-users"></a>Configurar dispositivos móveis para o Microsoft 365 para utilizadores empresariais
 

@@ -2,8 +2,8 @@
 title: Gerir a forma como os utilizadores acedem a documentos do Office em dispositivos móveis
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: sirkkuw
+ms.author: efrene
+author: efrene
 manager: scotv
 audience: Admin
 ms.topic: conceptual
@@ -27,12 +27,12 @@ search.appverid:
 - MOE150
 ms.assetid: aa31319c-9196-48c9-a90b-4057e0494c7a
 description: Saiba mais sobre políticas de proteção que lhe permitem gerir a forma como os utilizadores acedem a aplicações do Office e trabalham ficheiros a partir de dispositivos móveis.
-ms.openlocfilehash: b2b828cf2e201360f12b8fadcb395e72958230f6
-ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
+ms.openlocfilehash: a48aa241c9e70cf087da3f1701e859dae7238024
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44471073"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51578393"
 ---
 # <a name="manage-how-users-access-office-documents-on-mobile-devices"></a>Gerir a forma como os utilizadores acedem a documentos do Office em dispositivos móveis
 

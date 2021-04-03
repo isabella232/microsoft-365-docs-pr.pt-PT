@@ -2,8 +2,8 @@
 title: Ver políticas e dispositivos
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: Sirkkuw
+ms.author: sharik
+author: skjerland
 manager: scotv
 audience: Admin
 ms.topic: article
@@ -23,12 +23,12 @@ search.appverid:
 - MET150
 ms.assetid: 6b70fa27-d171-4593-8ecf-f78bb4ed2e99
 description: Veja as políticas e ações do dispositivo ao iniciar sessão na Microsoft 365 para negócios com credenciais de administração global.
-ms.openlocfilehash: 49e878ae6d4e1a6c55dbd7bc65532f94295412a8
-ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
+ms.openlocfilehash: 39d88e8fa84055e4bac62899a1b84bdf42f366a2
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44470601"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51578033"
 ---
 # <a name="view-and-manage-policies-and-devices"></a>Ver e gerir políticas e dispositivos
 

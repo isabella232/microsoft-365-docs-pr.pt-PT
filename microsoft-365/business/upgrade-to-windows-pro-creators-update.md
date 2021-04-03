@@ -2,8 +2,8 @@
 title: Atualizar dispositivos Windows para Windows 10 Pro
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: Sirkkuw
+ms.author: kwekua
+author: kwekua
 manager: scotv
 audience: Admin
 ms.topic: article
@@ -26,12 +26,12 @@ search.appverid:
 - MOE150
 ms.assetid: ffc4d886-9e1d-453d-a0d0-2f62f18635e2
 description: Descubra formas de atualizar os seus dispositivos Windows para o Windows 10 Pro para utilizar funcionalidades de segurança e rede de negócios mais avançadas.
-ms.openlocfilehash: 24ef1f1547ed8873ed1fa18120eef6275f53c7dc
-ms.sourcegitcommit: e5bc49f0a25954d008b6cc09c2b98bb7bfe1aa2f
+ms.openlocfilehash: ffcdff540da18a2ecc0578e8015424a2435de6a8
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "44785536"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51578053"
 ---
 # <a name="upgrade-windows-devices-to-windows-10-pro"></a>Atualizar dispositivos Windows para Windows 10 Pro
 

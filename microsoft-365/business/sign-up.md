@@ -2,8 +2,8 @@
 title: Inscreva-se no Microsoft 365 Business Premium
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: Sirkkuw
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
 audience: Admin
 ms.topic: article
@@ -26,12 +26,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Saiba o que o Microsoft 365 Business Premium inclui e obtenha orientação passo a passo ao inscrever-se no Microsoft 365 Business Premium.
-ms.openlocfilehash: 54a8e92ccced24f446e73a96f75e4aa1531a95aa
-ms.sourcegitcommit: 27b2b2e5c41934b918cac2c171556c45e36661bf
+ms.openlocfilehash: d4aa1ae9ea48863434c960da69e41ffb2d3a0a89
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50912516"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51578113"
 ---
 # <a name="sign-up-for-microsoft-365-business-premium"></a>Inscreva-se no Microsoft 365 Business Premium
 

@@ -2,8 +2,8 @@
 title: Como as políticas na Microsoft 365 para proteger os dados da empresa
 f1.keywords:
 - NOCSH
-ms.author: sirkkuw
-author: sirkkuw
+ms.author: sharik
+author: skjerland
 manager: scotv
 audience: Admin
 ms.topic: conceptual
@@ -27,12 +27,12 @@ search.appverid:
 - MOE150
 ms.assetid: 665485be-2389-4f1d-9ef8-dbef19c6acdf
 description: Para proteger os dados da empresa nos dispositivos pessoais dos utilizadores, utilize políticas que visem dispositivos específicos e grupos de segurança.
-ms.openlocfilehash: 18bf29d82b8020d31fec681b2114af86f52cad9c
-ms.sourcegitcommit: 2d664a95b9875f0775f0da44aca73b16a816e1c3
+ms.openlocfilehash: 5c6a4b85b080c6c1afaf6ac5bec046f2a539ee20
+ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44471165"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51578433"
 ---
 # <a name="how-policies-in-microsoft-365-for-business-protect-company-data"></a>Como as políticas na Microsoft 365 para proteger os dados da empresa
 
