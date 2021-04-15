@@ -22,12 +22,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Saiba como mover o seu negócio para o Microsoft 365 Business Premium do Office 365 E3.
-ms.openlocfilehash: ffb82fa40f05383260ac1b97ed0bdf5f2f30c1df
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+ms.openlocfilehash: f2b7962918186f4a1063c5a66596135c2972ec71
+ms.sourcegitcommit: 07dea2aa98daf0c4086f8590375167830027c802
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51578333"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51750006"
 ---
 # <a name="migrating-from-office-365-e3-to-microsoft-365-business-premium"></a>Migrando do Office 365 E3 para o Microsoft 365 Business Premium
 
@@ -49,7 +49,7 @@ Esta tabela mostra as diferenças entre o Microsoft 365 Business Premium e o Off
 | OneDrive para Empresas    | 1 Limite de armazenamento de TB por utilizador    | Ilimitado | 
 | Yammer, SharePoint Online, Planner, Stream    | ![Incluído com Microsoft 365 Business Premium](../media/check-mark.png)    | ![Incluído com Office 365 E3](../media/check-mark.png) | 
 | StaffHub    | ![Incluído com Microsoft 365 Business Premium](../media/check-mark.png)    | ![Incluído com Office 365 E3](../media/check-mark.png) | 
-| Outlook Customer Manager    | ![Incluído com Microsoft 365 Business Premium](../media/check-mark.png)    | | 
+| MileIQ    | ![Incluído com Microsoft 365 Business Premium](../media/check-mark.png)    | | 
 | **Proteção contra ameaças**        | | | 
 | Defensor do Gabinete 365 Plano 1 | ![Incluído com Microsoft 365 Business Premium](../media/check-mark.png)    | Não incluído, mas pode ser adicionado em | 
 | **Gestão de identidades**        | | | 
@@ -60,7 +60,7 @@ Esta tabela mostra as diferenças entre o Microsoft 365 Business Premium e o Off
 | Direitos de upgrade para o Windows 10 Pro a partir de licenças Win 7/8.1 Pro|     ![Incluído com Microsoft 365 Business Premium](../media/check-mark.png)    || 
 | **Proteção da informação**        | | |
 |Gabinete 365 Prevenção de Perdas de Dados|    ![Incluído com Microsoft 365 Business Premium](../media/check-mark.png)|![Incluído com Office 365 E3](../media/check-mark.png)|
-|Plano de Proteção de Informação Azure 1, aplicação bitlocker|![Incluído com Microsoft 365 Business Premium](../media/check-mark.png)||
+|Plano de Proteção de Informação Azure 1, aplicação bitLocker|![Incluído com Microsoft 365 Business Premium](../media/check-mark.png)||
 |Plano de Proteção de Informação Azure 1, Etiquetas de sensibilidade|![Incluído com Microsoft 365 Business Premium](../media/check-mark.png)||
 |**Licença de Acesso ao Cliente (direitos CAL)**|||
 |Suíte Enterprise CAL (Bolsa, SharePoint, Skype)||![Incluído com Office 365 E3](../media/check-mark.png)|
