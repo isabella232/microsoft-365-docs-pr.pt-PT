@@ -1,5 +1,5 @@
 ---
-title: Configurar o Microsoft 365 Business Premium
+title: Configurar o Microsoft 365 Empresas Premium
 f1.keywords:
 - NOCSH
 ms.author: kwekua
@@ -29,108 +29,108 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
-description: Descubra os passos de configuração do Microsoft 365 Business Premium, incluindo a adição de um domínio e utilizadores, configurando políticas de segurança, e muito mais.
-ms.openlocfilehash: c8e2ca94f4947d4f9c69915d2fef410a6075bfed
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: Descubra os passos de configuração para o Microsoft 365 Empresas Premium, incluindo adicionar um domínio e utilizadores, configurar políticas de segurança e muito mais.
+ms.openlocfilehash: 37607b483686fc12ac6253ae9f693ec86c073c4e
+ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51579920"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52245050"
 ---
-# <a name="set-up-microsoft-365-business-premium-in-the-setup-wizard"></a>Configurar o Microsoft 365 Business Premium no assistente de configuração
+# <a name="set-up-microsoft-365-business-premium-in-the-setup-wizard"></a>Configurar Microsoft 365 Empresas Premium no assistente de configuração
 
-Veja este vídeo para uma visão geral da configuração do Microsoft 365 Business Premium.<br><br>
+Veja este vídeo para ver uma visão geral Microsoft 365 Empresas Premium configuração.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4jZwg] 
 
-## <a name="add-your-domain-users-and-set-up-policies"></a>Adicione o seu domínio, utilizadores e configurar políticas
+## <a name="add-your-domain-users-and-set-up-policies"></a>Adicionar o seu domínio, utilizadores e configurar políticas
 
-Ao comprar o Microsoft 365 Business Premium, tem a opção de utilizar um domínio que possui ou de comprar um durante a [inscrição](sign-up.md).
+Quando compra um Microsoft 365 Empresas Premium, tem a opção de utilizar um domínio que possui ou de comprar um durante a [registo](sign-up.md).
 
-- Se adquiriu um novo domínio quando se inscreveu, o seu domínio está todo configurado e pode mudar-se para [Adicionar utilizadores e atribuir licenças](#add-users-and-assign-licenses).
+- Se comprou um novo domínio quando se inscreveu, o seu domínio está configurado e pode aceder a Adicionar utilizadores e atribuir [licenças.](#add-users-and-assign-licenses)
 
-### <a name="add-your-domain-to-personalize-sign-in"></a>Adicione o seu domínio para personalizar o s-in
+### <a name="add-your-domain-to-personalize-sign-in"></a>Adicionar o seu domínio para personalizar o seu registo
 
-1. Inscreva-se no [Microsoft 365 admin center](https://admin.microsoft.com) usando as suas credenciais de administração global. 
+1. Inscreva-se [no Microsoft 365 de administração](https://admin.microsoft.com) com as suas credenciais de administrador global. 
 
-2. Escolha **Ir para a configuração** para iniciar o assistente.
+2. **Selecionar Ir para a configuração** para iniciar o assistente.
 
     ![Selecione Ir para a configuração.](../media/gotosetupinadmincenter.png)
 
-3. Na página **de aplicações do Office,** pode instalar opcionalmente as aplicações no seu próprio computador.
+3. Na página **Instalar as Office aplicações,** pode instalar opcionalmente as aplicações no seu computador.
     
-4. No passo de **domínio Adicionar,** insira o nome de domínio que pretende utilizar (como contoso.com).
+4. No passo **Adicionar domínio,** introduza o nome de domínio que pretende utilizar (como contoso.com).
 
     > [!IMPORTANT]
-    > Se adquiriu um domínio durante a inscrição, não verá **Adicionar um** passo de domínio aqui. Vá a [Adicionar os utilizadores](#add-users-and-assign-licenses) em vez disso.
+    > Se comprou um domínio durante a inscrever-se, não verá **Adicionar um passo de** domínio aqui. Em alternativa, [vá para Adicionar](#add-users-and-assign-licenses) utilizadores.
 
-    ![Screenshot da página De Personalizar o seu sign-in.](../media/adddomain.png)
+    ![Captura de ecrã a mostra a página Personalizar o seu dia atual.](../media/adddomain.png)
 
     
-4. Siga os passos no assistente para [criar registos DNS em qualquer fornecedor de hospedagem DNS para o Microsoft 365](/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) que verifique que é dono do domínio. Se conhecer o seu anfitrião de domínio, consulte também as [instruções específicas](/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions)do anfitrião .
+4. Siga os passos no assistente para Criar registos DNS em qualquer fornecedor de anfitriões [DNS Microsoft 365](/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) que verifique que é o propriedade do domínio. Se conhecer o seu anfitrião de domínio, consulte também as instruções [específicas do anfitrião.](/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions)
 
-    Se o seu fornecedor de hospedagem for o GoDaddy ou outro anfitrião ativado com [ligação de domínio,](/office365/admin/get-help-with-domains/domain-connect)o processo é fácil e será automaticamente solicitado que faça sessão e deixe a Microsoft autenticar em seu nome.
+    Se o seu fornecedor de domínios for a GoDaddy ou outro anfitrião ativado com ligação de [domínio,](/office365/admin/get-help-with-domains/domain-connect)o processo é fácil e ser-lhe-á automaticamente pedido para o fazer e permitir que a Microsoft se autentique em seu nome.
 
-    ![Na página GoDaddy Confirm Access, selecione Authorize.](../media/godaddyauth.png)
+    ![Na página Confirmar Acesso da GoDaddy, selecione Autorizar.](../media/godaddyauth.png)
 
 ### <a name="add-users-and-assign-licenses"></a>Adicionar utilizadores e atribuir licenças
 
-Pode adicionar utilizadores no assistente, mas também pode [adicionar utilizadores mais tarde](../admin/add-users/add-users.md) no centro de administração. Além disso, se tiver um controlador de domínio local, pode adicionar utilizadores ao [Azure AD Connect](/azure/active-directory/hybrid/how-to-connect-install-express).
+Pode adicionar utilizadores no assistente, mas também pode adicionar [utilizadores mais tarde](../admin/add-users/add-users.md) no centro de administração. Além disso, se tiver um controlador de domínio local, pode adicionar utilizadores com o [Azure AD Ligação](/azure/active-directory/hybrid/how-to-connect-install-express).
 
 #### <a name="add-users-in-the-wizard"></a>Adicionar utilizadores no assistente
 
-Qualquer utilizadores que adicione no assistente recebem automaticamente uma licença Microsoft 365 Business Premium.
+Todos os utilizadores que adicionar no assistente receberão automaticamente uma Microsoft 365 Empresas Premium de licenciamento.
 
-![Screenshot da página de novos utilizadores adicionar no assistente](../media/addnewuserspage.png)
+![Captura de ecrã da página Adicionar novos utilizadores no assistente](../media/addnewuserspage.png)
 
-1. Se a sua subscrição Microsoft 365 Business Premium tiver utilizadores existentes (por exemplo, se usou o Azure AD Connect), terá agora a opção de lhes atribuir licenças. Continue o processo e adicione licenças aos utilizadores.
+1. Se a sua subscrição do Microsoft 365 Empresas Premium tiver utilizadores existentes (por exemplo, se tiver utilizado o Azure AD Ligação), terá uma opção para atribuir licenças aos utilizadores agora. Continue o processo e adicione licenças aos utilizadores.
 
-2. Depois de adicionar os utilizadores, também terá a opção de partilhar credenciais com os novos utilizadores que adicionou. Pode optar por imprimir, transferir ou enviá-las por e-mail.
+2. Depois de adicionar os utilizadores, também receberá uma opção para partilhar as credenciais com os novos utilizadores que adicionou. Pode optar por imprimir, transferir ou enviá-las por e-mail.
 
 ### <a name="connect-your-domain"></a>Ligar o seu domínio
 
 > [!NOTE]
-> Se optar por utilizar o domínio .onmicrosoft ou utilizar o Azure AD Connect para configurar os utilizadores, não verá este passo.
+> Se optou por utilizar o domínio .onmicrosoft ou tiver utilizado o Azure AD Ligação para configurar utilizadores, não verá este passo.
   
 Para configurar serviços, tem de atualizar alguns registos no seu anfitrião de DNS ou entidade de registo de domínios.
   
-1. Normalmente, o assistente de configuração deteta a sua entidade de registo e fornece-lhe uma ligação para instruções passo a passo de forma a atualizar os seus registos NS no site da entidade de registo de domínios. Caso não o faça, [altere os serviçais para configurar o Microsoft 365 com qualquer registo de domínio](../admin/get-help-with-domains/change-nameservers-at-any-domain-registrar.md). 
+1. Normalmente, o assistente de configuração deteta a sua entidade de registo e fornece-lhe uma ligação para instruções passo a passo de forma a atualizar os seus registos NS no site da entidade de registo de domínios. Se isto não acontecer, altere os servidores de nomes para [configurar o Microsoft 365 de domínios.](../admin/get-help-with-domains/change-nameservers-at-any-domain-registrar.md) 
 
-    - Se tiver registos DNS existentes, por exemplo, um web site existente, mas o seu anfitrião DNS está ativado para [a ligação de domínios](/office365/admin/get-help-with-domains/domain-connect), escolha **adicionar registos para mim**. Na página **de serviços online,** aceite todas as predefinições e escolha **Seguinte**, e escolha **'Autorizo'** na página do seu anfitrião DNS.
-    - Se tiver registos DNS existentes com outros anfitriões DNS (não habilitados para a ligação de domínios), irá querer gerir os seus próprios registos DNS para garantir que os serviços existentes se mantenham ligados. Consulte [o básico do domínio](/office365/admin/get-help-with-domains/dns-basics) para obter mais informações.
+    - Se tiver registos DNS existentes, por exemplo um site existente, mas o seu anfitrião DNS estiver ativado para ligar o [domínio,](/office365/admin/get-help-with-domains/domain-connect)selecionar Adicionar **registos por mim.** Na página **Escolher os seus serviços online,** aceite todas as  predefinições e selecionar Seguinte e selecionar Autorizar na página do seu anfitrião de DNS.
+    - Se tiver registos DNS existentes com outros anfitriões de DNS (não ativado para ligação de domínio), é reflegado para gerir os seus próprios registos DNS para se certificar de que os serviços existentes permanecem ligados. Consulte [as noções básicas de](/office365/admin/get-help-with-domains/dns-basics) domínios para mais informações.
 
-        ![Ativar a página de registos.](../media/activaterecords.png)
+        ![Página Ativar registos.](../media/activaterecords.png)
 
-2. Siga os passos no assistente e o e-mail e outros serviços serão configurado para si.
+2. Siga os passos no assistente e o e-mail e outros serviços serão configurados para si.
 
-### <a name="protect-your-organization"></a>Proteja a sua organização 
+### <a name="protect-your-organization"></a>Proteger a sua organização 
 
-As políticas configuradas no assistente são aplicadas automaticamente a um [grupo de Segurança](/office365/admin/create-groups/compare-groups#security-groups) chamado Todos os *Utilizadores*. Também pode criar grupos adicionais para atribuir políticas no centro de administração.
+As políticas que configurar no assistente são aplicadas automaticamente a um Grupo [de segurança denominado](/office365/admin/create-groups/compare-groups#security-groups) *Todos os Utilizadores.* Também pode criar grupos adicionais para atribuir políticas no centro de administração.
 
-1. Sobre a **proteção do Aumento contra ameaças cibernéticas avançadas,** recomenda-se que aceite os padrãos para permitir que os ficheiros e links [de proteção de ameaças avançadas do Office 365](../security/office-365-security/defender-for-office-365.md) e links nas aplicações do Office.
+1. Em Aumentar a proteção **contra ciberameaces avançadas**, [](../security/office-365-security/defender-for-office-365.md) recomendamos que aceite as predefinições para permitir que Office 365 a Proteção Avançada contra Ameaças analisa ficheiros e ligações em Office aplicações.
 
-    ![Screenshot da página de proteção Aumentar.](../media/increasetreatprotection.png)
-
-
-2. Na página **Prevent leaks of sensitive data** page, aceite os predefinidos para ligar o Office 365 Data Loss Prevention (DLP) para rastrear dados sensíveis em aplicações do Office e impedir a partilha acidental destes fora da sua organização.
-
-3. Nos **dados** protect in Office para página móvel, deixe a gestão de aplicações móveis, expanda as definições e reveja-as e, em seguida, **selecione Create mobile app management policy**.
-
-    ![Screenshot de Protect datas no Office para página móvel.](../media/protectdatainmobile.png)
+    ![Captura de ecrã da página Aumentar proteção.](../media/increasetreatprotection.png)
 
 
-## <a name="secure-windows-10-pcs"></a>Secure Windows 10 PCs
+2. Na página Impedir **fugas** de dados confidenciais, aceite as predefinições para ativo o Office 365 Prevenção de Perda de Dados (DLP) para controlar dados confidenciais em aplicações do Office e impedir a partilha acidental destes dados fora da sua organização.
 
-No navegador esquerdo, selecione **Configuração** e, em seguida, **em 'Iniciar s-in e segurança',** escolha **Fixe os computadores Windows 10**. Escolha **a Vista** para começar. Consulte [os computadores Windows 10 para](secure-win-10-pcs.md) obter instruções completas.
+3. Na página Proteger dados **no Office** para dispositivos móveis, deixe a gestão de aplicações móveis ativada, expanda as definições e reveja-as e, em seguida, selecione Criar política de gestão de aplicações **móveis**.
 
-## <a name="deploy-office-365-client-apps"></a>Implementar aplicações de clientes 365
+    ![Captura de ecrã da página Proteger dados no Office para dispositivos móveis.](../media/protectdatainmobile.png)
 
-Se optar por instalar automaticamente aplicações do Office durante a configuração, as aplicações serão instaladas nos dispositivos Windows 10 assim que os utilizadores tiverem assinado no Azure AD a partir dos seus dispositivos Windows, utilizando as suas credenciais de trabalho.
 
-Para instalar o Office em dispositivos móveis iOS ou Android, consulte [Configurar dispositivos móveis para utilizadores Do Microsoft 365 Business Premium](set-up-mobile-devices.md).
+## <a name="secure-windows-10-pcs"></a>Proteger Windows 10 PCs
 
-Também pode instalar o Office individualmente. Consulte [o Escritório de Instalação num PC ou Mac](https://support.microsoft.com/office/4414eaaf-0478-48be-9c42-23adc4716658) para obter instruções.
+No navegador esquerdo,  selecione Configurar e, em seguida, em **Sign-in and security**, selecione Secure your **Windows 10 .** **Selecionar** Ver para começar. Consulte [Proteger os seus Windows 10 para obter](secure-win-10-pcs.md) instruções completas.
+
+## <a name="deploy-office-365-client-apps"></a>Implementar aplicações Office 365 cliente
+
+Se optou por instalar automaticamente aplicações do Office durante a configuração, as aplicações serão instaladas nos dispositivos Windows 10 assim que os utilizadores tenham feito a loteamento no Azure AD a partir dos respetivos dispositivos Windows, com as respetivos credenciais de trabalho.
+
+Para instalar o Office dispositivos móveis iOS ou Android, consulte Configurar dispositivos [móveis para Microsoft 365 Empresas Premium utilizadores.](set-up-mobile-devices.md)
+
+Também pode instalar o Office individualmente. Consulte [Instalar Office num PC ou Mac para](https://support.microsoft.com/office/4414eaaf-0478-48be-9c42-23adc4716658) obter instruções.
 
 ## <a name="see-also"></a>Consulte também
 
-[Microsoft 365 para vídeos de formação de negócios](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Microsoft 365 vídeos de formação para empresas](../business-video/index.yml)
