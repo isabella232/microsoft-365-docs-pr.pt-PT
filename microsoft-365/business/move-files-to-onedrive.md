@@ -23,28 +23,28 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: eb8244aa-a302-481a-b2b5-d34e88b18ec7
-description: Saiba como pode mover os seus ficheiros pessoais de trabalho e ficheiros confidenciais da empresa para o OneDrive for Business em apenas alguns passos fáceis.
-ms.openlocfilehash: d6bcf2b41f1052c521fda50557aac4bf6a3800fa
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: Saiba como pode mover os seus ficheiros de trabalho pessoais e ficheiros confidenciais da empresa para OneDrive para Empresas em apenas alguns passos simples.
+ms.openlocfilehash: 4dadc87c0168a9fcdcc795a94df8ee5b7fc7fd91
+ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51580080"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52245110"
 ---
 # <a name="move-files-to-onedrive-for-business"></a>Mover ficheiros para o OneDrive para Empresas
 
-Veja um pequeno vídeo sobre a mudança de ficheiros para o OneDrive for Business.<br><br>
+Veja um breve vídeo sobre como mover ficheiros para a OneDrive para Empresas.<br><br>
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/d74b083c-1f44-43ea-8a14-2e1fc600b341] 
 
-Caso tenha considerado este vídeo útil, veja a [série de formação completa para pequenas empresas e as novidades do Microsoft 365](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).
+Caso tenha considerado este vídeo útil, veja a [série de formação completa para pequenas empresas e as novidades do Microsoft 365](../business-video/index.yml).
 
 
 ## <a name="move-files-to-onedrive-for-business"></a>Mover ficheiros para o OneDrive para Empresas
 
 Se um utilizador utilizar um computador com muitos ficheiros pessoais, deverá mover esses ficheiros primeiro para o OneDrive para Empresas.
   
-1. Vá a portal.office.com e inscreva-se com o Microsoft 365 do utilizador para obter credenciais de negócio.
+1. Vá para portal.office.com e indique-o com as Microsoft 365 para empresas do utilizador.
 
 2. Clique no iniciador de aplicações ![The app launcher icon in Office 365](../media/7502f4ec-3c9a-435d-a7b4-b9cda85189a7.png) e aceda ao OneDrive. 
     
@@ -52,6 +52,6 @@ Se um utilizador utilizar um computador com muitos ficheiros pessoais, deverá m
     
 Também pode utilizar uma ferramenta de terceiros, como a ForensiT, para transferir o perfil do utilizador e ficheiros importantes. Também deve carregar os ficheiros resultantes para o OneDrive para Empresas.
   
-## <a name="for-more-on-setting-up-and-using-microsoft-365-for-business"></a>Para mais informações sobre a configuração e utilização do Microsoft 365 para negócios
+## <a name="for-more-on-setting-up-and-using-microsoft-365-for-business"></a>Para mais informações sobre como configurar e utilizar o Microsoft 365 para empresas
 
-[Microsoft 365 para vídeos de formação de negócios](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Microsoft 365 vídeos de formação para empresas](../business-video/index.yml)

@@ -1,5 +1,5 @@
 ---
-title: Aumentar a proteção contra ameaças para a Microsoft 365 para o Negócio
+title: Aumentar a proteção contra ameaças Microsoft 365 para Empresas
 f1.keywords:
 - NOCSH
 ms.author: sharik
@@ -21,217 +21,217 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-description: Crie o Microsoft Defender para o Office 365 e proteja dados sensíveis contra phishing, malware e outras ameaças.
-ms.openlocfilehash: 8fb2c3881876cabea6d8907a85bc9397212126dc
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: Configlige o Microsoft Defender Office 365 e proteja dados confidenciais contra phishing, software malicioso e outras ameaças.
+ms.openlocfilehash: 4b5142efbf4392f017cd9b96f6a9c36ef2000bb7
+ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51580200"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52245150"
 ---
 # <a name="increase-threat-protection"></a>Aumentar a proteção contra ameaças
 
-Este artigo ajuda-o a aumentar a proteção na subscrição da Microsoft 365 para proteger contra phishing, malware e outras ameaças. Estas recomendações são adequadas para organizações com uma necessidade acrescida de segurança, como escritórios de advogados e clínicas de saúde.
+Este artigo ajuda-o a aumentar a proteção na sua subscrição Microsoft 365 proteção contra phishing, software malicial e outras ameaças. Estas recomendações são adequadas para organizações com uma necessidade crescente de segurança, como escritórios de advogados e médicos de saúde.
 
-Antes de começar, verifique o seu Office 365 Secure Score. O Office 365 Secure Score analisa a segurança da sua organização com base nas suas atividades regulares e definições de segurança e atribui uma pontuação. Comece por tomar nota da sua pontuação atual. Para aumentar a sua pontuação, complete as ações recomendadas neste artigo. O objetivo não é alcançar a pontuação máxima, mas estar atento a oportunidades para proteger o seu ambiente que não afetam negativamente a produtividade dos seus utilizadores.
+Antes de começar, verifique a sua Office 365 de Segurança. Office 365 A Pontuação de Segurança analisa a segurança da sua organização com base nas suas atividades regulares e definições de segurança e atribui uma pontuação. Comece por tomar nota da sua pontuação atual. Para aumentar o seu resultado, conclua as ações recomendadas neste artigo. O objetivo não é atingir o máximo de pontuações, mas estar a par das oportunidades para proteger o seu ambiente que não afetam negativamente a produtividade para os seus utilizadores.
 
-Para obter mais informações, consulte [o Microsoft Secure Score](../security/defender/microsoft-secure-score.md).
+Para obter mais informações, consulte [Pontuação de Segurança da Microsoft.](../security/defender/microsoft-secure-score.md)
 
-## <a name="raise-the-level-of-protection-against-malware-in-mail"></a>Aumentar o nível de proteção contra malware no correio
+## <a name="raise-the-level-of-protection-against-malware-in-mail"></a>Elevar o nível de proteção contra software maliceiro no correio
 
-O ambiente do Seu Office 365 ou Microsoft 365 inclui proteção contra malware. Pode aumentar esta proteção bloqueando anexos com tipos de ficheiros que são normalmente utilizados para malware. Para aumentar a proteção contra malware no e-mail:
+O Office 365 ou Microsoft 365 seu ambiente inclui proteção contra software malictivo. Pode aumentar esta proteção ao bloquear anexos com tipos de ficheiro frequentemente utilizados para software malicioso. Para aumentar a proteção contra software malicónico no e-mail:
 
-1. Vá [https://protection.office.com](https://protection.office.com) e inscreva-se com as credenciais da sua conta de administração.
+1. Vá para [https://protection.office.com](https://protection.office.com) e inscreva-se com as credenciais da sua conta de administrador.
 
-2. No &amp; Centro de Conformidade de Segurança, no painel de navegação à esquerda, sob **gestão de ameaças,** escolha **Política** \> **Anti-Malware**.
+2. No Centro de Conformidade de Segurança, no painel de navegação &amp; esquerdo, em Gestão de **ameaças,** selecionar  \> **Política Anti malware**.
 
-3. Clique duas vezes na política padrão para editar esta política em toda a empresa.
+3. Faça duplo clique na política predefinida para editar esta política para toda a empresa.
 
-4. Selecione **Definições**.
+4. **Selecione Definições**.
 
-5. Sob **o filtro de tipos de acessórios comuns,** selecione **On**. Os tipos de ficheiros que estão bloqueados estão listados na janela diretamente por baixo deste controlo. Certifique-se de que adiciona estes tipos de ficheiros:
+5. Em Filtro **de Tipos de Anexo Comuns, selecione** **Ação**. Os tipos de ficheiro bloqueados são listados na janela diretamente abaixo deste controlo. Certifique-se de que adiciona estes tipos de ficheiro:
 
    `ade, adp, ani, bas, bat, chm, cmd, com, cpl, crt, hlp, ht, hta, inf, ins, isp, job, js, jse, lnk, mda, mdb, mde, mdz, msc, msi, msp, mst, pcd, reg, scr, sct, shs, url, vb, vbe, vbs, wsc, wsf, wsh, exe, pif`
 
-   Se necessário, pode adicionar ou eliminar tipos de ficheiros mais tarde.
+   Se for necessário, pode adicionar ou eliminar tipos de ficheiro mais tarde.
 
-6. **Selecione Save.**
+6. **Selecione Guardar.**
 
-Para obter mais informações, consulte [a proteção anti-malware no EOP](../security/office-365-security/anti-malware-protection.md).
+Para obter mais informações, consulte [Proteção anti-software malware na EOP.](../security/office-365-security/anti-malware-protection.md)
 
-## <a name="protect-against-ransomware"></a>Proteja contra ransomware
+## <a name="protect-against-ransomware"></a>Proteja-se contra ransomware
 
-O ransomware restringe o acesso aos dados encriptando ficheiros ou bloqueando ecrãs de computador. Em seguida, tenta extorquir dinheiro às vítimas pedindo "resgate", geralmente sob a forma de criptomoedas como o Bitcoin, em troca do acesso aos dados.
+O ransomware restringe o acesso aos dados ao encriptar ficheiros ou bloquear ecrãs do computador. Em seguida, tenta extorquir dinheiro de uma moeda que lhe pede "resgate", normalmente sob a forma de criptocurrências como Bitcoin, em troca de acesso aos dados.
 
-Para proteger contra ransomware, crie uma ou mais regras de fluxo de correio para bloquear extensões de ficheiros que são normalmente usadas para ransomware. (Adicionou estas regras no [aumento do nível de proteção contra malware no passo do correio.)](#raise-the-level-of-protection-against-malware-in-mail) Também pode alertar os utilizadores que recebem estes anexos por e-mail.
+Para se proteger contra ransomware, crie uma ou mais regras de fluxo de correio para bloquear extensões de ficheiros frequentemente utilizadas para ransomware. (Adicionou estas regras ao aumentar [o nível de proteção contra software maliceiro no passo de](#raise-the-level-of-protection-against-malware-in-mail) correio.) Também pode avisar os utilizadores que recebem estes anexos por e-mail.
 
-Além dos ficheiros que bloqueou no passo anterior, é uma boa prática criar uma regra para alertar os utilizadores antes de abrir anexos de ficheiros do Office que incluem macros. O ransomware pode ser escondido dentro de macros, por isso avisa os utilizadores para não abrirem estes ficheiros a pessoas que não conhecem.
+Além dos ficheiros que bloqueou no passo anterior, é uma boa prática criar uma regra para avisar os utilizadores antes de abrirem anexos de ficheiro Office que incluam macros. O ransomware pode ser ocultado dentro de macros, pelo que deve avisar os utilizadores para não abrirem estes ficheiros de pessoas que não conheçam.
 
 Para criar uma regra de transporte de correio:
 
-1. Vá ao centro de administração em <https://admin.microsoft.com> , e escolha **Admin centers** \> **Exchange**.
+1. Vá para o centro de administração em <https://admin.microsoft.com> e **selecionar Centros de** administração \> **Exchange**.
 
-2. Na categoria **de fluxo de correio,** selecione **regras**.
+2. Na categoria **de fluxo de** correio, selecione **regras**.
 
-3. Selecione **+** e, em seguida, **selecione Criar uma nova regra**.
+3. **+** Selecione e, em seguida, **selecione Criar uma nova regra**.
 
-4. Selecione **Mais opções** na parte inferior da caixa de diálogo para ver o conjunto completo de opções.
+4. **Selecione Mais** opções na parte inferior da caixa de diálogo para ver o conjunto completo de opções.
 
-5. Aplique as definições na tabela seguinte para a regra. Utilize os valores predefinidos para o resto das definições, a não ser que pretenda alterá-los.
+5. Aplique as definições na seguinte tabela para a regra. Utilize os valores predefinido para as restantes definições, a menos que queira alterá-los.
 
-6. Seleccione **Guardar**.
+6. Selecione **Guardar**.
 
-|Definição|Avise os utilizadores antes de abrir anexos de ficheiros do Office||
+|Definição|Avisar os utilizadores antes de abrirem anexos de Office ficheiros||
 |---|---|---|
-|Name|Regra anti-ransomware: avise os utilizadores|
-|Aplique esta regra se . . . .|Qualquer anexo. . . correspondência de extensão de ficheiros . . .|
-|Especificar palavras ou frases|Adicione estes tipos de ficheiros:  <br/> dotm, docm, xlsm, sltm, xla, xlam, xll, pptm, potm, ppam, ppsm, sldm|
-|Faça o seguinte. . .|Notifique o destinatário com uma mensagem|
-|Fornecer texto de mensagem|Não abra este tipo de ficheiros a pessoas que não conhece, pois podem conter macros com código malicioso.|
+|Name|Regra anti ransomware: avisar os utilizadores|
+|Aplicar esta regra se . . .|Qualquer anexo . . . a extensão de ficheiro corresponde . . .|
+|Especificar palavras ou expressões|Adicione estes tipos de ficheiro:  <br/> dotm, docm, xlsm, sltm, xla, xlam, xll, pptm, potm, ppam, ppsm, sldm|
+|Faça o seguinte. . .|Notificar o destinatário com uma mensagem|
+|Fornecer texto da mensagem|Não abra estes tipos de ficheiros de pessoas que não conhece porque podem conter macros com código malicioso.|
 
 Para mais informações, consulte:
 
-- [Ransomware: como reduzir o risco](https://www.microsoft.com/security/blog/2020/04/28/ransomware-groups-continue-to-target-healthcare-critical-services-heres-how-to-reduce-risk/)
+- [Ransomware: como reduzir os riscos](https://www.microsoft.com/security/blog/2020/04/28/ransomware-groups-continue-to-target-healthcare-critical-services-heres-how-to-reduce-risk/)
 
-- [Restaurar o seu OneDrive](https://support.microsoft.com/office/fa231298-759d-41cf-bcd0-25ac53eb8a15.aspx)
+- [Restaurar os seus OneDrive](https://support.microsoft.com/office/fa231298-759d-41cf-bcd0-25ac53eb8a15.aspx)
 
-## <a name="stop-auto-forwarding-for-email"></a>Pare de reencaminhar automaticamente para e-mail
+## <a name="stop-auto-forwarding-for-email"></a>Parar o re encaminhamento automático para e-mail
 
-Os hackers que tenham acesso à caixa de correio de um utilizador podem roubar correio, definindo a caixa de correio para enviar automaticamente o e-mail. Isto pode acontecer mesmo sem a consciência do utilizador. Para evitar que isto aconteça, configuure uma regra de fluxo de correio.
+Os hackers que têm acesso à caixa de correio de um utilizador podem roubar correio ao definir a caixa de correio para reencainhar e-mails automaticamente. Isto pode acontecer mesmo sem a consciência do utilizador. Para impedir que isto aconteça, configure uma regra de fluxo de correio.
 
-Para criar uma regra de transporte de correio, veja [este pequeno vídeo](https://support.microsoft.com/office/f9d693ba-5c78-47c0-b156-8e461e062aa7) ou siga estes passos:
+Para criar uma regra de transporte de correio, veja [este breve vídeo](../business-video/stop-email-auto-forward.md) ou siga estes passos:
 
-1. No centro de administração Microsoft 365, selecione **Admin centers** \> **Exchange**.
+1. No centro de Microsoft 365, **selecione Centros de** administração \> **Exchange**.
 
-2. Na categoria **de fluxo de correio,** selecione **regras**.
+2. Na categoria **de fluxo de** correio, selecione **regras**.
 
-3. Selecione **+** e, em seguida, **selecione Criar uma nova regra**.
+3. **+** Selecione e, em seguida, **selecione Criar uma nova regra**.
 
-4. Para ver todas as opções, selecione **Mais opções** na parte inferior da caixa de diálogo.
+4. Para ver todas as opções, **selecione Mais opções** na parte inferior da caixa de diálogo.
 
-5. Aplique as definições na tabela seguinte. Utilize os valores predefinidos para o resto das definições, a não ser que pretenda alterá-los.
+5. Aplique as definições na seguinte tabela. Utilize os valores predefinido para as restantes definições, a menos que queira alterá-los.
 
-6. Seleccione **Guardar**.
+6. Selecione **Guardar**.
 
-|Definição|Avise os utilizadores antes de abrir anexos de ficheiros do Office|
+|Definição|Avisar os utilizadores antes de abrirem anexos de Office ficheiros|
 |---|---|
-|Name|Impedir o encaminhamento automático de e-mail para domínios externos|
-|Aplique esta regra se...|O remetente. . . é externo/interno. . . Dentro da organização|
-|Adicionar condição|As propriedades da mensagem. . . incluir o tipo de mensagem . . . Auto-para-frente|
-|Faça o seguinte...|Bloqueie a mensagem. . . rejeitar a mensagem e incluir uma explicação.|
-|Fornecer texto de mensagem|O e-mail de reencaminhamento automático para fora desta organização é impedido por razões de segurança.|
+|Name|Impedir o re encaminhamento automático de e-mail para domínios externos|
+|Aplicar esta regra se...|O remetente . . . é externa/interna. . . Dentro da organização|
+|Adicionar condição|As propriedades da mensagem . . . inclua o tipo de mensagem . . . Encaminhar automaticamente|
+|Faça o seguinte...|Bloqueie a mensagem . . . rejeitar a mensagem e incluir uma explicação.|
+|Fornecer texto da mensagem|O re encaminhamento automático de e-mail fora desta organização é impedido por motivos de segurança.|
 
 
-## <a name="protect-your-email-from-phishing-attacks"></a>Proteja o seu e-mail de ataques de phishing
+## <a name="protect-your-email-from-phishing-attacks"></a>Proteger o seu e-mail contra ataques de phishing
 
-Se configurar um ou mais domínios personalizados para o ambiente Office 365 ou Microsoft 365, pode configurar uma proteção anti-phishing direcionada. A proteção anti-phishing, parte do Microsoft Defender para o Office 365, pode ajudar a proteger a sua organização de ataques de phishing baseados em imitações maliciosas e outros ataques de phishing. Se ainda não configuraste um domínio personalizado, não precisas de fazer isto.
+Se tiver configurado um ou mais domínios personalizados para o seu ambiente Office 365 ou Microsoft 365, pode configurar a proteção anti-phishing direcizada. A proteção anti-phishing, parte do Microsoft Defender para Office 365, pode ajudar a proteger a sua organização de ataques de phishing baseados em representação maliciosa e outros ataques de phishing. Se ainda não tiver configurado um domínio personalizado, não precisa de o fazer.
 
-Recomendamos que inicie com esta proteção criando uma política para proteger os seus utilizadores mais importantes e o seu domínio personalizado.
+Recomendamos que se inicie com esta proteção ao criar uma política para proteger os seus utilizadores mais importantes e o seu domínio personalizado.
 
-Para criar uma política anti-phishing no Microsoft Defender para o Office 365, veja  [este vídeo de treino curto](https://support.microsoft.com/office/86c425e1-1686-430a-9151-f7176cce4f2c)ou complete os seguintes passos:
+Para criar uma política anti-phishing no Microsoft Defender [](../business-video/setup-anti-phishing.md)para Office 365, veja este breve vídeo de formação ou conclua os seguintes passos:
 
 1. Aceda a [https://protection.office.com](https://protection.office.com).
 
-2. No &amp; Centro de Conformidade de Segurança, no painel de navegação à esquerda, sob **gestão de ameaças,** escolha **a Política**.
+2. No Centro de Conformidade &amp; de Segurança, no painel de navegação esquerdo, em Gestão **de ameaças,** escolha **Política**.
 
-3. Na página **Política,** escolha **Anti-phishing**.
+3. Na página **Política,** **selecionar Anti phishing**.
 
-4. Na página **Anti-phishing,** selecione **+ Criar**. Um assistente lança-o através da definição da sua política anti-phishing.
+4. Na página **Anti phishing,** selecione **+ Criar.** Será iniciado um assistente que o ajuda a definir a sua política anti phishing.
 
-5. Especifique o nome, descrição e configurações da sua política como recomendado na tabela seguinte. Para obter mais detalhes, consulte [a política anti-phishing no Microsoft Defender para as opções office 365](../security/office-365-security/set-up-anti-phishing-policies.md).
+5. Especifique o nome, a descrição e as definições da sua política conforme recomendado na seguinte tabela. Para obter mais detalhes, consulte Saber mais sobre a [política anti-phishing no Microsoft Defender Office 365 opções.](../security/office-365-security/set-up-anti-phishing-policies.md)
 
-6. Depois de rever as suas definições, escolha **Criar esta política** ou **Guardar,** conforme apropriado.
-
-|Definição ou opção|Definição recomendada|
-|---|---|
-|Name|Domínio e pessoal de campanha mais valioso|
-|Descrição|Certifique-se de que o pessoal mais importante e o nosso domínio não estão a ser personificados.|
-|Adicionar utilizadores para proteger|**Selecione + Adicione uma condição, o destinatário é**. Digite os nomes de utilizador ou introduza o endereço de e-mail do candidato, gestor de campanha e outros membros importantes do pessoal. Pode adicionar até 20 endereços internos e externos que pretende proteger da personificação.|
-|Adicionar domínios para proteger|**Selecione + Adicione uma condição, o domínio do destinatário é**. Introduza o domínio personalizado associado à subscrição microsoft 365, se tiver definido um. Pode introduzir mais do que um domínio.|
-|Escolha ações|Se o e-mail for enviado por um utilizador personificado: Escolha **redirecionar a mensagem para outro endereço de e-mail** e, em seguida, digitar o endereço de e-mail do administrador de segurança; por exemplo, *Alice <span> <span> @contoso.com*. Se o e-mail for enviado por um domínio personificado: Escolha **a mensagem de quarentena**.|
-|Inteligência da caixa de correio|Por predefinição, a inteligência da caixa de correio é selecionada quando cria uma nova política anti-phishing. Deixe esta definição **On** para obter os melhores resultados.|
-|Adicionar remetentes e domínios fidedignos|Aqui pode adicionar o seu próprio domínio, ou quaisquer outros domínios fidedignos.|
-|Aplicado a|Selecione **O domínio do destinatário é**. Em **qualquer um destes**, selecione **Escolha**. Selecione **+ Adicionar**. Selecione a caixa de verificação ao lado do nome do domínio, por exemplo, *contoso. <span> <span> com*, na lista e, em seguida, **selecione Add**. Selecione **Feito**.|
-
-## <a name="protect-against-malicious-attachments-and-files-with-safe-attachments"></a>Proteger contra anexos e ficheiros maliciosos com anexos seguros
-
-As pessoas enviam, recebem e partilham anexos regularmente, tais como documentos, apresentações, folhas de cálculo e muito mais. Nem sempre é fácil dizer se um anexo é seguro ou malicioso apenas olhando para uma mensagem de e-mail. O Microsoft Defender para o Office 365 inclui proteção de anexo seguro, mas esta proteção não é ligada por defeito. Recomendamos que crie uma nova regra para começar a utilizar esta proteção. Esta proteção estende-se a ficheiros em SharePoint, OneDrive e Microsoft Teams.
-
-Para criar uma política de fixação segura, veja [este pequeno vídeo](https://support.microsoft.com/office/e7e68934-23dc-4b9c-b714-e82e27a8f8a5)ou complete os seguintes passos:
-
-1. Vá [https://protection.office.com](https://protection.office.com) para, e inscreva-se na sua conta de administração.
-
-2. No &amp; Centro de Conformidade de Segurança, no painel de navegação à esquerda, sob **gestão de ameaças,** escolha **a Política**.
-
-3. Na página Política, escolha **Anexos Seguros.**
-
-4. Na página De anexos Safe, aplique esta proteção de forma geral selecionando a caixa de verificação **DE Turn on ATP para SharePoint, OneDrive e Microsoft Teams.**
-
-5. Selecione **+** para criar uma nova política.
-
-6. Aplique as definições na tabela seguinte.
-
-7. Depois de ter revisto as suas definições, escolha **Criar esta política** ou **Guardar,** conforme apropriado.
+6. Após rever as suas definições, selecionar **Criar esta política ou** **Guardar,** conforme adequado.
 
 |Definição ou opção|Definição recomendada|
 |---|---|
-|Name|Bloqueie e-mails atuais e futuros com malware detetado.|
-|Descrição|Bloqueie e-mails e anexos atuais e futuros com malware detetado.|
-|Guardar anexos desconhecidos resposta de malware|Selecione **Bloco - Bloqueie os e-mails e anexos atuais e futuros com malware detetado.**|
-|Redirecione o acessório na deteção|Ativar a reorientação (selecione esta caixa) Introduza a conta de administração ou uma configuração da caixa de correio para quarentena.          Aplique a seleção acima se ocorrer uma verificação de malware para os anexos vezes fora ou se ocorrer erro (selecione esta caixa).|
+|Name|Domínio e funcionários de campanhas mais valiosos|
+|Descrição|Certifique-se de que a equipa mais importante e o nosso domínio não estão a ser representação.|
+|Adicionar utilizadores para proteger|**Selecione + Adicionar uma condição, o destinatário é**. Escreva os nomes de utilizador ou introduza o endereço de e-mail do candidato, gestor de campanhas e de outros membros importantes da equipa. Pode adicionar até 20 endereços internos e externos que pretende proteger contra representação.|
+|Adicionar domínios para proteger|**Selecione + Adicionar uma condição, o domínio do destinatário é**. Introduza o domínio personalizado associado à sua subscrição Microsoft 365, se tiver definido um. Pode introduzir mais do que um domínio.|
+|Selecionar ações|Se o e-mail for enviado por um utilizador representação: Selecionar **Redirecionar** mensagem para outro endereço de e-mail e, em seguida, escreva o endereço de e-mail do administrador de segurança; Por exemplo, *Alice <span> <span> @contoso.com*. Se o e-mail for enviado por um domínio representação: Selecionar **Mensagem de quarentena**.|
+|Informações sobre caixas de correio|Por predefinição, a inteligência da caixa de correio é selecionada quando cria uma nova política anti-phishing. Deixe esta definição **Ativos para** melhores resultados.|
+|Adicionar domínios e recetores de confiança|Aqui pode adicionar o seu próprio domínio ou outros domínios de confiança.|
+|Aplicado a|**Selecione O domínio do destinatário é**. Em **Qualquer uma destas , selecione** **Escolher**. **Selecione + Adicionar**. Selecione a caixa de verificação junto ao nome do domínio, por *exemplo, contoso. <span> <span> com,* na lista e, em seguida, **selecione Adicionar**. **Selecione Feito**.|
+
+## <a name="protect-against-malicious-attachments-and-files-with-safe-attachments"></a>Proteja-se contra anexos e ficheiros maliciosos Cofre Anexos
+
+As pessoas enviam, recebem e partilham anexos regularmente, como documentos, apresentações, páginas de livro e muito mais. Nem sempre é fácil saber se um anexo é seguro ou malicioso ao ver uma mensagem de e-mail. O Microsoft Defender para Office 365 inclui Cofre Proteção de anexos, mas esta proteção não está adada por predefinição. Recomendamos que crie uma nova regra para começar a utilizar esta proteção. Esta proteção abrange ficheiros no SharePoint, OneDrive e Microsoft Teams.
+
+Para criar uma Cofre Anexo, veja [este breve vídeo ou](../business-video/safe-attachments.md)conclua os seguintes passos:
+
+1. Vá para [https://protection.office.com](https://protection.office.com) e inscreva-se com a sua conta de administrador.
+
+2. No Centro de Conformidade &amp; de Segurança, no painel de navegação esquerdo, em Gestão **de ameaças,** escolha **Política**.
+
+3. Na página Política, selecionar **Cofre Anexos.**
+
+4. Na página Cofre anexos, aplique esta proteção de forma abrangente ao selecionar a caixa de verificação Ativar a ATP para **o SharePoint, OneDrive** e Microsoft Teams proteção.
+
+5. **+** Selecione para criar uma nova política.
+
+6. Aplique as definições na seguinte tabela.
+
+7. Depois de ter revisto as suas definições, **selecionar Criar esta política** ou **Guardar**, conforme adequado.
+
+|Definição ou opção|Definição recomendada|
+|---|---|
+|Name|Bloquear e-mails atuais e futuros com software malictado detetado.|
+|Descrição|Bloqueie e-mails e anexos atuais e futuros com software malicioso detetado.|
+|Guardar anexos de resposta malitária desconhecida|**Selecione Bloquear – bloquear os e-mails e anexos atuais e futuros com software malicioso detetado**.|
+|Redirecionar anexos ao detetar|Ativar o redirecionamento (selecione esta caixa) Introduza a conta de administrador ou a configuração da caixa de correio para quarentena.          Aplicar a seleção acima se ocorrer o tempo de ocorrência de falhas ou erros de análise de software malicioso (selecione esta caixa).|
 |Aplicado a|O domínio do destinatário é . . . selecione o seu domínio.|
 
-Para obter mais informações, consulte [configurar políticas anti-phishing no Microsoft Defender para o Office 365](../security/office-365-security/set-up-anti-phishing-policies.md).
+Para obter mais informações, consulte [Configurar políticas anti phishing no Microsoft Defender para Office 365](../security/office-365-security/set-up-anti-phishing-policies.md).
 
-## <a name="protect-against-phishing-attacks-with-safe-links"></a>Proteja contra ataques de phishing com ligações seguras
+## <a name="protect-against-phishing-attacks-with-safe-links"></a>Proteger contra ataques de phishing com Cofre Ligações
 
-Os hackers às vezes escondem sites maliciosos em links em e-mails ou outros ficheiros. As Ligações Seguras, parte do Microsoft Defender para o Office 365, podem ajudar a proteger a sua organização fornecendo a verificação de tempo de clique de endereços web (URLs) em mensagens de e-mail e documentos do Office. A proteção é definida através de políticas de Ligações Seguras.
+Por vezes, os hackers ocultam sites maliciosos em ligações no e-mail ou noutros ficheiros. Cofre As ligações, que fazem parte do Microsoft Defender para Office 365, podem ajudar a proteger a sua organização ao fornecer uma verificação de tempo do clique dos endereços Web (URLs) em mensagens de e-mail e Office documentos. A proteção é definida através Cofre políticas de Ligações.
 
 Recomendamos que faça o seguinte:
 
-- Modifique a política de predefinição para aumentar a proteção.
+- Modifique a política predefinida para aumentar a proteção.
 
-- Adicione uma nova política direcionada a todos os destinatários do seu domínio.
+- Adicione uma nova política direcçada a todos os destinatários no seu domínio.
 
-Para configurar Ligações Seguras, assista [a este vídeo de treino curto,](https://support.microsoft.com/office/61492713-53c2-47da-a6e7-fa97479e97fa)ou complete os seguintes passos:
+Para configurar o Cofre Links, veja este breve vídeo [de formação](../business-video/safe-links.md)ou conclua os seguintes passos:
 
-1. Vá [https://protection.office.com](https://protection.office.com) para, e inscreva-se na sua conta de administração.
+1. Vá para [https://protection.office.com](https://protection.office.com) e inscreva-se com a sua conta de administrador.
 
-2. No &amp; Centro de Conformidade de Segurança, no painel de navegação à esquerda, sob **gestão de ameaças,** escolha **a Política**.
+2. No Centro de Conformidade &amp; de Segurança, no painel de navegação esquerdo, em Gestão **de ameaças,** escolha **Política**.
 
-3. Na página Política, escolha **Links Seguros.**
+3. Na página Política, selecionar **Cofre Ligações**.
 
-Para modificar a política de incumprimento:
+Para modificar a política predefinida:
 
-1. Na página 'Links Seguro', ao abrigo **de Políticas aplicáveis a toda a organização,** selecione a política **Padrão.**
+1. Na página de Cofre, em Políticas que se aplicam a toda **a** organização , selecione a Política **predefinida.**
 
-2. Em **Definições que se aplicam a conteúdos exceto e-mail**, selecione **Microsoft 365 Apps for enterprise, Office for iOS e Android**.
+2. Em Definições **aplicam-se a** conteúdo exceto ao e-mail **, selecione Microsoft 365 Apps para Grandes Empresas, Office para iOS e Android**.
 
-3. Seleccione **Guardar**.
+3. Selecione **Guardar**.
 
-Para criar uma nova política direcionada a todos os destinatários do seu domínio:
+Para criar uma nova política direcçada para todos os destinatários no seu domínio:
 
-1. Na página 'Ligações Seguras', ao abrigo **de Políticas aplicáveis a toda a organização,** selecione **+** para criar uma nova política.
+1. Na página Cofre, em Políticas que se aplicam a toda a organização **,** selecione para criar uma **+** nova política.
 
-2. Aplique as definições listadas na tabela seguinte.
+2. Aplique as definições listadas na seguinte tabela.
 
-3. Seleccione **Guardar**.
+3. Selecione **Guardar**.
 
 |Definição ou opção|Definição recomendada|
 |---|---|
-|Name|Política de ligações seguras para todos os destinatários no domínio|
-|Selecione a ação para URLs potencialmente maliciosos desconhecidos em mensagens|Selecione **On - URLs serão reescritos e verificados contra uma lista de links maliciosos conhecidos quando o utilizador clicar no link**.|
-|Utilize anexos seguros para digitalizar conteúdo transferível|Selecione esta caixa.|
+|Name|Cofre a política de ligações para todos os destinatários no domínio|
+|Selecione a ação para URLs potencialmente maliciosos desconhecidos em mensagens|Selecione Ativos – os URLs serão reescritos e verificados com uma lista de ligações **maliciosas conhecidas** quando o utilizador clicar na ligação .|
+|Utilizar Cofre anexos para analisar conteúdo transferível|Selecione esta caixa.|
 |Aplicado a|O domínio do destinatário é . . . selecione o seu domínio.|
 
-Para mais informações, consulte [Ligações Seguras.](../security/office-365-security/safe-links.md)
+Para obter mais informações, [consulte Cofre Ligações .](../security/office-365-security/safe-links.md)
 
-## <a name="go-to-intune-admin-center"></a>Vá ao Centro de Administração Intune
+## <a name="go-to-intune-admin-center"></a>Ir para o centro de administração do Intune
 
-1. Inscreva-se no [portal Azure](https://portal.azure.com/).
+1. Inscreva-se [no portal do Azure.](https://portal.azure.com/)
 
-2. Selecione **Todos os serviços** e *digite inTune* na **Caixa de Busca.**
+2. **Selecione Todos** os serviços e escreva *Intune* na **Caixa de Pesquisa**.
 
-3. Assim que os resultados aparecerem, selecione o início ao lado do **Microsoft Intune** para torná-lo um favorito e fácil de encontrar mais tarde.
+3. Assim que os resultados aparecerem, selecione o início **junto a Microsoft Intune** para torná-lo favorito e fácil de encontrar mais tarde.
 
-Além do centro de administração, pode utilizar o Intune para se inscrever e gerir os dispositivos da sua organização. Para obter mais informações, consulte [Capabilities por método de inscrição para dispositivos Windows](/intune/enrollment/enrollment-method-capab) e [opções de inscrição para dispositivos geridos pela Intune](/intune/enrollment-options).
+Além do centro de administração, pode utilizar o Intune para inscrever e gerir os dispositivos da sua organização. Para obter mais informações, consulte Recursos por método de inscrição para dispositivos [Windows](/intune/enrollment/enrollment-method-capab) e Opções de inscrição para [dispositivos geridos pelo Intune.](/intune/enrollment-options)
