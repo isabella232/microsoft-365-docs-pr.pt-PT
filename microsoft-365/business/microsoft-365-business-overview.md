@@ -29,12 +29,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Conheça o Microsoft 365 Empresas Premium, um serviço de subscrição que inclui aplicações de produtividade do Office e proteção avançada contra ciberameaças para empresas.
-ms.openlocfilehash: d6b0ded25e0478f85e73b807789463e4d55b1bb0
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+ms.openlocfilehash: a355c9856ead4a66f6876cc7cb5aa8eb469d7f12
+ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
 ms.translationtype: HT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51578353"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52244862"
 ---
 # <a name="overview-of-microsoft-365-business-premium"></a>Descrição geral do Microsoft 365 Empresas Premium
 
@@ -46,7 +46,7 @@ Veja este vídeo para uma breve descrição geral do Microsoft 365 Empresas Prem
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
-Caso tenha considerado este vídeo útil, veja a [série de formação completa para pequenas empresas e as novidades do Microsoft 365](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816). 
+Caso tenha considerado este vídeo útil, veja a [série de formação completa para pequenas empresas e as novidades do Microsoft 365](../business-video/index.yml). 
 
 O Microsoft 365 Empresas Premium foi concebido para um máximo de 300 licenças. Caso necessite de mais licenças, consulte a documentação sobre o [Microsoft 365 Enterprise](../enterprise/index.yml) para obter mais informações.
 
@@ -95,7 +95,7 @@ Os seus **dispositivos são protegidos** ao:
 
 - Controlar que dispositivos e utilizadores podem aceder aos dados Microsoft, com opções para impedir os utilizadores de iniciar sessão a partir de computadores domésticos e aplicações não aprovadas ou fora do horário de expediente (Acesso Condicional).
 
-- Aplicar políticas de segurança para proteger dados empresariais em dispositivos iOS e Android. Por exemplo, pode exigir que os utilizadores forneçam um PIN ou uma impressão digital para aceder a dados empresariais e pode encriptar dados em dispositivos móveis (Proteção de aplicações do Office para dispositivos móveis).
+- Aplicar políticas de segurança para proteger dados empresariais nos dispositivos iOS e Android. Por exemplo, pode exigir que os utilizadores forneçam um PIN ou impressão digital para aceder a dados empresariais e pode encriptar dados em dispositivos móveis (aplicação de proteção para as aplicações do Office para dispositivos móveis).
 
 - Manter documentos, e-mails e outros dados empresariais em aplicações do Office para dispositivos móveis aprovadas e impedir os colaboradores de os guardar em aplicações e localizações não autorizadas (Proteção de aplicações do Office para dispositivos móveis).
 
@@ -111,6 +111,6 @@ Para ver a lista completa de funcionalidades de segurança, consulte [Funcionali
 
 - Se não tiver um parceiro e quiser obter o Microsoft 365 Empresas Premium, poderá [comprá-lo aqui](https://www.microsoft.com/microsoft-365/business) e seguir as instruções de [inscrição](sign-up.md).
 
-## <a name="see-also"></a>Consulte também
+## <a name="related-content"></a>Conteúdos relacionados
 
-[Vídeos de formação do Microsoft 365 Empresas Premium](https://support.microsoft.com/office/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)
+[Vídeos de formação do Microsoft 365 Empresas Premium](../business-video/index.yml) (ligação para a página)
