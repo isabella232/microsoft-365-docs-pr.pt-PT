@@ -22,12 +22,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Saiba como mover a sua empresa para Microsoft 365 Empresas Premium do Office 365 E3.
-ms.openlocfilehash: f08b054473fdd63ec2372e81c776a1b64f89fe9d
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+ms.openlocfilehash: 990ca8bdae979f1efb8a60a3460add2953a51892
+ms.sourcegitcommit: 68383240ef7a673d5f28e2ecfab9f105bf1d8c8f
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52244842"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52327176"
 ---
 # <a name="migrating-from-office-365-e3-to-microsoft-365-business-premium"></a>Migrar do Office 365 E3 para o Microsoft 365 Empresas Premium
 
@@ -39,25 +39,24 @@ A migração é fácil: Primeiro, muda de licenças e todas as suas informaçõe
 
 Esta tabela mostra as diferenças entre Microsoft 365 Empresas Premium e Office 365 E3.
 
-| Funcionalidade    | Suporte no Microsoft 365 Empresas Premium    | Suporte no Office 365 E3 | 
+| Funcionalidade    | Suporte no Microsoft 365 Empresas Premium    | Suporte no Office 365 E3 |
 |:-------|:-----|:-----|
-| **No local**        | | | 
-| Office aplicações<sup>1</sup>    | Microsoft 365 Apps para Pequenas e Médias Empresas    | Aplicações Microsoft 365 para empresas | 
-| **Aplicações de produtividade na nuvem**        | | | 
-| Exchange Online e Outlook    | Limite de armazenamento de 50 GB por caixa de correio e limite de Arquivo de Exchange Online    | Limite de armazenamento de 100 GB por caixa de correio e limite de Arquivo de Exchange Online | 
+| **No local**        | | |
+| Office aplicações<sup>1</sup>    | Microsoft 365 Apps para Pequenas e Médias Empresas    | Aplicações Microsoft 365 para empresas |
+| **Aplicações de produtividade na nuvem**        | | |
+| Exchange Online e Outlook    | Limite de armazenamento de 50 GB por caixa de correio e limite de Arquivo de Exchange Online    | Limite de armazenamento de 100 GB por caixa de correio e limite de Arquivo de Exchange Online |
 | Teams    | ![Incluído com Microsoft 365 Empresas Premium](../media/check-mark.png)    | ![Incluído com o Office 365 E3](../media/check-mark.png) | 
 | OneDrive para Empresas    | 1 limite de armazenamento TB por utilizador    | Ilimitado | 
 | Yammer, SharePoint Online, Planner, Stream    | ![Incluído com Microsoft 365 Empresas Premium](../media/check-mark.png)    | ![Incluído com o Office 365 E3](../media/check-mark.png) | 
-| StaffHub    | ![Incluído com Microsoft 365 Empresas Premium](../media/check-mark.png)    | ![Incluído com o Office 365 E3](../media/check-mark.png) | 
-| MileIQ    | ![Incluído com Microsoft 365 Empresas Premium](../media/check-mark.png)    | | 
-| **Proteção Contra Ameaças**        | | | 
-| Defender para Office 365 Plano 1 | ![Incluído com Microsoft 365 Empresas Premium](../media/check-mark.png)    | Não incluído, mas pode ser adicionado a | 
-| **Gestão de identidades**        | | | 
-| Reposição de palavra-passe self-service para contas híbridas do Azure Active Directory (Azure AD), Autenticação multifatores (MFA) do Azure AD, Acesso Condicional, writeback de palavra-passe para identidades no local|     ![Incluído com Microsoft 365 Empresas Premium](../media/check-mark.png)    |  | 
+| StaffHub    | ![Incluído com Microsoft 365 Empresas Premium](../media/check-mark.png)    | ![Incluído com o Office 365 E3](../media/check-mark.png) |
+| **Proteção Contra Ameaças**        | | |
+| Defender para Office 365 Plano 1 | ![Incluído com Microsoft 365 Empresas Premium](../media/check-mark.png)    | Não incluído, mas pode ser adicionado a |
+| **Gestão de identidades**        | | |
+| Reposição de palavra-passe self-service para contas híbridas do Azure Active Directory (Azure AD), Autenticação multifatores (MFA) do Azure AD, Acesso Condicional, writeback de palavra-passe para identidades no local|     ![Incluído com Microsoft 365 Empresas Premium](../media/check-mark.png)    |  |
 | **Gestão de dispositivos e aplicações**        | | |
 | Microsoft Intune, Windows AutoPilot|     ![Incluído com Microsoft 365 Empresas Premium](../media/check-mark.png)    |  |
 | Ativação de computador partilhado|     ![Incluído com Microsoft 365 Empresas Premium](../media/check-mark.png)    | ![Incluído com o Office 365 E3](../media/check-mark.png)| 
-| Direitos de atualização para Windows 10 Pro das licenças de e-Pro Win 7/8.1|     ![Incluído com Microsoft 365 Empresas Premium](../media/check-mark.png)    || 
+| Direitos de atualização para Windows 10 Pro das licenças de e-Pro Win 7/8.1|     ![Incluído com Microsoft 365 Empresas Premium](../media/check-mark.png)    ||
 | **Proteção de informações**        | | |
 |Office 365 Prevenção de Perda de Dados|    ![Incluído com Microsoft 365 Empresas Premium](../media/check-mark.png)|![Incluído com o Office 365 E3](../media/check-mark.png)|
 |Azure Information Protection Plano 1, BitLocker imposição|![Incluído com Microsoft 365 Empresas Premium](../media/check-mark.png)||
@@ -96,29 +95,28 @@ Se atualizou todas as pessoas na sua organização para o Microsoft 365 Empresas
 Também pode concluir estes passos na página Dispositivos:
   
 1. No centro de administração, no navegador esquerdo,  aceda a Políticas de \> **Dispositivos.**
-    
+
 2. Na página **Políticas de dispositivos,** selecionar **Adicionar.**
-    
-3. No painel **Adicionar política,** dê um nome à política e, em seguida, escolha um Tipo de **política** a partir do painel de pastas. 
-    
+
+3. No painel **Adicionar política,** dê um nome à política e, em seguida, escolha um Tipo de **política** a partir do painel de pastas.
+
      Pode configurar políticas de aplicação para proteger ficheiros em dispositivos Android e iPhone, bem como Windows 10, e pode configurar políticas de configuração de dispositivos para dispositivos Windows 10 empresa. Consulte as seguintes ligações para obter detalhes:
-    
+
   - [Configurar as definições de proteção de aplicações para dispositivos Android ou iOS](app-protection-settings-for-android-and-ios.md)
-    
+
   - [Configurar as definições de proteção de aplicações para dispositivos Windows 10](protection-settings-for-windows-10-devices.md)
-    
+
   - [Definir as definições de proteção de dispositivos Windows 10 PCs](protection-settings-for-windows-10-pcs.md)
   
 4. Assim que configurar políticas, você e os seus funcionários podem configurar dispositivos:
-    
+
   - Consulte [Configurar dispositivos Windows para utilizadores Microsoft 365 Empresas Premium passos](set-up-windows-devices.md) para os Windows dispositivos. 
-    
+
   - Consulte [Configurar dispositivos móveis para Microsoft 365 Empresas Premium para](set-up-mobile-devices.md) os passos para telemóveis e iPhones Android. 
   
 ### <a name="mailbox-size"></a>Tamanho da Caixa de Correio
 
 Microsoft 365 Empresas Premium um limite de armazenamento de 50 GB à medida que Exchange Online Plano 1. Ao migrar para o Microsoft 365 Empresas Premium, se algum dos seus utilizadores exceder os 50 GB de armazenamento da caixa de correio, recomendamos que designe um Plano 2 do Exchange Online a este utilizador e remova o Plano Exchange Online 1, uma vez que não é exequecível atribuir ambas as informações.
-
 
 ### <a name="threat-protection"></a>Proteção contra ameaças
 
