@@ -26,17 +26,17 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 2d7ff45e-0da0-4caa-89a9-48cabf41f193
-description: Saiba como configurar dispositivos Windows com Windows 10 Pro utilizadores Microsoft 365 Empresas Premium, o que permite a gestão centralizada e controlos de segurança.
-ms.openlocfilehash: 3e268d81ff6fb7113b7e0b0fe5d0545ff5c72b1e
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+description: Configurar dispositivos Windows com Windows 10 Pro para Microsoft 365 Empresas Premium utilizadores, ativando controlos de segurança e gestão centralizados.
+ms.openlocfilehash: 3d32a033a1a1c89d7d4d557cea6a28e24543ab2c
+ms.sourcegitcommit: b0d3abbccf4dd37e32d69664d3ebc9ab8dea760d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52244782"
+ms.lasthandoff: 05/21/2021
+ms.locfileid: "52594027"
 ---
 # <a name="set-up-windows-devices-for-microsoft-365-business-premium-users"></a>Configurar dispositivos Windows para utilizadores Microsoft 365 Empresas Premium utilizadores
 
-## <a name="prerequisites-for-setting-up-windows-devices-for-microsoft-365-business-premium-users"></a>Pré-requisitos para configurar dispositivos Windows para utilizadores Microsoft 365 Empresas Premium utilizadores
+## <a name="before-you-begin"></a>Before you begin
 
 Antes de poder configurar dispositivos Windows para utilizadores Microsoft 365 Empresas Premium, certifique-se de que todos os dispositivos Windows estão a ser Windows 10 Pro versão 1703 (Atualização para Criadores). Windows 10 Pro é um pré-requisito para implementar o Windows 10 Business, que é um conjunto de funcionalidades de gestão de dispositivos e serviços na nuvem que complementam o Windows 10 Pro e permitem a gestão centralizada e controlos de segurança do Microsoft 365 Empresas Premium.
   
@@ -128,6 +128,6 @@ Verifique se os dispositivos associados ao Azure AD Windows 10 foram atualizados
 
 Para configurar os seus dispositivos móveis, consulte Configurar dispositivos móveis para utilizadores [Microsoft 365 Empresas Premium](set-up-mobile-devices.md), Para definir políticas de proteção de aplicações ou proteção de dispositivos, consulte Gerir o [Microsoft 365 para empresas.](manage.md)
   
-## <a name="for-more-on-setting-up-and-using-microsoft-365-business-premium"></a>Para mais informações sobre como configurar e utilizar o Microsoft 365 Empresas Premium
+## <a name="related-content"></a>Conteúdos relacionados
 
-[Microsoft 365 vídeos de formação para empresas](../business-video/index.yml)
+[Microsoft 365 vídeos de formação para empresas](../business-video/index.yml) (página de ligação)
