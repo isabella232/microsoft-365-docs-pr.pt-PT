@@ -27,12 +27,12 @@ search.appverid:
 - MET150
 ms.assetid: 2d7ff45e-0da0-4caa-89a9-48cabf41f193
 description: Configurar dispositivos Windows com Windows 10 Pro para Microsoft 365 Empresas Premium utilizadores, ativando controlos de segurança e gestão centralizados.
-ms.openlocfilehash: 3d32a033a1a1c89d7d4d557cea6a28e24543ab2c
-ms.sourcegitcommit: b0d3abbccf4dd37e32d69664d3ebc9ab8dea760d
+ms.openlocfilehash: 7a9c75f6ec14605225d40c103c18e62937e773bf
+ms.sourcegitcommit: 17f0aada83627d9defa0acf4db03a2d58e46842f
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/21/2021
-ms.locfileid: "52594027"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52635880"
 ---
 # <a name="set-up-windows-devices-for-microsoft-365-business-premium-users"></a>Configurar dispositivos Windows para utilizadores Microsoft 365 Empresas Premium utilizadores
 
@@ -46,7 +46,7 @@ Para obter mais informações sobre como atualizar dispositivos Windows para a A
   
 Consulte Verificar se o dispositivo está ligado ao [Azure AD](#verify-the-device-is-connected-to-azure-ad) para verificar se tem a atualização ou para se certificar de que a atualização funcionou.
 
-Veja um breve vídeo sobre como ligar Windows a Microsoft 365.<br><br>
+## <a name="watch-connect-your-pc-to-microsoft-365-business"></a>Ver: Ligação seu PC para Microsoft 365 Empresas
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3yXh3] 
 

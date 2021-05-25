@@ -24,24 +24,26 @@ search.appverid:
 - BCS160
 - MET150
 description: Saiba como ativar Microsoft 365 proteger dispositivos associados ao Active-Directory Windows 10 dispositivos associados ao Active Directory em apenas alguns passos.
-ms.openlocfilehash: f16962dd3c33c3c228da507bc5c4a902d76a8a08
-ms.sourcegitcommit: b0d3abbccf4dd37e32d69664d3ebc9ab8dea760d
+ms.openlocfilehash: ec80159bdceffd8a13d09a297a2acc1b78c9b1b3
+ms.sourcegitcommit: 17f0aada83627d9defa0acf4db03a2d58e46842f
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/21/2021
-ms.locfileid: "52593899"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52636092"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business-premium"></a>Ativar a gestão Windows 10 dispositivos associados ao domínio pelo Microsoft 365 Empresas Premium
 
 Se a sua organização utilizar o Windows Server Active Directory no local, pode configurar o Microsoft 365 Empresas Premium para proteger os seus dispositivos do Windows 10, mantendo o acesso a recursos no local que exigem autenticação local.
 Para configurar esta proteção, pode implementar dispositivos **associados ao Azure AD Híbrido.** Estes dispositivos estão associados ao Active Directory no local e à sua Azure Active Directory.
 
+## <a name="watch-configure-hybrid-azure-active-directory-join"></a>Ver: Configurar uma associação Híbrida Azure Active Directory Híbrida
+
 Este vídeo descreve os passos sobre como configurar esta configuração para o cenário mais comum, que também está detalhado nos passos que se seguem.
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3C9hO]
   
+## <a name="before-you-begin"></a>Before you begin
 
-## <a name="before-you-get-started-make-sure-you-complete-these-steps"></a>Antes de começar, certifique-se de que conclui estes passos:
 - Sincronize os utilizadores com o Azure AD com o Azure AD Ligação.
 - Conclua a sincronização Ligação do Azure AD para Organizações (OU).
 - Certifique-se de que todos os utilizadores do domínio que sincroniza têm licenças para Microsoft 365 Empresas Premium.
@@ -119,8 +121,6 @@ Neste momento, deverá conseguir ver a política Ativar a inscrição automátic
 
 ## <a name="related-content"></a>Conteúdos relacionados
 
-[Sincronizar utilizadores do domínio com Microsoft 365](manage-domain-users.md) (artigo)
-
-[Criar um grupo no centro de administração](../admin/create-groups/create-groups.md) (artigo)
-
+[Sincronizar utilizadores do domínio com Microsoft 365](manage-domain-users.md) (artigo)\
+[Criar um grupo no centro de administração](../admin/create-groups/create-groups.md) (artigo)\
 [Tutorial: Configurar uma associação Azure Active Directory híbrida para domínios geridos](/azure/active-directory/devices/hybrid-azuread-join-managed-domains.md) (artigo)

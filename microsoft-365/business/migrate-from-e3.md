@@ -21,13 +21,13 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-description: Saiba como mover a sua empresa para Microsoft 365 Empresas Premium do Office 365 E3.
-ms.openlocfilehash: 990ca8bdae979f1efb8a60a3460add2953a51892
-ms.sourcegitcommit: 68383240ef7a673d5f28e2ecfab9f105bf1d8c8f
+description: Se tiver uma subscrição Office 365 E3 mas não tiver mais de 300 funcionários, considere mudar para o Microsoft 365 Empresas Premium.
+ms.openlocfilehash: d139d07c946ff3efed3db3a73eb5e1a4ae66c190
+ms.sourcegitcommit: 686f192e1a650ec805fe8e908b46ca51771ed41f
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52327176"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52623611"
 ---
 # <a name="migrating-from-office-365-e3-to-microsoft-365-business-premium"></a>Migrar do Office 365 E3 para o Microsoft 365 Empresas Premium
 
@@ -125,3 +125,12 @@ Após migrar para o Microsoft 365 Empresas Premium, tem o Defender para Office 3
 ### <a name="sensitivity-labels"></a>Etiquetas de confidencialidade
 
 Para começar a utilizar etiquetas de sensibilidade, consulte o vídeo Visão geral das [etiquetas](../compliance/sensitivity-labels.md) de sensibilidade e criar e gerir [etiquetas de](../business-video/create-sensitivity-labels.md) sensibilidade.
+
+## <a name="related-content"></a>Conteúdos relacionados
+
+[Alterar planos manualmente](../commerce/subscriptions/change-plans-manually.md) (artigo)\
+[Atualizar os Windows dispositivos para Windows 10 Pro](upgrade-to-windows-pro-creators-update.md) (vídeo)\
+[Definir definições de proteção de aplicações para dispositivos Android ou iOS](app-protection-settings-for-android-and-ios.md) (artigo)\
+[Definir ou editar as definições de proteção de aplicações Windows 10 dispositivos](protection-settings-for-windows-10-devices.md) (artigo)\
+[]
+

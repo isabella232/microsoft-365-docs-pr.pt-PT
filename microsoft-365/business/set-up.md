@@ -30,14 +30,16 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Descubra os passos de configuração para o Microsoft 365 Empresas Premium, incluindo adicionar um domínio e utilizadores, configurar políticas de segurança e muito mais.
-ms.openlocfilehash: 37607b483686fc12ac6253ae9f693ec86c073c4e
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+ms.openlocfilehash: 3e15f16db2a233d2e11d444600398102b075932d
+ms.sourcegitcommit: 686f192e1a650ec805fe8e908b46ca51771ed41f
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52245050"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52624395"
 ---
 # <a name="set-up-microsoft-365-business-premium-in-the-setup-wizard"></a>Configurar Microsoft 365 Empresas Premium no assistente de configuração
+
+## <a name="watch-overview-of-microsoft-365-setup"></a>Ver: Visão geral Microsoft 365 configuração
 
 Veja este vídeo para ver uma visão geral Microsoft 365 Empresas Premium configuração.<br><br>
 
@@ -131,6 +133,6 @@ Para instalar o Office dispositivos móveis iOS ou Android, consulte Configurar 
 
 Também pode instalar o Office individualmente. Consulte [Instalar Office num PC ou Mac para](https://support.microsoft.com/office/4414eaaf-0478-48be-9c42-23adc4716658) obter instruções.
 
-## <a name="see-also"></a>Consulte também
+## <a name="related-content"></a>Conteúdos relacionados
 
-[Microsoft 365 vídeos de formação para empresas](../business-video/index.yml)
+[Microsoft 365 vídeos de formação para empresas](../business-video/index.yml) (página de ligação)

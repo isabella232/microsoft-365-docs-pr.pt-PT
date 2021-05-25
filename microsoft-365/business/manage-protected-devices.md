@@ -1,5 +1,5 @@
 ---
-title: Gerir dispositivos protegidos com o Microsoft 365 Business Premium
+title: Gerir dispositivos protegidos com Microsoft 365 Empresas Premium
 f1.keywords:
 - NOCSH
 ms.author: efrene
@@ -26,22 +26,20 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 018a2a96-3811-4b5d-b751-3b6330b34256
-description: Aprenda a remover os dados da empresa dos dispositivos geridos através de políticas de proteção, bem como a redefinir os dispositivos do Windows 10 para as suas definições de fábrica.
-ms.openlocfilehash: fdd92e797774a47455d6b4163dfe399bf74d41f3
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: Saiba como remover dados da empresa de dispositivos geridos através de políticas de proteção, bem como repor Windows 10 dispositivos para as respetivas definições de fábrica.
+ms.openlocfilehash: 0b757172ed337e9b2b68b4fcbdf5b102a8c76710
+ms.sourcegitcommit: 686f192e1a650ec805fe8e908b46ca51771ed41f
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51580160"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52624291"
 ---
-# <a name="manage-protected-devices-with-microsoft-365-business-premium"></a>Gerir dispositivos protegidos com o Microsoft 365 Business Premium
+# <a name="manage-protected-devices-with-microsoft-365-business-premium"></a>Gerir dispositivos protegidos com Microsoft 365 Empresas Premium
 
-Depois de um utilizador ligar o seu dispositivo à sua organização, insinundo-se com a sua conta de trabalho para o dispositivo ou para as aplicações do Office no dispositivo, pode proteger o dispositivo com as políticas que definiu. Os dispositivos ligados estão listados na página **dispositivos.** Se um dispositivo for perdido ou roubado, pode geri-lo nesta página para remover os dados da empresa. Também pode repor as definições de fábrica de dispositivos Windows 10 para apagar todas as definições personalizadas. 
+Depois de um utilizador ligar o respetivo dispositivo à sua organização ao entrar na conta do trabalho no dispositivo ou através de aplicações do Office no dispositivo, pode proteger o dispositivo com as políticas que configurar. Os dispositivos ligados estão listados na **página Dispositivos.** Se um dispositivo for perdido ou roubado, pode geri-lo nesta página para remover os dados da empresa. Também pode repor as definições de fábrica de dispositivos Windows 10 para apagar todas as definições personalizadas. 
 
-Para obter mais informações sobre as tarefas que pode utilizar para gerir dispositivos, consulte estes artigos: 
+## <a name="related-content"></a>Conteúdos relacionados
   
-[Remover dados empresariais de dispositivos](remove-company-data.md)
-  
-[Repor as definições de fábrica de dispositivos Windows 10](reset-devices-to-factory-settings.md)
-
-[Adicione um dispositivo gerido](./app-protection-settings-for-android-and-ios.md)
+[Remover dados da empresa de dispositivos](remove-company-data.md) (artigo)\
+[Repor Windows 10 dispositivos para as suas definições de fábrica](reset-devices-to-factory-settings.md) (artigo)\
+[Adicionar um dispositivo gerido](./app-protection-settings-for-android-and-ios.md) (artigo)
