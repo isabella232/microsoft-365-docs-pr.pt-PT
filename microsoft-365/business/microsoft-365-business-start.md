@@ -28,12 +28,12 @@ search.appverid:
 - MET150
 ms.assetid: 496e690b-b75d-4ff5-bf34-cc32905d0364
 description: Saiba mais sobre Microsoft 365 para empresas, como o configurar e como preparar os dispositivos e PCs dos seus utilizadores para garantir que estão protegidos pelo Microsoft 365 para empresas.
-ms.openlocfilehash: ddf6f8d12587c6fb562a599a41c190ffef32c147
-ms.sourcegitcommit: de5fce90de22ba588e75e1a1d2e87e03b9e25ec7
+ms.openlocfilehash: be5f0e74b71f412bf647e4ef0e496cd932fc306a
+ms.sourcegitcommit: a05f61a291eb4595fa9313757a3815b7f217681d
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "52293713"
+ms.lasthandoff: 05/29/2021
+ms.locfileid: "52706464"
 ---
 # <a name="get-started-with-microsoft-365-for-business"></a>Começar a trabalhar com o Microsoft 365 para empresas
 
@@ -41,7 +41,7 @@ ms.locfileid: "52293713"
 
 O Microsoft 365 para empresas é um conjunto abrangente de ferramentas de colaboração e produtividade empresarial, tais como o Outlook, Word, Excel e outros produtos Office, sempre actualizados. Pode proteger os seus ficheiros de trabalho em todos os seus dispositivos iOS, Android e Windows 10 com segurança de nível empresarial que é simples de gerir.
 
-Veja este vídeo para uma breve visão geral do Microsoft 365 para empresas.<br><br>
+## <a name="watch-what-is-microsoft-365-business-premium"></a>Ver: O que é Microsoft 365 Empresas Premium
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2mhaA] 
   
@@ -61,7 +61,7 @@ O seguinte diagrama descreve como os administradores configuram o Microsoft 365 
   
 ![A diagram that shows the setup and management flow for admins, and also for a user](../media/249f81fc-7e79-44c7-8425-3a0b7b651c3b.png)
 
-Veja este vídeo para ver uma visão geral da Microsoft 365 para empresas.<br><br>
+## <a name="watch-set-up-microsoft-365-business"></a>Ver: Configurar Microsoft 365 Empresas
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FYSM] 
 
@@ -109,8 +109,7 @@ Se reter um Active Directory local que contenha alguns recursos no local (como p
     
 ## <a name="related-content"></a>Conteúdos relacionados
 
-[Microsoft 365 para recursos e documentação empresarial](./index.yml)
-  
-[Gerir Microsoft 365 para empresas](manage.md)[Migrar para o Microsoft 365 para empresas](migrate-to-microsoft-365-business.md)
-
-[Microsoft 365 vídeos de formação para empresas](../business-video/index.yml)
+[Microsoft 365 para recursos e documentação empresarial](./index.yml) (página de ligação)\
+[Gerir Microsoft 365 para empresas](manage.md) (artigo)\
+[Migrar para a Microsoft 365 para empresas](migrate-to-microsoft-365-business.md) (artigo)\
+[Microsoft 365 vídeos de formação para empresas](../business-video/index.yml) (página de ligação)
