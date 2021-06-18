@@ -1,5 +1,5 @@
 ---
-title: Editar ou criar definições de proteção de dispositivos para computadores windows 10
+title: Editar ou criar definições de proteção de dispositivos para Windows 10 PCs
 f1.keywords:
 - NOCSH
 ms.author: sharik
@@ -22,31 +22,31 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: bd66c26c-73a4-45a8-8642-3ea4ee7cd89d
-description: Saiba mais sobre as definições disponíveis no Microsoft 365 para que as empresas fixem dispositivos Windows 10.
-ms.openlocfilehash: acfb27b2e4592d4ed1e446a63c9495ae07d916de
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: Saiba mais sobre as definições disponíveis no Microsoft 365 para empresas para proteger os Windows 10 dispositivos.
+ms.openlocfilehash: 4859681d5e71a61b8a5dd58114bce899f485967a
+ms.sourcegitcommit: be929f79751c0c52dfa6bd98a854432a0c63faf0
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51578233"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "52925325"
 ---
-# <a name="edit-or-create-device-protection-settings-for-windows-10-pcs"></a>Editar ou criar definições de proteção de dispositivos para computadores windows 10
+# <a name="edit-or-create-device-protection-settings-for-windows-10-pcs"></a>Editar ou criar definições de proteção de dispositivos para Windows 10 PCs
 
-Este artigo aplica-se ao Microsoft 365 Business Premium.
+Este artigo aplica-se a Microsoft 365 Empresas Premium.
 
-Depois de ter configurado as definições de proteção padrão do Windows na página 'Configurar', pode adicionar novas que se apliquem a todos os utilizadores ou a um conjunto de utilizadores. Também pode editar qualquer um dos que criou.
+Após configurar as definições de proteção Windows predefinição na página Configuração, pode adicionar novas definições que se aplicam a todos os utilizadores ou a um conjunto de utilizadores. Também pode editar qualquer uma das que criou.
 
-## <a name="create-protection-settings-for-windows-10-devices"></a>Criar definições de proteção para dispositivos Windows 10
+## <a name="create-protection-settings-for-windows-10-devices"></a>Criar definições de proteção para Windows 10 dispositivos
 
-Veja um vídeo sobre como proteger dispositivos Windows 10 com o Microsoft 365 Business Premium:
+Veja um vídeo sobre como proteger Windows 10 dispositivos com Microsoft 365 Empresas Premium:
   
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/a5734146-620a-4cec-8618-536b3ca37972?autoplay=false]
   
-1. Vá ao centro de administração em <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> . 
-2. No navegador esquerdo, escolha **Políticas de Dispositivos** \>  \> **Adicionar**.
+1. Vá para o centro de administração em <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> . 
+2. No navegador esquerdo, selecionar Adicionar **Políticas** \> **de** \> **Dispositivos.**
 3. No painel **Adicionar política**, introduza um nome exclusivo para esta política. 
 4. Em **Tipo de política**, selecione **Configuração de Dispositivos Windows 10**.
-5. Expanda a janela **Proteger Dispositivos Windows 10** \> configure as definições da forma que pretende. Para mais informações, consulte [as definições disponíveis.](#available-settings) 
+5. Expanda a janela **Proteger Dispositivos Windows 10** \> configure as definições da forma que pretende. Para obter mais informações, consulte [Definições disponíveis.](#available-settings) 
     
     Pode sempre utilizar a ligação **Repor predefinições** para regressar à predefinição. 
     
@@ -55,30 +55,30 @@ Veja um vídeo sobre como proteger dispositivos Windows 10 com o Microsoft 365 B
 6. Em seguida, decida **Quem irá ver estas definições?** Se não quiser utilizar o grupo de segurança predefinido, **Todos os Utilizadores**, selecione **Alterar**, procure o grupo de segurança que irá obter essas definições \> **Selecionar**.
 7. Por fim, selecione **Concluído** para guardar a política e atribuí-la aos dispositivos. 
 
-## <a name="edit-windows-10-protection-settings"></a>Editar as definições de proteção do Windows 10
+## <a name="edit-windows-10-protection-settings"></a>Editar Windows 10 de proteção dos ficheiros
  
-1. Vá ao centro de administração em <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> .     
-2. No navegador esquerdo, escolha **Políticas de** \> **Dispositivos** .
-1. Escolha uma política de dispositivos Windows existente e, em seguida, **edite**.
-1. Escolha **Editar** ao lado de uma definição que pretende alterar e, em seguida, **Guardar**.
+1. Vá para o centro de administração em <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> .     
+2. No navegador esquerdo, selecionar Políticas **de** \> **Dispositivos** .
+1. Escolha uma política de Windows dispositivo e, em seguida, **Editar**.
+1. **Selecionar Editar** junto a uma definição que pretende alterar e, em seguida, **Guardar.**
 
 ## <a name="available-settings"></a>Definições disponíveis
 
 Por predefinição, todas as definições estão **Ativadas**. As seguintes definições estão disponíveis.
   
-Para obter mais informações, consulte [como as funcionalidades de proteção no mapa Do Microsoft 365 Premium para as definições de Intune](map-protection-features-to-intune-settings.md). 
-  
-|||
-|:-----|:-----|
+Para obter mais informações, consulte [Como é que as funcionalidades de proteção Microsoft 365 Premium mapeiam às definições do Intune.](map-protection-features-to-intune-settings.md) 
+
+
 |Definição  <br/> |Descrição  <br/> |
+|:-----|:-----|
 |Ajudar a proteger os PCs contra vírus e outras ameaças com o Antivírus do Windows Defender  <br/> |Exige que o Antivírus do Windows Defender esteja ativado para proteger os PCs contra os perigos que uma ligação à Internet envolve.  <br/> |
 |Ajudar a proteger os PCs contra ameaças baseadas na Web no Microsoft Edge  <br/> |Ativa as definições no Microsoft Edge que ajudam a proteger os utilizadores contra transferências e sites maliciosos.  <br/> |
 |Utilize regras que reduzam a superfície de ataque dos dispositivos  <br/> |Quando ativada, a redução da superfície de ataque ajuda a bloquear ações e aplicações normalmente utilizadas por software maligno para infetar dispositivos. Esta definição só está disponível se o Antivírus do Windows Defender estiver Ativado. Consulte [Reduzir superfícies de ataque](/windows/security/threat-protection/microsoft-defender-atp/exploit-protection) para saber mais.  <br/> |
-|Proteger pastas contra ameaças como o ransomware  <br/> |Esta definição utiliza o acesso controlado a pastas para proteger os dados da empresa contra modificações de aplicações suspeitas e maliciosas, como o ransomware. Estes tipos de aplicações são impedidas de fazer alterações a pastas protegidas. Esta definição só está disponível se o Antivírus do Windows Defender estiver Ativado. Consulte [as pastas Protect com acesso a pastas controladas](/mem/configmgr/protect/deploy-use/create-deploy-exploit-guard-policy#bkmk_CFA) para saber mais.  <br/> |
-|Impedir o acesso da rede a conteúdo potencialmente malicioso na Internet  <br/> |Utilize esta definição para bloquear ligações de utilizadores de saída a localizações de Internet de baixa reputação que possam acolher esquemas de phishing, explorações ou outros conteúdos maliciosos. Esta definição só está disponível se o Antivírus do Windows Defender estiver definido para **On**. Para mais informações, consulte [Protect your network](/windows/security/threat-protection/windows-defender-antivirus/configure-real-time-protection-windows-defender-antivirus).  <br/> |
-|Ajudar a proteger ficheiros e pastas nos PCs contra acesso não autorizado com o BitLocker  <br/> |O Bitlocker protege os dados ao encriptar os discos rígidos do computador e proteger contra exposição de dados em caso de roubo ou perda do computador. Para mais informações, consulte [bitlocker FAQ](/windows/security/information-protection/bitlocker/bitlocker-frequently-asked-questions).  <br/> |
+|Proteger pastas contra ameaças como o ransomware  <br/> |Esta definição utiliza o acesso controlado a pastas para proteger os dados da empresa contra modificações de aplicações suspeitas e maliciosas, como o ransomware. Estes tipos de aplicações são impedidas de fazer alterações a pastas protegidas. Esta definição só está disponível se o Antivírus do Windows Defender estiver Ativado. Consulte [Proteger pastas com acesso controlado a pastas](/mem/configmgr/protect/deploy-use/create-deploy-exploit-guard-policy#bkmk_CFA) para saber mais.  <br/> |
+|Impedir o acesso da rede a conteúdo potencialmente malicioso na Internet  <br/> |Utilize esta definição para bloquear as ligações de utilizadores de saída a localizações na Internet de baixa reputação que possam aloinhar esquemas de phishing, exploits ou outros conteúdos maliciosos. Esta definição só está disponível se a Antivírus do Windows Defender estiver definida para **Ação**. Para obter mais informações, consulte [Proteger a sua rede.](/windows/security/threat-protection/windows-defender-antivirus/configure-real-time-protection-windows-defender-antivirus)  <br/> |
+|Ajudar a proteger ficheiros e pastas nos PCs contra acesso não autorizado com o BitLocker  <br/> |O Bitlocker protege os dados ao encriptar os discos rígidos do computador e proteger contra exposição de dados em caso de roubo ou perda do computador. Para obter mais informações, consulte [FAQ do Bitlocker.](/windows/security/information-protection/bitlocker/bitlocker-frequently-asked-questions)  <br/> |
 |Permitir que os utilizadores transfiram aplicações da Microsoft Store  <br/> |Permite que os utilizadores transfiram e instalem aplicações da Microsoft Store. As aplicações incluem tudo, desde jogos a ferramentas de produtividade, pelo que deixamos esta definição **Ativada**, embora a possa desativar para garantir uma segurança adicional.  <br/> |
-|Permitir que os utilizadores acedam à Cortana  <br/> |A Cortana pode ser bastante útil! Cortana pode ligar ou desligar as definições para si, dar instruções e certificar-se de que está a tempo para marcações, por isso mantemos esta definição **por** predefinição.  <br/> |
+|Permitir que os utilizadores acedam à Cortana  <br/> |A Cortana pode ser bastante útil! Cortana ative ou deslige as definições por si, forneça direções e certifique-se  de que está a horas para os compromissos, pelo que mantemos esta definição Ative por predefinição.  <br/> |
 |Permitir que os utilizadores recebam sugestões e anúncios da Microsoft acerca do Windows  <br/> |As sugestões do Windows podem ser úteis e ajudar a orientar os utilizadores quando são lançadas novas versões.  <br/> |
 |Manter os dispositivos Windows 10 atualizados automaticamente  <br/> |Garante que os dispositivos Windows 10 recebem automaticamente as atualizações mais recentes.  <br/> |
 |Desligar o ecrã do dispositivo quando estiver inativo durante este período de tempo  <br/> |Garante que os dados da empresa são protegidos se um utilizador estiver inativo. É possível que um utilizador esteja a trabalhar num local público, como um café, e se afaste ou distraia por um momento, deixando o dispositivo vulnerável a olhares alheios. Esta definição permite-lhe controlar quanto tempo um utilizador pode estar inativo antes de o ecrã se desligar.  <br/> |

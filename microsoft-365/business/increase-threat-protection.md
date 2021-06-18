@@ -22,12 +22,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Configlige o Microsoft Defender Office 365 e proteja dados confidenciais contra phishing, software malicioso e outras ameaças.
-ms.openlocfilehash: 4b5142efbf4392f017cd9b96f6a9c36ef2000bb7
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+ms.openlocfilehash: a995063cef6fdc42ad62079d49d58edc9d07b52c
+ms.sourcegitcommit: be929f79751c0c52dfa6bd98a854432a0c63faf0
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52245150"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "52924325"
 ---
 # <a name="increase-threat-protection"></a>Aumentar a proteção contra ameaças
 
@@ -79,10 +79,10 @@ Para criar uma regra de transporte de correio:
 
 5. Aplique as definições na seguinte tabela para a regra. Utilize os valores predefinido para as restantes definições, a menos que queira alterá-los.
 
-6. Selecione **Guardar**.
+6. Seleccione **Guardar**.
 
-|Definição|Avisar os utilizadores antes de abrirem anexos de Office ficheiros||
-|---|---|---|
+|Definição|Avisar os utilizadores antes de abrirem anexos de Office ficheiros|
+|---|---|
 |Name|Regra anti ransomware: avisar os utilizadores|
 |Aplicar esta regra se . . .|Qualquer anexo . . . a extensão de ficheiro corresponde . . .|
 |Especificar palavras ou expressões|Adicione estes tipos de ficheiro:  <br/> dotm, docm, xlsm, sltm, xla, xlam, xll, pptm, potm, ppam, ppsm, sldm|
@@ -101,7 +101,7 @@ Os hackers que têm acesso à caixa de correio de um utilizador podem roubar cor
 
 Para criar uma regra de transporte de correio, veja [este breve vídeo](../business-video/stop-email-auto-forward.md) ou siga estes passos:
 
-1. No centro de Microsoft 365, **selecione Centros de** administração \> **Exchange**.
+1. Na ação centro de administração do Microsoft 365, **selecione Centros de** \> **Exchange**.
 
 2. Na categoria **de fluxo de** correio, selecione **regras**.
 
@@ -111,7 +111,7 @@ Para criar uma regra de transporte de correio, veja [este breve vídeo](../busin
 
 5. Aplique as definições na seguinte tabela. Utilize os valores predefinido para as restantes definições, a menos que queira alterá-los.
 
-6. Selecione **Guardar**.
+6. Seleccione **Guardar**.
 
 |Definição|Avisar os utilizadores antes de abrirem anexos de Office ficheiros|
 |---|---|
@@ -155,7 +155,7 @@ Para criar uma política anti-phishing no Microsoft Defender [](../business-vide
 
 ## <a name="protect-against-malicious-attachments-and-files-with-safe-attachments"></a>Proteja-se contra anexos e ficheiros maliciosos Cofre Anexos
 
-As pessoas enviam, recebem e partilham anexos regularmente, como documentos, apresentações, páginas de livro e muito mais. Nem sempre é fácil saber se um anexo é seguro ou malicioso ao ver uma mensagem de e-mail. O Microsoft Defender para Office 365 inclui Cofre Proteção de anexos, mas esta proteção não está adada por predefinição. Recomendamos que crie uma nova regra para começar a utilizar esta proteção. Esta proteção abrange ficheiros no SharePoint, OneDrive e Microsoft Teams.
+As pessoas enviam, recebem e partilham anexos regularmente, como documentos, apresentações, páginas de livro e muito mais. Nem sempre é fácil saber se um anexo é seguro ou malicioso ao ver uma mensagem de e-mail. O Microsoft Defender para Office 365 inclui Cofre Proteção de anexos, mas esta proteção não está adada por predefinição. Recomendamos que crie uma nova regra para começar a utilizar esta proteção. Esta proteção abrange ficheiros em SharePoint, OneDrive e Microsoft Teams.
 
 Para criar uma Cofre Anexo, veja [este breve vídeo ou](../business-video/safe-attachments.md)conclua os seguintes passos:
 
@@ -165,7 +165,7 @@ Para criar uma Cofre Anexo, veja [este breve vídeo ou](../business-video/safe-a
 
 3. Na página Política, selecionar **Cofre Anexos.**
 
-4. Na página Cofre anexos, aplique esta proteção de forma abrangente ao selecionar a caixa de verificação Ativar a ATP para **o SharePoint, OneDrive** e Microsoft Teams proteção.
+4. Na página Cofre anexos, aplique esta proteção de forma abrangente ao selecionar a caixa de verificação Ativar ATP para **SharePoint, OneDrive** e Microsoft Teams de verificação.
 
 5. **+** Selecione para criar uma nova política.
 
@@ -205,9 +205,9 @@ Para modificar a política predefinida:
 
 1. Na página de Cofre, em Políticas que se aplicam a toda **a** organização , selecione a Política **predefinida.**
 
-2. Em Definições **aplicam-se a** conteúdo exceto ao e-mail **, selecione Microsoft 365 Apps para Grandes Empresas, Office para iOS e Android**.
+2. Em **Definições que se aplicam a** conteúdo exceto ao e-mail , **selecione Aplicações do Microsoft 365 para empresas, Office para iOS e Android**.
 
-3. Selecione **Guardar**.
+3. Seleccione **Guardar**.
 
 Para criar uma nova política direcçada para todos os destinatários no seu domínio:
 
@@ -215,7 +215,7 @@ Para criar uma nova política direcçada para todos os destinatários no seu dom
 
 2. Aplique as definições listadas na seguinte tabela.
 
-3. Selecione **Guardar**.
+3. Seleccione **Guardar**.
 
 |Definição ou opção|Definição recomendada|
 |---|---|

@@ -26,29 +26,30 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 21e5551f-fa35-4f13-9418-f80d668b6a2b
-description: Saiba como configurar as definições da política do dispositivo predefinido que qualquer dispositivo Do Windows 10 receberá ao iniciar sessão na sua conta de trabalho ou escola.
-ms.openlocfilehash: 86db1c152f9f6ac1fe6093b4a55a74b69fbd8b0f
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: Saiba mais sobre como configurar as definições da política de dispositivos predefinida que qualquer Windows 10 irá receber ao entrar na respetiva conta escolar ou escolar.
+ms.openlocfilehash: 3f85549e722c9aa4196cf50fc02bee2e89506017
+ms.sourcegitcommit: be929f79751c0c52dfa6bd98a854432a0c63faf0
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51579980"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "52925245"
 ---
 # <a name="secure-windows-10-devices"></a>Proteger dispositivos Windows 10
 
-Este artigo aplica-se ao Microsoft 365 Business Premium.
+Este artigo aplica-se a Microsoft 365 Empresas Premium.
 
-As definições que configurar aqui fazem parte da política de dispositivos predefinida para o Windows 10. Todos os utilizadores que liguem um dispositivo Windows 10, incluindo dispositivos móveis e Computadores, ao iniciar sessão com a sua conta de trabalho receberão automaticamente estas definições. Recomendamos que aceite a política predefinida durante a configuração e que adicione políticas destinadas a grupos de utilizadores específicos mais tarde.
+As definições que configurar aqui fazem parte da política de dispositivos predefinida para o Windows 10. Todos os utilizadores que Windows 10 dispositivos móveis, incluindo dispositivos móveis e PCs, ao entrarem com a respetivo conta pessoal irão receber automaticamente estas definições. Recomendamos que aceite a política predefinida durante a configuração e que adicione políticas destinadas a grupos de utilizadores específicos mais tarde.
   
 ## <a name="settings-to-secure-windows-10-devices"></a>Definições para proteger dispositivos Windows 10
 
 Por predefinição, todas as definições estão **Ativadas**. As seguintes definições estão disponíveis:
   
-|||
-|:-----|:-----|
+
+
 |Definição  <br/> |Descrição  <br/> |
+|:-----|:-----|
 |Ajudar a proteger os PCs contra vírus e outras ameaças com o Antivírus do Windows Defender  <br/> |Exige que o Antivírus do Windows Defender esteja ativado para proteger os PCs contra os perigos que uma ligação à Internet envolve.  <br/> |
 |Ajudar a proteger os PCs contra ameaças baseadas na Web no Microsoft Edge  <br/> |Ativa as definições no Microsoft Edge que ajudam a proteger os utilizadores contra transferências e sites maliciosos.  <br/> |
-|Ajudar a proteger ficheiros e pastas nos PCs contra acesso não autorizado com o BitLocker  <br/> |O Bitlocker protege os dados ao encriptar os discos rígidos do computador e proteger contra exposição de dados em caso de roubo ou perda do computador. Para mais informações, consulte [bitlocker FAQ](/windows/security/information-protection/bitlocker/bitlocker-frequently-asked-questions).  <br/> |
+|Ajudar a proteger ficheiros e pastas nos PCs contra acesso não autorizado com o BitLocker  <br/> |O Bitlocker protege os dados ao encriptar os discos rígidos do computador e proteger contra exposição de dados em caso de roubo ou perda do computador. Para obter mais informações, consulte [FAQ do Bitlocker.](/windows/security/information-protection/bitlocker/bitlocker-frequently-asked-questions)  <br/> |
 |Desligar o ecrã do dispositivo quando estiver inativo durante este período de tempo  <br/> |Garante que os dados da empresa são protegidos se um utilizador estiver inativo. É possível que um utilizador esteja a trabalhar num local público, como um café, e se afaste ou distraia por um momento, deixando o dispositivo vulnerável a olhares alheios. Esta definição permite-lhe controlar quanto tempo um utilizador pode estar inativo antes de o ecrã se desligar.  <br/> |
 |

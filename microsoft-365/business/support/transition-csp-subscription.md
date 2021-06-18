@@ -1,109 +1,110 @@
 ---
-title: Transição de uma subscrição de CSP empresarial da Microsoft 365
-description: Descubra como pode transitar uma subscrição de CSP empresarial Microsoft 365 da pré-visualização para a disponibilidade geral (GA).
+title: Transição de uma subscrição do Microsoft 365 Empresas CSP
+description: Saiba como fazer a transição de uma subscrição CSP Microsoft 365 Empresas da pré-visualização para a disponibilidade geral (AG).
 author: jasongroce
 f1.keywords:
 - NOCSH
 ms.custom:
 - seo-marvel-mar
 - AdminSurgePortfolio
-ms.author: jasgro
-ms.topic: article 
+ms.author: jasongroce
+ms.topic: article
+manager: jasonh
 ms.prod: microsoft-365-business
 localization_priority: Normal
-audience: microsoft-business 
-keywords: Microsoft 365 Business, Microsoft 365, SMB, assinatura CSP de transição
+audience: microsoft-business
+keywords: Microsoft 365 Subscrição CSP de Microsoft 365, SMB, transição
 ms.date: 11/01/2017
-ms.openlocfilehash: 5fc532b4a59d8e94068e7e1bae99bf8edac75abb
-ms.sourcegitcommit: 2d59b24b877487f3b84aefdc7b1e200a21009999
+ms.openlocfilehash: 3f6c71edb50cc3c5509e61a83efb64185c10648d
+ms.sourcegitcommit: be929f79751c0c52dfa6bd98a854432a0c63faf0
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "44403436"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "52925009"
 ---
-# <a name="transition-a-microsoft-365-business-csp-subscription"></a>Transição de uma subscrição de CSP empresarial da Microsoft 365
+# <a name="transition-a-microsoft-365-business-csp-subscription"></a>Transição de uma subscrição do Microsoft 365 Empresas CSP
 
-Se tiver uma subscrição cSP de Pré-visualização de Empresas Microsoft 365, siga este guia para saber como pode transitar a sua subscrição de pré-visualização existente para o Microsoft 365 Business GA (disponibilidade geral).
+Se tiver uma subscrição do Microsoft 365 Business Preview CSP, siga este guia para saber como pode fazer a transição da sua subscrição de pré-visualização existente para a Microsoft 365 Empresas (disponibilidade geral).
 
-**Como transitar uma subscrição de pré-visualização para ga**
+**Como transição de uma subscrição de pré-visualização para AG**
 
-1. Inscreva-se no <a href="https://partnercenter.microsoft.com" target="_blank">Partner Center</a>.
-2. A partir do painel de instrumentos, selecione **Clientes,** e depois encontre e selecione o nome da empresa.
+1. Inscreva-se <a href="https://partnercenter.microsoft.com" target="_blank">no Centro de Parceiros.</a>
+2. No dashboard, selecione **Clientes e,** em seguida, locale e selecione o nome da empresa.
 
-    As subscrições da empresa serão listadas.
+    As subscrições para a empresa serão listadas.
 
-    ![Assinaturas do cliente no Partner Center](../../media/pc_customer_subscriptions_1.png)
+    ![Subscrições de clientes no Centro de Parceiros](../../media/pc_customer_subscriptions_1.png)
     
-3. Na página de **Subscrições** da empresa, selecione **Adicionar subscrição**.
-4. Na nova página de **subscrição,** selecione **Small business** e, em seguida, selecione **Microsoft 365 Business** da lista.
-5. Adicione o número de licenças e, em seguida, selecione **Seguinte: Reveja** para rever a subscrição e, em seguida, selecione **Enviar**.
+3. Na página Subscrições **da empresa,** **selecione Adicionar subscrição.**
+4. Na página **Nova subscrição, selecione** Pequenas **empresas e,** em seguida, **selecione Microsoft 365 Empresas** na lista.
+5. Adicione o número de licenças e, em seguida, **selecione Seguinte: Rever** para rever a subscrição e, em seguida, selecione **Submeter**.
 
-    ![Reveja a nova subscrição do Microsoft 365 Business](../../media/pc_customer_reviewnewsubscription.png)
+    ![Rever a nova subscrição do Microsoft 365 Empresas](../../media/pc_customer_reviewnewsubscription.png)
 
-    As **subscrições baseadas em Licença** mostrarão o Microsoft **365 Business Preview** e o Microsoft **365 Business**. Suspenderá a subscrição de Pré-visualização em seguida.
+    As **subscrições baseadas em Licenças** serão Microsoft 365 **Para Empresas e Microsoft 365** **Empresas.** Irá suspender a subscrição de Pré-visualização a seguir.
 
-6. Selecione **Microsoft 365 Business Preview**.
-7. Na página **de Pré-visualização do Microsoft 365,** selecione **Suspended** para suspender a subscrição de Pré-visualização.
+6. **Selecione Microsoft 365 Pré-visualização Empresarial**.
+7. Na página **Microsoft 365 Business Preview,** selecione **Suspenso** para suspender a subscrição de Pré-visualização.
 
-    ![Suspenda a subscrição de Pré-visualização de negócios da Microsoft 365](../../media/pc_customer_m365bpreview_suspend.png)
+    ![Suspender a subscrição Microsoft 365 Pré-visualização Empresarial](../../media/pc_customer_m365bpreview_suspend.png)
 
-8. Selecione **Submeter** para confirmar.
+8. **Selecione Submeter** para confirmar.
 
-    Na página **De Assinaturas,** confirme que o estado de **pré-visualização do Microsoft 365** mostra **suspenso**.
+    Na página **Subscrições, confirme** que o estado da **Pré-visualização Microsoft 365 Empresas** é **Suspenso.**
 
-    ![Confirme que o estado de subscrição de Pré-visualização está suspenso](../../media/pc_customer_m365bpreview_suspend_confirm.png)
+    ![Confirmar que o estado da subscrição de Pré-visualização está suspenso](../../media/pc_customer_m365bpreview_suspend_confirm.png)
 
-9. Opcionalmente, também pode validar o contrato de licença. To do this, follow these steps:
-    1. Selecione **Utilizadores e licenças** na página de **Subscrições** da empresa.
+9. Opcionalmente, também pode validar o contrato de licença. Para tal, siga estes passos:
+    1. **Selecione Utilizadores e licenças** na **página Subscrições da** empresa.
     2. Na página **Utilizadores e licenças,** selecione um utilizador.
-    3. Na página do utilizador, consulte a secção **de licenças de Atribuição** e confirme que mostra o Microsoft **365 Business**.
+    3. Na página do utilizador, verifique a **secção Atribuir licenças** e confirme se a mesma Microsoft 365 **Empresas.**
 
-        ![Confirme que a licença de negócio si da Microsoft 365 é atribuída ao utilizador](../../media/pc_customer_userslicenses_m365b_validate.png)
+        ![Confirme que Microsoft 365 licença Empresas está atribuída ao utilizador](../../media/pc_customer_userslicenses_m365b_validate.png)
 
-## <a name="impact-to-customers-and-users-during-and-after-transition"></a>Impacto para clientes e utilizadores durante e após a transição
+## <a name="impact-to-customers-and-users-during-and-after-transition"></a>Impacto nos clientes e utilizadores durante e após a transição
 
-Não há impacto para clientes e utilizadores durante a transição e pós-transição.
+Os clientes e os utilizadores não serão afetados durante a transição e após a transição.
 
-## <a name="impact-to-customers-who-dont-transition"></a>Impacto para clientes que não fazem a transição
+## <a name="impact-to-customers-who-dont-transition"></a>Impacto para clientes que não se transim
 
-A tabela seguinte resume o impacto para os clientes que não fazem a transição de uma subscrição de Pré-visualização de negócios da Microsoft 365 para uma subscrição do Microsoft 365 Business.
+A seguinte tabela resume o impacto para os clientes que não transitam de uma subscrição de Pré-visualização Microsoft 365 Empresas para uma subscrição do Microsoft 365 Empresas.
 
-|       | T-0 a T+30     | T+30 para T+60 | T+60 para T+120 | Além do T+120  |
+|       | T-0 a T+30     | T+30 para T+60 | T+60 para T+120 | Além de T+120  |
 |-------|-----------------|--------------|---------------|---------------|
-| **Estado** | No período de graça | Expirado      | Deficientes      | Deprovisionado |
+| **Estado** | No período de gradação | Expirou      | Desativado      | Desaprovisionado |
 | **Impactos do serviço**                                                        |
-| **Portal de administração de negócios microsoft 365** | Sem impacto na funcionalidade | Sem impacto na funcionalidade | Pode adicionar/excluir utilizadores, comprar subscrições.</br> Não posso atribuir/revogar licenças. | A subscrição do cliente e todos os dados são eliminados. A Administração pode gerir outras subscrições pagas. |
-| **Aplicativos de escritório**                         | Sem impacto final do utilizador | Sem impacto final do utilizador | O Office entra no modo de funcionalidade reduzida.</br> Os utilizadores podem ver apenas ficheiros. | O Office entra no modo de funcionalidade reduzida.</br> Os utilizadores podem ver apenas ficheiros. |
-| **Serviços em nuvem (SharePoint Online, Exchange Online, Skype, Equipas e muito mais)** | Sem impacto final do utilizador | Sem impacto final do utilizador | Os utilizadores finais e os administradores não têm acesso a dados na nuvem. | A subscrição do cliente e todos os dados são eliminados. |
-| **Componentes EM+S** | Sem impacto administrativo</br> Sem impacto final do utilizador | Sem impacto administrativo</br> Sem impacto final do utilizador | A capacidade já não é aplicada.</br> Veja os impactos do [dispositivo Mobile na expiração da subscrição](#mobile-device-impacts-upon-subscription-expiration) e os impactos do [PC do Windows 10 na expiração da subscrição](#windows-10-pc-impacts-upon-subscription-expiration) para mais informações. | A capacidade já não é aplicada.</br> Veja os impactos do [dispositivo Mobile na expiração da subscrição](#mobile-device-impacts-upon-subscription-expiration) e os impactos do [PC do Windows 10 na expiração da subscrição](#windows-10-pc-impacts-upon-subscription-expiration) para mais informações. |
-| **Negócio supor 10 Windows** | Sem impacto administrativo</br> Sem impacto final do utilizador | Sem impacto administrativo</br> Sem impacto final do utilizador | A capacidade já não é aplicada.</br> Veja os impactos do [dispositivo Mobile na expiração da subscrição](#mobile-device-impacts-upon-subscription-expiration) e os impactos do [PC do Windows 10 na expiração da subscrição](#windows-10-pc-impacts-upon-subscription-expiration) para mais informações. | A capacidade já não é aplicada.</br> Veja os impactos do [dispositivo Mobile na expiração da subscrição](#mobile-device-impacts-upon-subscription-expiration) e os impactos do [PC do Windows 10 na expiração da subscrição](#windows-10-pc-impacts-upon-subscription-expiration) para mais informações. |
-| **Acesso à AD Azure num PC do Windows 10** | Sem impacto administrativo</br> Sem impacto final do utilizador | Sem impacto administrativo</br> Sem impacto final do utilizador | Sem impacto administrativo</br> Sem impacto final do utilizador | Uma vez que o inquilino é eliminado, um utilizador pode iniciar sessão apenas com credenciais locais. Re-imagem do dispositivo se não houver credenciais locais. |
+| **Microsoft 365 Portal de administração de empresas** | Sem impacto na funcionalidade | Sem impacto na funcionalidade | Pode adicionar/eliminar utilizadores, comprar subscrições.</br> Não é possível atribuir/revogar licenças. | A subscrição do cliente e todos os dados são eliminados. O administrador pode gerir outras subscrições pagas. |
+| **Office aplicações**                         | Sem impacto nos utilizadores finais | Sem impacto nos utilizadores finais | Office entrar no modo de funcionalidade reduzida.</br> Os utilizadores só podem ver ficheiros. | Office entrar no modo de funcionalidade reduzida.</br> Os utilizadores só podem ver ficheiros. |
+| **Serviços em nuvem (SharePoint Online, Exchange Online, Skype, Teams e muito mais)** | Sem impacto nos utilizadores finais | Sem impacto nos utilizadores finais | Os utilizadores finais e os administradores não têm acesso aos dados na nuvem. | A subscrição do cliente e todos os dados são eliminados. |
+| **Componentes EM+S** | Sem impacto para administradores</br> Sem impacto nos utilizadores finais | Sem impacto para administradores</br> Sem impacto nos utilizadores finais | A capacidade já não é impoda.</br> Consulte [Impactos no dispositivo móvel após](#mobile-device-impacts-upon-subscription-expiration) a expiração da subscrição Windows 10 pc afetados na expiração da [subscrição](#windows-10-pc-impacts-upon-subscription-expiration) para mais informações. | A capacidade já não é impoda.</br> Consulte [Impactos no dispositivo móvel após](#mobile-device-impacts-upon-subscription-expiration) a expiração da subscrição Windows 10 pc afetados na expiração da [subscrição](#windows-10-pc-impacts-upon-subscription-expiration) para mais informações. |
+| **Windows 10 Business** | Sem impacto para administradores</br> Sem impacto nos utilizadores finais | Sem impacto para administradores</br> Sem impacto nos utilizadores finais | A capacidade já não é impoda.</br> Consulte [Impactos no dispositivo móvel após](#mobile-device-impacts-upon-subscription-expiration) a expiração da subscrição Windows 10 pc afetados na expiração da [subscrição](#windows-10-pc-impacts-upon-subscription-expiration) para mais informações. | A capacidade já não é impoda.</br> Consulte [Impactos no dispositivo móvel após](#mobile-device-impacts-upon-subscription-expiration) a expiração da subscrição Windows 10 pc afetados na expiração da [subscrição](#windows-10-pc-impacts-upon-subscription-expiration) para mais informações. |
+| **Início de sessão do Azure AD num PC Windows 10 PC** | Sem impacto para administradores</br> Sem impacto nos utilizadores finais | Sem impacto para administradores</br> Sem impacto nos utilizadores finais | Sem impacto para administradores</br> Sem impacto nos utilizadores finais | Assim que o inquilino for eliminado, um utilizador só pode fazê-lo com as credenciais locais. Se não houver credenciais locais, ermae o dispositivo. |
 
-## <a name="mobile-device-impacts-upon-subscription-expiration"></a>Dispositivo móvel impacta na expiração da subscrição
+## <a name="mobile-device-impacts-upon-subscription-expiration"></a>O impacto no dispositivo móvel após a expiração da subscrição
 
-A tabela que se segue resume o impacto nas políticas de gestão de aplicações em dispositivos móveis.
+A seguinte tabela resume o impacto nas políticas de gestão de aplicações em dispositivos móveis.
 
 |                            | Experiência totalmente licenciada                      | T+60 dias após a expiração          |
 |----------------------------|------------------------------------------------|------------------------------------|
 | **Eliminar ficheiros de trabalho de um dispositivo inativo** | Os ficheiros de trabalho são removidos após dias selecionados | Os ficheiros de trabalho permanecem nos dispositivos pessoais do utilizador |
-| **Forçar os utilizadores a guardar todos os ficheiros de trabalho no OneDrive para Empresas** | Os ficheiros de trabalho só podem ser guardados para o OneDrive para o Negócios | Ficheiros de trabalho podem ser guardados em qualquer lugar |
-| **Encriptar ficheiros de trabalho** | Os ficheiros de trabalho são encriptados | Os ficheiros de trabalho já não estão encriptados.</br> As políticas de segurança são removidas e os dados do Office sobre aplicações são removidos. |
-| **Requerer PIN ou impressão digital para aceder a aplicações do Office** | Acesso restrito a apps | Sem restrição de acesso ao nível de aplicações |
-| **Redefinir PIN quando o login falhar** | Acesso restrito a apps | Sem restrição de acesso ao nível de aplicações |
-| **Exigir que os utilizadores voltem a fazer o insessão depois de as aplicações do Office terem ficado inativas** | Inscrição necessária | Não é necessário iniciar sessão |
-| **Negar o acesso a ficheiros de trabalho em dispositivos desbloqueados por jailbreak ou rooting** | Os ficheiros de trabalho não podem ser acedidos em dispositivos encadeçados/enraizados | Os ficheiros de trabalho podem ser acedidos em dispositivos encadeçados/enraizados |
-| **Permitir que os utilizadores copiem conteúdo de aplicações do Office para aplicações pessoais** | Cópia/pasta restrita a aplicações disponíveis como parte da subscrição do Microsoft 365 | Cópia/pasta disponível para todas as aplicações |
+| **Forçar os utilizadores a guardar todos os ficheiros de trabalho no OneDrive para Empresas** | Os ficheiros de trabalho só podem ser guardados na OneDrive para Empresas | Os ficheiros de trabalho podem ser guardados em qualquer lugar |
+| **Encriptar ficheiros de trabalho** | Os ficheiros de trabalho são encriptados | Os ficheiros de trabalho já não são encriptados.</br> As políticas de segurança são removidas e os dados do Office nas aplicações são removidos. |
+| **Exigir PIN ou impressão digital para aceder às aplicações do Office** | Acesso restrito a aplicações | Sem restrições de acesso ao nível da aplicação |
+| **Repor PIN quando o início de sessão falha** | Acesso restrito a aplicações | Sem restrições de acesso ao nível da aplicação |
+| **Exigir que os utilizadores indiquem novamente a sua aplicação após as aplicações do Office ficarem indisques** | Sign-in required | Não é necessário um sinal de que não é necessário |
+| **Negar o acesso a ficheiros de trabalho em dispositivos desbloqueados por jailbreak ou rooting** | Não é possível aceder a ficheiros de trabalho em dispositivos desbrupados por jailbro/rooted | Pode aceder a ficheiros de trabalho em dispositivos desbrupados por jailbro/rooted |
+| **Permitir que os utilizadores copiem conteúdos das aplicações do Office para aplicações pessoais** | Copiar/colar restritos a aplicações disponíveis como parte da subscrição do Microsoft 365 | Copiar/colar disponível para todas as aplicações |
 
-## <a name="windows-10-pc-impacts-upon-subscription-expiration"></a>Windows 10 PC impacta na expiração da subscrição
+## <a name="windows-10-pc-impacts-upon-subscription-expiration"></a>Impactos no PC com Windows 10 após a expiração da subscrição
 
-A tabela que se segue resume o impacto nas políticas de configuração do dispositivo Windows 10.
+A seguinte tabela resume o impacto nas políticas de configuração de dispositivos Windows 10.
 
 |                            | Experiência totalmente licenciada                      | T+60 dias após a expiração          |
 |----------------------------|------------------------------------------------|------------------------------------|
-| **Ajude a proteger os Computadores de ameaças usando o Windows Defender** | Ligar/desligar está fora do controlo do utilizador | O utilizador pode ligar/desligar o Windows Defender no PC windows 10 |
-| **Ajudar a proteger os PCs contra ameaças baseadas na Web no Microsoft Edge** | Proteção para PC no Microsoft Edge | O utilizador pode ligar/desligar a proteção do PC no Microsoft Edge |
-| **Desligue o ecrã do dispositivo quando estiver inativo** | Admin define política de intervalo de intervalo de intervalo de ecrã | O tempo de paragem do ecrã pode ser configurado pelo utilizador final |
-| **Permitir que os utilizadores transfiram aplicações da Microsoft Store** | Admin define se um utilizador pode descarregar aplicações da Microsoft Store | O utilizador pode descarregar aplicações da Microsoft Store a qualquer momento |
-| **Permitir que os utilizadores acedam à Cortana** | Administrador define política de acesso ao utilizador à Cortana | Dispositivos de utilizador para ligar/desligar cortana |
-| **Permitir que os utilizadores recebam dicas e anúncios da Microsoft** | Admin define política sobre utilizadores que recebem dicas e anúncios da Microsoft | O utilizador pode ligar/desligar dicas e anúncios da Microsoft |
-| **Permitir que os utilizadores copiem conteúdos das aplicações do Office para aplicações pessoais** | Admin define política para manter dispositivos Windows 10 atualizados | Os utilizadores podem decidir quando atualizar o Windows |
+| **Ajudar a proteger os PCs contra ameaças com o Windows Defender** | A ação/desligá-lo está fora do controlo do utilizador | O utilizador pode ligar/desligar o Windows Defender no PC com Windows 10 |
+| **Ajudar a proteger os PCs contra ameaças baseadas na Web no Microsoft Edge** | Proteção de PC no Microsoft Edge | O utilizador pode ativar/destivar a proteção de PC no Microsoft Edge |
+| **Desligar o ecrã do dispositivo quando estiver inctilizado** | O administrador define a política de intervalo de tempo de tempo de ecrã | O tempo de tempo de ecrã pode ser configurado pelo utilizador final |
+| **Permitir que os utilizadores transfiram aplicações da Microsoft Store** | O administrador define se um utilizador pode transferir aplicações da Microsoft Store | O utilizador pode transferir aplicações a partir da Microsoft Store em qualquer altura |
+| **Permitir que os utilizadores acedam à Cortana** | O administrador define uma política de acesso de utilizador à Cortana | Dispositivos de utilizador para a ligar/desligar a Cortana |
+| **Permitir que os utilizadores recebam sugestões e anúncios da Microsoft** | O administrador define uma política para o utilizador receber sugestões e anúncios da Microsoft | O utilizador pode ativos/desligados sugestões e anúncios da Microsoft |
+| **Permitir que os utilizadores copiem conteúdos das aplicações do Office para aplicações pessoais** | O Administrador define uma política para manter os dispositivos Windows 10 atualizados | Os utilizadores podem decidir quando atualizar o Windows |
