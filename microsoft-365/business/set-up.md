@@ -30,12 +30,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Descubra os passos de configuração para o Microsoft 365 Empresas Premium, incluindo adicionar um domínio e utilizadores, configurar políticas de segurança e muito mais.
-ms.openlocfilehash: 3e15f16db2a233d2e11d444600398102b075932d
-ms.sourcegitcommit: 686f192e1a650ec805fe8e908b46ca51771ed41f
+ms.openlocfilehash: 74a98e915577cf86ec32a706bd3b8f558f49db95
+ms.sourcegitcommit: 48195345b21b409b175d68acdc25d9f2fc4fc5f1
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52624395"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53227645"
 ---
 # <a name="set-up-microsoft-365-business-premium-in-the-setup-wizard"></a>Configurar Microsoft 365 Empresas Premium no assistente de configuração
 
@@ -53,7 +53,7 @@ Quando compra um Microsoft 365 Empresas Premium, tem a opção de utilizar um do
 
 ### <a name="add-your-domain-to-personalize-sign-in"></a>Adicionar o seu domínio para personalizar o seu registo
 
-1. Inscreva-se [no Microsoft 365 de administração](https://admin.microsoft.com) com as suas credenciais de administrador global. 
+1. Inscreva-se [no](https://admin.microsoft.com) centro de administração do Microsoft 365 com as suas credenciais de administrador global. 
 
 2. **Selecionar Ir para a configuração** para iniciar o assistente.
 
@@ -69,7 +69,7 @@ Quando compra um Microsoft 365 Empresas Premium, tem a opção de utilizar um do
     ![Captura de ecrã a mostra a página Personalizar o seu dia atual.](../media/adddomain.png)
 
     
-4. Siga os passos no assistente para Criar registos DNS em qualquer fornecedor de anfitriões [DNS Microsoft 365](/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) que verifique que é o propriedade do domínio. Se conhecer o seu anfitrião de domínio, consulte também as instruções [específicas do anfitrião.](/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions)
+4. Siga os passos no assistente para Criar registos DNS em qualquer fornecedor de anfitriões [DNS Microsoft 365](/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) que verifique que é o propriedade do domínio. Se conhecer o seu anfitrião do domínio, consulte Também [Adicionar um domínio ao Microsoft 365.](/microsoft-365/admin/setup/add-domain)
 
     Se o seu fornecedor de domínios for a GoDaddy ou outro anfitrião ativado com ligação de [domínio,](/office365/admin/get-help-with-domains/domain-connect)o processo é fácil e ser-lhe-á automaticamente pedido para o fazer e permitir que a Microsoft se autentique em seu nome.
 
