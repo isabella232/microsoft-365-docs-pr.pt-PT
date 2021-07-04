@@ -24,16 +24,16 @@ search.appverid:
 - BCS160
 - MET150
 description: Saiba como ativar Microsoft 365 proteger dispositivos associados ao Active-Directory Windows 10 dispositivos associados ao Active Directory em apenas alguns passos.
-ms.openlocfilehash: ec80159bdceffd8a13d09a297a2acc1b78c9b1b3
-ms.sourcegitcommit: 17f0aada83627d9defa0acf4db03a2d58e46842f
+ms.openlocfilehash: eb95c437030ae13a44f5e8043b3544d5846001c2
+ms.sourcegitcommit: 4886457c0d4248407bddec56425dba50bb60d9c4
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52636092"
+ms.lasthandoff: 07/03/2021
+ms.locfileid: "53287701"
 ---
 # <a name="enable-domain-joined-windows-10-devices-to-be-managed-by-microsoft-365-business-premium"></a>Ativar a gestão Windows 10 dispositivos associados ao domínio pelo Microsoft 365 Empresas Premium
 
-Se a sua organização utilizar o Windows Server Active Directory no local, pode configurar o Microsoft 365 Empresas Premium para proteger os seus dispositivos do Windows 10, mantendo o acesso a recursos no local que exigem autenticação local.
+Se a sua organização utilizar o Windows Server Active Directory no local, pode configurar o Microsoft 365 Empresas Premium para proteger os seus dispositivos Windows 10 e manter o acesso a recursos no local que exigem autenticação local.
 Para configurar esta proteção, pode implementar dispositivos **associados ao Azure AD Híbrido.** Estes dispositivos estão associados ao Active Directory no local e à sua Azure Active Directory.
 
 ## <a name="watch-configure-hybrid-azure-active-directory-join"></a>Ver: Configurar uma associação Híbrida Azure Active Directory Híbrida
@@ -109,13 +109,13 @@ O primeiro comando estabelecerá uma ligação com a nuvem da Microsoft e, quand
 
 Se não vir a política Ativar a inscrição automática da MDM com as credenciais predefinida do **Azure AD,** é possível que não tenha o ADMX instalado para o Windows 10, versão 1803 ou posterior. Para corrigir o problema, siga estes passos (Nota: a MDM.admx mais recente é retrocompatível):
 
-1.  Transferir: [Modelos Administrativos (.admx) para Windows 10 de outubro de 2020 Atualização (20H2).](https://www.microsoft.com/download/102157)
-2.  Instale o pacote num Controlador de Domínio.
-3.  Navegue, consoante a versão Modelos Administrativos para a pasta: C:\Programas (x86)\Política de Grupo da Microsoft\Windows 10 Atualização de Outubro **de 2020 (20H2).**
-4.  Rename **the Policy Definitions** folder in the above path to **PolicyDefinitions.**
-5.  Copie a pasta **PolicyDefinitions** para a sua partilha SYSVOL, por predefinição localizada em **C:\Windows\SYSVOL\domain\Policies.** 
-    -   Se tenciona utilizar um loja de políticas central para todo o domínio, adicione os conteúdos da PolicyDefinitions aí.
-6.  Caso tenha vários Controladores de Domínio, aguarde até que a replicação do SYSVOL esteja disponível para que as políticas sejam disponibilizadas. Este procedimento também funcionará em qualquer versão futura dos Modelos Administrativos.
+1. Transferir: [Modelos Administrativos (.admx) para Windows 10 de outubro de 2020 Atualização (20H2).](https://www.microsoft.com/download/102157)
+2. Instale o pacote num Controlador de Domínio.
+3. Navegue, consoante a versão Modelos Administrativos para a pasta: C:\Programas (x86)\Política de Grupo da Microsoft\Windows 10 Atualização de Outubro **de 2020 (20H2).**
+4. Rename **the Policy Definitions** folder in the above path to **PolicyDefinitions.**
+5. Copie a pasta **PolicyDefinitions** para a sua partilha SYSVOL, por predefinição localizada em **C:\Windows\SYSVOL\domain\Policies.**
+   - Se tenciona utilizar um loja de políticas central para todo o domínio, adicione os conteúdos da PolicyDefinitions aí.
+6. Caso tenha vários Controladores de Domínio, aguarde até que a replicação do SYSVOL esteja disponível para que as políticas sejam disponibilizadas. Este procedimento também funcionará em qualquer versão futura dos Modelos Administrativos.
 
 Neste momento, deverá conseguir ver a política Ativar a inscrição automática de MDM utilizando **as credenciais do Azure AD predefinida** disponíveis.
 
