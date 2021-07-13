@@ -22,17 +22,18 @@ ms.custom:
 - seo-marvel-mar
 - AdminSurgePortfolio
 - okr_smb
+- AdminTemplateSet
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: 2d7ff45e-0da0-4caa-89a9-48cabf41f193
 description: Configurar dispositivos Windows com Windows 10 Pro para Microsoft 365 Empresas Premium utilizadores, ativando controlos de segurança e gestão centralizados.
-ms.openlocfilehash: 7a9c75f6ec14605225d40c103c18e62937e773bf
-ms.sourcegitcommit: 17f0aada83627d9defa0acf4db03a2d58e46842f
+ms.openlocfilehash: a911414b1a7abef259f4c5fffbdd48e07f9ebfdd
+ms.sourcegitcommit: 00f001019c653269d85718d410f970887d904304
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52635880"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53393365"
 ---
 # <a name="set-up-windows-devices-for-microsoft-365-business-premium-users"></a>Configurar dispositivos Windows para utilizadores Microsoft 365 Empresas Premium utilizadores
 
@@ -46,7 +47,7 @@ Para obter mais informações sobre como atualizar dispositivos Windows para a A
   
 Consulte Verificar se o dispositivo está ligado ao [Azure AD](#verify-the-device-is-connected-to-azure-ad) para verificar se tem a atualização ou para se certificar de que a atualização funcionou.
 
-## <a name="watch-connect-your-pc-to-microsoft-365-business"></a>Ver: Ligação seu PC para Microsoft 365 Empresas
+## <a name="watch-connect-your-pc-to-microsoft-365-business"></a>Ver: Ligação PC para o Microsoft 365 Empresas
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3yXh3] 
 
@@ -124,7 +125,7 @@ Verifique se os dispositivos associados ao Azure AD Windows 10 foram atualizados
     
     ![Verify that Windows edition is Windows 10 Business.](../media/ff660fc8-d3ba-431b-89a5-f5abded96c4d.png)
   
-## <a name="next-steps"></a>Next steps
+## <a name="next-steps"></a>Passos seguintes
 
 Para configurar os seus dispositivos móveis, consulte Configurar dispositivos móveis para utilizadores [Microsoft 365 Empresas Premium](set-up-mobile-devices.md), Para definir políticas de proteção de aplicações ou proteção de dispositivos, consulte Gerir o [Microsoft 365 para empresas.](manage.md)
   

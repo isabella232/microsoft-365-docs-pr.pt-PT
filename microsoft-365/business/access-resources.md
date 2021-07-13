@@ -16,17 +16,18 @@ ms.custom:
 - MSB365
 - OKR_SMB_M365
 - AdminSurgePortfolio
+- AdminTemplateSet
 search.appverid:
 - BCS160
 - MET150
 ms.assetid: b0f4d010-9fd1-44d0-9d20-fabad2cdbab5
 description: Saiba como obter acesso a recursos no local, como aplicações de linha de negócio, partilhas de ficheiros e impressoras a partir de um Azure Active Directory dispositivo Windows 10 empresa.
-ms.openlocfilehash: 72b3c5ae538cad24fc12e25717dedccb2fdc9017
-ms.sourcegitcommit: 4fb1226d5875bf5b9b29252596855a6562cea9ae
+ms.openlocfilehash: 71d60e0187c917dffb7390afcedf22dc73f44008
+ms.sourcegitcommit: 00f001019c653269d85718d410f970887d904304
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/08/2021
-ms.locfileid: "52843328"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53393465"
 ---
 # <a name="access-on-premises-resources-from-an-azure-ad-joined-device-in-microsoft-365-business-premium"></a>Aceder a recursos no local a partir de um dispositivo associado ao Azure AD no Microsoft 365 Empresas Premium
 
@@ -57,7 +58,7 @@ Se a sua organização não estiver pronta para implementar na configuração de
 
 Se o Windows dispositivo a que aderiu ao Azure-AD tiver aderido anteriormente a um domínio ou num grupo de trabalho, tenha em consideração as seguintes limitações:
 
-- Quando um dispositivo Azure AD adere, cria um novo utilizador sem referenciar um perfil existente. Os perfis têm de ser migrados manualmente. Um perfil de utilizador contém informações como favoritos, ficheiros locais, definições do browser e definições do menu Iniciar. A melhor abordagem é encontrar uma ferramenta de terceiros para mapear ficheiros e definições existentes para o novo perfil.
+- Quando um dispositivo Azure AD adere, cria um novo utilizador sem referenciar um perfil existente. Os perfis têm de ser migrados manualmente. Um perfil de utilizador contém informações como favoritos, ficheiros locais, definições do browser e menu Iniciar definições de utilizador. A melhor abordagem é encontrar uma ferramenta de terceiros para mapear ficheiros e definições existentes para o novo perfil.
 
 - Se o dispositivo estiver a utilizar Objetos da Política de Grupo (GPO), alguns GPOs poderão não ter um Fornecedor de Serviços de [Configuração](/windows/configuration/provisioning-packages/how-it-pros-can-use-configuration-service-providers) (CSP) comparável no Intune. Execute [a ferramenta MMAT](https://www.microsoft.com/download/details.aspx?id=45520) para encontrar CSPs comparáveis para GPOs existentes.
 
