@@ -27,12 +27,12 @@ search.appverid:
 - MET150
 ms.assetid: 6e7a2dfd-8ec4-4eb7-8390-3ee103e5fece
 description: Saiba os passos de configuração Microsoft 365 Empresas Premium, desde subscrever, adicionar um domínio e utilizadores, configurar políticas de segurança e muito mais.
-ms.openlocfilehash: 008a5c51698589667acc0d01649f67dab33b4c58
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+ms.openlocfilehash: 7c09dca354781bf92f6bbecca0f3fb9875fb654515fe35c2f96cc780a894a764
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52245070"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53803228"
 ---
 # <a name="overview-of-setup"></a>Visão geral da configuração
 
@@ -89,10 +89,10 @@ Quando adere a um Windows 10 Azure AD, as políticas que definir para Windows 10
 
 - **Recursos do Access no local**
 
-     - Se a sua organização utilizar o Windows Server Active Directory no local, pode configurar o Microsoft 365 Empresas Premium para proteger os seus dispositivos do Windows 10, mantendo o acesso a recursos no local que exigem autenticação local. Siga os passos em [Ativar a gestão Windows 10 dispositivos associados](manage-windows-devices.md) ao domínio Microsoft 365 Empresas Premium configuração. Este é o método preferido e os dispositivos neste estado denominam-se dispositivos associados ao Azure AD Híbrido.
+     - Se a sua organização utilizar o Windows Server Active Directory no local, pode configurar o Microsoft 365 Empresas Premium para proteger os seus dispositivos Windows 10 e manter o acesso a recursos no local que exigem autenticação local. Siga os passos em [Ativar a gestão Windows 10 dispositivos associados](manage-windows-devices.md) ao domínio Microsoft 365 Empresas Premium configuração. Este é o método preferido e os dispositivos neste estado denominam-se dispositivos associados ao Azure AD Híbrido.
 
     - Se a sua empresa tiver um Active Directory local que contenha alguns recursos no local (como partilhas de ficheiros e impressoras), pode dar aos seus dispositivos associados ao Azure AD acesso a estes recursos ao seguir os passos aqui: Aceder a recursos no local a partir de um dispositivo associado ao [Azure AD](access-resources.md)no Microsoft 365 Empresas Premium .
 
-## <a name="related-content"></a>Conteúdo relacionado
+## <a name="related-content"></a>Conteúdos relacionados
 
 [Microsoft 365 vídeos de formação para empresas](../business-video/index.yml) (página de ligação)
