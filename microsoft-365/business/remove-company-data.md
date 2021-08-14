@@ -23,33 +23,33 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 80bdae57-f8bc-4e40-a58c-956007117ecb
-description: Descubra como utilizar o Microsoft 365 para a empresa para remover os dados da empresa que os seus utilizadores têm nos seus dispositivos ou Computadores Windows.
-ms.openlocfilehash: 2e1af384d83937d65fd5c8ae655d228df48422cd
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: Descubra como utilizar o Microsoft 365 para empresas para remover dados empresariais que os seus utilizadores têm nos respetivos dispositivos ou PCs Windows dados.
+ms.openlocfilehash: 2b96535c0ecbaf5b1bf366d21f2dc5be92058119d0cf3c746ce39ac2e57bbd41
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51580000"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53815139"
 ---
 # <a name="remove-company-data-from-devices"></a>Remover dados da empresa de dispositivos
 
-Este artigo aplica-se ao Microsoft 365 Business Premium.
+Este artigo aplica-se a Microsoft 365 Empresas Premium.
 
 ## <a name="remove-company-data"></a>Remover dados da empresa
 
-Pode utilizar o Microsoft 365 para a empresa para remover os dados da empresa que os seus utilizadores têm nos seus [dispositivos](app-protection-settings-for-android-and-ios.md) ou [Computadores Windows](protection-settings-for-windows-10-devices.md) que estão protegidos pela Microsoft 365. **Se remover dados empresariais de um dispositivo, não poderá restaurá-los posteriormente**. 
+Pode utilizar o Microsoft 365 para empresas para remover dados [](app-protection-settings-for-android-and-ios.md) empresariais que os seus utilizadores têm nos [respetivos dispositivos ou PCs Windows protegidos](protection-settings-for-windows-10-devices.md) por Microsoft 365. **Se remover dados empresariais de um dispositivo, não poderá restaurá-los posteriormente**. 
   
-1. Vá ao centro de administração em <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> .
+1. Vá para o centro de administração em <a href="https://go.microsoft.com/fwlink/p/?linkid=837890" target="_blank">https://admin.microsoft.com</a> .
     
-2. Na navegação à esquerda, escolha **Dispositivos** \> **Gerir**.  
+2. No navegador esquerdo, selecionar **Dispositivos** \> **Gerir**.  
   
-3. Na página **'Gerir',** escolha ou procure por um utilizador que pretenda remover os dados que pretende remover e escolha o nome. 
+3. Na página **Gerir,** selecionar ou procurar um utilizador cujos dados pretende remover e selecionar o nome. 
     
-4. No painel seguinte, selecione o dispositivo ou dispositivos da lista **de Dispositivos.** No painel do dispositivo que abre, pode optar por reiniciar o dispositivo para as definições de fábrica ou remover dados da empresa, dependendo do tipo de dispositivo. 
+4. No painel seguinte, selecione o dispositivo ou dispositivos na lista **Dispositivos.** No painel de dispositivos que é aberto, pode optar por repor o dispositivo para as definições de fábrica ou remover os dados da empresa, dependendo do tipo de dispositivo. 
     
-    ![No painel de dados da empresa de remoção, selecione o dispositivo a partir do qual pretende remover os dados.](../media/resetorremove.png)
+    ![No painel remover dados da empresa, selecione o dispositivo a partir do qual pretende remover os dados.](../media/resetorremove.png)
   
-5. No painel de confirmação, escolha **Confirmar** \> **Fechar**.
+5. No painel de confirmação, selecionar **Confirmar** \> **Fecho.**
     
 
 
