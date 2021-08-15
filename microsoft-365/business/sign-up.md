@@ -26,12 +26,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Saiba o Microsoft 365 Empresas Premium inclui e receba orientações passo a passo para se inscrever numa Microsoft 365 Empresas Premium.
-ms.openlocfilehash: 18f4cea19225f053bef6ac8838275755b8a1f7ab
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+ms.openlocfilehash: 5a294f85aff688f247e918c82f22e6b445219e130878a472399a42cd2cd3e49d
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52244762"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53837561"
 ---
 # <a name="sign-up-for-microsoft-365-business-premium"></a>Inscrever-se para Microsoft 365 Empresas Premium
 
