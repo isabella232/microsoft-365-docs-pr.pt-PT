@@ -22,12 +22,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Configlige o Microsoft Defender Office 365 e proteja dados confidenciais contra phishing, software malicioso e outras ameaças.
-ms.openlocfilehash: a995063cef6fdc42ad62079d49d58edc9d07b52c
-ms.sourcegitcommit: be929f79751c0c52dfa6bd98a854432a0c63faf0
+ms.openlocfilehash: d5aad66642fc2b509ae40dc1277167deb53de6fbb0593a3dcd766062305fbd6a
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 06/14/2021
-ms.locfileid: "52924325"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53831481"
 ---
 # <a name="increase-threat-protection"></a>Aumentar a proteção contra ameaças
 
@@ -155,7 +155,7 @@ Para criar uma política anti-phishing no Microsoft Defender [](../business-vide
 
 ## <a name="protect-against-malicious-attachments-and-files-with-safe-attachments"></a>Proteja-se contra anexos e ficheiros maliciosos Cofre Anexos
 
-As pessoas enviam, recebem e partilham anexos regularmente, como documentos, apresentações, páginas de livro e muito mais. Nem sempre é fácil saber se um anexo é seguro ou malicioso ao ver uma mensagem de e-mail. O Microsoft Defender para Office 365 inclui Cofre Proteção de anexos, mas esta proteção não está adada por predefinição. Recomendamos que crie uma nova regra para começar a utilizar esta proteção. Esta proteção abrange ficheiros em SharePoint, OneDrive e Microsoft Teams.
+As pessoas enviam, recebem e partilham anexos regularmente, como documentos, apresentações, páginas de livro e muito mais. Nem sempre é fácil saber se um anexo é seguro ou malicioso ao ver uma mensagem de e-mail. O Microsoft Defender para Office 365 inclui Cofre Proteção de anexos, mas esta proteção não está adada por predefinição. Recomendamos que crie uma nova regra para começar a utilizar esta proteção. Esta proteção abrange ficheiros no SharePoint, OneDrive e Microsoft Teams.
 
 Para criar uma Cofre Anexo, veja [este breve vídeo ou](../business-video/safe-attachments.md)conclua os seguintes passos:
 
@@ -165,7 +165,7 @@ Para criar uma Cofre Anexo, veja [este breve vídeo ou](../business-video/safe-a
 
 3. Na página Política, selecionar **Cofre Anexos.**
 
-4. Na página Cofre anexos, aplique esta proteção de forma abrangente ao selecionar a caixa de verificação Ativar ATP para **SharePoint, OneDrive** e Microsoft Teams de verificação.
+4. Na página Cofre anexos, aplique esta proteção de forma abrangente ao selecionar a caixa de verificação Ativar a ATP para **o SharePoint, OneDrive** e Microsoft Teams proteção.
 
 5. **+** Selecione para criar uma nova política.
 
@@ -205,7 +205,7 @@ Para modificar a política predefinida:
 
 1. Na página de Cofre, em Políticas que se aplicam a toda **a** organização , selecione a Política **predefinida.**
 
-2. Em **Definições que se aplicam a** conteúdo exceto ao e-mail , **selecione Aplicações do Microsoft 365 para empresas, Office para iOS e Android**.
+2. Em Definições **aplicam-se a** conteúdo exceto ao e-mail **, selecione Microsoft 365 Apps para Grandes Empresas, Office para iOS e Android**.
 
 3. Seleccione **Guardar**.
 

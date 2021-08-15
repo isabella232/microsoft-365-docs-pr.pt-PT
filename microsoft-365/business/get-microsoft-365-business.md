@@ -1,5 +1,5 @@
 ---
-title: Obtenha o Microsoft 365 Business Premium do centro de parceiros
+title: Obter ajuda Microsoft 365 Empresas Premium centro de parceiros
 f1.keywords:
 - NOCSH
 ms.author: cmcatee
@@ -24,36 +24,36 @@ search.appverid:
 - BCS160
 - MET150
 ms.assetid: 5abfef7b-5957-484a-b06b-a7c55e013e44
-description: Descubra as suas opções de compra do Microsoft 365 Business Premium e instruções passo a passo para a sua compra no Microsoft Partner Center.
-ms.openlocfilehash: 9e88229f22bdfbfc0b363b5bf56ed2def4db9b8c
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: Descubra as suas opções para comprar Microsoft 365 Empresas Premium e instruções passo a passo para a adquirir no Centro de Parceiros da Microsoft.
+ms.openlocfilehash: 3e75e1e31789882ef41abf4b30c7af3886bb4821fe5c288ceda5af684ea8f854
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51580240"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53831553"
 ---
 # <a name="get-microsoft-365-business-premium"></a>Obter o Microsoft 365 Empresas Premium
 
-## <a name="get-microsoft-365-business-premium-from-microsoft"></a>Obtenha Microsoft 365 Business Premium da Microsoft
+## <a name="get-microsoft-365-business-premium-from-microsoft"></a>Obter Microsoft 365 Empresas Premium da Microsoft
 
-Se não tem um parceiro e quer obter o Microsoft 365 Business Premium, pode [comprá-lo aqui.](https://www.microsoft.com/en-US/microsoft-365/business)
+Se não tiver um parceiro e quiser comprá-lo Microsoft 365 Empresas Premium, pode [comprá-lo aqui.](https://www.microsoft.com/en-US/microsoft-365/business)
 
-Consulte [o Microsoft 365 Business Premium](sign-up.md) para obter instruções detalhadas.
+Consulte [inscrever-se para obter Microsoft 365 Empresas Premium](sign-up.md) para obter instruções detalhadas.
 
-Também pode dirigir-se a uma [Microsoft Store](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en_US_Store_UH_FAS) para comprar o Microsoft 365 Business Premium e obter ajuda de configuração.
+Também pode ir a um grupo [de Microsoft Store](https://www.microsoft.com/en-us/store/locations/find-a-store?icid=en_US_Store_UH_FAS) para comprar Microsoft 365 Empresas Premium e obter ajuda na configuração.
   
-## <a name="get-microsoft-365-business-premium-from-microsoft-partner-center"></a>Obtenha Microsoft 365 Business Premium do Microsoft Partner Center
+## <a name="get-microsoft-365-business-premium-from-microsoft-partner-center"></a>Obter ajuda Microsoft 365 Empresas Premium Centro de Parceiros da Microsoft
 
 1. Inicie sessão no [Centro de Parceiros da Microsoft](https://go.microsoft.com/fwlink/p/?linkid=849910) com as credenciais que criou quando se inscreveu no programa de Fornecedores de Serviços em Nuvem (CSP). 
     
-2. No Painel de Parceiros, escolha **Clientes,** em seguida, selecione o seu cliente ou adicione um novo cliente antes de obter o Microsoft 365 Business Premium.
+2. No Dashboard de Parceiros, selecione **Clientes** e, em seguida, selecione o seu cliente ou adicione um novo cliente antes de começar a Microsoft 365 Empresas Premium.
     
-    ![No centro microsoft partner, adicione um cliente.](../media/ec807d07-bbd2-411f-8fe1-c644cf9a3882.png)
+    ![No Centro de Parceiros da Microsoft, adicione um cliente.](../media/ec807d07-bbd2-411f-8fe1-c644cf9a3882.png)
   
-3. Na página de **Subscrição** do cliente, selecione **subscrição De adicionar,** escolha a opção de pequenas empresas em Catálogo e, em seguida, escolha **Microsoft 365 Business Premium**.
+3. Na página Subscrição do **cliente,** selecione Adicionar **subscrição**, selecione a opção Pequenas empresas em Catálogo e, em seguida, **selecione Microsoft 365 Empresas Premium**.
     
     Selecione o número de licenças de que necessita (até 300). Se tiver mais de 300 utilizadores, consulte antes o artigo [Microsoft 365 Enterprise](../enterprise/index.yml). 
     
-    ![Na nova página de subscrição, escolha pequenas empresas.](../media/52d99e89-2175-4974-84bb-dd626048541b.png)
+    ![Na página Nova subscrição, selecionar pequenas empresas.](../media/52d99e89-2175-4974-84bb-dd626048541b.png)
   
-    Complete o resto dos passos para adicionar um novo cliente, incluindo o nome comercial.
+    Conclua os restantes passos para adicionar um novo cliente, incluindo o nome da empresa.

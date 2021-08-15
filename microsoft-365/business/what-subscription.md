@@ -1,5 +1,5 @@
 ---
-title: Que subscrição é certa para o seu negócio?
+title: Qual é a subscrição certa para a sua empresa?
 f1.keywords:
 - NOCSH
 ms.author: sharik
@@ -18,14 +18,14 @@ ms.custom:
 search.appverid:
 - BCS160
 - MET150
-description: Determine se o Office 365 E3, Microsoft 365 Business Standard ou Microsoft 365 Business Premium é o certo para o seu negócio.
-ms.openlocfilehash: 2f8c59e0af619730060862fc8ee24a702ca00343
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: Determine se Office 365 E3, Microsoft 365 Empresas ou Microsoft 365 Empresas Premium é o mais certo para a sua empresa.
+ms.openlocfilehash: f186e61bff7962911864904415d1a4326931db819abf4f885a87132fd23290f4
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51579828"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53861565"
 ---
-# <a name="what-subscription-is-right-for-your-small-business"></a>Que subscrição é certa para o seu pequeno negócio?
+# <a name="what-subscription-is-right-for-your-small-business"></a>Qual é a subscrição certa para a sua pequena empresa?
 
-A Microsoft oferece vários planos para pequenas empresas. As subscrições recomendadas são o Microsoft 365 Business Standard ou o Microsoft 365 Business Premium com até 300 utilizadores. O Microsoft 365 Business Premium oferece mais funcionalidades de segurança do que o Microsoft 365 Business Standard por um custo adicional.
+A Microsoft oferece vários planos para pequenas empresas. As subscrições recomendadas estão Microsoft 365 Empresas ou Microsoft 365 Empresas Premium com até 300 utilizadores. Microsoft 365 Empresas Premium oferece mais funcionalidades de segurança do que Microsoft 365 Empresas para um custo adicional.
