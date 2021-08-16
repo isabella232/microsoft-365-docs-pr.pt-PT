@@ -24,18 +24,18 @@ search.appverid:
 - MET150
 ms.assetid: c123694a-1efb-459e-a8d5-2187975373dc
 description: Saiba mais sobre as funcionalidades de segurança que estão Microsoft 365 Empresas Premium ajudar a proteger os seus dados em PCs, telemóveis e tablets.
-ms.openlocfilehash: 974204e100d3228f78406aca4acce67a889b08c3
-ms.sourcegitcommit: 05f40904f8278f53643efa76a907968b5c662d9a
+ms.openlocfilehash: 50b74ed18d641e8de38db3284c3ef3abf319825f4f7dbe02b6575f6c0fbc6f85
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52113472"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53887585"
 ---
 # <a name="microsoft-365-business-premium-security-and-compliance-features"></a>Microsoft 365 Empresas Premium funcionalidades de segurança e conformidade
 
 Microsoft 365 Empresas Premium oferece funcionalidades de segurança simplificadas para ajudar a proteger os seus dados em PCs, telemóveis e tablets.
     
-## <a name="microsoft-365-admin-center-security-features"></a>Microsoft 365 funcionalidades de segurança do centro de administração
+## <a name="microsoft-365-admin-center-security-features"></a>centro de administração do Microsoft 365 funcionalidades de segurança
 
 Pode gerir muitas das funcionalidades de Microsoft 365 Empresas Premium segurança do Centro de administração, o que lhe proporciona uma forma simplificada de ativo e desativo destas funcionalidades. No centro de administração, pode fazer o seguinte:
   
@@ -49,7 +49,7 @@ Pode gerir muitas das funcionalidades de Microsoft 365 Empresas Premium seguran�
     
 - [Defina as definições de proteção para dispositivos Windows 10 dispositivos](protection-settings-for-windows-10-pcs.md) . 
     
-    Pode ativar a [BitLocker](/windows/security/information-protection/bitlocker/bitlocker-frequently-asked-questions) para ajudar a proteger os dados no caso de um dispositivo ser perdido ou roubado e permitir que [o Windows Exploit Guard](/windows/security/threat-protection/microsoft-defender-atp/enable-exploit-protection) forneça proteção avançada contra ransomware. 
+    Pode ativar a encriptação do [BitLocker](/windows/security/information-protection/bitlocker/bitlocker-frequently-asked-questions) para ajudar a proteger os dados no caso de um dispositivo ser perdido ou roubado e permitir que o [Windows Exploit Guard](/windows/security/threat-protection/microsoft-defender-atp/enable-exploit-protection) forneça proteção avançada contra ransomware. 
     
 - [Remover dados empresariais de dispositivos](remove-company-data.md)
     
@@ -73,8 +73,8 @@ As funcionalidades avançadas do Microsoft 365 Empresas Premium estão disponív
 
 - **[As funcionalidades completas do Intune no portal do Azure](/mem/intune/fundamentals/what-is-intune)**
     
-    Aceder ao centro de administração do Intune no portal do Azure permite-lhe configurar funcionalidades de segurança adicionais, como a gestão de dispositivos MacOS, iPhone e dispositivos Android, juntamente com a gestão de dispositivos avançada para o Windows, que não estão disponíveis através do centro de administração do Microsoft 365.
-- **O [mesmo Acesso Condicional](/azure/active-directory/conditional-access/overview) que o Azure AD Premium plano P1**
+    Aceder ao centro de administração do Intune no portal do Azure permite-lhe configurar funcionalidades de segurança adicionais, como a gestão de dispositivos MacOS, iPhone e dispositivos Android, juntamente com a gestão avançada de dispositivos Windows, que não estão disponíveis através do centro de administração do Microsoft 365.
+- **O [mesmo Acesso Condicional](/azure/active-directory/conditional-access/overview) que Azure AD Premium P1 Plano**
 
 
     O Acesso Condicional pode ajudar a proteger a sua organização contra riscos de funcionamento, tentativas de acesso de uma rede ou local inesperada, tentativas de acesso de tipos de dispositivos arriscados, entre outros. As políticas de Acesso Condicional são impostas após a conclusão da primeira autenticação e utiliza sinais do primeiro evento de autenticação para determinar se o acesso tentado deve ser aprovado, recusado ou se é necessária mais prova (como uma segunda forma de identificação).
@@ -108,7 +108,7 @@ A Microsoft 365 Empresas Premium subscrição inclui funcionalidades que o ajuda
 
    Microsoft 365 Empresas Premium inclui todas as funcionalidades do [Plano Azure Information Protection 1.](https://go.microsoft.com/fwlink/p/?linkid=871407) Com este plano, pode criar **etiquetas** de Confidencialidade que lhe permitem controlar o acesso a informações confidenciais em e-mails e documentos, com controlos como "Não encaminhar" e "Não copiar". Também pode classificar informações confidenciais como "Confidencial" e especificar a forma como as informações classificadas podem ser partilhadas fora e dentro da empresa. A encriptação de nível empresarial é fácil de aplicar ao e-mail e aos documentos para manter as suas informações privadas. Também pode instalar o add-in do cliente do Azure Information Protection para Office aplicações. Para obter mais informações, consulte [Cliente de etiquetagem unificado do Azure Information Protection.](/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history) Para etiquetas de sensibilidade, instale **oAzInfoProtection_UL.exe**.
 
-Pode gerir estas funcionalidades no centro de &amp; Conformidade de Segurança e no centro de administração do Intune. Ao longo do tempo, os controlos simplificados serão adicionados ao Microsoft 365 de administração.
+Pode gerir estas funcionalidades no centro de &amp; Conformidade de Segurança e no centro de administração do Intune. Ao longo do tempo, os controlos simplificados serão adicionados à centro de administração do Microsoft 365.
   
     
 ## <a name="faq"></a>FAQ
