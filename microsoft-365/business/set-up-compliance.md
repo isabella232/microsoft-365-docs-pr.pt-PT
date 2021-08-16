@@ -22,12 +22,12 @@ search.appverid:
 - BCS160
 - MET150
 description: Defina funcionalidades de conformidade para impedir a perda de dados e ajudar a manter as informações confidenciais dos seus clientes e dos seus clientes seguras.
-ms.openlocfilehash: 945f8a283b90b89da2fbe67a073e0807b80d198f
-ms.sourcegitcommit: ff20f5b4e3268c7c98a84fb1cbe7db7151596b6d
+ms.openlocfilehash: ae5e5727db1f372c40aa4468329021525b6dfc8c5ebbf34705184e461df069e5
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52245090"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53881851"
 ---
 # <a name="set-up-compliance-features"></a>Configurar funcionalidades de conformidade
 

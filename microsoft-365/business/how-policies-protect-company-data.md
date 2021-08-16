@@ -1,5 +1,5 @@
 ---
-title: Como as políticas na Microsoft 365 para proteger os dados da empresa
+title: Como as políticas no Microsoft 365 para empresas protegem os dados da empresa
 f1.keywords:
 - NOCSH
 ms.author: sharik
@@ -26,21 +26,21 @@ search.appverid:
 - MET150
 - MOE150
 ms.assetid: 665485be-2389-4f1d-9ef8-dbef19c6acdf
-description: Para proteger os dados da empresa nos dispositivos pessoais dos utilizadores, utilize políticas que visem dispositivos específicos e grupos de segurança.
-ms.openlocfilehash: 5c6a4b85b080c6c1afaf6ac5bec046f2a539ee20
-ms.sourcegitcommit: 53acc851abf68e2272e75df0856c0e16b0c7e48d
+description: Para proteger os dados da empresa nos dispositivos pessoais dos utilizadores, utilize políticas que adotam dispositivos e grupos de segurança específicos.
+ms.openlocfilehash: cb8bb7dc8c98e5860281ad265130e18dddefe00014928835e303ad8247b2e7ba
+ms.sourcegitcommit: a1b66e1e80c25d14d67a9b46c79ec7245d88e045
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51578433"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53852757"
 ---
-# <a name="how-policies-in-microsoft-365-for-business-protect-company-data"></a>Como as políticas na Microsoft 365 para proteger os dados da empresa
+# <a name="how-policies-in-microsoft-365-for-business-protect-company-data"></a>Como as políticas no Microsoft 365 para empresas protegem os dados da empresa
 
-Este artigo aplica-se ao Microsoft 365 Business Premium.
+Este artigo aplica-se a Microsoft 365 Empresas Premium.
 
 As políticas que criar são específicas para o tipo de dispositivo em causa e podem ser aplicadas a grupos de utilizadores específicos. Isto significa que pode criar uma política aplicável aos seus executivos e outra aplicável às restantes pessoas da organização.
   
-Para dispositivos Android e iOS, pode adicionar ou editar políticas de aplicações que protejam as aplicações do Office e os ficheiros de trabalho utilizados pelas aplicações do Office. Somos capazes de controlar um pouco mais os dispositivos do Windows 10, para que as políticas de aplicação possam incluir mais configurações, como encriptação e proteção para localizações de rede e nuvem. Também é possível criar políticas de dispositivos para dispositivos Windows 10 que imponham configurações como proteção contra vírus e atualizações automáticas. Recomendamos que cumpra as políticas criadas durante a configuração, mas se quiser afinar as suas políticas ou adicionar mais, consulte estes artigos:
+Para dispositivos Android e iOS, pode adicionar ou editar políticas de aplicações que protegem Office aplicações e ficheiros de trabalho utilizados pelas Office aplicações. Podemos controlar os dispositivos Windows 10, pelo que as políticas de aplicações podem incluir mais definições, como encriptação e proteção para localizações na rede e na nuvem. Também pode criar políticas de dispositivos para dispositivos Windows 10 que impõem definições como proteção contra vírus e atualizações automáticas. Recomendamos que se mantenha com as políticas criadas durante a configuração, mas se quiser ajustar as suas políticas ou adicionar mais, consulte estes artigos:
   
 [Definir as configurações de aplicações para dispositivos Android ou iOS](app-protection-settings-for-android-and-ios.md)
   
