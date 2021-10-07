@@ -11,7 +11,7 @@ f1_keywords:
 - O365E_understand_devices
 - BCS365_understand_devices
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: M365-subscription-management
 ms.custom:
 - Core_O365Admin_Migration
@@ -22,16 +22,16 @@ search.appverid:
 - MET150
 - MOE150
 description: Saiba as diferenças entre a gestão de dispositivos móveis e a gestão de aplicações móveis ou a MDM e MAM.
-ms.openlocfilehash: 1dc90a46bb21bbf4c2c74cc38825f7911148b4e4
-ms.sourcegitcommit: a0452cef05f2322b74967add41fd84ac4d07fe5c
+ms.openlocfilehash: 250915f18348123400870b110ce5c9d29fa1488f
+ms.sourcegitcommit: d4b867e37bf741528ded7fb289e4f6847228d2c5
 ms.translationtype: MT
 ms.contentlocale: pt-PT
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "58378027"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "60193533"
 ---
 # <a name="difference-between-mdm-and-mam"></a>Diferença entre a MDM e o MAM
 
-Microsoft 365 Empresas Premium oferece várias formas de proteger os seus dados de negócio. Consulte [o resumo Microsoft 365 Empresas Premium](../../business-video/what-is-microsoft-365.md) informações sobre as várias proteções que são configuradas automaticamente e o que pode configurar para proteger ainda mais a sua empresa. Também pode configurar políticas que protegem os seus Windows 10 dispositivos e dados nos seus dispositivos móveis.
+Microsoft 365 Empresas Premium oferece várias formas de proteger os seus dados de negócio. Consulte [o resumo Microsoft 365 Empresas Premium](../../business-video/what-is-microsoft-365.md) informações sobre as várias proteções que são configuradas automaticamente e o que pode configurar para proteger mais a sua empresa. Também pode configurar políticas que protegem os seus Windows 10 dispositivos móveis e os dados nos seus dispositivos móveis.
 [Defina as definições de proteção de aplicações para Windows 10 dispositivos](../protection-settings-for-windows-10-devices.md).
 
 ## <a name="mobile-device-management-or-mdm"></a>Gestão de dispositivos móveis ou MDM
@@ -40,4 +40,4 @@ Microsoft 365 Empresas Premium permite-lhe configurar políticas que protegem os
 
 ## <a name="mobile-application-management-or-mam"></a>Gestão de aplicações móveis ou MAM
 
-A gestão de aplicações móveis permite-lhe controlar os seus dados de negócio nos dispositivos pessoais dos seus utilizadores, como iPhones e Android, e nos seus computadores pessoais com o Win 10. Pode utilizar políticas de gestão de aplicações para impedir que os seus utilizadores copiem dados de negócio de aplicações Office para as respetivas aplicações pessoais. Também pode remover todos os dados das aplicações Office nos seus dispositivos pessoais. Para obter mais informações, consulte Definir definições de proteção de aplicações para [dispositivos Android](../app-protection-settings-for-android-and-ios.md) ou iOS e Definir definições de proteção de aplicações [para Windows 10 dispositivos.](../protection-settings-for-windows-10-devices.md)
+A gestão de aplicações móveis permite-lhe controlar os seus dados de negócio nos dispositivos pessoais dos seus utilizadores, como iPhones e Android, e nos seus computadores pessoais com o Win 10. Pode utilizar políticas de gestão de aplicações para impedir que os seus utilizadores copiem dados de negócio de aplicações Office para as respetivas aplicações pessoais. Também pode remover todos os dados das aplicações Office nos seus dispositivos pessoais. Para obter mais informações, consulte Definir definições de proteção de aplicações para [dispositivos Android](../app-protection-settings-for-android-and-ios.md) ou iOS e Definir definições de proteção de aplicações [para Windows 10 dispositivos](../protection-settings-for-windows-10-devices.md).
